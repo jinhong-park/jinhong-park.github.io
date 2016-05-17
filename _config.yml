@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
+gems:
+  - jekyll-gist
+  - jekyll-paginate
+# Setup
+title:               Jin-Hong Park
+tagline:             'IBS-CCES Seoul National University'
+description:         'Postdoctoral researcher in IBS-CCES Seoul National University, South Korea'
+url:                 http://lanyon.getpoole.com
+baseurl:             '/blog'
+paginate:            1
+
+# About/contact
+author:
+  name:              Jin-Hong Park
+  url:               https://twitter.com/mdo
+  email:             astatina@gmail.com
+
+# Custom vars
+version:             1.0.0
