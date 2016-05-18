@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Publication"
+title:  "Publications"
 date:   2016-05-15 11:10:00 +0900
 categories: profile
 ---
