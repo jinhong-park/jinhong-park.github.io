@@ -6,7 +6,10 @@ categories: profile
 ---
 
 
-#### I have 11 publications including 1 in Nature and 2 in Physical Review Letters with 500+ citations. (web of science at Nov. 16th, 2015).
+#### I have 12 publications including 1 in Nature and 2 in Physical Review Letters with 500+ citations. (web of science at Nov. 16th, 2015).
+
+
+1.  Jin-Hong Park, Guang Yang, Jelena Klinovaja, Peter Stano, and Daniel Loss, [Fractional boundary charges in quantum dot arrays with density modulation](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.075416), Phys. Rev. B 94, 075416 (12 August 2016)
 
 
 1.  Soo-Yong Lee,  Jin-Hong Park, Gyungchoon Go, and Jung Hoon Han, [Arbitrary Chern number generation in the three-band model from momentum space](http://journals.jps.jp/doi/abs/10.7566/JPSJ.84.064005), J. Phys. Soc. Jpn. Volume 84, Page 064005 (26 May 2015)
