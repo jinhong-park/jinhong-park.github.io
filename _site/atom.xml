@@ -4,7 +4,7 @@
  <title>Jin-Hong Park</title>
  <link href="https://jinhong-park.github.io/blog/atom.xml" rel="self"/>
  <link href="https://jinhong-park.github.io/blog/"/>
- <updated>2016-08-23T14:16:21+09:00</updated>
+ <updated>2016-08-23T14:18:34+09:00</updated>
  <id>https://jinhong-park.github.io/blog</id>
  <author>
    <name>Jin-Hong Park</name>
@@ -17,7 +17,9 @@
    <link href="https://jinhong-park.github.io/blog/profile/2016/05/16/CV.html"/>
    <updated>2016-05-16T11:10:00+09:00</updated>
    <id>https://jinhong-park.github.io/blog/profile/2016/05/16/CV</id>
-   <content type="html">&lt;h2 id=&quot;position&quot;&gt;Position&lt;/h2&gt;
+   <content type="html">&lt;p&gt;###uuuu&lt;/p&gt;
+
+&lt;h2 id=&quot;position&quot;&gt;Position&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
