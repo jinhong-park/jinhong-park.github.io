@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Publications"
-date:   2016-08-23 11:10:00 +0900
+date:   2016-08-22 11:10:00 +0900
 categories: profile
 ---
 
