@@ -4,7 +4,7 @@
  <title>Jin-Hong Park</title>
  <link href="https://jinhong-park.github.io/blog/atom.xml" rel="self"/>
  <link href="https://jinhong-park.github.io/blog/"/>
- <updated>2016-08-30T00:06:48+09:00</updated>
+ <updated>2016-08-30T00:15:05+09:00</updated>
  <id>https://jinhong-park.github.io/blog</id>
  <author>
    <name>Jin-Hong Park</name>
@@ -97,11 +97,22 @@
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.nature.com/search?article_type=protocols,research,reviews&amp;amp;subject=physics&quot;&gt;today’s nature&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://arxiv.org/list/cond-mat/new&quot;&gt;arXiv&lt;/a&gt;     &lt;a href=&quot;http://jinhong-park.github.io/blog/arCHive.html&quot;&gt;J-H’s arCHive&lt;/a&gt;
-&lt;a href=&quot;http://journals.aps.org/prl/accepted&quot;&gt;PRL accepted&lt;/a&gt;
-&lt;a href=&quot;http://journals.aps.org/prb/accepted&quot;&gt;PRB accepted&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.nature.com/search?article_type=protocols,research,reviews&amp;amp;subject=physics&quot;&gt;today’s nature&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://arxiv.org/list/cond-mat/new&quot;&gt;arXiv&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://jinhong-park.github.io/blog/arCHive.html&quot;&gt;J-H’s arCHive&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prl/accepted&quot;&gt;PRL accepted&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prb/accepted&quot;&gt;PRB accepted&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </content>
  </entry>
  
