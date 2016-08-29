@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jin-Hong'sarCHive
+title: Jin-Hong's arCHive
 ---
 2016
 
