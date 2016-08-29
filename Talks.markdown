@@ -1,0 +1,29 @@
+---
+layout: page
+title:  "Talks"
+date:   2016-05-14 10:10:00 +0900
+categories: profile
+---
+
+
+1. Oral presentation, "Theory of Rashba spin-orbit coupling in magnetic thin film", Workshop on Disordered and Topological Systems, Mar. 18- Mar. 22, 2013, Hangzhou, China
+
+1. Poster presentation, "Orbital chirality and Rashba spin-orbit coupling in magnetic metal ", Quantum Materials Symposium 2013, Jan. 28- Feb. 02, 2013, Muju, Korea
+
+1. Oral presentation, "Theory of Rashba spin-orbit coupling in magnetic metal ", Korean Physical Society Meeting, Oct. 24-25, 2012, Phoenix Park, Korea
+
+1. Poster presentation, "Theory of Rashba effect in the magnetic metal", Quantum Condensation, Aug. 13-24, 2012, APCTP Headquarters, Pohang, Korea
+
+1. Poster presentation, "Emergence of Chiral Orbital Angular Momentum and Circular Dichroism ARPES", International Conference on Heavy Electrons and Novel Quantum Phases with A3 meeting, Jul. 5-7, 2012, Gyeungju, Korea
+
+1. Oral presentation, "Chiral Orbital Angular Momentum and Circular Dichroism ARPES in p- and d-orbital Band", APS March meeting, Feb. 27 - Mar 2, 2012, Boston, USA
+
+1. Poster presentation, "Circular Dichroism ARPES and Nonzero Chiral Orbital Angular Momentum and in p- and d-orbital Bands", The 9th Workshop for A3 Foresight Program, Dec. 17-21, 2011, Hainan, China
+
+1. Poster presentation, "Possible 3D topological spin structure in chiral magnet", 11th KJT Symposium : Also 8th A3 Workshop, Feb. 10-12, 2011, Jeju, Korea
+
+1. Oral presentation, "Skyrmion lattice in 2 and 3 dimensional chiral magnet", Kyoto Autumn School, Nov. 8-11, 2010, Kyoto, Japan
+
+1. Poster presentation," Skyrmion spin lattice in two-dimensional non-centrosymmetric magnet ", 2nd APCTP-IACS Joint Conference: International Conference on Physics of Novel Oxide Materials, Jul. 15~17, 2010, Pohang, Korea
+
+1. Poster presentation, "Monte carlo study of the J1-J2 antiferromagnetic XY model on the triangular lattice", 83rd Korean Physical Society Meeting (Phoenix Park, April 19-20, 2007) 
