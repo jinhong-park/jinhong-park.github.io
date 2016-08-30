@@ -10,3 +10,6 @@ categories: profile
 |[today's nature](http://www.nature.com/search?article_type=protocols,research,reviews&subject=physics) |
  [arXiv](http://arxiv.org/list/cond-mat/new) |       [J-H's arCHive](http://jinhong-park.github.io/blog/arCHive.html)
  | [PRL accepted](http://journals.aps.org/prl/accepted) | [PRB accepted](http://journals.aps.org/prb/accepted)
+
+
+## [Home](/blog/index.html)
