@@ -12,4 +12,3 @@ categories: profile
  | [PRL accepted](http://journals.aps.org/prl/accepted) | [PRB accepted](http://journals.aps.org/prb/accepted)
 
 
-## [Home](/blog/index.html)
