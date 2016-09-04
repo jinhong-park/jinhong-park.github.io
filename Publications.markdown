@@ -5,6 +5,10 @@ date:   2016-08-22 11:10:00 +0900
 categories: profile
 ---
 
+[Home](/blog) - Publications 
+---
+
+---
 
 #### I have 12 publications including 1 in Nature and 2 in Physical Review Letters with 500+ citations. (web of science at Nov. 16th, 2015).
 
@@ -33,3 +37,9 @@ categories: profile
 1.    Gun Sang Jeon, __Jin-Hong Park__, Jae Wook Kim, Kee Hoon Kim, and Jung Hoon Han, [Theory of magnetic-field-induced critical end point in BiMn2O5](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.104437), Phys. Rev. B, 79, 104437 (Mar. 31, 2009)
 
 1.    __Jin-Hong Park__, Shigeki Onoda, Naoto Nagaosa and Jung Hoon Han, [Nematic and chiral order for planar spins on a triangular lattice](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.167202), Phys. Rev. Lett., 101, 167202(Oct. 17, 2008)
+
+---
+
+[Home](/blog) - Publications 
+---
+
