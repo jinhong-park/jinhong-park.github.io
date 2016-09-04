@@ -5,8 +5,9 @@ date:   2016-08-22 11:10:00 +0900
 categories: profile
 ---
 
-[Home](/blog) - Publications
+[Home](/blog) \\( ~~ \\) Publications \\( ~~ \\) [Talks](/blog/Talks.html) \\( ~~ \\) [Links](/blog/Links.html)
 ---
+
 
 ---
 

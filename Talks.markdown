@@ -5,7 +5,7 @@ date:   2016-05-14 10:10:00 +0900
 categories: profile
 ---
 
-[Home](/blog) - Talks
+[Home](/blog) \\( ~~ \\) [Publications](/blog/Publications.html) \\( ~~ \\) Talks \\( ~~ \\) [Links](/blog/Links.html)
 ---
 
 ---

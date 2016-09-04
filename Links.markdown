@@ -5,9 +5,11 @@ date:   2016-08-22 11:10:00 +0900
 categories: profile
 ---
 
-[Home](/blog) - Links
+
+[Home](/blog) \\( ~~ \\) [Publications](/blog/Publications.html) \\( ~~ \\) [Talks](/blog/Talks.html) \\( ~~ \\) Links
 ---
 
+---
 
 
 |[today's nature](http://www.nature.com/search?article_type=protocols,research,reviews&subject=physics)|[science collections](http://science.sciencemag.org/collection/physics)|
