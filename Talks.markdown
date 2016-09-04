@@ -31,6 +31,5 @@ categories: profile
 
 ---
 
-[Home](/blog) - Talks
----
+#### [Home](/blog) - Talks
 

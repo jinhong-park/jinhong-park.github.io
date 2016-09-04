@@ -37,6 +37,6 @@ categories: profile
 
 ---
 
-[Home](/blog) - Publications 
----
+#### [Home](/blog) - Publications 
+
 

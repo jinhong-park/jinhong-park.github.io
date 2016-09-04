@@ -4,7 +4,7 @@
  <title>Jin-Hong Park</title>
  <link href="https://jinhong-park.github.io/blog/atom.xml" rel="self"/>
  <link href="https://jinhong-park.github.io/blog/"/>
- <updated>2016-09-04T14:07:25+09:00</updated>
+ <updated>2016-09-04T15:19:13+09:00</updated>
  <id>https://jinhong-park.github.io/blog</id>
  <author>
    <name>Jin-Hong Park</name>
@@ -167,7 +167,8 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;homeblog---publications&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Home&lt;/a&gt; - Publications&lt;/h2&gt;
+&lt;h4 id=&quot;homeblog---publications&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Home&lt;/a&gt; - Publications&lt;/h4&gt;
+
 </content>
  </entry>
  
@@ -242,7 +243,8 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;homeblog---talks&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Home&lt;/a&gt; - Talks&lt;/h2&gt;
+&lt;h4 id=&quot;homeblog---talks&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Home&lt;/a&gt; - Talks&lt;/h4&gt;
+
 </content>
  </entry>
  
