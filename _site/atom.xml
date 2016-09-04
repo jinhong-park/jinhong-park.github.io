@@ -4,7 +4,7 @@
  <title>Jin-Hong Park</title>
  <link href="https://jinhong-park.github.io/blog/atom.xml" rel="self"/>
  <link href="https://jinhong-park.github.io/blog/"/>
- <updated>2016-09-04T15:19:13+09:00</updated>
+ <updated>2016-09-04T15:21:44+09:00</updated>
  <id>https://jinhong-park.github.io/blog</id>
  <author>
    <name>Jin-Hong Park</name>
@@ -173,38 +173,10 @@
  </entry>
  
  <entry>
-   <title>Links</title>
-   <link href="https://jinhong-park.github.io/blog/profile/2016/07/22/Links.html"/>
-   <updated>2016-07-22T11:10:00+09:00</updated>
-   <id>https://jinhong-park.github.io/blog/profile/2016/07/22/Links</id>
-   <content type="html">&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.nature.com/search?article_type=protocols,research,reviews&amp;amp;subject=physics&quot;&gt;today’s nature&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://science.sciencemag.org/collection/physics&quot;&gt;science collections&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://arxiv.org/list/cond-mat/new&quot;&gt;arXiv&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://jinhong-park.github.io/blog/arCHive.html&quot;&gt;J-H’s arCHive&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://jinhong-park.github.io/blog/Lib.html&quot;&gt;Library&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prl/accepted&quot;&gt;PRL accepted&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prb/accepted&quot;&gt;PRB accepted&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prx/subjects?journal%5B%5D=prx&amp;amp;sort=recent&amp;amp;type=article&amp;amp;subject_area%5B%5D=cond-matt&amp;amp;subject_area%5B%5D=strongly-correlated&amp;amp;subject_area%5B%5D=superconductivity&amp;amp;subject_area%5B%5D=top-insulator&amp;amp;subject_area%5B%5D=graphene&amp;amp;subject_area%5B%5D=quantum-info&amp;amp;subject_area%5B%5D=materials&amp;amp;subject_area%5B%5D=spintronics&amp;amp;subject_area%5B%5D=magnetism&quot;&gt;PRX subjects&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Talks</title>
-   <link href="https://jinhong-park.github.io/blog/profile/2016/05/14/Talks.html"/>
-   <updated>2016-05-14T10:10:00+09:00</updated>
-   <id>https://jinhong-park.github.io/blog/profile/2016/05/14/Talks</id>
+   <link href="https://jinhong-park.github.io/blog/profile/2016/08/01/Talks.html"/>
+   <updated>2016-08-01T10:10:00+09:00</updated>
+   <id>https://jinhong-park.github.io/blog/profile/2016/08/01/Talks</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Oral presentation, “Theory of Rashba spin-orbit coupling in magnetic thin film”, Workshop on Disordered and Topological Systems, Mar. 18- Mar. 22, 2013, Hangzhou, China&lt;/p&gt;
@@ -244,6 +216,34 @@
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;homeblog---talks&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Home&lt;/a&gt; - Talks&lt;/h4&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Links</title>
+   <link href="https://jinhong-park.github.io/blog/profile/2016/07/22/Links.html"/>
+   <updated>2016-07-22T11:10:00+09:00</updated>
+   <id>https://jinhong-park.github.io/blog/profile/2016/07/22/Links</id>
+   <content type="html">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.nature.com/search?article_type=protocols,research,reviews&amp;amp;subject=physics&quot;&gt;today’s nature&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://science.sciencemag.org/collection/physics&quot;&gt;science collections&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://arxiv.org/list/cond-mat/new&quot;&gt;arXiv&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://jinhong-park.github.io/blog/arCHive.html&quot;&gt;J-H’s arCHive&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://jinhong-park.github.io/blog/Lib.html&quot;&gt;Library&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prl/accepted&quot;&gt;PRL accepted&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prb/accepted&quot;&gt;PRB accepted&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prx/subjects?journal%5B%5D=prx&amp;amp;sort=recent&amp;amp;type=article&amp;amp;subject_area%5B%5D=cond-matt&amp;amp;subject_area%5B%5D=strongly-correlated&amp;amp;subject_area%5B%5D=superconductivity&amp;amp;subject_area%5B%5D=top-insulator&amp;amp;subject_area%5B%5D=graphene&amp;amp;subject_area%5B%5D=quantum-info&amp;amp;subject_area%5B%5D=materials&amp;amp;subject_area%5B%5D=spintronics&amp;amp;subject_area%5B%5D=magnetism&quot;&gt;PRX subjects&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 </content>
  </entry>
