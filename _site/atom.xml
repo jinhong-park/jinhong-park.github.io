@@ -4,7 +4,7 @@
  <title>Jin-Hong Park</title>
  <link href="https://jinhong-park.github.io/blog/atom.xml" rel="self"/>
  <link href="https://jinhong-park.github.io/blog/"/>
- <updated>2016-09-04T15:21:44+09:00</updated>
+ <updated>2016-09-04T16:47:18+09:00</updated>
  <id>https://jinhong-park.github.io/blog</id>
  <author>
    <name>Jin-Hong Park</name>
@@ -17,7 +17,7 @@
    <link href="https://jinhong-park.github.io/blog/profile/2016/08/23/CV.html"/>
    <updated>2016-08-23T10:10:00+09:00</updated>
    <id>https://jinhong-park.github.io/blog/profile/2016/08/23/CV</id>
-   <content type="html">&lt;h2 id=&quot;position&quot;&gt;Position&lt;/h2&gt;
+   <content type="html">&lt;h3 id=&quot;position&quot;&gt;Position&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -38,7 +38,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -75,7 +75,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
+&lt;h3 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h3&gt;
 
 &lt;p&gt;I’m generally interested in the theoretical study of emergent phenomena in condensed matter system, especially worked on&lt;/p&gt;
 
@@ -91,11 +91,11 @@
   &lt;p&gt;and Fractional charge in one-dimensional system.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;publicationsblogpublicationshtml&quot;&gt;&lt;a href=&quot;/blog/Publications.html&quot;&gt;Publications&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;publicationsblogpublicationshtml&quot;&gt;&lt;a href=&quot;/blog/Publications.html&quot;&gt;Publications&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h2 id=&quot;talksblogtalkshtml&quot;&gt;&lt;a href=&quot;/blog/Talks.html&quot;&gt;Talks&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;talksblogtalkshtml&quot;&gt;&lt;a href=&quot;/blog/Talks.html&quot;&gt;Talks&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h2 id=&quot;linksbloglinkshtml&quot;&gt;&lt;a href=&quot;/blog/Links.html&quot;&gt;Links&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;linksbloglinkshtml&quot;&gt;&lt;a href=&quot;/blog/Links.html&quot;&gt;Links&lt;/a&gt;&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
