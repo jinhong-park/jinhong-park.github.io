@@ -3,7 +3,7 @@ layout: page
 title: arCHive
 ---
 
-[Home](/blog) - [Links](/blog/Links.html) -arCHive 
+[Home](/blog) - [Links](/blog/Links.html) - arCHive 
 ---
 
 ---
