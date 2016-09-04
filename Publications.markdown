@@ -6,10 +6,6 @@ categories: profile
 ---
 
 
-[Home](/blog) \\( ~~ \\) Publications \\( ~~ \\) [Talks](/blog/Talks.html) \\( ~~ \\) [Links](/blog/Links.html)
----
-
----
 
 #### I have 12 publications including 1 in Nature and 2 in Physical Review Letters with 500+ citations. (web of science at Nov. 16th, 2015).
 

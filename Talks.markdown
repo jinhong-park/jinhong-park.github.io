@@ -5,10 +5,6 @@ date:   2016-05-14 10:10:00 +0900
 categories: profile
 ---
 
-[Home](/blog) \\( ~~ \\) [Publications](/blog/Publications.html) \\( ~~ \\) Talks \\( ~~ \\) [Links](/blog/Links.html)
----
-
----
 
 1. Oral presentation, "Theory of Rashba spin-orbit coupling in magnetic thin film", Workshop on Disordered and Topological Systems, Mar. 18- Mar. 22, 2013, Hangzhou, China
 
