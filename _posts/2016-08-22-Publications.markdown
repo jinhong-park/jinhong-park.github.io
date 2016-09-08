@@ -6,7 +6,7 @@ categories: profile
 ---
 
 
-#### I have 12 publications including 1 in Nature and 2 in Physical Review Letters with 700+ citations. (web of science at Sep, 2016).
+#### I have 12 publications including 1 in Nature and 2 in Physical Review Letters with 700+ citations. (web of science at Sep. 2016).
 
 
 1.  __Jin-Hong Park__, Guang Yang, Jelena Klinovaja, Peter Stano, and Daniel Loss, [Fractional boundary charges in quantum dot arrays with density modulation](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.075416), Phys. Rev. B 94, 075416 (12 August 2016)
