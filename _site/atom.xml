@@ -4,7 +4,7 @@
  <title>Jin-Hong Park</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-10-12T20:25:00+09:00</updated>
+ <updated>2016-10-12T20:25:52+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jin-Hong Park</name>
@@ -229,7 +229,7 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://www.nature.com/&quot;&gt;nature&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://science.sciencemag.org/&quot;&gt;science mag&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://science.sciencemag.org/&quot;&gt;science&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://arxiv.org/list/cond-mat/new&quot;&gt;arXiv&lt;/a&gt;&lt;/td&gt;
