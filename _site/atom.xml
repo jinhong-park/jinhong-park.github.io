@@ -4,7 +4,7 @@
  <title>Jin-Hong Park</title>
  <link href="https://jinhong-park.github.io/blog/atom.xml" rel="self"/>
  <link href="https://jinhong-park.github.io/blog/"/>
- <updated>2016-10-12T15:13:38+09:00</updated>
+ <updated>2016-10-12T15:23:24+09:00</updated>
  <id>https://jinhong-park.github.io/blog</id>
  <author>
    <name>Jin-Hong Park</name>
@@ -228,23 +228,19 @@
    <content type="html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.nature.com/search?article_type=protocols,research,reviews&amp;amp;subject=physics&quot;&gt;today’s nature&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://science.sciencemag.org/collection/physics&quot;&gt;science mag&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.nature.com/&quot;&gt;nature&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://science.sciencemag.org/&quot;&gt;science mag&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://arxiv.org/list/cond-mat/new&quot;&gt;arXiv&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://jinhong-park.github.io/blog/arCHive.html&quot;&gt;J-H’s arCHive&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://jinhong-park.github.io/blog/Lib.html&quot;&gt;Library&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prl/&quot;&gt;PRL&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prl/accepted&quot;&gt;PRL accepted&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prb/accepted&quot;&gt;PRB accepted&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prx/subjects?journal%5B%5D=prx&amp;amp;sort=recent&amp;amp;type=article&amp;amp;subject_area%5B%5D=cond-matt&amp;amp;subject_area%5B%5D=strongly-correlated&amp;amp;subject_area%5B%5D=superconductivity&amp;amp;subject_area%5B%5D=top-insulator&amp;amp;subject_area%5B%5D=graphene&amp;amp;subject_area%5B%5D=quantum-info&amp;amp;subject_area%5B%5D=materials&amp;amp;subject_area%5B%5D=spintronics&amp;amp;subject_area%5B%5D=magnetism&quot;&gt;PRX subjects&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prb/&quot;&gt;PRB&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://journals.aps.org/prx/&quot;&gt;PRX&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
 </content>
  </entry>
  
