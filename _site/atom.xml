@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jin-Hong Park</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2016-10-12T20:52:28+09:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://jinhong-park.github.io/blog/atom.xml" rel="self"/>
+ <link href="https://jinhong-park.github.io/blog/"/>
+ <updated>2016-11-12T14:08:29+09:00</updated>
+ <id>https://jinhong-park.github.io/blog</id>
  <author>
    <name>Jin-Hong Park</name>
    <email>jinhong.park@snu.ac.kr</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>CV</title>
-   <link href="http://localhost:4000/profile/2016/08/23/CV.html"/>
+   <link href="https://jinhong-park.github.io/blog/profile/2016/08/23/CV.html"/>
    <updated>2016-08-23T10:10:00+09:00</updated>
-   <id>http://localhost:4000/profile/2016/08/23/CV</id>
+   <id>https://jinhong-park.github.io/blog/profile/2016/08/23/CV</id>
    <content type="html">&lt;h3 id=&quot;position&quot;&gt;Position&lt;/h3&gt;
 
 &lt;table&gt;
@@ -118,12 +118,15 @@
  
  <entry>
    <title>Publications</title>
-   <link href="http://localhost:4000/profile/2016/08/22/Publications.html"/>
+   <link href="https://jinhong-park.github.io/blog/profile/2016/08/22/Publications.html"/>
    <updated>2016-08-22T11:10:00+09:00</updated>
-   <id>http://localhost:4000/profile/2016/08/22/Publications</id>
-   <content type="html">&lt;h4 id=&quot;i-have-12-publications-including-1-in-nature-and-2-in-physical-review-letters-with-700-citations-web-of-science-at-sep-2016&quot;&gt;I have 12 publications including 1 in Nature and 2 in Physical Review Letters with 700+ citations. (web of science at Sep. 2016).&lt;/h4&gt;
+   <id>https://jinhong-park.github.io/blog/profile/2016/08/22/Publications</id>
+   <content type="html">&lt;h4 id=&quot;i-have-13-publications-including-1-in-nature-and-3-in-physical-review-letters-with-700-citations-web-of-science-at-sep-2016&quot;&gt;I have 13 publications including 1 in Nature and 3 in Physical Review Letters with 700+ citations. (web of science at Sep. 2016).&lt;/h4&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;T. Fujita, P. Stano, G. Allison, K. Morimoto, Y. Sato, M. Larsson, &lt;strong&gt;J.-H. Park&lt;/strong&gt;, A. Ludwig, A. D. Wieck, A. Oiwa, and S. Tarucha, &lt;a href=&quot;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.206802&quot;&gt;Signatures of Hyperfine, Spin-Orbit, and Decoherence Effects in a Pauli Spin Blockade&lt;/a&gt;, Phys. Rev. Lett. 117, 206802 (11 November 2016)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Jin-Hong Park&lt;/strong&gt;, Guang Yang, Jelena Klinovaja, Peter Stano, and Daniel Loss, &lt;a href=&quot;http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.075416&quot;&gt;Fractional boundary charges in quantum dot arrays with density modulation&lt;/a&gt;, Phys. Rev. B 94, 075416 (12 August 2016)&lt;/p&gt;
   &lt;/li&gt;
@@ -165,15 +168,14 @@
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;homeblog---publications&quot;&gt;&lt;a href=&quot;/blog&quot;&gt;Home&lt;/a&gt; - Publications&lt;/h4&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Talks</title>
-   <link href="http://localhost:4000/profile/2016/08/01/Talks.html"/>
+   <link href="https://jinhong-park.github.io/blog/profile/2016/08/01/Talks.html"/>
    <updated>2016-08-01T10:10:00+09:00</updated>
-   <id>http://localhost:4000/profile/2016/08/01/Talks</id>
+   <id>https://jinhong-park.github.io/blog/profile/2016/08/01/Talks</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Oral presentation, “Theory of Rashba spin-orbit coupling in magnetic thin film”, Workshop on Disordered and Topological Systems, Mar. 18- Mar. 22, 2013, Hangzhou, China&lt;/p&gt;
@@ -219,9 +221,9 @@
  
  <entry>
    <title>Links</title>
-   <link href="http://localhost:4000/profile/2016/07/22/Links.html"/>
+   <link href="https://jinhong-park.github.io/blog/profile/2016/07/22/Links.html"/>
    <updated>2016-07-22T11:10:00+09:00</updated>
-   <id>http://localhost:4000/profile/2016/07/22/Links</id>
+   <id>https://jinhong-park.github.io/blog/profile/2016/07/22/Links</id>
    <content type="html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
