@@ -5,8 +5,10 @@ date:   2016-08-22 11:10:00 +0900
 categories: profile
 ---
 
+#### I have 13 publications including 1 in Nature and 3 in Physical Review Letters with 700+ citations. (web of science at Sep. 2016).
 
-#### I have 12 publications including 1 in Nature and 2 in Physical Review Letters with 700+ citations. (web of science at Sep. 2016).
+
+1.  T. Fujita, P. Stano, G. Allison, K. Morimoto, Y. Sato, M. Larsson, __J.-H. Park__, A. Ludwig, A. D. Wieck, A. Oiwa, and S. Tarucha, [Signatures of Hyperfine, Spin-Orbit, and Decoherence Effects in a Pauli Spin Blockade](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.206802), Phys. Rev. Lett. 117, 206802 (11 November 2016)
 
 
 1.  __Jin-Hong Park__, Guang Yang, Jelena Klinovaja, Peter Stano, and Daniel Loss, [Fractional boundary charges in quantum dot arrays with density modulation](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.075416), Phys. Rev. B 94, 075416 (12 August 2016)
@@ -38,4 +40,3 @@ categories: profile
 
 
 #### [Home](/blog) - Publications
-
