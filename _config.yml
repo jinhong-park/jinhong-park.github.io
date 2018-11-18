@@ -10,14 +10,14 @@ gems:
 title:               Jin-Hong Park
 tagline:             'IBS-CCES Seoul National University'
 description:         'Postdoctoral researcher in IBS-CCES Seoul National University, South Korea'
-url:                 https://jinhong-park.github.io/blog
+url:                 https://jinhong-park.github.io
 baseurl:             '/blog'
 paginate:            1
 
 # About/contact
 author:
   name:              Jin-Hong Park
-  url:               https://jinhong-park.github.io/blog
+  url:               https://jinhong-park.github.io
   email:             jinhong.park@snu.ac.kr
 
 # Custom vars
