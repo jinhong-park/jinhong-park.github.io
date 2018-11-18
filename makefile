@@ -2,7 +2,7 @@ all:
 	jekyll serve --baseurl '' --watch
 
 upload:
-	git add .;git commit -m “update”;git push origin gh-pages
+	git add .;git commit -m “update”;git push origin master
 
 pull:
-	git pull origin gh-pages
+	git pull origin master
