@@ -11,7 +11,7 @@ title:               Jin-Hong Park
 tagline:             'IBS-CCES Seoul National University'
 description:         'Postdoctoral researcher in IBS-CCES Seoul National University, South Korea'
 url:                 https://jinhong-park.github.io
-baseurl:             '/blog'
+baseurl:             ''
 paginate:            1
 
 # About/contact
