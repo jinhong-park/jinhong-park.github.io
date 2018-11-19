@@ -7,6 +7,13 @@ permalink: /Publications/
 
 #### I have 14 publications including 1 in Nature and 4 in Physical Review Letters with 1332 citations. (web of science at Nov. 2018).
 
+[google scholar](https://scholar.google.co.kr/citations?user=pRZNFg4AAAAJ&hl=ko)  
+
+[orcid(0000-0003-4408-7171)](https://orcid.org/0000-0003-4408-7171)  
+
+[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)  
+
+
 1. __Jin-Hong Park__, Seung Hun Lee, Hosub Jin, Bohm-Jung Yang \\
 [Two-Dimensional Peierls Instability via Zone Boundary Dirac Line Nodes in Layered Perovskite Oxides](https://arxiv.org/abs/1808.06830) \\
 arXiv:1808.06830
