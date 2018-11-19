@@ -1,24 +1,22 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-#permalink:           pretty
-#relative_permalinks: true
-gems:
-  - jekyll-gist
-  - jekyll-paginate
-# Setup
-title:               Jin-Hong Park
-tagline:             'IBS-CCES Seoul National University'
-description:         'Postdoctoral researcher in IBS-CCES Seoul National University, South Korea'
-url:                 https://jinhong-park.github.io
-baseurl:             ''
-paginate:            1
+# Site settings
+title: Jin-Hong Park
+email: jinhon9.park_at_gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Postdoctoral researcher in CCES-IBS, Korea
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://jin-hongpark.github.io/big" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
-# About/contact
-author:
-  name:              Jin-Hong Park
-  url:               https://jinhong-park.github.io
-  email:             jinhong.park@snu.ac.kr
+# Build settings
+markdown: kramdown
 
-# Custom vars
-version:             1.0.0
+# Other options
+permalink: blog/:year/:month/:title
+job.title: "Postdoctoral researcher"
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""

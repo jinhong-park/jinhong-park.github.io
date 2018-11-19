@@ -1,5 +1,0 @@
-open -a Firefox http://127.0.0.1:4000/
-open -a Firefox http://jinhong-park.github.io/blog/Links.html
-open -a Firefox https://www.yahoo.com/news/weather
-cd /Users/parkjinhong/Google\ Drive/downg/lanyon-master
-make

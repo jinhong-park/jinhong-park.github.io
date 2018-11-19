@@ -1,66 +1,20 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html>
 
   {% include head.html %}
 
-  <body class="theme-base-0d">
+  <body>
 
+    {% include header.html %}
 
-    {% include sidebar.html %}
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
-        </div>
-
-      <div class="container">
-          <h3 class="masthead-title">
-            <br>
-          </h3>  
-      </div>
-
-
-        <div class="container">
-          <h4 class="masthead-title">
-            <a href="{{ site.baseurl }}/" >Home</a>  &nbsp;  &nbsp; <a href="{{ site.baseurl }}/Publications.html" >Publications</a>  &nbsp;  &nbsp; <a href="{{ site.baseurl }}/Talks.html" >Talks</a> &nbsp;  &nbsp; <a href="{{ site.baseurl }}/Links.html" >Links</a> 
-          </h4>  
-        </div>
-
-      </div>
-
-      <div class="container content">
+    <div class="page-content">
+      <div class="wrapper">
         {{ content }}
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
-    <br></br>
-    <br></br>
-    
-     
+    {% include footer.html %}
   </body>
+
 </html>
+<!-- d.s.m.s.050600.062508.030515.080516.030818 | "Baby, I'm Yours" -->
