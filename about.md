@@ -8,7 +8,7 @@ permalink: /about/
 
 	
 
-I’m generally interested in the theoretical study of emergent phenomena in condensed matter system, especially worked on
+I’m generally interested in the theoretical study of emergent phenomena in condensed matter physics, especially worked on
 
           
 
@@ -18,7 +18,6 @@ Skyrmion lattice in chiral magnet,
 >
 Rashba effect in magnetic metal,
 >
-Topological aspect of the mutiple-band model,
+Fractional charge in one-dimensional system,
 >
-and Fractional charge in one-dimensional system.
-
+and Magnetism in Iridates.
