@@ -4,9 +4,9 @@ email: jinhon9.park_at_gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Postdoctoral researcher in CCES-IBS, Korea
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://jin-hongpark.github.io/big" # the base hostname & protocol for your site
+url: "http://jinhong-park.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-# github_username:  jekyll
+# orcid_username:  jekyll
 
 # Build settings
 markdown: kramdown
