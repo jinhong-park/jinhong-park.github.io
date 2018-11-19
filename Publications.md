@@ -5,15 +5,15 @@ permalink: /Publications/
 ---
 
 
-#### I have 13 publications including 1 in Nature and 3 in Physical Review Letters with 1264 citations. (web of science at Aug. 2018).
+#### I have 14 publications including 1 in Nature and 4 in Physical Review Letters with 1332 citations. (web of science at Nov. 2018).
 
 1. __Jin-Hong Park__, Seung Hun Lee, Hosub Jin, Bohm-Jung Yang \\
 [Two-Dimensional Peierls Instability via Zone Boundary Dirac Line Nodes in Layered Perovskite Oxides](https://arxiv.org/abs/1808.06830) \\
 arXiv:1808.06830
 
 1. Soohyun Cho, __Jin-Hong Park__, Jisook Hong, Jongkeun Jung, Beom Seo Kim, Garam Han, Wonshik Kyung, Yeongkwan Kim, S.-K. Mo, J. D. Denlinger, Ji Hoon Shim, Jung Hoon Han, Changyoung Kim, Seung Ryong Park \\
-[Experimental observation of hidden Berry curvature in inversion-symmetric bulk 2H-WSe2](https://arxiv.org/abs/1712.01520) \\
-arXiv:1712.01520
+[Experimental observation of hidden Berry curvature in inversion-symmetric bulk 2H-WSe2](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.186401) \\
+Phys. Rev. Lett. __121__, 186401 (29 October 2018)
 
 1. T. Fujita, P. Stano, G. Allison, K. Morimoto, Y. Sato, M. Larsson, __J.-H. Park__, A. Ludwig, A.D. Wieck, A. Oiwa, and S. Tarucha \\
 [Signatures of Hyperfine, Spin-Orbit, and Decoherence Effects in a Pauli Spin Blockade](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.206802) \\
