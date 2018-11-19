@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "APW 2018"
+date:   2018-11-01 15:36:27
+categories: 
+---
+I am at APW 2018 workshop.
+
+{% include image.html url="/images/APW2018.jpg" caption="Kavli ITS-APW-Tsinghua-RIKEN Workshop 2018" width=600 align="right" %}

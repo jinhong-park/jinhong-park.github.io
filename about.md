@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/LA2018.jpg" caption="APS March meeting 2018, Los Angeles, CA with Kareem Abdul-Jabbar behind" width=300 align="right" %}
 
 	
 
