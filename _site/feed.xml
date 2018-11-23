@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Nov 2018 11:44:14 +0900</pubDate>
-    <lastBuildDate>Fri, 23 Nov 2018 11:44:14 +0900</lastBuildDate>
+    <pubDate>Fri, 23 Nov 2018 11:47:05 +0900</pubDate>
+    <lastBuildDate>Fri, 23 Nov 2018 11:47:05 +0900</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -32,7 +32,7 @@
     &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06066&quot;&gt;Emergent mode and bound states in single-component one-dimensional lattice fermionic systems (Roger Mong, arXiv:1811.06066)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://advances.sciencemag.org/content/4/11/eaau3402.full&quot;&gt;Multiple-q noncollinear magnetism in an itinerant hexagonal magnet (Science Advanced, Tokura)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://advances.sciencemag.org/content/4/11/eaau3402.full&quot;&gt;Multiple-q noncollinear magnetism in an itinerant hexagonal magnet (Science Advances, Tokura)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
