@@ -6,9 +6,44 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Nov 2018 15:42:15 +0900</pubDate>
-    <lastBuildDate>Fri, 23 Nov 2018 15:42:15 +0900</lastBuildDate>
-    <generator>Jekyll v3.8.1</generator>
+    <pubDate>Sun, 25 Nov 2018 16:50:41 +0900</pubDate>
+    <lastBuildDate>Sun, 25 Nov 2018 16:50:41 +0900</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>weekly picks (Nov 4 week 2018)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08523&quot;&gt;Detecting fractional Chern insulators through circular dichroism (CD and Fractional chern insulator, arXiv:1811.08523)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180406&quot;&gt;Quantized excitation spectra by magnon confinement in quasi-one-dimensional S = 1 spin systems (PRB, spinon confinement)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08331&quot;&gt;Updated Core Libraries of the ALPS Project (ALPS, arXiv:1811.08331)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-018-0334-2&quot;&gt;Universal T-linear resistivity and Planckian dissipation in overdoped cuprates (nphys electron dissipate)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41535-018-0130-3&quot;&gt;Colossal electromagnon excitation in the non-cycloidal phase of TbMnO3 under pressure (npj QMs electromagnon effect, Raman shift calculations)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180101&quot;&gt;Exact results on itinerant ferromagnetism and the 15-puzzle problem (PRB(R))&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06553&quot;&gt;ab-initio Approaches for Low-Energy Spin Hamiltonians (arXiv:1811.06553)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 25 Nov 2018 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2018/11/Nov4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/11/Nov4weeks</guid>
+        
+        
+        <category>2018Nov</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Nov 3 week 2018)</title>
