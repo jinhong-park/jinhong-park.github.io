@@ -6,7 +6,7 @@ permalink: /links/
 
 
 
-tags : `#mobile friendly`, `#good to read while commuting`, `#open access`
+tags : `#mobile friendly`, `#open access`
  
 
 __[Editors' Highlights in  Nature Communications](https://www.nature.com/collections/rcdhyvxytb)__
