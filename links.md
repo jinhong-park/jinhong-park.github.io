@@ -1,13 +1,15 @@
 ---
 layout: page
-title:  Links
+title:  Links  
 permalink: /links/
 ---
 
+
+
+tags : `#mobile friendly`, `#good to read while commuting`, `#open access`
  
-mobile friendly, open access 
 
-__[Editors' Highlight ncomms](https://www.nature.com/collections/rcdhyvxytb)__
+__[Editors' Highlights in  Nature Communications](https://www.nature.com/collections/rcdhyvxytb)__
 
-__[npj QMs](https://www.nature.com/npjquantmats/articles)__
+__[npj Quantum Materials](https://www.nature.com/npjquantmats/articles)__
 
