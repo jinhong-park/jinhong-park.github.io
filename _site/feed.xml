@@ -6,9 +6,44 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Nov 2018 10:30:45 +0900</pubDate>
-    <lastBuildDate>Fri, 30 Nov 2018 10:30:45 +0900</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Sat, 01 Dec 2018 17:58:43 +0900</pubDate>
+    <lastBuildDate>Sat, 01 Dec 2018 17:58:43 +0900</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>weekly picks (Nov 5 week 2018)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.174306&quot;&gt;Lattice dynamics and coupled quadrupole-phonon excitations in CeAuAl3 (Pfleiderer, PRB)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.226601&quot;&gt;Two-Particle Collisional Coordinate Shifts and Hydrodynamic Anomalous Hall Effect in Systems without Lorentz Invariance (D. Pesin, PRL)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.201114&quot;&gt;An anomalous higher-order topological insulator (van den Brink, PRB)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180409&quot;&gt;Proposal for dynamic imaging of antiferromagnetic domain wall via quantum-impurity relaxometry (AFM domain wall, Yaroslav, PRB)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195441&quot;&gt;Electronic properties of Pb islands on graphene: Consequences of a weak interface coupling from a combined STM and ab initio study (Pb on graphene, PRB)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195133&quot;&gt;Strain-driven magnetic phase transitions from an antiferromagnetic to a ferromagnetic state in perovskite R MnO 3 films (AFM to FM transition, PRB)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.09035&quot;&gt;Mechanism of superconductivity and electron-hole doping asymmetry in $\kappa$-type molecular conductors (S. Yunoki, arXiv:1811.09035)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 01 Dec 2018 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2018/11/Nov5weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/11/Nov5weeks</guid>
+        
+        
+        <category>2018Nov</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Nov 4 week 2018)</title>
