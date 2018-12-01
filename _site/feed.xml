@@ -6,33 +6,36 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Dec 2018 17:58:43 +0900</pubDate>
-    <lastBuildDate>Sat, 01 Dec 2018 17:58:43 +0900</lastBuildDate>
+    <pubDate>Sat, 01 Dec 2018 18:29:14 +0900</pubDate>
+    <lastBuildDate>Sat, 01 Dec 2018 18:29:14 +0900</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>weekly picks (Nov 5 week 2018)</title>
         <description>&lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.174306&quot;&gt;Lattice dynamics and coupled quadrupole-phonon excitations in CeAuAl3 (Pfleiderer, PRB)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.201116&quot;&gt;PhysRevB.98.201116&lt;/a&gt;&lt;/strong&gt; : Dirac semimetal in type-IV magnetic space groups (Zhida Song, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.226601&quot;&gt;Two-Particle Collisional Coordinate Shifts and Hydrodynamic Anomalous Hall Effect in Systems without Lorentz Invariance (D. Pesin, PRL)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.174306&quot;&gt;PhysRevB.98.174306&lt;/a&gt;&lt;/strong&gt; : Lattice dynamics and coupled quadrupole-phonon excitations in CeAuAl3 (Pfleiderer, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.201114&quot;&gt;An anomalous higher-order topological insulator (van den Brink, PRB)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.226601&quot;&gt;PhysRevLett.121.226601&lt;/a&gt;&lt;/strong&gt; : Two-Particle Collisional Coordinate Shifts and Hydrodynamic Anomalous Hall Effect in Systems without Lorentz Invariance (D. Pesin, PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180409&quot;&gt;Proposal for dynamic imaging of antiferromagnetic domain wall via quantum-impurity relaxometry (AFM domain wall, Yaroslav, PRB)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.201114&quot;&gt;PhysRevB.98.201114&lt;/a&gt;&lt;/strong&gt; : An anomalous higher-order topological insulator (van den Brink, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195441&quot;&gt;Electronic properties of Pb islands on graphene: Consequences of a weak interface coupling from a combined STM and ab initio study (Pb on graphene, PRB)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180409&quot;&gt;PhysRevB.98.180409&lt;/a&gt;&lt;/strong&gt; : Proposal for dynamic imaging of antiferromagnetic domain wall via quantum-impurity relaxometry (AFM domain wall, Yaroslav, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195133&quot;&gt;Strain-driven magnetic phase transitions from an antiferromagnetic to a ferromagnetic state in perovskite R MnO 3 films (AFM to FM transition, PRB)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195441&quot;&gt;PhysRevB.98.195441&lt;/a&gt;&lt;/strong&gt; : Electronic properties of Pb islands on graphene: Consequences of a weak interface coupling from a combined STM and ab initio study (Pb on graphene, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.09035&quot;&gt;Mechanism of superconductivity and electron-hole doping asymmetry in $\kappa$-type molecular conductors (S. Yunoki, arXiv:1811.09035)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195133&quot;&gt;PhysRevB.98.195133&lt;/a&gt;&lt;/strong&gt; : Strain-driven magnetic phase transitions from an antiferromagnetic to a ferromagnetic state in perovskite R MnO 3 films (AFM to FM transition, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.09035&quot;&gt;1811.09035&lt;/a&gt;&lt;/strong&gt; : Mechanism of superconductivity and electron-hole doping asymmetry in $\kappa$-type molecular conductors (S. Yunoki, arXiv:1811.09035)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -49,25 +52,25 @@
         <title>weekly picks (Nov 4 week 2018)</title>
         <description>&lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08523&quot;&gt;Detecting fractional Chern insulators through circular dichroism (CD and Fractional chern insulator, arXiv:1811.08523)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08523&quot;&gt;1811.08523&lt;/a&gt;&lt;/strong&gt; : Detecting fractional Chern insulators through circular dichroism (CD and Fractional chern insulator, arXiv:1811.08523)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180406&quot;&gt;Quantized excitation spectra by magnon confinement in quasi-one-dimensional S = 1 spin systems (PRB, spinon confinement)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180406&quot;&gt;PhysRevB.98.180406&lt;/a&gt;&lt;/strong&gt; : Quantized excitation spectra by magnon confinement in quasi-one-dimensional S = 1 spin systems (PRB, spinon confinement)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08331&quot;&gt;Updated Core Libraries of the ALPS Project (ALPS, arXiv:1811.08331)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08331&quot;&gt;1811.08331&lt;/a&gt;&lt;/strong&gt; : Updated Core Libraries of the ALPS Project (ALPS, arXiv:1811.08331)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-018-0334-2&quot;&gt;Universal T-linear resistivity and Planckian dissipation in overdoped cuprates (nphys electron dissipate)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-018-0334-2&quot;&gt;nphys s41567-018-0334-2&lt;/a&gt;&lt;/strong&gt; : Universal T-linear resistivity and Planckian dissipation in overdoped cuprates (nphys electron dissipate)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41535-018-0130-3&quot;&gt;Colossal electromagnon excitation in the non-cycloidal phase of TbMnO3 under pressure (npj QMs electromagnon effect, Raman shift calculations)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41535-018-0130-3&quot;&gt;npj QMs s41535-018-0130-3&lt;/a&gt;&lt;/strong&gt; : Colossal electromagnon excitation in the non-cycloidal phase of TbMnO3 under pressure (npj QMs electromagnon effect, Raman shift calculations)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180101&quot;&gt;Exact results on itinerant ferromagnetism and the 15-puzzle problem (PRB(R))&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180101&quot;&gt;PhysRevB.98.180101&lt;/a&gt;&lt;/strong&gt; : Exact results on itinerant ferromagnetism and the 15-puzzle problem (PRB(R))&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06553&quot;&gt;ab-initio Approaches for Low-Energy Spin Hamiltonians (arXiv:1811.06553)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06553&quot;&gt;1811.06553&lt;/a&gt;&lt;/strong&gt; : ab-initio Approaches for Low-Energy Spin Hamiltonians (arXiv:1811.06553)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -84,25 +87,25 @@
         <title>weekly picks (Nov 3 week 2018)</title>
         <description>&lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.03652&quot;&gt;Spiral Fermi Surfaces in Quasicrystals and Twisted Bilayer Graphene: Signatures in Quantum Oscillations (Cooper, arXiv:1811.03652)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.03652&quot;&gt;1811.03652&lt;/a&gt;&lt;/strong&gt; : Spiral Fermi Surfaces in Quasicrystals and Twisted Bilayer Graphene: Signatures in Quantum Oscillations (Cooper, arXiv:1811.03652)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.05054&quot;&gt;Spin and Charge Transport of Multi-Orbital Quantum Spin Hall Insulators (transport numerical, arXiv:1811.05054)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.05054&quot;&gt;1811.05054&lt;/a&gt;&lt;/strong&gt; : Spin and Charge Transport of Multi-Orbital Quantum Spin Hall Insulators (transport numerical, arXiv:1811.05054)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.041026&quot;&gt;Topological Crystalline Materials of J = 3 / 2 Electrons: Antiperovskites, Dirac Points, and High Winding Topological Superconductivity (M. Sato PRX)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.041026&quot;&gt;PhysRevX.8.041026&lt;/a&gt;&lt;/strong&gt; : Topological Crystalline Materials of J = 3 / 2 Electrons: Antiperovskites, Dirac Points, and High Winding Topological Superconductivity (M. Sato PRX)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.041028&quot;&gt;Topological Spin Excitations in Honeycomb Ferromagnet CrI 3 (PRX)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.041028&quot;&gt;PhysRevX.8.041028&lt;/a&gt;&lt;/strong&gt; : Topological Spin Excitations in Honeycomb Ferromagnet CrI 3 (PRX)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.05990&quot;&gt;Majorana lattices from the quantized Hall limit of a proximitized spin-orbit coupled electron gas ( Abrikosov vortex lattice, arXiv:1811.05990)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.05990&quot;&gt;1811.05990&lt;/a&gt;&lt;/strong&gt; : Majorana lattices from the quantized Hall limit of a proximitized spin-orbit coupled electron gas ( Abrikosov vortex lattice, arXiv:1811.05990)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06066&quot;&gt;Emergent mode and bound states in single-component one-dimensional lattice fermionic systems (Roger Mong, arXiv:1811.06066)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06066&quot;&gt;1811.06066&lt;/a&gt;&lt;/strong&gt; : Emergent mode and bound states in single-component one-dimensional lattice fermionic systems (Roger Mong, arXiv:1811.06066)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://advances.sciencemag.org/content/4/11/eaau3402.full&quot;&gt;Multiple-q noncollinear magnetism in an itinerant hexagonal magnet (Science Advances, Tokura)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://advances.sciencemag.org/content/4/11/eaau3402.full&quot;&gt;sciadv.aau3402&lt;/a&gt;&lt;/strong&gt; : Multiple-q noncollinear magnetism in an itinerant hexagonal magnet (Science Advances, Tokura)]&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
