@@ -17,4 +17,7 @@ __[npj Quantum Materials](https://www.nature.com/npjquantmats/articles)__
 tags : `#lecture course`
 
 
-__[ TU Delft / Topology condensed matter / Akhmerov ](https://ocw.tudelft.nl/courses/topology-condensed-matter-concept/)__
+__[ TU Delft / Topology condensed matter / A. Akhmerov ](https://ocw.tudelft.nl/courses/topology-condensed-matter-concept/)__
+
+
+__[ Hamburg / The Fascination of Crystals and Symmetry / F. Hoffmann ](https://crystalsymmetry.wordpress.com/yt/)__
