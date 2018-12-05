@@ -17,4 +17,4 @@ __[npj Quantum Materials](https://www.nature.com/npjquantmats/articles)__
 tags : `#lecture course`
 
 
-__[ Delft topology condensed matter concept](https://ocw.tudelft.nl/courses/topology-condensed-matter-concept/)__
+__[ TU Delft / Topology condensed matter / Akhmerov ](https://ocw.tudelft.nl/courses/topology-condensed-matter-concept/)__
