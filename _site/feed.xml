@@ -6,9 +6,41 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Dec 2018 17:07:01 +0900</pubDate>
-    <lastBuildDate>Wed, 05 Dec 2018 17:07:01 +0900</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Sat, 08 Dec 2018 15:40:48 +0900</pubDate>
+    <lastBuildDate>Sat, 08 Dec 2018 15:40:48 +0900</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>weekly picks (Dec 1 week 2018)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235116&quot;&gt;PhysRevB.98.235116&lt;/a&gt;&lt;/strong&gt; : Nontrivial topology and localization in the double exchange model with possible applications to perovskite manganites (SZ Lin, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235113&quot;&gt;PhysRevB.98.235113&lt;/a&gt;&lt;/strong&gt; : Four-spin ring interaction as a source of unconventional magnetic orders in orthorhombic perovskite manganites (spin model, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-018-0745-3&quot;&gt;nature s41586-018-0745-3&lt;/a&gt;&lt;/strong&gt; : Transformation between meron and skyrmion topological spin textures in a chiral magnet (Meron, Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.104412&quot;&gt;PhysRevMaterials.2.104412&lt;/a&gt;&lt;/strong&gt; : Negative-pressure-induced helimagnetism in ferromagnetic cubic perovskites Sr 1 − x Ba x CoO 3 (Helimagnetism negative pressure, PRMaterials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-018-0348-9&quot;&gt;nphys s41567-018-0348-9&lt;/a&gt;&lt;/strong&gt; : Field-induced phase coexistence in an artificial spin ice (quadrupole lattice, MC, nphys)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.12623&quot;&gt;1811.12623&lt;/a&gt;&lt;/strong&gt; : Reservoir Computing with Random Skyrmion Textures (Reservoir skyrmion, arXiv:1811.12623)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 08 Dec 2018 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2018/12/Dec1weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec1weeks</guid>
+        
+        
+        <category>2018Dec</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Nov 5 week 2018)</title>
@@ -40,8 +72,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 01 Dec 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/12/Nov5weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Nov5weeks</guid>
+        <link>http://localhost:4000/blog/2018/11/Nov5weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/11/Nov5weeks</guid>
         
         
         <category>2018Nov</category>
