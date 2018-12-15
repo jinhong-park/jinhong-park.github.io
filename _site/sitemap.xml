@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://localhost:4000/blog/2018/12/Dec2weeks</loc>
+      
+        <lastmod>2018-12-15T00:36:27+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/blog/2018/12/Dec1weeks</loc>
       
         <lastmod>2018-12-08T00:36:27+09:00</lastmod>
@@ -81,7 +96,7 @@
     <url>
       <loc>http://localhost:4000/Publications/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -96,7 +111,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -111,7 +126,7 @@
     <url>
       <loc>http://localhost:4000/blog/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,7 +141,7 @@
     <url>
       <loc>http://localhost:4000/categories/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -141,7 +156,7 @@
     <url>
       <loc>http://localhost:4000/cv/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,7 +171,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -171,7 +186,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -186,7 +201,7 @@
     <url>
       <loc>http://localhost:4000/miscellany/item-1/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -201,7 +216,7 @@
     <url>
       <loc>http://localhost:4000/miscellany/item-2/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -216,7 +231,7 @@
     <url>
       <loc>http://localhost:4000/links/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -231,7 +246,7 @@
     <url>
       <loc>http://localhost:4000/css/main.css</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -246,7 +261,7 @@
     <url>
       <loc>http://localhost:4000/miscellany/</loc>
       
-        <lastmod>2018-12-09T15:54:43+09:00</lastmod>
+        <lastmod>2018-12-15T16:15:29+09:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

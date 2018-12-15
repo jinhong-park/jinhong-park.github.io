@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Dec 2018 15:54:43 +0900</pubDate>
-    <lastBuildDate>Sun, 09 Dec 2018 15:54:43 +0900</lastBuildDate>
+    <pubDate>Sat, 15 Dec 2018 16:15:29 +0900</pubDate>
+    <lastBuildDate>Sat, 15 Dec 2018 16:15:29 +0900</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>weekly picks (Dec 2 week 2018)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.214425&quot;&gt;PhysRevB.98.214425&lt;/a&gt;&lt;/strong&gt; : Comprehensive inelastic neutron scattering study of the multiferroic Mn 1 − x Co x WO 4 (Feng Ye, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.245117&quot;&gt;PhysRevB.98.245117&lt;/a&gt;&lt;/strong&gt; : Surfaces of axion insulators (Vanderbilt, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-018-0778-7&quot;&gt;nature s41586-018-0778-7&lt;/a&gt;&lt;/strong&gt; : Direct observation of incommensurate magnetism in Hubbard chains (nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235126&quot;&gt;PhysRevB.98.235126&lt;/a&gt;&lt;/strong&gt; : Orbital currents in insulating and doped antiferromagnets (Sachdev, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220504&quot;&gt;PhysRevB.98.220504&lt;/a&gt;&lt;/strong&gt; : Mean-field theory for superconductivity in twisted bilayer graphene (twisted bilayer graphene, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.02553&quot;&gt;1812.02553&lt;/a&gt;&lt;/strong&gt; : Skyrmion phase and competing magnetic orders on a breathing kagomé lattice (Tokura, Kagome, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 15 Dec 2018 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2018/12/Dec2weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec2weeks</guid>
+        
+        
+        <category>2018Dec</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Dec 1 week 2018)</title>
