@@ -6,9 +6,45 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Dec 2018 16:17:20 +0900</pubDate>
-    <lastBuildDate>Sat, 15 Dec 2018 16:17:20 +0900</lastBuildDate>
+    <pubDate>Sat, 22 Dec 2018 14:10:58 +0900</pubDate>
+    <lastBuildDate>Sat, 22 Dec 2018 14:10:58 +0900</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>weekly picks (Dec 3 week 2018)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08462&quot;&gt;1812.08462&lt;/a&gt;&lt;/strong&gt; : Giant magneto-elastic effect in d$^2$ pyrochlores and the formation of a spin-lattice liquid (Jackeli, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.07949&quot;&gt;1812.07949&lt;/a&gt;&lt;/strong&gt; : Manifestations of spin-orbit coupling in a cuprate superconductor (Galitski, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08054&quot;&gt;1812.08054&lt;/a&gt;&lt;/strong&gt; : Multiscale approach to first-principles electron transport: Seamless integration of DFT and tight-binding (DFT-TB, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235137&quot;&gt;PhysRevB.98.235137&lt;/a&gt;&lt;/strong&gt; : Emergent D 6 symmetry in fully relaxed magic-angle twisted bilayer graphene (twisted bilayer graphene, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.07361&quot;&gt;1812.07361&lt;/a&gt;&lt;/strong&gt; : Twists in Ferromagnetic Monolayers With Trigonal Prismatic Symmetry (Everschor-Sitte, DMI, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-018-0363-x&quot;&gt;nphys s41567-018-0363-x&lt;/a&gt;&lt;/strong&gt; : Strain-tunable magnetism at oxide domain walls (nphys)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.06006&quot;&gt;1812.06006&lt;/a&gt;&lt;/strong&gt; : Isospin-phonon coupling and Fano-interference in spin-orbit Mott insulator Sr2IrO4 (phonon-pseudospin coupling iridate, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 22 Dec 2018 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2018/12/Dec3weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec3weeks</guid>
+        
+        
+        <category>2018Dec</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Dec 2 week 2018)</title>
