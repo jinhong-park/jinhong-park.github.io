@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Dec 2018 14:10:58 +0900</pubDate>
-    <lastBuildDate>Sat, 22 Dec 2018 14:10:58 +0900</lastBuildDate>
+    <pubDate>Sun, 23 Dec 2018 19:40:11 +0900</pubDate>
+    <lastBuildDate>Sun, 23 Dec 2018 19:40:11 +0900</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -34,8 +34,21 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.06006&quot;&gt;1812.06006&lt;/a&gt;&lt;/strong&gt; : Isospin-phonon coupling and Fano-interference in spin-orbit Mott insulator Sr2IrO4 (phonon-pseudospin coupling iridate, arXiv)&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v11/134&quot;&gt;Physics v11 134&lt;/a&gt;&lt;/strong&gt; : Q&amp;amp;A: Standard Bearer (Steven Weinberg)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;blockquote&gt;
+
+  &lt;p&gt;S. Weinberg refers Ben Lee.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Did having “standard” in the name imply certainty for you?&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;I was confident that the theory was right, but my confidence was partly shaken by data from a number of experiments in 1976 and 1977 that were hard to make sense of within the standard model. In the spring of 1977, I ended up canceling a trip I had planned with my wife and daughter to go to Yosemite. Instead, I spent that time working with my friend &lt;strong&gt;Ben Lee&lt;/strong&gt; trying to find an alternative theory that could account for the experiments. I’m proud to say we failed, as it later turned out that the experiments were wrong.&lt;/p&gt;
+
+  &lt;p&gt;In the end, the issue was settled by a 1978 experiment at SLAC that confirmed the prediction of parity violation in the interaction of electrons with nuclei. After that, I think everyone was convinced that the standard model was correct.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Sat, 22 Dec 2018 00:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2018/12/Dec3weeks</link>
