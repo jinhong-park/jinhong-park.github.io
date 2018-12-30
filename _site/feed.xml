@@ -6,9 +6,51 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Dec 2018 20:02:24 +0900</pubDate>
-    <lastBuildDate>Sun, 23 Dec 2018 20:02:24 +0900</lastBuildDate>
-    <generator>Jekyll v3.5.1</generator>
+    <pubDate>Sun, 30 Dec 2018 22:02:30 +0900</pubDate>
+    <lastBuildDate>Sun, 30 Dec 2018 22:02:30 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Dec 4 week 2018)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.224426&quot;&gt;PhysRevB.98.224426&lt;/a&gt;&lt;/strong&gt; : Localized spin waves in isolated k\pi skyrmions (spin wave, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220412&quot;&gt;PhysRevB.98.220412&lt;/a&gt;&lt;/strong&gt; : Symmetry analysis of current-induced switching of antiferromagnets (AFM spintronics, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235160&quot;&gt;PhysRevB.98.235160&lt;/a&gt;&lt;/strong&gt; : Higher angular momentum band inversions in two dimensions (C. Kane, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.10373&quot;&gt;1812.10373&lt;/a&gt;&lt;/strong&gt; : Dissipative spin chain as a non-Hermitian Kitaev ladder (Katsura, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.10336&quot;&gt;1812.10336&lt;/a&gt;&lt;/strong&gt; : Polaron mobility in the “beyond quasiparticles” regime (Mishchenko, Nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.10262&quot;&gt;1812.10262&lt;/a&gt;&lt;/strong&gt; : Electronic and phononic properties of a two dimensional electron gas coupled to dipolar phonons via small-momentum-transfer scattering (DH Lee, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220409&quot;&gt;PhysRevB.98.220409&lt;/a&gt;&lt;/strong&gt; : NaYbS 2 : A planar spin- 1 2 triangular-lattice magnet and putative spin liquid (van den Brink, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08828&quot;&gt;1812.08828&lt;/a&gt;&lt;/strong&gt; : Valley Hall phases in Kagome lattices (San-Jose, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08792&quot;&gt;1812.08792&lt;/a&gt;&lt;/strong&gt; : Thermal Hall eﬀect in square-lattice spin liquids: a Schwinger boson mean-ﬁeld study (Sachdev, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sun, 30 Dec 2018 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2018/12/Dec4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec4weeks</guid>
+        
+        
+        <category>2018Dec</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Dec 3 week 2018)</title>
@@ -154,8 +196,8 @@ In the end, the issue was settled by a 1978 experiment at SLAC that confirmed th
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 01 Dec 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/11/Nov5weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/11/Nov5weeks</guid>
+        <link>http://localhost:4000/blog/2018/12/Nov5weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Nov5weeks</guid>
         
         
         <category>2018Nov</category>
