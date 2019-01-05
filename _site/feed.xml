@@ -6,9 +6,45 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Dec 2018 22:02:30 +0900</pubDate>
-    <lastBuildDate>Sun, 30 Dec 2018 22:02:30 +0900</lastBuildDate>
+    <pubDate>Sat, 05 Jan 2019 18:38:03 +0900</pubDate>
+    <lastBuildDate>Sat, 05 Jan 2019 18:38:03 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Jan 1 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041301&quot;&gt;PhysRevB.99.041301&lt;/a&gt;&lt;/strong&gt; : Higher-order topological phases: A general principle of construction (Bitan Roy, PRB(R))&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.00500&quot;&gt;1901.00500&lt;/a&gt;&lt;/strong&gt; : A chiral twist on the high-$T_c$ phase diagram in Moir'e heterostructures (Nandkishore, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.00445&quot;&gt;1901.00445&lt;/a&gt;&lt;/strong&gt; : Crystal Hall effect in Collinear Antiferromagnets (Sinova, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.00012&quot;&gt;1901.00012&lt;/a&gt;&lt;/strong&gt; : Unveiling Hidden Orders: Magnetostriction as a Probe of Multipolar-Ordered States (YB Kim, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041101&quot;&gt;PhysRevB.99.041101&lt;/a&gt;&lt;/strong&gt; : Band crossings in honeycomb-layered transition metal compounds (Motome, PRB(R))&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.11912&quot;&gt;1812.11912&lt;/a&gt;&lt;/strong&gt; : A gap-protected zero-Hall effect state in the quantum limit of the nonsymmorphic metal KHgSb (Ong, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.11125&quot;&gt;1812.11125&lt;/a&gt;&lt;/strong&gt; : Topological Magnons and Edge States in Antiferromagnetic Skyrmion Crystals (D. Loss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 05 Jan 2019 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/01/Jan1weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/01/Jan1weeks</guid>
+        
+        
+        <category>2019Jan</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Dec 4 week 2018)</title>
