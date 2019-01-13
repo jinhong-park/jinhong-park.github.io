@@ -6,9 +6,45 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Jan 2019 18:38:03 +0900</pubDate>
-    <lastBuildDate>Sat, 05 Jan 2019 18:38:03 +0900</lastBuildDate>
+    <pubDate>Sun, 13 Jan 2019 18:03:45 +0900</pubDate>
+    <lastBuildDate>Sun, 13 Jan 2019 18:03:45 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Jan 2 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041110&quot;&gt;PhysRevB.99.041110&lt;/a&gt;&lt;/strong&gt; : Z 2 topological invariant for magnon spin Hall systems (Katsura, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.016803&quot;&gt;PhysRevLett.122.016803&lt;/a&gt;&lt;/strong&gt; :  Interaction-Driven Surface Chern Insulator in Nodal Line Semimetals (Lado, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.016403&quot;&gt;PhysRevLett.122.016403&lt;/a&gt;&lt;/strong&gt; : Topological Landscape of Competing Charge Density Waves in 2 H − NbSe 2 (Yeom, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011005&quot;&gt;PhysRevX.9.011005&lt;/a&gt;&lt;/strong&gt; : Quantum and Classical Phases of the Pyrochlore Heisenberg Model with Competing Interactions (pyrochlore, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.035411&quot;&gt;PhysRevB.99.035411&lt;/a&gt;&lt;/strong&gt; : Valley engineering by strain in Kekulé-distorted graphene (kekule graphene, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.01208&quot;&gt;1901.01208&lt;/a&gt;&lt;/strong&gt; Hydrodynamics of three-dimensional skyrmions in frustrated magnets (Yaroslav, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.01008&quot;&gt;1901.01008&lt;/a&gt;&lt;/strong&gt; Making artificial $\textit{p}_{x,y}$-orbital honeycomb electron lattice on metal surface (pxy-honeycomb, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sun, 13 Jan 2019 00:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/01/Jan2weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/01/Jan2weeks</guid>
+        
+        
+        <category>2019Jan</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Jan 1 week 2019)</title>
