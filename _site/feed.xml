@@ -6,9 +6,45 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Jan 2019 18:03:45 +0900</pubDate>
-    <lastBuildDate>Sun, 13 Jan 2019 18:03:45 +0900</lastBuildDate>
+    <pubDate>Sat, 19 Jan 2019 19:46:35 +0900</pubDate>
+    <lastBuildDate>Sat, 19 Jan 2019 19:46:35 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Jan 3 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://advances.sciencemag.org/content/5/1/eaav4020&quot;&gt;eaav4020&lt;/a&gt;&lt;/strong&gt; : Resonant inelastic x-ray incarnation of Young’s double-slit experiment (van den Brink, science adv.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.05684&quot;&gt;1901.05684&lt;/a&gt;&lt;/strong&gt; : Dynamics of noncollinear antiferromagnetic textures driven by spin current injection (Sinova, DM, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.05587&quot;&gt;1901.05587&lt;/a&gt;&lt;/strong&gt; : The origin of hour-glass magnetic dispersion in underdoped cuprate superconductors (underdoped cuprate, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-018-0853-0&quot;&gt;s41586-018-0853-0&lt;/a&gt;&lt;/strong&gt; : Magnetic and magnetic inverse spin Hall effects in a non-collinear antiferromagnet (Otani, Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.05077&quot;&gt;1901.05077&lt;/a&gt;&lt;/strong&gt; : Breakdown of the Wiedemann-Franz law in AB-stacked bilayer graphene (AB-stacked graphene, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.04701&quot;&gt;1901.04701&lt;/a&gt;&lt;/strong&gt; : Quasicrystalline electronic states in 30$^\circ$ rotated twisted bilayer graphene (Son, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acs.nanolett.8b03282&quot;&gt;nanolett.8b03282&lt;/a&gt;&lt;/strong&gt; : Edge States at Nematic Domain Walls in FeSe Films (Qi-Kun Xue, Nano Letters)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 19 Jan 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/01/Jan3weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/01/Jan3weeks</guid>
+        
+        
+        <category>2019Jan</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Jan 2 week 2019)</title>
@@ -343,24 +379,6 @@ In the end, the issue was settled by a 1978 experiment at SLAC that confirmed th
         
         
         <category>2018Nov</category>
-        
-      </item>
-    
-      <item>
-        <title>APW 2018</title>
-        <description>&lt;p&gt;APW 2018 workshop&lt;a href=&quot;http://apw2018.csp.escience.cn/dct/page/1&quot;&gt;  http://apw2018.csp.escience.cn/dct/page/1&lt;/a&gt; in Beijing.&lt;/p&gt;
-
-&lt;dl class=&quot;wp-caption alignright&quot; style=&quot;max-width: 600px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/APW2018.jpg&quot; alt=&quot;Kavli ITS-APW-Tsinghua-RIKEN Workshop 2018&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;Kavli ITS-APW-Tsinghua-RIKEN Workshop 2018&lt;/dd&gt;
-&lt;/dl&gt;
-</description>
-        <pubDate>Fri, 02 Nov 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/11/APW2018</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/11/APW2018</guid>
-        
         
       </item>
     
