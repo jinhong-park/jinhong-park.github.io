@@ -6,9 +6,48 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Jan 2019 21:28:26 +0900</pubDate>
-    <lastBuildDate>Sat, 26 Jan 2019 21:28:26 +0900</lastBuildDate>
+    <pubDate>Sat, 02 Feb 2019 20:38:35 +0900</pubDate>
+    <lastBuildDate>Sat, 02 Feb 2019 20:38:35 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Feb 1 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.047202&quot;&gt;PhysRevLett.122.047202&lt;/a&gt;&lt;/strong&gt; : Bond-Disordered Spin Liquid and the Honeycomb Iridate H 3 LiIr 2 O 6 : Abundant Low-Energy Density of States from Random Majorana Hopping (R. Moessner, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.11034&quot;&gt;1901.11034&lt;/a&gt;&lt;/strong&gt; : A DMRG Study of Superconductivity in the Triangular Lattice Hubbard Model (EA Kim, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.10931&quot;&gt;1901.10931&lt;/a&gt;&lt;/strong&gt; : Symmetry and correlation effects on band structure explain the anomalous transport properties of (111) LaAlO$_3$/SrTiO$_3$ (STO/LAO, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.10485&quot;&gt;1901.10485&lt;/a&gt;&lt;/strong&gt; : Magic Angle Hierarchy in Twisted Graphene Multilayers (A. Vishwanath, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.020508&quot;&gt;PhysRevB.99.020508&lt;/a&gt;&lt;/strong&gt; : Higher-order topological superconductivity: Possible realization in Fermi gases and Sr 2 RuO 4 (ruthenate, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v12/6&quot;&gt;Behnia&lt;/a&gt;&lt;/strong&gt; : Two-Dimensional Electrons Raise Eyebrows by Pairing Incoherently (Behnia, Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.09213&quot;&gt;1901.09213&lt;/a&gt;&lt;/strong&gt; : Unconventional Thermal Hall Effect in a Coupling Modulated Honeycomb Topological Magnon Insulator (THE, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.08850&quot;&gt;1901.08850&lt;/a&gt;&lt;/strong&gt; : Berry phase of phonons and thermal Hall effect in nonmagnetic insulators (nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 02 Feb 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/02/Feb1weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/02/Feb1weeks</guid>
+        
+        
+        <category>2019Feb</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Jan 4 week 2019)</title>
@@ -348,41 +387,6 @@ In the end, the issue was settled by a 1978 experiment at SLAC that confirmed th
         <pubDate>Sat, 01 Dec 2018 00:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2018/12/Nov5weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Nov5weeks</guid>
-        
-        
-        <category>2018Nov</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Nov 4 week 2018)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08523&quot;&gt;1811.08523&lt;/a&gt;&lt;/strong&gt; : Detecting fractional Chern insulators through circular dichroism (CD and Fractional chern insulator, arXiv:1811.08523)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180406&quot;&gt;PhysRevB.98.180406&lt;/a&gt;&lt;/strong&gt; : Quantized excitation spectra by magnon confinement in quasi-one-dimensional S = 1 spin systems (PRB, spinon confinement)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.08331&quot;&gt;1811.08331&lt;/a&gt;&lt;/strong&gt; : Updated Core Libraries of the ALPS Project (ALPS, arXiv:1811.08331)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-018-0334-2&quot;&gt;nphys s41567-018-0334-2&lt;/a&gt;&lt;/strong&gt; : Universal T-linear resistivity and Planckian dissipation in overdoped cuprates (nphys electron dissipate)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41535-018-0130-3&quot;&gt;npj QMs s41535-018-0130-3&lt;/a&gt;&lt;/strong&gt; : Colossal electromagnon excitation in the non-cycloidal phase of TbMnO3 under pressure (npj QMs electromagnon effect, Raman shift calculations)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180101&quot;&gt;PhysRevB.98.180101&lt;/a&gt;&lt;/strong&gt; : Exact results on itinerant ferromagnetism and the 15-puzzle problem (PRB(R))&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06553&quot;&gt;1811.06553&lt;/a&gt;&lt;/strong&gt; : ab-initio Approaches for Low-Energy Spin Hamiltonians (arXiv:1811.06553)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sun, 25 Nov 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/11/Nov4weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/11/Nov4weeks</guid>
         
         
         <category>2018Nov</category>
