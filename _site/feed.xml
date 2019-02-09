@@ -6,9 +6,48 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Feb 2019 20:38:35 +0900</pubDate>
-    <lastBuildDate>Sat, 02 Feb 2019 20:38:35 +0900</lastBuildDate>
+    <pubDate>Sat, 09 Feb 2019 15:04:04 +0900</pubDate>
+    <lastBuildDate>Sat, 09 Feb 2019 15:04:04 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Feb 2 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.01647&quot;&gt;1902.01647&lt;/a&gt;&lt;/strong&gt; : Berry curvature unravelled by the Nernst effect (Berry curvature, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085113&quot;&gt;PhysRevB.99.085113&lt;/a&gt;&lt;/strong&gt; : Anyonic tight-binding models of parafermions and of fractionalized fermions (Anyonic tight-binding models, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.057204&quot;&gt;PhysRevLett.122.057204&lt;/a&gt;&lt;/strong&gt; : Tunable Magnonic Thermal Hall Effect in Skyrmion Crystal Phases of Ferrimagnets (D. Loss, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.057203&quot;&gt;PhysRevLett.122.057203&lt;/a&gt;&lt;/strong&gt; : Pseudo-Jahn-Teller Effect and Magnetoelastic Coupling in Spin-Orbit Mott Insulators (G. Khaliullin, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.057202&quot;&gt;PhysRevLett.122.057202&lt;/a&gt;&lt;/strong&gt; : Microwave Directional Dichroism Resonant with Spin Excitations in the Polar Ferromagnet GaV 4 S 8 (Y. Tokura, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-019-08497-3&quot;&gt;s41467-019-08497-3&lt;/a&gt;&lt;/strong&gt; : High temperature singlet-based magnetism from Hund’s rule correlations (new magnetism, ncomms)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-019-08397-6&quot;&gt;s41467-019-08397-6&lt;/a&gt;&lt;/strong&gt; : Topological non-Hermitian origin of surface Maxwell waves (F. Nori, ncomms)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.00466&quot;&gt;1902.00466&lt;/a&gt;&lt;/strong&gt; : Ground state and low-energy excitations of the Kitaev-Heisenberg ladder (van den Brink, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 09 Feb 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/02/Feb2weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/02/Feb2weeks</guid>
+        
+        
+        <category>2019Feb</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Feb 1 week 2019)</title>
@@ -35,7 +74,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.09213&quot;&gt;1901.09213&lt;/a&gt;&lt;/strong&gt; : Unconventional Thermal Hall Effect in a Coupling Modulated Honeycomb Topological Magnon Insulator (THE, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.08850&quot;&gt;1901.08850&lt;/a&gt;&lt;/strong&gt; : Berry phase of phonons and thermal Hall effect in nonmagnetic insulators (nagaosa, arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.08850&quot;&gt;1901.08850&lt;/a&gt;&lt;/strong&gt; : Berry phase of phonons and thermal Hall effect in nonmagnetic insulators (Nagaosa, arXiv)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -352,44 +391,6 @@ In the end, the issue was settled by a 1978 experiment at SLAC that confirmed th
         
         
         <category>2018Dec</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Nov 5 week 2018)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.201116&quot;&gt;PhysRevB.98.201116&lt;/a&gt;&lt;/strong&gt; : Dirac semimetal in type-IV magnetic space groups (Zhida Song, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.174306&quot;&gt;PhysRevB.98.174306&lt;/a&gt;&lt;/strong&gt; : Lattice dynamics and coupled quadrupole-phonon excitations in CeAuAl3 (Pfleiderer, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.226601&quot;&gt;PhysRevLett.121.226601&lt;/a&gt;&lt;/strong&gt; : Two-Particle Collisional Coordinate Shifts and Hydrodynamic Anomalous Hall Effect in Systems without Lorentz Invariance (D. Pesin, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.201114&quot;&gt;PhysRevB.98.201114&lt;/a&gt;&lt;/strong&gt; : An anomalous higher-order topological insulator (van den Brink, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.180409&quot;&gt;PhysRevB.98.180409&lt;/a&gt;&lt;/strong&gt; : Proposal for dynamic imaging of antiferromagnetic domain wall via quantum-impurity relaxometry (AFM domain wall, Yaroslav, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195441&quot;&gt;PhysRevB.98.195441&lt;/a&gt;&lt;/strong&gt; : Electronic properties of Pb islands on graphene: Consequences of a weak interface coupling from a combined STM and ab initio study (Pb on graphene, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.195133&quot;&gt;PhysRevB.98.195133&lt;/a&gt;&lt;/strong&gt; : Strain-driven magnetic phase transitions from an antiferromagnetic to a ferromagnetic state in perovskite R MnO 3 films (AFM to FM transition, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.09035&quot;&gt;1811.09035&lt;/a&gt;&lt;/strong&gt; : Mechanism of superconductivity and electron-hole doping asymmetry in $\kappa$-type molecular conductors (S. Yunoki, arXiv:1811.09035)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 01 Dec 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/12/Nov5weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Nov5weeks</guid>
-        
-        
-        <category>2018Nov</category>
         
       </item>
     
