@@ -6,15 +6,15 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Feb 2019 13:07:01 +0900</pubDate>
-    <lastBuildDate>Sun, 17 Feb 2019 13:07:01 +0900</lastBuildDate>
+    <pubDate>Sun, 17 Feb 2019 13:09:14 +0900</pubDate>
+    <lastBuildDate>Sun, 17 Feb 2019 13:09:14 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>weekly picks (Feb 3 week 2019)</title>
         <description>&lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085125&quot;&gt;PhysRevB.99.085125&lt;/a&gt;&lt;/strong&gt; : Pseudospin-lattice coupling in the spin-orbit Mott insulator Sr 2 IrO 4 (BJ Kim)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085125&quot;&gt;PhysRevB.99.085125&lt;/a&gt;&lt;/strong&gt; : Pseudospin-lattice coupling in the spin-orbit Mott insulator Sr 2 IrO 4 (BJ Kim, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085128&quot;&gt;PhysRevB.99.085128&lt;/a&gt;&lt;/strong&gt; : Folding approach to topological order enriched by mirror symmetry (Yang Qi, PRB)&lt;/p&gt;
