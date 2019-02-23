@@ -6,9 +6,56 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Feb 2019 13:09:14 +0900</pubDate>
-    <lastBuildDate>Sun, 17 Feb 2019 13:09:14 +0900</lastBuildDate>
+    <pubDate>Sun, 24 Feb 2019 00:36:42 +0900</pubDate>
+    <lastBuildDate>Sun, 24 Feb 2019 00:36:42 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Feb 4 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/strong&gt; : Difficulties in operator-based formulation of the bulk quadrupole moment (Luka, arXiv)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/strong&gt; : Superexchange interactions between spin-orbit-coupled $j!\approx!1/2$ ions in oxides with face-sharing ligand octahedra (van den Brink, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/strong&gt; : Spontaneous Symmetry Breaking in Monolayers of Transition Metal Dichalcogenides (D. Loss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/strong&gt; : Field-Induced Phase Transition of the Spin Liquid State in Triangular Antiferromagnet YbMgGaO4 (field-induced spin liquid, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/strong&gt; : Photoinduced Floquet topological magnons in Kitaev magnets (Baskaran, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/strong&gt; : Thermal Hall effect and topological edge states in a square-lattice antiferromagnet (Hotta, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/strong&gt; : Quantum Anomalous Vortex and Majorana Zero Mode in Iron-Based Superconductor Fe(Te,Se) (X. Dai, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.07075&quot;&gt;1902.07075&lt;/a&gt;&lt;/strong&gt; : Non-spin-ice pyrochlore U(1) quantum spin liquid: Manifesting mixed symmetry enrichments (Gang Chen, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.06166&quot;&gt;1902.06166&lt;/a&gt;&lt;/strong&gt; : Vison Crystals in an Extended Kitaev Model on the Honeycomb Lattice (C. Batista, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.06433&quot;&gt;1902.06433&lt;/a&gt;&lt;/strong&gt; : Impact of off-diagonal exchange interactions on the Kitaev spin liquid state of $\alpha$-RuCl$_3$ (Fujimoto, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.06601&quot;&gt;1902.06601&lt;/a&gt;&lt;/strong&gt; : Anomalous thermal Hall effect in the topological antiferromagnetic state (THE AFM, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.05862&quot;&gt;1902.05862&lt;/a&gt;&lt;/strong&gt; : Impurity-induced triple point fermions in twisted bilayer graphene (Lado, arXiv)&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 23 Feb 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/02/Feb4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/02/Feb4weeks</guid>
+        
+        
+        <category>2019Feb</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Feb 3 week 2019)</title>
@@ -377,39 +424,6 @@ In the end, the issue was settled by a 1978 experiment at SLAC that confirmed th
         <pubDate>Sat, 22 Dec 2018 00:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2018/12/Dec3weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec3weeks</guid>
-        
-        
-        <category>2018Dec</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Dec 2 week 2018)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.214425&quot;&gt;PhysRevB.98.214425&lt;/a&gt;&lt;/strong&gt; : Comprehensive inelastic neutron scattering study of the multiferroic Mn 1 − x Co x WO 4 (Feng Ye, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.245117&quot;&gt;PhysRevB.98.245117&lt;/a&gt;&lt;/strong&gt; : Surfaces of axion insulators (Vanderbilt, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-018-0778-7&quot;&gt;nature s41586-018-0778-7&lt;/a&gt;&lt;/strong&gt; : Direct observation of incommensurate magnetism in Hubbard chains (nature)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235126&quot;&gt;PhysRevB.98.235126&lt;/a&gt;&lt;/strong&gt; : Orbital currents in insulating and doped antiferromagnets (Sachdev, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220504&quot;&gt;PhysRevB.98.220504&lt;/a&gt;&lt;/strong&gt; : Mean-field theory for superconductivity in twisted bilayer graphene (twisted bilayer graphene, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.02553&quot;&gt;1812.02553&lt;/a&gt;&lt;/strong&gt; : Skyrmion phase and competing magnetic orders on a breathing kagomé lattice (Tokura, Kagome, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 15 Dec 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/12/Dec2weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec2weeks</guid>
         
         
         <category>2018Dec</category>
