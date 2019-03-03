@@ -2,13 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jin-Hong Park</title>
-    <description>Postdoctoral researcher in CCES-IBS, Korea
+    <description>Postdoctoral researcher in Sungkyunkwan University, Korea
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Feb 2019 00:48:14 +0900</pubDate>
-    <lastBuildDate>Sun, 24 Feb 2019 00:48:14 +0900</lastBuildDate>
+    <pubDate>Sun, 03 Mar 2019 18:55:03 +0900</pubDate>
+    <lastBuildDate>Sun, 03 Mar 2019 18:55:03 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Mar 1 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.10650&quot;&gt;1902.10650&lt;/a&gt;&lt;/strong&gt; : Quantum Anomalous Hall Effect through Canted Antiferromagnetism (AH MacDonald, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.086804&quot;&gt;PhysRevLett.122.086804&lt;/a&gt;&lt;/strong&gt; : Helical Topological Edge States in a Quadrupole Phase (quadrupole, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.10302&quot;&gt;1902.10302&lt;/a&gt;&lt;/strong&gt; : Propagating spin excitations along skyrmion strings (Seki, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.09846&quot;&gt;1902.09846&lt;/a&gt;&lt;/strong&gt; : Spin eigen-excitations of an antiferromagnetic skyrmion (van den Brink, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.09382&quot;&gt;1902.09382&lt;/a&gt;&lt;/strong&gt; : Topological spin Hall effects and tunable skyrmion Hall effects in uniaxial antiferromagnetic insulators (Di Xiao, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.10958&quot;&gt;1902.10958&lt;/a&gt;&lt;/strong&gt; : Bloch Band Theory for Non-Hermitian Systems (S. Murakami, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.064307&quot;&gt;PhysRevB.99.064307&lt;/a&gt;&lt;/strong&gt; : Scaling theory of a quantum ratchet (Nagaosa, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.075204&quot;&gt;PhysRevB.99.075204&lt;/a&gt;&lt;/strong&gt; : Spontaneous symmetry breaking of an interacting Chern insulator on a topological square lattice (Chern insulator, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.054516&quot;&gt;PhysRevB.99.054516&lt;/a&gt;&lt;/strong&gt; : Gauge theory for the cuprates near optimal doping (Sachdev, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-019-0954-4&quot;&gt;s41586-019-0954-4&lt;/a&gt;&lt;/strong&gt; : A complete catalogue of high-quality topological materials (Bernevig, Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-019-0937-5&quot;&gt;s41586-019-0937-5&lt;/a&gt;&lt;/strong&gt; : Comprehensive search for topological materials using symmetry indicators (Vishwanath, Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011038&quot;&gt;PhysRevX.9.011038&lt;/a&gt;&lt;/strong&gt; : Exotic Magnetic Field-Induced Spin-Superstructures in a Mixed Honeycomb-Triangular Lattice System (Feng Ye, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sun, 03 Mar 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/03/Mar1weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/Mar1weeks</guid>
+        
+        
+        <category>2019Mar</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Feb 4 week 2019)</title>
@@ -379,55 +430,6 @@
         <pubDate>Sun, 30 Dec 2018 00:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2018/12/Dec4weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec4weeks</guid>
-        
-        
-        <category>2018Dec</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Dec 3 week 2018)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08462&quot;&gt;1812.08462&lt;/a&gt;&lt;/strong&gt; : Giant magneto-elastic effect in d$^2$ pyrochlores and the formation of a spin-lattice liquid (Jackeli, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.07949&quot;&gt;1812.07949&lt;/a&gt;&lt;/strong&gt; : Manifestations of spin-orbit coupling in a cuprate superconductor (Galitski, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08054&quot;&gt;1812.08054&lt;/a&gt;&lt;/strong&gt; : Multiscale approach to first-principles electron transport: Seamless integration of DFT and tight-binding (DFT-TB, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235137&quot;&gt;PhysRevB.98.235137&lt;/a&gt;&lt;/strong&gt; : Emergent D 6 symmetry in fully relaxed magic-angle twisted bilayer graphene (twisted bilayer graphene, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.07361&quot;&gt;1812.07361&lt;/a&gt;&lt;/strong&gt; : Twists in Ferromagnetic Monolayers With Trigonal Prismatic Symmetry (Everschor-Sitte, DMI, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-018-0363-x&quot;&gt;nphys s41567-018-0363-x&lt;/a&gt;&lt;/strong&gt; : Strain-tunable magnetism at oxide domain walls (nphys)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.06006&quot;&gt;1812.06006&lt;/a&gt;&lt;/strong&gt; : Isospin-phonon coupling and Fano-interference in spin-orbit Mott insulator Sr2IrO4 (phonon-pseudospin coupling iridate, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v11/134&quot;&gt;Physics v11 134&lt;/a&gt;&lt;/strong&gt; : Q&amp;amp;A: Standard Bearer (Steven Weinberg)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p style=&quot;padding: 0 12%;&quot;&gt;
-
-S. Weinberg refers Ben Lee. (Physics APS, Dec 21 2018)&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;Did having “standard” in the name imply certainty for you?&lt;/strong&gt;
-&lt;br /&gt;&lt;br /&gt;
-I was confident that the theory was right, but my confidence was partly shaken by data from a number of experiments in 1976 and 1977 that were hard to make sense of within the standard model. In the spring of 1977, I ended up canceling a trip I had planned with my wife and daughter to go to Yosemite. Instead, I spent that time working with my friend &lt;strong&gt;Ben Lee&lt;/strong&gt; trying to find an alternative theory that could account for the experiments. I’m proud to say we failed, as it later turned out that the experiments were wrong.
-&lt;br /&gt;&lt;br /&gt;
-In the end, the issue was settled by a 1978 experiment at SLAC that confirmed the prediction of parity violation in the interaction of electrons with nuclei. After that, I think everyone was convinced that the standard model was correct.
-&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Dec 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/12/Dec3weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec3weeks</guid>
         
         
         <category>2018Dec</category>
