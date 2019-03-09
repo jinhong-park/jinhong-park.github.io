@@ -6,9 +6,51 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Mar 2019 18:55:03 +0900</pubDate>
-    <lastBuildDate>Sun, 03 Mar 2019 18:55:03 +0900</lastBuildDate>
+    <pubDate>Sat, 09 Mar 2019 16:32:53 +0900</pubDate>
+    <lastBuildDate>Sat, 09 Mar 2019 16:32:53 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Mar 2 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1903.02559&quot;&gt;1903.02559&lt;/a&gt;&lt;/strong&gt;	: Symmetry-protected topological magnons in three dimensional Kitaev materials (YB Kim, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1903.03072&quot;&gt;1903.03072&lt;/a&gt;&lt;/strong&gt; : Effect of chiral anomaly on the circular dichroism and Hall angle in doped and tilted Weyl semimetals (Kubo formula, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1903.02812&quot;&gt;1903.02812&lt;/a&gt;&lt;/strong&gt; : Current-induced motion of twisted skyrmions (twisted skyrmions, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-019-0128-6&quot;&gt;s42005-019-0128-6&lt;/a&gt;&lt;/strong&gt; : Designing Rashba–Dresselhaus effect in magnetic insulators (Hotta, Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.01992&quot;&gt;1903.01992&lt;/a&gt;&lt;/strong&gt; : Field-induced transition to semion topological order from the square-lattice N'eel state (Sachdev, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.01125&quot;&gt;1903.01125&lt;/a&gt;&lt;/strong&gt; : Consideration of Thermal Hall Effect in Undoped Cuprates (JH Han, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.115201&quot;&gt;PhysRevB.99.115201&lt;/a&gt;&lt;/strong&gt; : Nonreciprocal thermal and thermoelectric transport of electrons in noncentrosymmetric crystals (Nagaosa, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.097001&quot;&gt;PhysRevLett.122.097001&lt;/a&gt;&lt;/strong&gt; : Interaction of Skyrmions and Pearl Vortices in Superconductor-Chiral Ferromagnet Heterostructures (skyrmion vortex, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.00484&quot;&gt;1903.00484&lt;/a&gt;&lt;/strong&gt; : Spin-orbit-controlled metal-insulator transition in Sr$_2$IrO$_4$ (BJ Kim, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 09 Mar 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/03/Mar2weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/Mar2weeks</guid>
+        
+        
+        <category>2019Mar</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Mar 1 week 2019)</title>
@@ -391,48 +433,6 @@
         
         
         <category>2019Jan</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Dec 4 week 2018)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.224426&quot;&gt;PhysRevB.98.224426&lt;/a&gt;&lt;/strong&gt; : Localized spin waves in isolated k\pi skyrmions (spin wave, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220412&quot;&gt;PhysRevB.98.220412&lt;/a&gt;&lt;/strong&gt; : Symmetry analysis of current-induced switching of antiferromagnets (AFM spintronics, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.235160&quot;&gt;PhysRevB.98.235160&lt;/a&gt;&lt;/strong&gt; : Higher angular momentum band inversions in two dimensions (C. Kane, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.10373&quot;&gt;1812.10373&lt;/a&gt;&lt;/strong&gt; : Dissipative spin chain as a non-Hermitian Kitaev ladder (Katsura, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.10336&quot;&gt;1812.10336&lt;/a&gt;&lt;/strong&gt; : Polaron mobility in the “beyond quasiparticles” regime (Mishchenko, Nagaosa, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.10262&quot;&gt;1812.10262&lt;/a&gt;&lt;/strong&gt; : Electronic and phononic properties of a two dimensional electron gas coupled to dipolar phonons via small-momentum-transfer scattering (DH Lee, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220409&quot;&gt;PhysRevB.98.220409&lt;/a&gt;&lt;/strong&gt; : NaYbS 2 : A planar spin- 1 2 triangular-lattice magnet and putative spin liquid (van den Brink, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08828&quot;&gt;1812.08828&lt;/a&gt;&lt;/strong&gt; : Valley Hall phases in Kagome lattices (San-Jose, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.08792&quot;&gt;1812.08792&lt;/a&gt;&lt;/strong&gt; : Thermal Hall eﬀect in square-lattice spin liquids: a Schwinger boson mean-ﬁeld study (Sachdev, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sun, 30 Dec 2018 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2018/12/Dec4weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/Dec4weeks</guid>
-        
-        
-        <category>2018Dec</category>
         
       </item>
     
