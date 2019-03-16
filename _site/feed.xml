@@ -6,9 +6,84 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2019 16:32:53 +0900</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2019 16:32:53 +0900</lastBuildDate>
+    <pubDate>Sat, 16 Mar 2019 16:21:02 +0900</pubDate>
+    <lastBuildDate>Sat, 16 Mar 2019 16:21:02 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Mar 3 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.125123&quot;&gt;PhysRevB.99.125123&lt;/a&gt;&lt;/strong&gt; : Lattice Monte Carlo for quantum Hall states on a torus (Haldane, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.121407&quot;&gt;PhysRevB.99.121407&lt;/a&gt;&lt;/strong&gt; : Unconventional superconductivity in nearly flat bands in twisted bilayer graphene (Bitan Roy, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.115121&quot;&gt;PhysRevB.99.115121&lt;/a&gt;&lt;/strong&gt; : Planar Hall effect in tilted Weyl semimetals (Planar Hall effect, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.115421&quot;&gt;PhysRevB.99.115421&lt;/a&gt;&lt;/strong&gt; : Conductance fluctuations of monolayer GeSnH 2 in the topological phase using a low-energy effective tight-binding Hamiltonian (TB DFT, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.106405&quot;&gt;PhysRevLett.122.106405&lt;/a&gt;&lt;/strong&gt; : Origin of Magic Angles in Twisted Bilayer Graphene (Vishwanath, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.103903&quot;&gt;PhysRevLett.122.103903&lt;/a&gt;&lt;/strong&gt; : Observation of Hourglass Nodal Lines in Photonics (Hourglass, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.106602&quot;&gt;PhysRevLett.122.106602&lt;/a&gt;&lt;/strong&gt; : Planar Hall Effect in Antiferromagnetic MnTe Thin Films (planar Hall effect, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.106601&quot;&gt;PhysRevLett.122.106601&lt;/a&gt;&lt;/strong&gt; : Universal Scaling Theory of the Boundary Geometric Tensor in Disordered Metals (quantum geometric tensor, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.107201&quot;&gt;PhysRevLett.122.107201&lt;/a&gt;&lt;/strong&gt; : Chiral Phonon Transport Induced by Topological Magnons (phonon-magnon, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.115119&quot;&gt;PhysRevB.99.115119&lt;/a&gt;&lt;/strong&gt; : Superexchange interactions between spin-orbit-coupled j ≈ 1 / 2 ions in oxides with face-sharing ligand octahedra (van den Brink, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.115115&quot;&gt;PhysRevB.99.115115&lt;/a&gt;&lt;/strong&gt; : Equilibrium formulae for transverse magnetotransport of strongly correlated metals (Auerbach, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.121106&quot;&gt;PhysRevB.99.121106&lt;/a&gt;&lt;/strong&gt; : Quadratic and cubic nodal lines stabilized by crystalline symmetry (nodal line, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1903.05679&quot;&gt;1903.05679&lt;/a&gt;&lt;/strong&gt; : Coexistence of orbital and quantum critical magnetoresistance in FeSe$&lt;em&gt;{1-x}$S$&lt;/em&gt;{x}$ (FeSe S-doping, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1903.05798&quot;&gt;1903.05798&lt;/a&gt;&lt;/strong&gt; : A spin-orbital-intertwined nematic state in FeSe (FeSe, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.05997&quot;&gt;1903.05997&lt;/a&gt;&lt;/strong&gt; : Nonsymmorphic Topological Quadrupole Insulator in Sonic Crystals (Nonsymmorphic Topological Quadrupole, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.05097&quot;&gt;1903.05097&lt;/a&gt;&lt;/strong&gt; : Magnon Landau levels and emergent supersymmetry in strained antiferromagnets (Vojta, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.05098&quot;&gt;1903.05098&lt;/a&gt;&lt;/strong&gt; : Magnon interactions in the frustrated pyrochlore ferromagnet Yb$_2$Ti$_2$O$_7$ (R. Moessner, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.05001&quot;&gt;1903.05001&lt;/a&gt;&lt;/strong&gt; : Dual topology in Jacutingaite Pt$_2$HgSe$_3$ (van den Brink, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.03774&quot;&gt;1903.03774&lt;/a&gt;&lt;/strong&gt; : Chiral domain walls of Mn$_3$Sn and their memory (Behnia, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.04288&quot;&gt;1903.04288&lt;/a&gt;&lt;/strong&gt; : Spin waves in thin films and magnonic crystals with Dzyaloshinskii-Moriya interactions (DMI symmetry, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 16 Mar 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/03/Mar3weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/Mar3weeks</guid>
+        
+        
+        <category>2019Mar</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Mar 2 week 2019)</title>
@@ -394,42 +469,6 @@
         <pubDate>Sun, 13 Jan 2019 00:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/01/Jan2weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/01/Jan2weeks</guid>
-        
-        
-        <category>2019Jan</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Jan 1 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041301&quot;&gt;PhysRevB.99.041301&lt;/a&gt;&lt;/strong&gt; : Higher-order topological phases: A general principle of construction (Bitan Roy, PRB(R))&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.00500&quot;&gt;1901.00500&lt;/a&gt;&lt;/strong&gt; : A chiral twist on the high-$T_c$ phase diagram in Moir'e heterostructures (Nandkishore, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.00445&quot;&gt;1901.00445&lt;/a&gt;&lt;/strong&gt; : Crystal Hall effect in Collinear Antiferromagnets (Sinova, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.00012&quot;&gt;1901.00012&lt;/a&gt;&lt;/strong&gt; : Unveiling Hidden Orders: Magnetostriction as a Probe of Multipolar-Ordered States (YB Kim, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041101&quot;&gt;PhysRevB.99.041101&lt;/a&gt;&lt;/strong&gt; : Band crossings in honeycomb-layered transition metal compounds (Motome, PRB(R))&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.11912&quot;&gt;1812.11912&lt;/a&gt;&lt;/strong&gt; : A gap-protected zero-Hall effect state in the quantum limit of the nonsymmorphic metal KHgSb (Ong, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1812.11125&quot;&gt;1812.11125&lt;/a&gt;&lt;/strong&gt; : Topological Magnons and Edge States in Antiferromagnetic Skyrmion Crystals (D. Loss, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 05 Jan 2019 00:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/01/Jan1weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/01/Jan1weeks</guid>
         
         
         <category>2019Jan</category>
