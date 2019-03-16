@@ -4,7 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-Recent Posts
 
 <ul class="listing">
 {% for post in site.posts %}
