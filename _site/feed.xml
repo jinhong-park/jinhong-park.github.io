@@ -6,9 +6,72 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Mar 2019 22:01:05 +0900</pubDate>
-    <lastBuildDate>Sun, 31 Mar 2019 22:01:05 +0900</lastBuildDate>
+    <pubDate>Sun, 07 Apr 2019 14:26:50 +0900</pubDate>
+    <lastBuildDate>Sun, 07 Apr 2019 14:26:50 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Apr 1 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.00220&quot;&gt;1904.00220&lt;/a&gt;&lt;/strong&gt; : Topological polarons, quasiparticle invariants and their detection in 1D symmetry-protected phases (E. Demler, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.00250&quot;&gt;1904.00250&lt;/a&gt;&lt;/strong&gt; : Magnetic hopfions in solids (S. Blugel, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.00530&quot;&gt;1904.00530&lt;/a&gt;&lt;/strong&gt; : Theoretical study of the spin and charge dynamics of two-leg ladders as probed by resonant inelastic x-ray scattering (triplon, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.00915&quot;&gt;1904.00915&lt;/a&gt;&lt;/strong&gt; : Evidence for a Vestigial Nematic State in the Cuprate Pseudogap Phase (pseudogap cuprate, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.02369&quot;&gt;1904.02369&lt;/a&gt;&lt;/strong&gt; : Topological chiral magnetic interactions driven by emergent orbital magnetism (S. Blugel, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.155404&quot;&gt;PhysRevB.99.155404&lt;/a&gt;&lt;/strong&gt; : Gyrotropic Hall effect in Berry-curved materials (Pesin, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.02157&quot;&gt;1904.02157&lt;/a&gt;&lt;/strong&gt; : Quantized plateau in the thermoelectric Hall conductivity for Dirac electrons in the extreme quantum limit (thermoelectric Hall effect, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.01812&quot;&gt;1904.01812&lt;/a&gt;&lt;/strong&gt; : Possible superconductivity induced by a large spin-orbit coupling in carrier doped iridium oxide insulators: A weak coupling approach (S. Yuoki, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.02117&quot;&gt;1904.02117&lt;/a&gt;&lt;/strong&gt; : Spinon waves in magnetized spin liquids (L. Balents, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.01751&quot;&gt;1904.01751&lt;/a&gt;&lt;/strong&gt; : Non-Abelian Aharonov-Casher Phase Factor in Mesoscopic Systems (Nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.01523&quot;&gt;1904.01523&lt;/a&gt;&lt;/strong&gt; : Deriving models for the Kitaev spin-liquid candidate material $\alpha$-RuCl$_3$ from first principles (kitaev cRPA, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.00013&quot;&gt;1904.00013&lt;/a&gt;&lt;/strong&gt; : Magnus Hall Effect (Liang Fu, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1903.12249&quot;&gt;1903.12249&lt;/a&gt;&lt;/strong&gt; : Vortex Lattice Structure and Topological Superconductivity in the Quantum Hall Regime (AH Macdonald, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1903.12379&quot;&gt;1903.12379&lt;/a&gt;&lt;/strong&gt; : Spin-Orbital Hallmarks of Unconventional Superconductors Without Inversion Symmetry (orbital Rashba, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.140201&quot;&gt;PhysRevB.99.140201&lt;/a&gt;&lt;/strong&gt; : Landau levels, Bardeen polynomials, and Fermi arcs in Weyl semimetals: Lattice-based approach to the chiral anomaly (lattice model for chiral anomaly, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.127201&quot;&gt;PhysRevLett.122.127201&lt;/a&gt;&lt;/strong&gt; : Higgs Mode of Planar Coupled Spin Ladders and its Observation in C 9 H 18 N 2 CuBr 4 (Higgs amplitude mode, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 06 Apr 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/04/Apr1weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/04/Apr1weeks</guid>
+        
+        
+        <category>2019Apr</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Mar 5 week 2019)</title>
@@ -501,48 +564,6 @@
         
         
         <category>2019Feb</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Jan 4 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.036401&quot;&gt;PhysRevLett.122.036401&lt;/a&gt;&lt;/strong&gt; : Spin-Polarization Control Driven by a Rashba-Type Effect Breaking the Mirror Symmetry in Two-Dimensional Dual Topological Insulators (Na3Bi, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.08146&quot;&gt;1901.08146&lt;/a&gt;&lt;/strong&gt; : Revisiting the Kitaev material candidacy of Ir4+ double perovskite iridates (double perovskite iridates, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/magazine-assets/d41586-019-00268-w/d41586-019-00268-w.pdf&quot;&gt;Shoucheng Zhang (1963–2018)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.07195&quot;&gt;1901.07195&lt;/a&gt;&lt;/strong&gt; : Finite difference method for Dirac electrons in circular quantum dots (Poland group, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.07588&quot;&gt;1901.07588&lt;/a&gt;&lt;/strong&gt; : High-harmonic generation in quantum spin systems (P. Werner, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.07041&quot;&gt;1901.07041&lt;/a&gt;&lt;/strong&gt; : Possible 3D nematic odd-parity pairing in Sr$_2$RuO$_4$: experimental evidences and predictions (Hong Yao, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.014427&quot;&gt;PhysRevB.99.014427&lt;/a&gt;&lt;/strong&gt; : Thermal Hall effect in noncollinear coplanar insulating antiferromagnets (A. Mook, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.014425&quot;&gt;PhysRevB.99.014425&lt;/a&gt;&lt;/strong&gt; : Spiral magnetic ordering of the Eu moments in EuNi 2 As 2 (spiral Eu, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.06192&quot;&gt;1901.06192&lt;/a&gt;&lt;/strong&gt; : Magnonic Weyl states in Cu2OSeO3 (S. Blugel, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 26 Jan 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/01/Jan4weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/01/Jan4weeks</guid>
-        
-        
-        <category>2019Jan</category>
         
       </item>
     
