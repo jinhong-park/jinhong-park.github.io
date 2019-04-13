@@ -6,9 +6,76 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Apr 2019 14:26:50 +0900</pubDate>
-    <lastBuildDate>Sun, 07 Apr 2019 14:26:50 +0900</lastBuildDate>
+    <pubDate>Sat, 13 Apr 2019 17:19:51 +0900</pubDate>
+    <lastBuildDate>Sat, 13 Apr 2019 17:19:51 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Apr 2 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.140407&quot;&gt;PhysRevB.99.140407&lt;/a&gt;&lt;/strong&gt; : Distinct magnetotransport and orbital fingerprints of chiral bobbers (S. Blugel, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.155123&quot;&gt;PhysRevB.99.155123&lt;/a&gt;&lt;/strong&gt; : Thermoelectric Hall conductivity and figure of merit in Dirac/Weyl materials (Liang Fu, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.05491&quot;&gt;1904.05491&lt;/a&gt;&lt;/strong&gt; : The absence of energy currents in an equilibrium state and chiral anomalies (energy current, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.05473&quot;&gt;1904.05473&lt;/a&gt;&lt;/strong&gt; : Anomalous charge transport in magnetic insulators with multiple-Q spin textures (SZ Lin, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.145901&quot;&gt;PhysRevLett.122.145901&lt;/a&gt;&lt;/strong&gt; : Phonon Magnetochiral Effect (Nagaosa, PRL)&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v12/40&quot;&gt;Physcis&lt;/a&gt;&lt;/strong&gt;	:  Viewpoint: Phonons Hum a Magnetochiral Tune (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.134413&quot;&gt;PhysRevB.99.134413&lt;/a&gt;&lt;/strong&gt; : Large magnetic thermal conductivity induced by frustration in low-dimensional quantum magnets (Batista, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.144507&quot;&gt;PhysRevB.99.144507&lt;/a&gt;&lt;/strong&gt; : Nematic superconductivity stabilized by density wave fluctuations: Possible application to twisted bilayer graphene (Liang Fu, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.04273&quot;&gt;1904.04273&lt;/a&gt;&lt;/strong&gt; : Bulk thermal transport coefficients in a quantum Hall system and the fundamental difference between thermal and charge response (Vinkler-Aviv, thermal transport, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.04280&quot;&gt;1904.04280&lt;/a&gt;&lt;/strong&gt; : Orbital Edelstein effect from density-wave order (paramekanti, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.04719&quot;&gt;1904.04719&lt;/a&gt;&lt;/strong&gt; : Parafermions, induced edge states and domain walls in the fractional quantum Hall effect spin transitions (Parafermion, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41567-019-0484-x&quot;&gt;s41567-019-0484-x&lt;/a&gt;&lt;/strong&gt; : Symmetry-enhanced discontinuous phase transition in a two-dimensional quantum magnet (Sandvik, nphys)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41563-019-0304-9&quot;&gt;s41563-019-0304-9&lt;/a&gt;&lt;/strong&gt; : Parity–time symmetry and exceptional points in photonics (F. Nori, nmat)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.134412&quot;&gt;PhysRevB.99.134412&lt;/a&gt;&lt;/strong&gt; : Cubic B20 helimagnets with quenched disorder in magnetic field (B20 Helimagnet, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.03220&quot;&gt;1904.03220&lt;/a&gt;&lt;/strong&gt; : Effective interactions between local hopping modulations on the square lattice (pi-flux model, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.03183&quot;&gt;1904.03183&lt;/a&gt;&lt;/strong&gt; : An Analytic Study of the Wiedemann-Franz Law and the Thermoelectric Figure of Merit (WF law, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.02968&quot;&gt;1904.02968&lt;/a&gt;&lt;/strong&gt; : Nonlinear response in a non-centrosymmetric topological insulator (F. Nori, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.03179&quot;&gt;1904.03179&lt;/a&gt;&lt;/strong&gt; : Signature of the Quantized Thermoelectric Hall Effect in a Topological Weyl Semimetal (Liang Fu, arxiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 13 Apr 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/04/Apr2weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/04/Apr2weeks</guid>
+        
+        
+        <category>2019Apr</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Apr 1 week 2019)</title>
@@ -522,45 +589,6 @@
         <pubDate>Sat, 09 Feb 2019 09:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/02/Feb2weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/02/Feb2weeks</guid>
-        
-        
-        <category>2019Feb</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Feb 1 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.047202&quot;&gt;PhysRevLett.122.047202&lt;/a&gt;&lt;/strong&gt; : Bond-Disordered Spin Liquid and the Honeycomb Iridate H 3 LiIr 2 O 6 : Abundant Low-Energy Density of States from Random Majorana Hopping (R. Moessner, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.11034&quot;&gt;1901.11034&lt;/a&gt;&lt;/strong&gt; : A DMRG Study of Superconductivity in the Triangular Lattice Hubbard Model (EA Kim, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.10931&quot;&gt;1901.10931&lt;/a&gt;&lt;/strong&gt; : Symmetry and correlation effects on band structure explain the anomalous transport properties of (111) LaAlO$_3$/SrTiO$_3$ (STO/LAO, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.10485&quot;&gt;1901.10485&lt;/a&gt;&lt;/strong&gt; : Magic Angle Hierarchy in Twisted Graphene Multilayers (A. Vishwanath, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.020508&quot;&gt;PhysRevB.99.020508&lt;/a&gt;&lt;/strong&gt; : Higher-order topological superconductivity: Possible realization in Fermi gases and Sr 2 RuO 4 (ruthenate, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v12/6&quot;&gt;Behnia&lt;/a&gt;&lt;/strong&gt; : Two-Dimensional Electrons Raise Eyebrows by Pairing Incoherently (Behnia, Physics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.09213&quot;&gt;1901.09213&lt;/a&gt;&lt;/strong&gt; : Unconventional Thermal Hall Effect in a Coupling Modulated Honeycomb Topological Magnon Insulator (THE, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1901.08850&quot;&gt;1901.08850&lt;/a&gt;&lt;/strong&gt; : Berry phase of phonons and thermal Hall effect in nonmagnetic insulators (Nagaosa, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 02 Feb 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/02/Feb1weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/02/Feb1weeks</guid>
         
         
         <category>2019Feb</category>
