@@ -6,9 +6,106 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Apr 2019 12:14:19 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Apr 2019 12:14:19 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Apr 2019 12:22:05 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Apr 2019 12:22:05 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Apr 4 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.09139&quot;&gt;1904.09139&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Magnetization density distribution of Sr$&lt;em&gt;2$IrO$_4$: Deviation from a local $j&lt;/em&gt;\text{eff}=1/2$ picture&lt;/strong&gt; (J. Jeong, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.144522&quot;&gt;PhysRevB.99.144522&lt;/a&gt;&lt;/strong&gt; : Coulomb problem in iron-based superconductors (P. Coleman, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.11394&quot;&gt;1904.11394&lt;/a&gt;&lt;/strong&gt; : Geometric orbital magnetization in adiabatic processes (Luka, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.165141&quot;&gt;PhysRevB.99.165141&lt;/a&gt;&lt;/strong&gt; : Topological states on the breathing kagome lattice (Nagaosa, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.134437&quot;&gt;PhysRevB.99.134437&lt;/a&gt;&lt;/strong&gt; : Spin-fermion model for skyrmions in MnGe derived from strong correlations (DFT MnGe, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.10975&quot;&gt;1904.10975&lt;/a&gt;&lt;/strong&gt; : Deconfined quantum criticality and emergent SO(5) symmetry in fermionic systems (Hong Yao, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.021017&quot;&gt;PhysRevX.9.021017&lt;/a&gt;&lt;/strong&gt; : Anisotropic-Exchange Magnets on a Triangular Lattice: Spin Waves, Accidental Degeneracies, and Dual Spin Liquids (White, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.167202&quot;&gt;PhysRevLett.122.167202&lt;/a&gt;&lt;/strong&gt;	: Exotic Low-Energy Excitations Emergent in the Random Kitaev Magnet Cu 2 IrO 3 (choi, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.166602&quot;&gt;PhysRevLett.122.166602&lt;/a&gt;&lt;/strong&gt; : Local Theory of the Insulating State (Resta, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.167201&quot;&gt;PhysRevLett.122.167201&lt;/a&gt;&lt;/strong&gt; : Multiscale Quantum Criticality Driven by Kondo Lattice Coupling in Pyrochlore Systems (EG Moon, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.155146&quot;&gt;PhysRevB.99.155146&lt;/a&gt;&lt;/strong&gt; : Nonlinear response in a noncentrosymmetric topological insulator (F. Nori, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.155148&quot;&gt;PhysRevB.99.155148&lt;/a&gt;&lt;/strong&gt; : &lt;i&gt;Ab initio&lt;/i&gt; derivation of an effective Hamiltonian for the La 2 CuO 4 / La 1.55 Sr 0.45 CuO 4 heterostructure (Imada, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.10588&quot;&gt;1904.10588&lt;/a&gt;&lt;/strong&gt; : Antisymmetric magnetoresistance in van der Waals Fe3GeTe2/graphite/Fe3GeTe2 tri-layer heterostructures (vDW, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.10452&quot;&gt;1904.10452&lt;/a&gt;&lt;/strong&gt; : Landau Level Degeneracy in Twisted Bilayer Graphene: Role of Symmetry Breaking (Senthil, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.10328&quot;&gt;1904.10328&lt;/a&gt;&lt;/strong&gt; : $k \cdot p$ theory for phosphorene: effective g-factors, Landau levels, excitons (J. Fabian, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.09687&quot;&gt;1904.09687&lt;/a&gt;&lt;/strong&gt; : The Physics of Pair Density Waves (PA Lee, annual review of condensed matter physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.09629&quot;&gt;1904.09629&lt;/a&gt;&lt;/strong&gt; : Spin-$S$ designer hamiltonians and the square lattice $S=1$ Haldane nematic (Haldane nematic, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.09932&quot;&gt;1904.09932&lt;/a&gt;&lt;/strong&gt; : Higher-Order Topological Insulators in Quasicrystals (Higher-order TI in quasicrystals, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.08948&quot;&gt;1904.08948&lt;/a&gt;&lt;/strong&gt; : Measuring the Entropy of a Mesoscopic System via Thermoelectric Transport (Molenkamp, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.09215&quot;&gt;1904.09215&lt;/a&gt;&lt;/strong&gt; : Quantum Brownian Motion of a Magnetic Skyrmion (D. Loss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.09164&quot;&gt;1904.09164&lt;/a&gt;&lt;/strong&gt; : Understanding electron-doped cuprate superconductors as hole superconductors (Hirsch, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 27 Apr 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/04/Apr4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/04/Apr4weeks</guid>
+        
+        
+        <category>2019Apr</category>
+        
+      </item>
+    
+      <item>
+        <title>KPS 2019 spring</title>
+        <description>&lt;p&gt;2019 KPS spring meeting &lt;a href=&quot;http://www.kps.or.kr/1113&quot;&gt;http://www.kps.or.kr/1113&lt;/a&gt; in Deajeon, Korea.&lt;/p&gt;
+
+&lt;dl class=&quot;wp-caption alignbottom&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/chocolate.jpg&quot; alt=&quot;only picture that I took during KPS meeting. Chocolate from Prof. C. Kim&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;only picture that I took during KPS meeting. Chocolate from Prof. C. Kim&lt;/dd&gt;
+&lt;/dl&gt;
+
+</description>
+        <pubDate>Mon, 22 Apr 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/04/KPS</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/04/KPS</guid>
+        
+        
+      </item>
     
       <item>
         <title>weekly picks (Apr 3 week 2019)</title>
@@ -517,111 +614,6 @@
         
         
         <category>2019Mar</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Feb 4 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.07508&quot;&gt;1902.07508&lt;/a&gt;&lt;/strong&gt; : Difficulties in operator-based formulation of the bulk quadrupole moment (Luka, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.07269&quot;&gt;1902.07269&lt;/a&gt;&lt;/strong&gt; : Superexchange interactions between spin-orbit-coupled $j!\approx!1/2$ ions in oxides with face-sharing ligand octahedra (van den Brink, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.07961&quot;&gt;1902.07961&lt;/a&gt;&lt;/strong&gt; : Spontaneous Symmetry Breaking in Monolayers of Transition Metal Dichalcogenides (D. Loss, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.07825&quot;&gt;1902.07825&lt;/a&gt;&lt;/strong&gt; : Field-Induced Phase Transition of the Spin Liquid State in Triangular Antiferromagnet YbMgGaO4 (field-induced spin liquid, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1902.07716&quot;&gt;1902.07716&lt;/a&gt;&lt;/strong&gt; : Photoinduced Floquet topological magnons in Kitaev magnets (Baskaran, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.054422&quot;&gt;PhysRevB.99.054422&lt;/a&gt;&lt;/strong&gt; : Thermal Hall effect and topological edge states in a square-lattice antiferromagnet (Hotta, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011033&quot;&gt;PhysRevX.9.011033&lt;/a&gt;&lt;/strong&gt; : Quantum Anomalous Vortex and Majorana Zero Mode in Iron-Based Superconductor Fe(Te,Se) (X. Dai, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.07075&quot;&gt;1902.07075&lt;/a&gt;&lt;/strong&gt; : Non-spin-ice pyrochlore U(1) quantum spin liquid: Manifesting mixed symmetry enrichments (Gang Chen, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.06166&quot;&gt;1902.06166&lt;/a&gt;&lt;/strong&gt; : Vison Crystals in an Extended Kitaev Model on the Honeycomb Lattice (C. Batista, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.06433&quot;&gt;1902.06433&lt;/a&gt;&lt;/strong&gt; : Impact of off-diagonal exchange interactions on the Kitaev spin liquid state of $\alpha$-RuCl$_3$ (Fujimoto, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.06601&quot;&gt;1902.06601&lt;/a&gt;&lt;/strong&gt; : Anomalous thermal Hall effect in the topological antiferromagnetic state (THE AFM, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.05862&quot;&gt;1902.05862&lt;/a&gt;&lt;/strong&gt; : Impurity-induced triple point fermions in twisted bilayer graphene (Lado, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 23 Feb 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/02/Feb4weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/02/Feb4weeks</guid>
-        
-        
-        <category>2019Feb</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Feb 3 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085125&quot;&gt;PhysRevB.99.085125&lt;/a&gt;&lt;/strong&gt; : Pseudospin-lattice coupling in the spin-orbit Mott insulator Sr 2 IrO 4 (BJ Kim, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085128&quot;&gt;PhysRevB.99.085128&lt;/a&gt;&lt;/strong&gt; : Folding approach to topological order enriched by mirror symmetry (Yang Qi, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085127&quot;&gt;PhysRevB.99.085127&lt;/a&gt;&lt;/strong&gt; : Topological classification under nonmagnetic and magnetic point group symmetry: Application of real-space Atiyah-Hirzebruch spectral sequence to higher-order topology (Shiozaki, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://advances.sciencemag.org/content/5/2/eaau7023&quot;&gt;eaau7023&lt;/a&gt;&lt;/strong&gt; : Theoretical guidelines to create and tune electric skyrmion bubbles (skyrmion bubble, science adv.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011032&quot;&gt;PhysRevX.9.011032&lt;/a&gt;&lt;/strong&gt; : Nano-Resolved Current-Induced Insulator-Metal Transition in the Mott Insulator Ca 2 RuO 4 (AJ Millis, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://science.sciencemag.org/content/363/6428/eaav4450&quot;&gt;eaav4450&lt;/a&gt;&lt;/strong&gt; : Two-dimensional magnetic crystals and emergent heterostructure devices (2D magnetism, science)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.05523&quot;&gt;1902.05523&lt;/a&gt;&lt;/strong&gt; : Measuring the Dzyaloshinskii-Moriya interaction of the epitaxial Co/Ir(111) interface (DMI, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.067204&quot;&gt;PhysRevLett.122.067204&lt;/a&gt;&lt;/strong&gt; : Flat Bands, Indirect Gaps, and Unconventional Spin-Wave Behavior Induced by a Periodic Dzyaloshinskii-Moriya Interaction (periodic DMI, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-019-0932-x&quot;&gt;s41586-019-0932-x&lt;/a&gt;&lt;/strong&gt; : Thermodynamic signatures of quantum criticality in cuprate superconductors (Taillefer, Nature)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.067201&quot;&gt;PhysRevLett.122.067201&lt;/a&gt;&lt;/strong&gt; : First-Principles Design of the Spinel Iridate Ir 2 O 4 for High-Temperature Quantum Spin Ice (S. Onoda, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-031218-013113&quot;&gt;annurev-conmatphys-031218-013113&lt;/a&gt;&lt;/strong&gt; : Square Lattice Iridates (BJ Kim, Annual Review of Condensed Matter Physics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.066801&quot;&gt;PhysRevLett.122.066801&lt;/a&gt;&lt;/strong&gt; : Z 4 parafermions in Weakly Interacting Superconducting Constrictions at the Helical Edge of Quantum Spin Hall Insulators (Trauzettel, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.02798&quot;&gt;1902.02798&lt;/a&gt;&lt;/strong&gt; : Triplet excitations in the frustrated spin ladder Li$_2$Cu$_2$O(SO$_4$)$_2$ (triplet, arXiv) —mathematica&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sun, 17 Feb 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/02/Feb3weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/02/Feb3weeks</guid>
-        
-        
-        <category>2019Feb</category>
         
       </item>
     
