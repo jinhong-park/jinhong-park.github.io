@@ -4,18 +4,19 @@ title: Publications
 permalink: /Publications/
 ---
 
+* __[publons](https://publons.com/researcher/2208817/jin-hong-park/)__
 * __[google scholar](https://scholar.google.co.kr/citations?user=pRZNFg4AAAAJ&hl=ko)__
 * __[orcid(0000-0003-4408-7171)](https://orcid.org/0000-0003-4408-7171)__
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-#### I have 14 publications including 1 in Nature and 4 in Physical Review Letters with 1332 citations. (web of science at Nov. 2018).
+#### I have 15 publications including 1 in Nature and 4 in Physical Review Letters with 1332 citations. (web of science at Nov. 2018).
 
 
 
-1. __Jin-Hong Park__, Seung Hun Lee, Hosub Jin, Bohm-Jung Yang \\
-[Two-Dimensional Peierls Instability via Zone Boundary Dirac Line Nodes in Layered Perovskite Oxides](https://arxiv.org/abs/1808.06830) \\
-arXiv:1808.06830
+1. __Jin-Hong Park__, Seung Hun Lee, Choong H. Kim, Hosub Jin, and Bohm-Jung Yang \\
+[Two-dimensional Peierls instability via zone-boundary Dirac line nodes in layered perovskite oxides](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.195107) \\
+Phys. Rev. B __99__, 195107 (6 May 2019) `Editors' Suggestion`
 
 1. Soohyun Cho, __Jin-Hong Park__, Jisook Hong, Jongkeun Jung, Beom Seo Kim, Garam Han, Wonshik Kyung, Yeongkwan Kim, S.-K. Mo, J. D. Denlinger, Ji Hoon Shim, Jung Hoon Han, Changyoung Kim, Seung Ryong Park \\
 [Experimental observation of hidden Berry curvature in inversion-symmetric bulk 2H-WSe2](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.186401) \\
@@ -23,7 +24,7 @@ Phys. Rev. Lett. __121__, 186401 (29 October 2018)
 
 1. T. Fujita, P. Stano, G. Allison, K. Morimoto, Y. Sato, M. Larsson, __J.-H. Park__, A. Ludwig, A.D. Wieck, A. Oiwa, and S. Tarucha \\
 [Signatures of Hyperfine, Spin-Orbit, and Decoherence Effects in a Pauli Spin Blockade](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.206802) \\
-Phys. Rev. Lett. __117__, 206802 (11 November 2016)
+Phys. Rev. Lett. __117__, 206802 (11 November 2016) `Editors' Suggestion`
 
 
 
@@ -42,7 +43,7 @@ Phys. Rev. B __91__, 104435 (31 March 2015)
 
 1.  Yun-Tak Oh, Panjin Kim, __Jin-Hong Park__ and Jung Hoon Han \\
 [Manifold Mixing in the Temporal Evolution of a Spin-1 Spinor Bose-Einstein Condensate](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.160402) \\
-Phys. Rev. Lett. __112__, 160402 (22 Apr 2014)
+Phys. Rev. Lett. __112__, 160402 (22 Apr 2014) `Editors' Suggestion`
 
 1.  Gyungchoon Go, __Jin-Hong Park__ and Jung Hoon Han \\
 [Three-band model for quantum Hall and spin Hall effects](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.87.155112) \\
