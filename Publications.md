@@ -10,7 +10,13 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-#### I have 15 publications including 1 in Nature and 4 in Physical Review Letters with 1332 citations. (web of science at Nov. 2018).
+#### I have 15 publications including 1 in Nature and 4 in Physical Review Letters with 1475 citations. (web of science at May 2019).  I also have 1 preprint in arXiv. 
+
+
+1.   Jung Hoon Han, __Jin-Hong Park__, Patrick A. Lee \\
+[Consideration of Thermal Hall Effect in Undoped Cuprates](https://arxiv.org/abs/1903.01125)\\
+arXiv:1903.01125
+
 
 
 
@@ -78,7 +84,5 @@ Phys. Rev. B __79__, 104437 (Mar. 31, 2009)
 [Nematic and chiral order for planar spins on a triangular lattice](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.167202) \\
 Phys. Rev. Lett. __101__, 167202 (Oct. 17, 2008)
 
-
----
 
 
