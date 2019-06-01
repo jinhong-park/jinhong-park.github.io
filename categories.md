@@ -5,9 +5,10 @@ permalink: /categories/
 ---
 
   <table>
-       <caption> <b>2019</b> </caption>
+       <caption>  </caption>
        <thead>
          <tr>
+		 <th>2019</th>
          </tr>
        </thead>
        <tbody>
@@ -63,15 +64,11 @@ permalink: /categories/
   <br>
 
  <table>
-      <caption> <b>2018</b> </caption>
+      <caption>   </caption>
       <thead>
         <tr>
-          <th></th>
-          <th> </th>
-          <th> </th>
-          <th> </th>
-		  <th> </th>
-		  <th> </th>
+          <th>2018</th>
+          
         </tr>
       </thead>
       <tbody>
