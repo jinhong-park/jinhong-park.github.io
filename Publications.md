@@ -10,14 +10,12 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-#### I have 15 publications including 1 in Nature and 4 in Physical Review Letters with 1475 citations. (web of science at May 2019).  I also have 1 preprint in arXiv. 
+#### I have 16 publications including 1 in Nature and 4 in Physical Review Letters with 1475 citations. (web of science at May 2019). 
 
 
 1.   Jung Hoon Han, __Jin-Hong Park__, Patrick A. Lee \\
-[Consideration of Thermal Hall Effect in Undoped Cuprates](https://arxiv.org/abs/1903.01125)\\
-arXiv:1903.01125
-
-
+[Consideration of thermal Hall effect in undoped cuprates](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.205157)\\
+Phys. Rev. B __99__, 205157 (30 May 2019)
 
 
 1. __Jin-Hong Park__, Seung Hun Lee, Choong H. Kim, Hosub Jin, and Bohm-Jung Yang \\
