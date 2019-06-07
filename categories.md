@@ -3,6 +3,8 @@ layout: page
 title: weekly picks
 permalink: /categories/
 ---
+  <a href="../../fulllist"><b>   Full list</b></a> 
+
 
   <table>
        <caption>  </caption>

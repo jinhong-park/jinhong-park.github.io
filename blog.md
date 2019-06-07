@@ -3,7 +3,8 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-
+ 
+  <a href="../../fulllist"><b>   Full list</b></a> 
 
 <ul class="listing">
 {% for post in site.posts %}
