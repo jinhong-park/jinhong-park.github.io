@@ -6,9 +6,78 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Jun 2019 16:41:16 +0900</pubDate>
-    <lastBuildDate>Sun, 16 Jun 2019 16:41:16 +0900</lastBuildDate>
+    <pubDate>Sat, 22 Jun 2019 14:46:48 +0900</pubDate>
+    <lastBuildDate>Sat, 22 Jun 2019 14:46:48 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Jun 4 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.235144&quot;&gt;PhysRevB.99.235144&lt;/a&gt;&lt;/strong&gt; : Parity anomaly from the Hamiltonian point of view (Lapa, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s42005-019-0155-3&quot;&gt;s42005-019-0155-3&lt;/a&gt;&lt;/strong&gt; : Fingerprints of an orbital-selective Mott phase in the block magnetic state of BaFe2Se3 ladders (RIXS, commphys)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1806.03272&quot;&gt;1806.03272&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Thermal conductance of an Edge mode (Schmeltzer, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.08277&quot;&gt;1906.08277&lt;/a&gt;&lt;/strong&gt; : Anomalous conductance scaling in strained Weyl semimetals (Bardarson, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.245416&quot;&gt;PhysRevB.99.245416&lt;/a&gt;&lt;/strong&gt; : Majorana bound states in double nanowires with reduced Zeeman thresholds due to supercurrents (D. Loss, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41586-019-1319-8&quot;&gt;s41586-019-1319-8&lt;/a&gt;&lt;/strong&gt; : Machine learning in electronic-quantum-matter imaging experiments (EA Kim, Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.08224&quot;&gt;1906.08224&lt;/a&gt;&lt;/strong&gt; : Phonon scattering induced carrier resistivity in twisted double bilayer graphene (Das Sarma, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.07756&quot;&gt;1906.07756&lt;/a&gt;&lt;/strong&gt; : Superconductivity in Graphene Induced by the Rotated Layer (Schmeltzer, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.214426&quot;&gt;PhysRevB.99.214426&lt;/a&gt;&lt;/strong&gt; : Comparison of first-principles methods to extract magnetic parameters in ultrathin films: Co/Pt(111) (S. Blugel, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.214424&quot;&gt;PhysRevB.99.214424&lt;/a&gt;&lt;/strong&gt; : Unconventional thermal magnon Hall effect in a ferromagnetic topological insulator (thermal magnon Hall effect, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.224422&quot;&gt;PhysRevB.99.224422&lt;/a&gt;&lt;/strong&gt; : Microscopic spinon-chargon theory of magnetic polarons in the t − J model (E. Demler, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.245411&quot;&gt;PhysRevB.99.245411&lt;/a&gt;&lt;/strong&gt; : Topological transitions in metals (Kamenev, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.07362&quot;&gt;1906.07362&lt;/a&gt;&lt;/strong&gt; : Plasmon effect on the Coulomb pseudopotential $\mu^*$ in the McMillan equation (McMillan equation, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.021053&quot;&gt;PhysRevX.9.021053&lt;/a&gt;&lt;/strong&gt; : Hear the Sound of Weyl Fermions (Xi Dai, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.06501&quot;&gt;1906.06501&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Theory of giant skew scattering by spin cluster (Nagaosa, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.07090&quot;&gt;1906.07090&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Topological spin excitations in Harper-Heisenberg spin chains (Lado, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.06246&quot;&gt;1906.06246&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Kagome model for a ${\mathbb Z}_2$ quantum spin liquid (spin liquid, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.06097&quot;&gt;1906.06097&lt;/a&gt;&lt;/strong&gt; : Application of the Landauer formalism to the calculation of spin current (Landauer formalism, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 22 Jun 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/06/Jun4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/06/Jun4weeks</guid>
+        
+        
+        <category>2019Jun</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Jun 3 week 2019)</title>
@@ -616,75 +685,6 @@
         <link>http://localhost:4000/blog/2019/04/KPS</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/04/KPS</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Apr 3 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41467-019-09698-6&quot;&gt;s41467-019-09698-6&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Origin of band gaps in 3d perovskite oxides (3d perovskite, ncomms)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.134515&quot;&gt;PhysRevB.99.134515&lt;/a&gt;&lt;/strong&gt; : Wannier pairs in superconducting twisted bilayer graphene and related systems (J. Jung, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.155134&quot;&gt;PhysRevB.99.155134&lt;/a&gt;&lt;/strong&gt; : Families of gapped interfaces between fractional quantum Hall states (Hughes, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.08865&quot;&gt;1904.08865&lt;/a&gt;&lt;/strong&gt; : Topological thermal Hall effect of “magnetic monopoles” in pyrochlore U(1) spin liquid (G. Chen, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.165126&quot;&gt;PhysRevB.99.165126&lt;/a&gt;&lt;/strong&gt; : Thermal Hall effect in square-lattice spin liquids: A Schwinger boson mean-field study (Sachdev, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41563-019-0330-7&quot;&gt;s41563-019-0330-7&lt;/a&gt;&lt;/strong&gt; : Lighting up Weyl semimetals (Hongmeng Weng, nmat)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41586-019-1092-8&quot;&gt;s41586-019-1092-8&lt;/a&gt;&lt;/strong&gt; : Observation of room-temperature polar skyrmions (Ramesh, Nature)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.021010&quot;&gt;PhysRevX.9.021010&lt;/a&gt;&lt;/strong&gt; : Cage-Net Fracton Models (Hermele-antiperovskite, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.155415&quot;&gt;PhysRevB.99.155415&lt;/a&gt;&lt;/strong&gt; : Pseudo Landau level representation of twisted bilayer graphene: Band topology and implications on the correlated insulating phase (X. Dai, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.161405&quot;&gt;PhysRevB.99.161405&lt;/a&gt;&lt;/strong&gt; : Coupled-wire description of the correlated physics in twisted bilayer graphene (Cenke Xu, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.08148&quot;&gt;1904.08148&lt;/a&gt;&lt;/strong&gt; : Two-orbital effective model for magnetic Weyl semimetal in Kagome-lattice shandite (Nomura, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.07324&quot;&gt;1904.07324&lt;/a&gt;&lt;/strong&gt; : Magnetic response of Sr$_2$RuO$_4$: quasi-local spin fluctuations due to Hund’s coupling (ruthenate, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.07242&quot;&gt;1904.07242&lt;/a&gt;&lt;/strong&gt; : Topological phases without crystalline counterparts (quasicrystal majorana, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.157201&quot;&gt;PhysRevLett.122.157201&lt;/a&gt;&lt;/strong&gt; : Overdamped Antiferromagnetic Strange Metal State in Sr 3 IrRuO 7 (Iridate strange metal, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.06355&quot;&gt;1904.06355&lt;/a&gt;&lt;/strong&gt; : Topological Phase Transition driven by Infinitesimal Instability: Majorana Fermions in Non-Hermitian Spintronics (M. Sato, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.07181&quot;&gt;1904.07181&lt;/a&gt;&lt;/strong&gt; : Spin-to-charge conversion in magnetic Weyl semimetals (A. Burkov, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.06095&quot;&gt;1904.06095&lt;/a&gt;&lt;/strong&gt;  :One-dimensionalization by Geometrical Frustration in the Anisotropic Triangular Lattice of the 5d Quantum Antiferromagnet Ca3ReO5Cl2 (spinon, JPSP)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.06216&quot;&gt;1904.06216&lt;/a&gt;&lt;/strong&gt; : Composite Dirac Semimetal (SA Yang, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 20 Apr 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/04/Apr3weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/04/Apr3weeks</guid>
-        
-        
-        <category>2019Apr</category>
         
       </item>
     
