@@ -6,9 +6,75 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Jun 2019 14:46:48 +0900</pubDate>
-    <lastBuildDate>Sat, 22 Jun 2019 14:46:48 +0900</lastBuildDate>
+    <pubDate>Sat, 29 Jun 2019 15:33:19 +0900</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2019 15:33:19 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Jun 5 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.257002&quot;&gt;PhysRevLett.122.257002&lt;/a&gt;&lt;/strong&gt; : Twisted Bilayer Graphene: A Phonon-Driven Superconductor (Bernevig, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.224432&quot;&gt;PhysRevB.99.224432&lt;/a&gt;&lt;/strong&gt; : Dissipative quantum Ising chain as a non-Hermitian Ashkin-Teller model (Katsura, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.245151&quot;&gt;PhysRevB.99.245151&lt;/a&gt;&lt;/strong&gt; : Quantization of fractional corner charge in C n -symmetric higher-order topological crystalline insulators (Hughes, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.257202&quot;&gt;PhysRevLett.122.257202&lt;/a&gt;&lt;/strong&gt; : Interlayer Dzyaloshinskii-Moriya Interactions (interlayer DMI, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.241112&quot;&gt;PhysRevB.99.241112&lt;/a&gt;&lt;/strong&gt; : SU(4) topological resonating valence bond spin liquid on the square lattice (RVB, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.10701&quot;&gt;1906.10701&lt;/a&gt;&lt;/strong&gt; : Statistics of correlations across the many-body localization transition (ETH, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.256402&quot;&gt;PhysRevLett.122.256402&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Higher-Order Topology of the Axion Insulator EuIn 2 As 2 (X. Dai, PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.245418&quot;&gt;PhysRevB.99.245418&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Theory of the phonon side-jump contribution in anomalous Hall effect (Q. Niu, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.10146&quot;&gt;1906.10146&lt;/a&gt;&lt;/strong&gt; : Fluctuations and Higgs mechanism in Under-Doped Cuprates: a Review (review, annu review condmat)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.10685&quot;&gt;1906.10685&lt;/a&gt;&lt;/strong&gt; : Antiunitary symmetry protected higher order topological phases (B. Roy, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.10131&quot;&gt;1906.10131&lt;/a&gt;&lt;/strong&gt; :  Weak Ergodicity Breaking and Quantum Many-Body Scars in Spin-1 XY Magnets (quantum scar, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.10139&quot;&gt;1906.10139&lt;/a&gt;&lt;/strong&gt; : Modeling SNS junctions and Andreev bound states using two impurities and the T -matrix formalism (T-matrix, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.10174&quot;&gt;1906.10174&lt;/a&gt;&lt;/strong&gt; : Tuning quantum reflection in graphene with an external magnetic field (graphene reflection, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41567-019-0546-0&quot;&gt;s41567-019-0546-0&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Interlayer fractional quantum Hall effect in a coupled graphene double layer (P. Kim, nphys)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41567-019-0580-y&quot;&gt;s41567-019-0580-y&lt;/a&gt;&lt;/strong&gt; : Superconductivity in an insulator (Mirlin, nphys)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.09286&quot;&gt;1906.09286&lt;/a&gt;&lt;/strong&gt; : Topological Crystalline Superconductivity in Dirac Semimetal Phase of Iron-based Superconductors (M. Sato, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.08817&quot;&gt;1906.08817&lt;/a&gt;&lt;/strong&gt; : Self-conjugate representation SU(3) chains (Affleck, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 29 Jun 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/06/Jun5weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/06/Jun5weeks</guid>
+        
+        
+        <category>2019Jun</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Jun 4 week 2019)</title>
@@ -666,25 +732,6 @@
         
         
         <category>2019Apr</category>
-        
-      </item>
-    
-      <item>
-        <title>KPS 2019 spring</title>
-        <description>&lt;p&gt;2019 KPS spring meeting &lt;a href=&quot;http://www.kps.or.kr/1113&quot;&gt;http://www.kps.or.kr/1113&lt;/a&gt; in Deajeon, Korea.&lt;/p&gt;
-
-&lt;dl class=&quot;wp-caption alignbottom&quot; style=&quot;max-width: 300px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/chocolate.jpg&quot; alt=&quot;only picture that I took during KPS meeting. Chocolate from Prof. C. Kim&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;only picture that I took during KPS meeting. Chocolate from Prof. C. Kim&lt;/dd&gt;
-&lt;/dl&gt;
-
-</description>
-        <pubDate>Mon, 22 Apr 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/04/KPS</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/04/KPS</guid>
-        
         
       </item>
     
