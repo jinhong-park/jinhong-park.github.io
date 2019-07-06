@@ -6,9 +6,21 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jul 2019 21:21:42 +0900</pubDate>
-    <lastBuildDate>Sat, 06 Jul 2019 21:21:42 +0900</lastBuildDate>
+    <pubDate>Sat, 06 Jul 2019 22:25:21 +0900</pubDate>
+    <lastBuildDate>Sat, 06 Jul 2019 22:25:21 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>wjwkdth</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1611.08519.pdf&quot;&gt;Diagonalizing transfer matrices and matrix product operators: a medley of exact and computational methods&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 Jul 2019 09:50:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/07/some-list</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/07/some-list</guid>
+        
+        
+      </item>
     
       <item>
         <title>weekly picks (Jul 1 week 2019)</title>
@@ -669,75 +681,6 @@
         <pubDate>Sat, 11 May 2019 09:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/05/May2weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/05/May2weeks</guid>
-        
-        
-        <category>2019May</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (May 1 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1905.00435&quot;&gt;1905.00435&lt;/a&gt;&lt;/strong&gt; : Anomaly indicators for topological orders with $U(1)$ and time-reversal symmetry (Lapa, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1905.00460&quot;&gt;1905.00460&lt;/a&gt;&lt;/strong&gt; : Competing orders in pyrochlore magnets from a $\mathbb{Z}_2$ spin liquid perspective (L. Balents, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1905.00885&quot;&gt;1905.00885&lt;/a&gt;&lt;/strong&gt; : Fractional Topological Superconductivity and Parafermion Corner States (D. Loss, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.021021&quot;&gt;PhysRevX.9.021021&lt;/a&gt;&lt;/strong&gt; : Density Wave Probes Cuprate Quantum Phase Transition (density wave, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.195102&quot;&gt;PhysRevB.99.195102&lt;/a&gt;&lt;/strong&gt; : Incommensurate 2 k F density wave quantum criticality in two-dimensional metals (density wave in 2D, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.180401&quot;&gt;PhysRevB.99.180401&lt;/a&gt;&lt;/strong&gt; : Field-induced instability of the quantum spin liquid ground state in the J eff = 1 2 triangular-lattice compound NaYbO 2 (quantum spin liquid, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.205101&quot;&gt;PhysRevB.99.205101&lt;/a&gt;&lt;/strong&gt; : Heat pumping from braiding Majorana zero modes (heat pumping, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1905.00290&quot;&gt;1905.00290&lt;/a&gt;&lt;/strong&gt; : Charge transfer in LaVO$_3$/LaTiO$_3$ multilayers: strain-controlled dimensionality of interface metallicity between two Mott insulators (DMFT STO, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1905.00033&quot;&gt;1905.00033&lt;/a&gt;&lt;/strong&gt; : Ferromagnetism and Spin-Valley liquid states in Moir'{e} Correlated Insulators (Cenke Xu moire graphene, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1905.00183&quot;&gt;1905.00183&lt;/a&gt;&lt;/strong&gt; : p-Wave Superconductivity in Iron-based Superconductors (p-wave SC, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.021020&quot;&gt;PhysRevX.9.021020&lt;/a&gt;&lt;/strong&gt; : Ultrafast Spin Dynamics in Photodoped Spin-Orbit Mott Insulator Sr 2 IrO 4 (iridate, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41567-019-0501-0&quot;&gt;s41567-019-0501-0&lt;/a&gt;&lt;/strong&gt; : Metamagnetic texture in a polar antiferromagnet (AFM helical, nphys)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41535-019-0153-4&quot;&gt;s41535-019-0153-4&lt;/a&gt;&lt;/strong&gt; : Superconductivity from valley fluctuations and approximate SO(4) symmetry in a weak coupling theory of twisted bilayer graphene (Vishwanath, npj QMs)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.165430&quot;&gt;PhysRevB.99.165430&lt;/a&gt;&lt;/strong&gt; : Quasicrystalline electronic states in 30 ∘ rotated twisted bilayer graphene (Son, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.134442&quot;&gt;PhysRevB.99.134442&lt;/a&gt;&lt;/strong&gt; : Magnetoelectric effect in band insulator–ferromagnet heterostructures (Motome, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.122.177201&quot;&gt;PhysRevLett.122.177201&lt;/a&gt;&lt;/strong&gt; : Nontrivial Triplon Topology and Triplon Liquid in Kitaev-Heisenberg-type Excitonic Magnets (Khaliullin, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.12176&quot;&gt;1904.12176&lt;/a&gt;&lt;/strong&gt; : Complex magnetism of B20-MnGe: from spin-spirals, hedgehogs to monopoles (Blugel, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1904.11764&quot;&gt;1904.11764&lt;/a&gt;&lt;/strong&gt; : A localization marker from many-body quantum geometry measurements (quantum metric, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 04 May 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/05/May1weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/05/May1weeks</guid>
         
         
         <category>2019May</category>
