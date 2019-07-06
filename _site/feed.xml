@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jul 2019 17:33:31 +0900</pubDate>
-    <lastBuildDate>Sat, 06 Jul 2019 17:33:31 +0900</lastBuildDate>
+    <pubDate>Sat, 06 Jul 2019 21:21:42 +0900</pubDate>
+    <lastBuildDate>Sat, 06 Jul 2019 21:21:42 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -26,7 +26,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02268&quot;&gt;1907.02268&lt;/a&gt;&lt;/strong&gt; : Abelian and Non-Abelian Chiral Spin Liquids in a Compact Tensor Network Representation (HY Lee, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02474&quot;&gt;1907.02474&lt;/a&gt;&lt;/strong&gt; : Real-time scattering of interacting quasiparticles in quantum spin chains (Verstraete, arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02474&quot;&gt;1907.02474&lt;/a&gt;&lt;/strong&gt; : Real-time scattering of interacting quasiparticles in quantum spin chains (&lt;strong&gt;Verstraete&lt;/strong&gt;, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02522&quot;&gt;1907.02522&lt;/a&gt;&lt;/strong&gt; : The “non-regularizability” of gapless free fermion Hamiltonian protected by on-site symmetries (DH Lee, arXiv)&lt;/p&gt;
