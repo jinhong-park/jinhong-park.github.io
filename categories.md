@@ -15,6 +15,17 @@ permalink: /categories/
        </thead>
        <tbody>
     
+    
+	<tr>
+     <th> <a href="../blog/2019/08/Aug1weeks">Aug1w</a> </th>
+     <th> <a href="../blog/2019/08/Aug2weeks"></a>  </th>
+     <th> <a href="../blog/2019/08/Aug3weeks"></a>  </th>
+     <th> <a href="../blog/2019/08/Aug4weeks"></a>  </th>
+
+       </tr>
+	
+	
+	
 	<tr>
      <th> <a href="../blog/2019/07/Jul1weeks">Jul1w</a> </th>
      <th> <a href="../blog/2019/07/Jul2weeks">Jul2w</a>  </th>
