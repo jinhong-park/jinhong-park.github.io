@@ -1,0 +1,311 @@
+---
+layout: default
+---
+
+
+<body>
+<div class="home">
+	
+<h1>CV template</h1>
+	
+<p>- Jin-Hong Park -</p>
+
+</div>
+
+  
+  <pre>
+  
+  
+  % LaTeX Curriculum Vitae Template
+  %
+  \documentclass[letterpaper,11pt]{article}
+  \usepackage{hyperref}
+  \usepackage[utf8]{inputenc}
+  \usepackage{kotex}
+  \usepackage[hmargin=1.5cm,vmargin=1.5cm]{geometry}
+  \usepackage{setspace}
+
+  \def\name{my name.. Jin-Hong Park}
+
+  \def\footerlink{}
+
+  \hypersetup{
+    colorlinks = true,
+    urlcolor = black,
+    pdfauthor = {\name},
+    pdfkeywords = {CV, physics},
+    pdftitle = {\name: Curriculum Vitae},
+    pdfsubject = {Curriculum Vitae},
+    pdfpagemode = UseNone
+  }
+
+  \geometry{
+    body={6.5in, 8.5in},
+    left=1.0in,
+    top=1.0in
+  }
+
+  % Customize page headers
+  \pagestyle{myheadings}
+  \markright{\name,~ Last updated : \today}
+  \thispagestyle{empty}
+
+  % Custom section fonts
+  \usepackage{sectsty}
+  \sectionfont{\rmfamily\mdseries\Large}
+  \subsectionfont{\rmfamily\mdseries\itshape\large}
+  \setlength\parindent{0em}
+
+  % Make lists without bullets
+  \renewenvironment{itemize}{
+    \begin{list}{}{
+      \setlength{\leftmargin}{1.5em}
+    }
+  }{
+    \end{list}
+  }
+
+  \begin{document}
+
+
+  \centerline{\huge \bf \name}
+
+  \vspace{2mm}
+  %
+  {CurriculumVitae \hfill
+       Last updated: \today \\
+      \href{\footerlink}{\texttt{\footerlink}}}
+
+  {\hrule height 1.2pt}
+
+  \vspace{2mm}
+
+  \noindent\begin{minipage}{0.5\textwidth}
+  \begin{flushleft}
+     {\Large \bf {Address}}\\
+    Department of Physics, Sungkyunkwan University\\
+    2066 Seobu-ro, Jangan-gu, Suwon 16419, Korea \\
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}{0.5\textwidth}
+  \begin{flushright}
+  \begin{tabular}{ll}
+       &{\Large \bf Contact}\\
+      &{\bf Email} : \href{mailto:jinhong.park@snu.ac.kr}{jinhon9.park@gmail.com} \\
+
+      &{\bf Tel} :  +82-10-8191-2847 \\
+      &{\bf Date of Birth} :  Dec 18, 1981, Korea \\
+      \end{tabular}
+  \end{flushright}
+  \end{minipage}
+
+  %
+  \section*{\bf Position}
+
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     3/2019 - 
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+    Seninor Researcher, Sungkyunkwan University, Korea \\
+  \end{flushleft}
+  \end{minipage}
+
+
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     4/2016 - 2/2019
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+    Postdoctoral Researcher, IBS, Seoul National University, Korea \\
+  \end{flushleft}
+  \end{minipage}
+
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     4/2014 - 3/2016
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+  Postdoctoral Researcher,  RIKEN Center for Emergent Matter Science, Japan \\
+  \end{flushleft}
+  \end{minipage}
+
+  \section*{\bf Education}
+
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     3/2010 - 2/2014
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+  {\bf Doctor of Philosophy, Physics} \\
+  Sungkyunkwan University, Korea\\
+  {\textit {Thesis}} :``Emergence of orbital angular momentum
+  in inversion-symmetry-broken system and its applications" \\
+  {\textit {Advisor}} : Prof. Jung Hoon Han\\
+  \end{flushleft}
+  \end{minipage}
+
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     9/2006 - 8/2008
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+  {\bf Master of  Science,  Physics}\\
+  Sungkyunkwan University, Korea\\
+  {\textit {Thesis} }:``$J_1$-$J_2$ model of planar spins on triangular lattice"\\
+  {\textit{Advisor}} : Prof. Jung Hoon Han\\
+  \end{flushleft}
+  \end{minipage}
+
+
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     3/2000 - 8/2006
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+  {\bf Bachelor of Science, Physics}\\
+  Sungkyunkwan University, Korea
+  \end{flushleft}
+  \end{minipage}
+
+
+  \section*{\bf Brief research statement}
+
+
+  \section*{\bf Scientific duty}
+
+
+
+  \section*{\bf Research Experiences}
+
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     8/2007 - 12/2007
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+  Visiting Student Researcher,  University of California, Berkeley
+  \end{flushleft}
+  \end{minipage}
+  \noindent\begin{minipage}[t]{0.2\textwidth}
+  \begin{flushleft}
+     6/2011 - 7/2011
+   \end{flushleft}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.8\textwidth}
+  \begin{flushleft}
+  Participant,  International Centre for Theoretical Physics, Trieste, Italy, \\
+  ``Workshop and School on Topological Aspects of Condensed Matter Physics''\\
+  $[$Two-weeks workshop and school on topological insulator, non-Abelian quantum Hall states and Majorana fermion in condensed matter physics$]$
+
+  \end{flushleft}
+  \end{minipage}
+
+
+
+
+  \section*{\bf Publication List}
+  \subsection*{\textrm{\bf Papers}}
+
+  I have 16 publications including 1 in Nature and 4 in Physical Review
+  Letters with +1500 citations (web of science at Aug. 2019).
+
+
+  \begin{enumerate}
+  %
+
+  \item  Jung Hoon Han, {\bf Jin-Hong Park}, Patrick A. Lee \\
+    {\textit{``Consideration of thermal Hall effect in undoped cuprates"}}\\
+  Phys. Rev. B {\bf 99}, 205157 (2019)\\
+  (Peer review)
+  \vspace{0.1cm}
+
+
+
+  \item  {\bf Jin-Hong Park}, Seung Hun Lee, Choong H. Kim, Hosub Jin, and Bohm-Jung Yang \\
+    {\textit{``Two-dimensional Peierls instability via zone-boundary Dirac line nodes in layered perovskite oxides"}}\\
+  Phys. Rev. B {\bf 99}, 195107 (2019)\\
+  (Peer review) 
+  \vspace{0.1cm}
+  %  
+
+
+  \end{enumerate}
+
+  \subsection*{\textrm{\bf Oral presentation}}
+
+
+  \begin{enumerate}
+
+  \item \textit{Nonsymmorphic symmetry, zone- boundary Dirac line node and magnetic instability in Sr$_2$IrO$_4$}\\
+  APS march meeting, Mar. 9, 2018, Los Angeles, CA, USA
+  \end{enumerate}
+
+  \begin{enumerate}
+
+  \item \textit{``Fractional charge in one-dimensional quantum dots array"}\\
+  3rd CEMS topical research camp, Sep. 30-31, 2015, Kinugawa, Japan
+
+  \end{enumerate}
+
+
+  \section*{\bf References}
+  %
+  Prof. Jung Hoon Han\\
+  Department of Physics, Sungkyunkwan University, Suwon, Korea\\
+  Email: \href{mailto:hanjh@skku.edu}{hanjh@skku.edu}\\
+  \\
+  %
+  Prof. Bohm-Jung Yang\\
+  Department of Physics and Astronomy, Seoul National University, Seoul, Korea\\
+  Email: \href{mailto:bjyang@snu.ac.kr}{bjyang@snu.ac.kr}\\
+  \\
+  %
+  Prof. Hyun-Woo Lee\\
+  Department of Physics,\\
+  Pohang University of Science and Technology, Pohang, Korea\\
+  Email: \href{mailto:hwl@postech.ac.kr}{hwl@postech.ac.kr}\\
+
+  \bigskip
+
+
+
+  \end{document}
+  
+  
+  
+  
+  
+  
+  </pre>
+  
+  
+  
+
+  <!-- End SlidesJS Required -->
+
+
+</body>
+
