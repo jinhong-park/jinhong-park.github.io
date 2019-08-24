@@ -6,9 +6,69 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Aug 2019 14:09:16 +0900</pubDate>
-    <lastBuildDate>Sat, 17 Aug 2019 14:09:16 +0900</lastBuildDate>
+    <pubDate>Sat, 24 Aug 2019 13:57:20 +0900</pubDate>
+    <lastBuildDate>Sat, 24 Aug 2019 13:57:20 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Aug 4 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.08460&quot;&gt;1908.08460&lt;/a&gt; : &lt;strong&gt;Phase-dependent Spin Polarization of Cooper Pairs in Magnetic Josephson Junctions (Eremin, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.08221&quot;&gt;1908.08221&lt;/a&gt; : &lt;strong&gt;Mottness versus unit-cell doubling as the driver of the insulating state in 1T-TaS2 (Hanaguri, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.08228&quot;&gt;1908.08228&lt;/a&gt; : Spectroscopic and optical response of odd-frequency superconductors (Balatsky, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nature.com/articles/s41563-019-0477-2&quot;&gt;s41563-019-0477-2&lt;/a&gt; : Conjuring Majorana with synthetic magnetism (Yazdani, nmat)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.086803&quot;&gt;PhysRevLett.123.086803&lt;/a&gt; : Vanishing Hall Response of Charged Fermions in a Transverse Magnetic Field (Giamarchi, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.075142&quot;&gt;PhysRevB.100.075142&lt;/a&gt; : Tetrahedron integration method for strongly varying functions: Application to the G T self-energy (Tetrahedron, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nature.com/articles/s41586-019-1486-7&quot;&gt;s41586-019-1486-7&lt;/a&gt; : &lt;strong&gt;Electron pairing in the pseudogap state revealed by shot noise in copper oxide junctions (Electron pairing in the pseudogap state, Nature)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.07671&quot;&gt;1908.07671&lt;/a&gt; : Magnetic-field Induced Quantum Phases in Tensor Network Study of Kitaev Magnets (HY Lee, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevMaterials.3.084803&quot;&gt;PhysRevMaterials.3.084803&lt;/a&gt; : Multiple Andreev reflections and Shapiro steps in a Ge-Si nanowire Josephson junction (Multiple Andreev, PRM)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.07728&quot;&gt;1908.07728&lt;/a&gt; : Ordering phenomena of spin trimers accompanied by large geometrical Hall effect (Tokura, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1902.06295&quot;&gt;1902.06295&lt;/a&gt; : Electrical writing, deleting, reading, and moving of magnetic skyrmioniums in a racetrack device (SS Parkin, srep)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.07379&quot;&gt;1908.07379&lt;/a&gt; : &lt;strong&gt;Single spin-polarised Fermi surface in SrTiO$_3$ thin films (STO, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.085131&quot;&gt;PhysRevB.100.085131&lt;/a&gt; : Momentum-resolved lattice dynamics of parent and electron-doped Sr2IrO4 (Iridate, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.06590&quot;&gt;1908.06590&lt;/a&gt; : Suppression of superfluidity by dissipation – An application to failed superconductor (Nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.06286&quot;&gt;1908.06286&lt;/a&gt; : Ferromagnetism in the SU($n$) Hubbard model with nearly flat-band (Katsura, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 24 Aug 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/08/Aug4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/08/Aug4weeks</guid>
+        
+        
+        <category>2019Aug</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Aug 3 week 2019)</title>
@@ -586,75 +646,6 @@
         <pubDate>Sat, 29 Jun 2019 09:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/06/Jun5weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/06/Jun5weeks</guid>
-        
-        
-        <category>2019Jun</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Jun 4 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.235144&quot;&gt;PhysRevB.99.235144&lt;/a&gt;&lt;/strong&gt; : Parity anomaly from the Hamiltonian point of view (Lapa, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s42005-019-0155-3&quot;&gt;s42005-019-0155-3&lt;/a&gt;&lt;/strong&gt; : Fingerprints of an orbital-selective Mott phase in the block magnetic state of BaFe2Se3 ladders (RIXS, commphys)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1806.03272&quot;&gt;1806.03272&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Thermal conductance of an Edge mode (Schmeltzer, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.08277&quot;&gt;1906.08277&lt;/a&gt;&lt;/strong&gt; : Anomalous conductance scaling in strained Weyl semimetals (Bardarson, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.245416&quot;&gt;PhysRevB.99.245416&lt;/a&gt;&lt;/strong&gt; : Majorana bound states in double nanowires with reduced Zeeman thresholds due to supercurrents (D. Loss, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41586-019-1319-8&quot;&gt;s41586-019-1319-8&lt;/a&gt;&lt;/strong&gt; : Machine learning in electronic-quantum-matter imaging experiments (EA Kim, Nature)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.08224&quot;&gt;1906.08224&lt;/a&gt;&lt;/strong&gt; : Phonon scattering induced carrier resistivity in twisted double bilayer graphene (Das Sarma, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.07756&quot;&gt;1906.07756&lt;/a&gt;&lt;/strong&gt; : Superconductivity in Graphene Induced by the Rotated Layer (Schmeltzer, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.214426&quot;&gt;PhysRevB.99.214426&lt;/a&gt;&lt;/strong&gt; : Comparison of first-principles methods to extract magnetic parameters in ultrathin films: Co/Pt(111) (S. Blugel, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.214424&quot;&gt;PhysRevB.99.214424&lt;/a&gt;&lt;/strong&gt; : Unconventional thermal magnon Hall effect in a ferromagnetic topological insulator (thermal magnon Hall effect, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.224422&quot;&gt;PhysRevB.99.224422&lt;/a&gt;&lt;/strong&gt; : Microscopic spinon-chargon theory of magnetic polarons in the t − J model (E. Demler, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.99.245411&quot;&gt;PhysRevB.99.245411&lt;/a&gt;&lt;/strong&gt; : Topological transitions in metals (Kamenev, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.07362&quot;&gt;1906.07362&lt;/a&gt;&lt;/strong&gt; : Plasmon effect on the Coulomb pseudopotential $\mu^*$ in the McMillan equation (McMillan equation, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.021053&quot;&gt;PhysRevX.9.021053&lt;/a&gt;&lt;/strong&gt; : Hear the Sound of Weyl Fermions (Xi Dai, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.06501&quot;&gt;1906.06501&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Theory of giant skew scattering by spin cluster (Nagaosa, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.07090&quot;&gt;1906.07090&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Topological spin excitations in Harper-Heisenberg spin chains (Lado, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.06246&quot;&gt;1906.06246&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Kagome model for a ${\mathbb Z}_2$ quantum spin liquid (spin liquid, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1906.06097&quot;&gt;1906.06097&lt;/a&gt;&lt;/strong&gt; : Application of the Landauer formalism to the calculation of spin current (Landauer formalism, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 22 Jun 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/06/Jun4weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/06/Jun4weeks</guid>
         
         
         <category>2019Jun</category>
