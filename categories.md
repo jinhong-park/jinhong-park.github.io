@@ -20,7 +20,7 @@ permalink: /categories/
 	<tr>
      <th> <a href="../blog/2019/09/Sep1weeks">Sep1w</a> </th>
      <th> <a href="../blog/2019/09/Sep2weeks">Sep2w</a>  </th>
-     <th> <a href="../blog/2019/09/Sep3weeks"></a>  </th>
+     <th> <a href="../blog/2019/09/Sep3weeks">Sep3w</a>  </th>
      <th> <a href="../blog/2019/09/Sep4weeks"></a>  </th>
 
        </tr>

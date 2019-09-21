@@ -6,9 +6,92 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Sep 2019 15:12:37 +0900</pubDate>
-    <lastBuildDate>Sat, 14 Sep 2019 15:12:37 +0900</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2019 13:48:48 +0900</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 13:48:48 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Sep 3 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.121110&quot;&gt;PhysRevB.100.121110&lt;/a&gt; : The antiferromagnetic phase of the Floquet-driven Hubbard model (AJ Millis, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125307&quot;&gt;PhysRevB.100.125307&lt;/a&gt; : Antiparallel spin Hall current in a bilayer with skew scattering (spin Hall current, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.sciencemag.org/lookup/doi/10.1126/science.aau8740&quot;&gt;science.aau8740&lt;/a&gt; : Non-Abelian band topology in noninteracting metals (Bzdusek, Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.104520&quot;&gt;PhysRevB.100.104520&lt;/a&gt; : Skyrmion-like textures in superconductors with competing orders (skyrmion, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.08909&quot;&gt;1909.08909&lt;/a&gt; : Magnetic chirality controlled by the interlayer exchange interaction (interlayer, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.09129&quot;&gt;1909.09129&lt;/a&gt; : Non-Hermitian exceptional Landau quantization in electric circuits (M. Franz, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.094429&quot;&gt;PhysRevB.100.094429&lt;/a&gt; : AKLT models on decorated square lattices are gapped (AKLT, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.100408&quot;&gt;PhysRevB.100.100408&lt;/a&gt; : Stabilization of the skyrmion crystal phase and transport in thin-film antiferromagnets (Yaroslav, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.115203&quot;&gt;PhysRevB.100.115203&lt;/a&gt; : k · p theory for phosphorene: Effective g -factors, Landau levels, and excitons (Fabian, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.08031&quot;&gt;1909.08031&lt;/a&gt; : SU(3) Topology of Magnon-Phonon Hybridization in 2D Antiferromagnets (G. Go, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.08179&quot;&gt;1909.08179&lt;/a&gt; : Augmented Magnetic Octupole in Kagome Antiferromagnets Detectable via X-ray Magnetic Circular Dichroism (octupole, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.115131&quot;&gt;PhysRevB.100.115131&lt;/a&gt; : Tuning topology in thin films of topological insulators by strain gradients (Ortix, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1909.06552.pdf&quot;&gt;1909.06552&lt;/a&gt; : &lt;strong&gt;Phonon thermal Hall eﬀect in strontium titanate (Behnia, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.06657&quot;&gt;1909.06657&lt;/a&gt; : &lt;strong&gt;Fractionalizing a local pair density wave: a good “recipe” for opening a pseudo-gap (Pepin, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.06449&quot;&gt;1909.06449&lt;/a&gt; : Effect of the electron-lattice coupling on the charge and magnetic order in rare-earth nickelates (Khaliullin, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.07711&quot;&gt;1909.07711&lt;/a&gt; : Thermal and gravitational chiral anomaly induced magneto-transport in Weyl semimetals (Thermal transport, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.07403&quot;&gt;1909.07403&lt;/a&gt; : Theory of Dipole Insulators (Hughes, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.126403&quot;&gt;PhysRevLett.123.126403&lt;/a&gt; : Hourglass Fermion in Two-Dimensional Material (nonsymmorphic, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125422&quot;&gt;PhysRevB.100.125422&lt;/a&gt; : Spin-orbit coupling in elemental two-dimensional materials (Fabian, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://physics.aps.org/articles/pdf/10.1103/Physics.12.101&quot;&gt;Physics.12.101&lt;/a&gt; : Surﬁng on a Wave of Quantum Chaos (XL Qi, physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.085428&quot;&gt;PhysRevB.100.085428&lt;/a&gt; : Jackiw-Rebbi zero modes in non-uniform topological insulator nanowire (zero mode, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.06027&quot;&gt;1909.06027&lt;/a&gt; : VI$_{3}$: a 2D Ising ferromagnet (2D ising FM, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.06280&quot;&gt;1909.06280&lt;/a&gt; : Moving Majorana bound states between distinct helical edges across a quantum point contact (Trauzettel, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 21 Sep 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/09/Sep3weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/Sep3weeks</guid>
+        
+        
+        <category>2019Sep</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Sep 2 week 2019)</title>
@@ -680,80 +763,6 @@
         <pubDate>Sat, 20 Jul 2019 09:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/07/Jul3weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/07/Jul3weeks</guid>
-        
-        
-        <category>2019Jul</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Jul 2 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://advances.sciencemag.org/content/advances/5/7/eaaw5798.full.pdf&quot;&gt;eaaw5798&lt;/a&gt;&lt;/strong&gt; : Universal quantized thermal conductance in graphene (thermal quantization, sci. adv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.041106&quot;&gt;PhysRevB.100.041106&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Bulk thermal transport coefficients in a quantum Hall system and the fundamental difference between thermal and charge response (Vinkler-Aviv, PRB)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.05365&quot;&gt;1907.05365&lt;/a&gt;&lt;/strong&gt; : Nature of the Doping-Driven Metal-Insulator Transition in Correlated Electron Systems with strong Hund’s Exchange Coupling (S. Biermann, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.04992&quot;&gt;1907.04992&lt;/a&gt;&lt;/strong&gt; : Valley-Contrasting Orbital Magnetic Moment Induced Negative Magnetoresistance (Q. Niu, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.05196&quot;&gt;1907.05196&lt;/a&gt;&lt;/strong&gt; : Tuning skyrmion Hall effect via engineering of spin-orbit interaction (Tatara, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.027002&quot;&gt;PhysRevLett.123.027002&lt;/a&gt;&lt;/strong&gt; : Quasiparticle Evidence for the Nematic State above T c in Sr x Bi 2 Se 3 (nematic, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.035413&quot;&gt;PhysRevB.100.035413&lt;/a&gt;&lt;/strong&gt; : Spin-valley density wave in moiré materials (Liang Fu, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.04437&quot;&gt;1907.04437&lt;/a&gt;&lt;/strong&gt; : Parting the Fermi Sea at the Mott Point: Dynamics of Correlated Electrons Reveals the Mechanism Underpinning Mottness (1st order mott, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.04612&quot;&gt;1907.04612&lt;/a&gt;&lt;/strong&gt; : Quantum Hall Skyrmions at $\nu=0,\pm 1$ in monolayer graphene (quantum Hall, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.04351&quot;&gt;1907.04351&lt;/a&gt;&lt;/strong&gt; : Orbital pseudospin-momentum locking in two-dimensional chiral borophene (orbital Rashba, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02013&quot;&gt;1907.02013&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Topological phases of polaritons in a cavity waveguide (arbitrary chern number, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.031005&quot;&gt;PhysRevX.9.031005&lt;/a&gt;&lt;/strong&gt; : Spin Liquid State and Topological Structural Defects in Hexagonal TbInO 3 (JW Kim, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.pnas.org/lookup/doi/10.1073/pnas.1908786116&quot;&gt;pnas.1908786116&lt;/a&gt;&lt;/strong&gt; : Linking the pseudogap in the cuprates with local symmetry breaking: A commentary (Kivelson, PNAS)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.03887&quot;&gt;1907.03887&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Tunable skyrmion-skyrmion binding on the surface of a topological insulator (attractive interaction, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.024501&quot;&gt;PhysRevB.100.024501&lt;/a&gt;&lt;/strong&gt; : Superconducting current and low-energy states in a mesa-heterostructure interlayered with a strontium iridate film with strong spin-orbit interaction (iridate, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.03562&quot;&gt;1907.03562&lt;/a&gt;&lt;/strong&gt; : First-principles calculation of the electronic nematicity in FeSe (Fa Wang, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41567-019-0576-7&quot;&gt;s41567-019-0576-7&lt;/a&gt;&lt;/strong&gt; : Evidence of anisotropic Majorana bound states in 2M-WS2 (QK Xue, nphys)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02609&quot;&gt;1907.02609&lt;/a&gt;&lt;/strong&gt; : Perpendicular Andreev reflection: Solid state signature of black hole horizon (S. Jafari, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02734&quot;&gt;1907.02734&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Theory for shift current of bosons: Photogalvanic spin current in ferrimagnetic and antiferromagnetic insulators (M. Sato, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.02532&quot;&gt;1907.02532&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;The Non-linear Hall Acceleration and the Quantum Rectification Sum Rule (Sodemann, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 13 Jul 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/07/Jul2weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/07/Jul2weeks</guid>
         
         
         <category>2019Jul</category>
