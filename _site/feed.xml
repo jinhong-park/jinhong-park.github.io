@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Sep 2019 14:32:05 +0900</pubDate>
-    <lastBuildDate>Sun, 29 Sep 2019 14:32:05 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Sep 2019 16:33:03 +0900</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2019 16:33:03 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -320,8 +320,10 @@
     &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.01545&quot;&gt;1909.01545&lt;/a&gt; : &lt;strong&gt;General continuum model for twisted bilayer graphene and arbitrary smooth deformations (Balents, scipost)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.00258&quot;&gt;1909.00258&lt;/a&gt; : Emergent quantum matter in graphene nanoribbons (Lado, arXiv)
-&lt;a href=&quot;http://arxiv.org/abs/1909.01316&quot;&gt;1909.01316&lt;/a&gt; : Tracing Monopoles and Anti-monopoles in a Magnetic &lt;strong&gt;Hedgehog Lattice&lt;/strong&gt; (Y. Motome, arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.00258&quot;&gt;1909.00258&lt;/a&gt; : Emergent quantum matter in graphene nanoribbons (Lado, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.01316&quot;&gt;1909.01316&lt;/a&gt; : Tracing Monopoles and Anti-monopoles in a Magnetic &lt;strong&gt;Hedgehog Lattice&lt;/strong&gt; (Y. Motome, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.00060&quot;&gt;1909.00060&lt;/a&gt; : Model construction and a possibility of cuprate-like pairing in a new d9 nickelate superconductor (Nd,Sr)NiO2 (nikel oxide, arXiv)&lt;/p&gt;
