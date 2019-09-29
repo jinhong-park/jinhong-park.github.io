@@ -6,9 +6,92 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Sep 2019 13:48:48 +0900</pubDate>
-    <lastBuildDate>Sat, 21 Sep 2019 13:48:48 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Sep 2019 14:32:05 +0900</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2019 14:32:05 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Sep 4 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://science.sciencemag.org/content/365/6460/1424&quot;&gt;science1424&lt;/a&gt; : Superconductivity in the doped Hubbard model and its interplay with next-nearest hopping t′ (science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.137204&quot;&gt;PhysRevLett.123.137204&lt;/a&gt; : Unique Crystal Structure of Ca 2 RuO 4 in the Current Stabilized Semimetallic State (BJ Kim, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.115159&quot;&gt;PhysRevB.100.115159&lt;/a&gt; : Orbital differentiation in Hund metals (von Delft, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.115311&quot;&gt;PhysRevB.100.115311&lt;/a&gt; : Topological Anderson insulator phase in a quasicrystal lattice (quasicrystal, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125161&quot;&gt;PhysRevB.100.125161&lt;/a&gt; : &lt;strong&gt;Optical excitation of magnons in an easy-plane antiferromagnet: Application to Sr 2 IrO 4 (L. Balents, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125162&quot;&gt;PhysRevB.100.125162&lt;/a&gt; : Weak antilocalization and two-carrier electrical transport in B i 1 − x S b x single crystals ( 0 % ≤ x ≤ 17.0 % ) (Shon, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.12027&quot;&gt;1909.12027&lt;/a&gt; : Full Counting Statistics of Spin-Flip/Conserving Charge Transitions in Pauli-Spin Blockade (S. Tarucha, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.104431&quot;&gt;PhysRevB.100.104431&lt;/a&gt; : Large- S limit of the large- N theory for the triangular antiferromagnet (Batista, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125157&quot;&gt;PhysRevB.100.125157&lt;/a&gt; : Metal-insulator phase transition in a non-Hermitian Aubry-André-Harper model (AA model, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125158&quot;&gt;PhysRevB.100.125158&lt;/a&gt; : Kondo effect due to a hydrogen impurity in graphene: A multichannel Kondo problem with diverging hybridization (I. Affleck)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.11195&quot;&gt;1909.11195&lt;/a&gt; : Unconventional Hund Metal in MnSi (Hund metal, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.104524&quot;&gt;PhysRevB.100.104524&lt;/a&gt; : Spin-orbital hallmarks of unconventional superconductors without inversion symmetry (orbital-Rashba, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.10778&quot;&gt;1909.10778&lt;/a&gt; : Majorana Fermions in Magnetic Chains (D. Loss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.10591&quot;&gt;1909.10591&lt;/a&gt; : Stochastic Series Expansion Methods (Sandvik, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.10722&quot;&gt;1909.10722&lt;/a&gt; : Topological waveguide based on metamaterials of magnetic solitons (G. Go, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.10725&quot;&gt;1909.10725&lt;/a&gt; : Theoretical study on the slit experiments in the Rashba electron systems (Mochizuki, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevMaterials.3.095004&quot;&gt;PhysRevMaterials.3.095004&lt;/a&gt; : Multiple band crossings and Fermi surface topology: Role of double nonsymmorphic symmetries in MnP-type crystal structures (nonsymmorphic, PRM)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.10483&quot;&gt;1909.10483&lt;/a&gt; : Geometry of quantum states in bilayer skyrmion (skyrmion, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.09653&quot;&gt;1909.09653&lt;/a&gt; : Tuning entanglement by squeezing magnons in anisotropic magnets (SK Kim, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.10207&quot;&gt;1909.10207&lt;/a&gt; : Percolative Mott insulator-metal transition in doped Sr$_2$IrO$_4$ (iridate, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.094438&quot;&gt;PhysRevB.100.094438&lt;/a&gt; : Helical antiferromagnetic ordering in EuNi 1.95 As 2 single crystals (Eu, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.09297&quot;&gt;1909.09297&lt;/a&gt; : Quantum Diffusive Magneto-transport in Massive Dirac Materials with Chiral Symmetry Breaking (SQ Shen, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.09188&quot;&gt;1909.09188&lt;/a&gt; : Colloquium: Spintronics in graphene and other two-dimensional materials (graphene, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 28 Sep 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/09/Sep4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/Sep4weeks</guid>
+        
+        
+        <category>2019Sep</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Sep 3 week 2019)</title>
@@ -701,68 +784,6 @@
         <pubDate>Sat, 27 Jul 2019 09:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/07/Jul4weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/07/Jul4weeks</guid>
-        
-        
-        <category>2019Jul</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Jul 3 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.037203&quot;&gt;PhysRevLett.123.037203&lt;/a&gt;&lt;/strong&gt; : Microscopic Mechanism for a Higher-Spin Kitaev Model (Kee, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.07784&quot;&gt;1907.07784&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;In-plane Magnetic Anisotropy Generated by Quantum Zero-point Fluctuations in a Tetragonal Quantum Antiferromagnet Bi$_2$CuO$_4$ (in-plane Anisotropy, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41586-019-1375-0&quot;&gt;s41586-019-1375-0&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Giant thermal Hall conductivity in the pseudogap phase of cuprate superconductors (Taillefer, Nature)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.036805&quot;&gt;PhysRevLett.123.036805&lt;/a&gt;&lt;/strong&gt; : Symmetry and Correlation Effects on Band Structure Explain the Anomalous Transport Properties of (111) LaAlO 3 / SrTiO 3 (LAO/STO, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.035115&quot;&gt;PhysRevB.100.035115&lt;/a&gt;&lt;/strong&gt; : Landau levels in twisted bilayer graphene and semiclassical orbits (L. Balents, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.07597&quot;&gt;1907.07597&lt;/a&gt;&lt;/strong&gt; : McMillan Formula: long-standing myth and a novel implementation to reveal high $T_c$ in beryllium-based alloys (McMillan Formula, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.07299&quot;&gt;1907.07299&lt;/a&gt;&lt;/strong&gt; : Majorana-Magnon Crossover by a Magnetic Field in the Kitaev Model: Continuous-Time Quantum Monte Carlo Study (Motome, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.06858&quot;&gt;1907.06858&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Self-Organized Bosonic  Domain Walls (Scalettar, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.036401&quot;&gt;PhysRevLett.123.036401&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;All Magic Angles in Twisted Bilayer Graphene are Topological (Bernevig, PRL)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42256-019-0070-z&quot;&gt;s42256-019-0070-z&lt;/a&gt;&lt;/strong&gt; : Solving the Rubik’s cube with deep reinforcement learning and search (Rubik, Nature Machine learning)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.06911&quot;&gt;1907.06911&lt;/a&gt;&lt;/strong&gt; : Non-Abelian braiding of Majorana-like edge states and scalable topological quantum computations in electric circuits (Ezawa, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.nature.com/articles/s41567-019-0570-0&quot;&gt;s41567-019-0570-0&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Disorder-induced multifractal superconductivity in monolayer niobium dichalcogenides (Nagaosa, nphys)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.06282&quot;&gt;1907.06282&lt;/a&gt;&lt;/strong&gt; : Derivation of Wannier orbitals and minimal-basis tight-binding hamiltonians for twisted bilayer graphene: a first-principles approach (Vishwanath, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.06613&quot;&gt;1907.06613&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Nature of the magnetic moment of cobalt in ordered FeCo alloy (Elk, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.05979&quot;&gt;1907.05979&lt;/a&gt;&lt;/strong&gt; : Ab initio modelling of spin relaxation lengths in disordered graphene nanoribbons{\dag} (spin relaxation, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1907.06497&quot;&gt;1907.06497&lt;/a&gt;&lt;/strong&gt; : Search for non-Abelian Majorana braiding statistics in superconductors (Beenakker, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 20 Jul 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/07/Jul3weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/07/Jul3weeks</guid>
         
         
         <category>2019Jul</category>
