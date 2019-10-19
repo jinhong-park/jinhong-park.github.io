@@ -21,7 +21,7 @@ permalink: /categories/
 	<tr>
      <th> <a href="../blog/2019/10/Oct1weeks">Oct1w</a> </th>
      <th> <a href="../blog/2019/10/Oct2weeks">Oct2w</a>  </th>
-     <th> <a href="../blog/2019/10/Oct3weeks"></a>  </th>
+     <th> <a href="../blog/2019/10/Oct3weeks">Oct3w</a>  </th>
      <th> <a href="../blog/2019/10/Oct4weeks"></a>  </th>
 
        </tr>
