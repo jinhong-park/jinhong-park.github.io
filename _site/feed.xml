@@ -6,9 +6,107 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Oct 2019 16:01:18 +0900</pubDate>
-    <lastBuildDate>Sat, 19 Oct 2019 16:01:18 +0900</lastBuildDate>
+    <pubDate>Sat, 26 Oct 2019 22:39:46 +0900</pubDate>
+    <lastBuildDate>Sat, 26 Oct 2019 22:39:46 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Oct 4 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.177001&quot;&gt;PhysRevLett.123.177001&lt;/a&gt; : Higher-Order Topological Odd-Parity Superconductors (odd-parity SC, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.134512&quot;&gt;PhysRevB.100.134512&lt;/a&gt; : Topological d -wave superconductivity and nodal line-arc intersections in Weyl semimetals (d-wave SC, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10717&quot;&gt;1910.10717&lt;/a&gt; : The actually robust surface signature of a Hopf insulator: Bulk-to-boundary flow of Berry curvature beyond the anomaly inflow paradigm (Hopf insulator, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10743&quot;&gt;1910.10743&lt;/a&gt; : &lt;strong&gt;Twisted Kitaev Bilayers and the Moir'e Ising Model (Hughes, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10745&quot;&gt;1910.10745&lt;/a&gt; : &lt;strong&gt;A Brief History of Time Crystals (time crystal, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nature.com/articles/s41586-019-1666-5&quot;&gt;s41586-019-1666-5&lt;/a&gt; : &lt;strong&gt;Quantum supremacy using a programmable superconducting processor (Quantum computer, Nature)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10180&quot;&gt;1910.10180&lt;/a&gt; : Identifying Higher Order Topology and Fractional Corner Charge Using Entanglement Spectra (Hughes, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10291&quot;&gt;1910.10291&lt;/a&gt; : &lt;strong&gt;Persistent Insulator: Avoidance of Metallization at Megabar Pressures in Strongly Spin-Orbit-Coupled Sr2IrO4 (iridate, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10448&quot;&gt;1910.10448&lt;/a&gt; : Magnon crystallization in the kagome lattice antiferromagnet (magnon, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10626&quot;&gt;1910.10626&lt;/a&gt; : Microscopic theory of fractional excitations in gapless bilayer quantum Hall states: semi-quantized quantum Hall states (T. Meng, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10338&quot;&gt;1910.10338&lt;/a&gt; : &lt;strong&gt;Resonant transport in Kekule-distorted graphene nanoribbons (Kekule distortion, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10409&quot;&gt;1910.10409&lt;/a&gt; : Critical Behaviors of Anderson Transitions in Three Dimensional Orthogonal Classes with Particle-hole Symmetries (R. Shindou, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.10642&quot;&gt;1910.10642&lt;/a&gt; : Quantum Kinetic Theory of Thermoelectric and Thermal Transport in a Magnetic Field (Nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.09733&quot;&gt;1910.09733&lt;/a&gt; : Quantum Lifshitz criticality in a frustrated two-dimensional XY model (field theory method, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.09874&quot;&gt;1910.09874&lt;/a&gt; : Novel chiral quantum spin liquids in Kitaev magnets (Kitaev, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.09585&quot;&gt;1910.09585&lt;/a&gt; : Quantum Depinning of a Magnetic Skyrmion (D. Loss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.140411&quot;&gt;PhysRevB.100.140411&lt;/a&gt; : Antiferromagnetic domain wall control via surface spin flop in fully tunable synthetic antiferromagnets with perpendicular magnetic anisotropy (AFM DW, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.161403&quot;&gt;PhysRevB.100.161403&lt;/a&gt; : Scaling parameters in anomalous and nonlinear Hall effects depend on temperature (Q. Niu, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08603&quot;&gt;1910.08603&lt;/a&gt; : Magnetic field control of topological magnon-polaron bands in two-dimensional ferromagnets (SK Kim, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08610&quot;&gt;1910.08610&lt;/a&gt; : Probing quantum spin liquids in equilibrium using the inverse spin Hall effect (So Takei, arXiv )&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08927&quot;&gt;1910.08927&lt;/a&gt; : Intrinsic transverse field in frustrated quantum Ising magnets: its physical origin and quantum effects (G. Chen, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08783&quot;&gt;1910.08783&lt;/a&gt; : Topological flat bands without magic angles in massive twisted bilayer graphenes (J. Jung, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08834&quot;&gt;1910.08834&lt;/a&gt; : Spectromicroscopic measurement of surface and bulk band structure interplay in a disordered topological insulator (J. Checkelsky, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.09063&quot;&gt;1910.09063&lt;/a&gt; : Topological Sliding Moir'e Heterostructure (SZ Lin, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.09511&quot;&gt;1910.09511&lt;/a&gt; : In-plane Hall effect in two-dimensional helical electron systems (Zyuzin, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08126&quot;&gt;1910.08126&lt;/a&gt; : &lt;strong&gt;Link between magnetism and resistivity upturn in cuprates: a thermal conductivity study of La$_{2-x}$Sr$_x$CuO$_4$ (Taillefer, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08081&quot;&gt;1910.08081&lt;/a&gt; : Many-body effects in nodal-line semimetals: correction to the optical conductivity (optical conductivity, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.08290&quot;&gt;1910.08290&lt;/a&gt; : Bulk-edge and bulk-hinge correspondence in inversion-symmetric insulators (HOTI, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 26 Oct 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/10/Oct4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/10/Oct4weeks</guid>
+        
+        
+        <category>2019Oct</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Oct 3 week 2019)</title>
@@ -772,84 +870,6 @@
         <pubDate>Sat, 24 Aug 2019 09:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/08/Aug4weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/08/Aug4weeks</guid>
-        
-        
-        <category>2019Aug</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Aug 3 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.085425&quot;&gt;PhysRevB.100.085425&lt;/a&gt;&lt;/strong&gt; : Temperature dependence of the side-jump spin Hall conductivity (Q. Niu, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.075136&quot;&gt;PhysRevB.100.075136&lt;/a&gt;&lt;/strong&gt; : Orbital Edelstein effect from density-wave order (Paramekanti,  PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.075129&quot;&gt;PhysRevB.100.075129&lt;/a&gt;&lt;/strong&gt; : Symmetry breaking of in-plane anisotropic magnetoresistance with temperature in La-doped S r 2 Ir O 4 films (Iridate, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://science.sciencemag.org/content/365/6454/684&quot;&gt;tiplet SC, Science&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Nearly ferromagnetic spin-triplet superconductivity (tiplet SC, Science)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.05486&quot;&gt;1908.05486&lt;/a&gt;&lt;/strong&gt; : Studies on the origin of the interfacial superconductivity of Sb2Te3/Fe1+yTe heterostructures (interfacial SC, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.04820&quot;&gt;1908.04820&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Detecting non-unitary multiorbital superconductivity with Dirac points at finite energies (Lado, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.05044&quot;&gt;1908.05044&lt;/a&gt;&lt;/strong&gt; : Magnetic &lt;strong&gt;Hedgehog Lattices&lt;/strong&gt; in Noncentrosymmetric Metals (Hedgehog, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.031025&quot;&gt;PhysRevX.9.031025&lt;/a&gt;&lt;/strong&gt; : Loop Currents and Anomalous Hall Effect from Time-Reversal Symmetry-Breaking Superconductivity on the Honeycomb Lattice (Loop current, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.064509&quot;&gt;PhysRevB.100.064509&lt;/a&gt;&lt;/strong&gt; : Topological d + s wave superconductors in a multiorbital quadratic band touching system (SB Lee, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.075416&quot;&gt;PhysRevB.100.075416&lt;/a&gt;&lt;/strong&gt; : Moiré phonons in twisted bilayer graphene (Son, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.04557&quot;&gt;1908.04557&lt;/a&gt;&lt;/strong&gt; :  &lt;strong&gt;Anomalous electrical magnetochiral effect by chiral spin fluctuation (Nagaosa, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.04580&quot;&gt;1908.04580&lt;/a&gt;&lt;/strong&gt; : Anti-chiral edge states in Heisenberg ferromagnet on a honeycomb lattice (anti-chiral, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.04314&quot;&gt;1908.04314&lt;/a&gt;&lt;/strong&gt; : Thermal conductance of one dimensional disordered harmonic chains (AA model, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.076601&quot;&gt;PhysRevLett.123.076601&lt;/a&gt;&lt;/strong&gt; : Polaron Mobility in the “Beyond Quasiparticles” Regime (Nagaosa, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.03576&quot;&gt;1908.03576&lt;/a&gt;&lt;/strong&gt; : Robustly emulating vortex Majorana braiding in a finite time (vortex majorana, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.03979&quot;&gt;1908.03979&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Mapping the Hubbard model to the t-J model using ground state unitary transformations (White, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.04099&quot;&gt;1908.04099&lt;/a&gt;&lt;/strong&gt; : Low-energy type-II Dirac fermions and spin-polarized topological surface states in transition-metal dichalcogenide NiTe$_2$ (spin-ARPES, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.04138&quot;&gt;1908.04138&lt;/a&gt;&lt;/strong&gt; : Hall conductivity as the topological invariant in phase space in the presence of interactions and non-uniform magnetic field (kubo, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.04239&quot;&gt;1908.04239&lt;/a&gt;&lt;/strong&gt; : Diameter-independent skyrmion Hall angle in the plastic flow regime observed in chiral magnetic multilayers (CH Marrows, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.03459&quot;&gt;1908.03459&lt;/a&gt;&lt;/strong&gt; : Constructing edge zero modes through domain wall angle conservation (parafermion, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1908.03224&quot;&gt;1908.03224&lt;/a&gt;&lt;/strong&gt; : Tests of nematic-mediated superconductivity applied to Ba$_{1-x}$Sr$_x$Ni$_2$As$_2$ (EA Kim, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 17 Aug 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/08/Aug3weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/08/Aug3weeks</guid>
         
         
         <category>2019Aug</category>
