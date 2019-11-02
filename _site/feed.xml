@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 14:40:10 +0900</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 14:40:10 +0900</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 14:44:33 +0900</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 14:44:33 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -17,7 +17,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.14346&quot;&gt;1910.14346&lt;/a&gt;&lt;/strong&gt; : Reply to Comment on “Superconductivity at low density near a ferroelectric quantum critical point: doped SrTiO_3” (Balatsky, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.14597&quot;&gt;1910.14597&lt;/a&gt;&lt;/strong&gt; : Quantum critical nematic fluctuations and spin excitation anisotropy in iron pnictides (nematic fluctuation, arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.14597&quot;&gt;1910.14597&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Quantum critical nematic fluctuations&lt;/strong&gt; and spin excitation anisotropy in iron pnictides (nematic fluctuation, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.14621&quot;&gt;1910.14621&lt;/a&gt;&lt;/strong&gt; : Ferromagnetic fluctuations in the Rashba-Hubbard model (Schnyder, arXiv)&lt;/p&gt;
@@ -52,12 +52,8 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.187201&quot;&gt;PhysRevLett.123.187201&lt;/a&gt;&lt;/strong&gt; : Spin-to-Charge Conversion in Magnetic Weyl Semimetals (Weyl, PRL)&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;2019/10/30 (수)&lt;/p&gt;
-&lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.161113&quot;&gt;PhysRevB.100.161113&lt;/a&gt;&lt;/strong&gt; : Helical magnetic ordering in Sr ( Co 1 − x Ni x ) 2 As 2 (Helical order, PRB)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.161113&quot;&gt;PhysRevB.100.161113&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Helical magnetic ordering&lt;/strong&gt; in Sr ( Co 1 − x Ni x ) 2 As 2 (Helical order, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1910.13193&quot;&gt;1910.13193&lt;/a&gt;&lt;/strong&gt; : A 3D Tight-Binding Model for La-Based Cuprate Superconductors (cuprate tight-binding, arXiv)&lt;/p&gt;
