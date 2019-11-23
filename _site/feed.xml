@@ -6,9 +6,77 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Nov 2019 16:28:22 +0900</pubDate>
-    <lastBuildDate>Sat, 16 Nov 2019 16:28:22 +0900</lastBuildDate>
+    <pubDate>Sat, 23 Nov 2019 14:45:25 +0900</pubDate>
+    <lastBuildDate>Sat, 23 Nov 2019 14:45:25 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (Nov 4 week 2019)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.216404&quot;&gt;PhysRevLett.123.216404&lt;/a&gt;&lt;/strong&gt; : k z Selective Scattering within Quasiparticle Interference Measurements of FeSe (QPI, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.216802&quot;&gt;PhysRevLett.123.216802&lt;/a&gt;&lt;/strong&gt; : Magnus Hall Effect (Liang Fu, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.216803&quot;&gt;PhysRevLett.123.216803&lt;/a&gt;&lt;/strong&gt; : Higher-Order Topological Insulator in Twisted Bilayer Graphene (SB Lee, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.195136&quot;&gt;PhysRevB.100.195136&lt;/a&gt;&lt;/strong&gt; : Fracton fusion and statistics (M. Hermele, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.123.216402&quot;&gt;PhysRevLett.123.216402&lt;/a&gt;&lt;/strong&gt; : Spectroscopic Evidence for Electron-Boson Coupling in Electron-Doped Sr 2 IrO 4 (iridate,PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.184511&quot;&gt;PhysRevB.100.184511&lt;/a&gt;&lt;/strong&gt; : Observation of topological surface states in the high-temperature superconductor MgB 2 (MgB2, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://science.sciencemag.org/content/sci/366/6468/987.full.pdf&quot;&gt;science366.6468/&lt;/a&gt;&lt;/strong&gt; :  &lt;strong&gt;Strange metallicity in the doped Hubbard model (strange metal, science)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/1911.09504&quot;&gt;1911.09504&lt;/a&gt;&lt;/strong&gt; : Deterministic Control of Metamagnetic Transition of Antiferromagnetic Mott Insulator Sr2IrO4 by in-situ Anisotropic Strain (iridate, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.041037&quot;&gt;PhysRevX.9.041037&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Signatures of a Deconfined Phase Transition on the Shastry-Sutherland Lattice: Applications to Quantum Critical SrCu 2 ( BO 3 ) 2 (Vishwanath, PRX)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.205128&quot;&gt;PhysRevB.100.205128&lt;/a&gt;&lt;/strong&gt; : Anisotropic planar Hall effect in the type-II topological Weyl semimetal WTe 2 (planar Hall effect, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1911.08487&quot;&gt;1911.08487&lt;/a&gt;&lt;/strong&gt; : Instability of $j= 3/2$ Bogoliubov Fermi-surfaces (EG Moon, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1911.08768&quot;&gt;1911.08768&lt;/a&gt;&lt;/strong&gt; : Coexistence of full-gap superconductivity and pseudogap in two-dimensional fullerides (fullerides, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1911.06890&quot;&gt;1911.06890&lt;/a&gt;&lt;/strong&gt; : Topological invariants to characterize universality of boundary charge in one-dimensional insulators beyond symmetry constraints (D. Loss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1911.06886&quot;&gt;1911.06886&lt;/a&gt;&lt;/strong&gt; : Density, boundary charge, and topological constraints for edge states: A study via the analytic continuation of Bloch states (D. Loss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.174419&quot;&gt;PhysRevB.100.174419&lt;/a&gt;&lt;/strong&gt; : Theoretical condition for switching the magnetization in a perpendicularly magnetized ferromagnet via the spin Hall effect (spin Hall effect, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.174513&quot;&gt;PhysRevB.100.174513&lt;/a&gt;&lt;/strong&gt; : Functional form of the superconducting critical temperature from machine learning (SC Tc machine learning, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1911.07801&quot;&gt;1911.07801&lt;/a&gt;&lt;/strong&gt; : Atomic-scale fragmentation and collapse of antiferromagnetic order in a doped Mott insulator (iridates, nphys)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1911.06331&quot;&gt;1911.06331&lt;/a&gt;&lt;/strong&gt; : Correlations induced by fractional statistics in $\boldsymbol{\mathbb{Z}_2}$ quantum spin liquids&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 23 Nov 2019 09:36:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2019/11/Nov4weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/11/Nov4weeks</guid>
+        
+        
+        <category>2019Nov</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Nov 3 week 2019)</title>
@@ -833,107 +901,6 @@
         <pubDate>Sat, 21 Sep 2019 09:36:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2019/09/Sep3weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/09/Sep3weeks</guid>
-        
-        
-        <category>2019Sep</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Sep 2 week 2019)</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.9.031046&quot;&gt;&lt;strong&gt;PhysRevX.9.031046&lt;/strong&gt;&lt;/a&gt; : Superconductivity near a Ferroelectric Quantum Critical Point in Ultralow-Density Dirac Materials (STO, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.104203&quot;&gt;&lt;strong&gt;PhysRevB.100.104203&lt;/strong&gt;&lt;/a&gt; : Many-body delocalization dynamics in long Aubry-André quasiperiodic chains (AA quasi periodic, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.115128&quot;&gt;&lt;strong&gt;PhysRevB.100.115128&lt;/strong&gt;&lt;/a&gt; : Superconductor versus insulator in twisted bilayer graphene (bilayer graphene, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.121105&quot;&gt;&lt;strong&gt;PhysRevB.100.121105&lt;/strong&gt;&lt;/a&gt; : Specific heat maximum as a signature of Mott physics in the two-dimensional Hubbard model (Trembly, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125128&quot;&gt;&lt;strong&gt;PhysRevB.100.125128&lt;/strong&gt;&lt;/a&gt; : Matrix product state description and gaplessness of the Haldane-Rezayi state (MPS, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.094517&quot;&gt;&lt;strong&gt;PhysRevB.100.094517&lt;/strong&gt;&lt;/a&gt; : Effect of strain inhomogeneity on a chiral p -wave superconductor (S. Raghu, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.115126&quot;&gt;&lt;strong&gt;PhysRevB.100.115126&lt;/strong&gt;&lt;/a&gt; : Embedded topological insulators (Hughes, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.104414&quot;&gt;&lt;strong&gt;PhysRevB.100.104414&lt;/strong&gt;&lt;/a&gt; : Magnetic excitations in hole-doped Sr 2 IrO 4 : Comparison with electron-doped cuprates (iridate, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.094516&quot;&gt;&lt;strong&gt;PhysRevB.100.094516&lt;/strong&gt;&lt;/a&gt; : Two-gap and three-gap superconductivity in AlB 2 -based films (MgB2, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125414&quot;&gt;&lt;strong&gt;PhysRevB.100.125414&lt;/strong&gt;&lt;/a&gt; : Tunable skyrmion-skyrmion binding on the surface of a topological insulator (skyrmion, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.115114&quot;&gt;&lt;strong&gt;PhysRevB.100.115114&lt;/strong&gt;&lt;/a&gt; : &lt;strong&gt;Self-conjugate representation SU(3) chains (Affleck, PRB)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.121402&quot;&gt;&lt;strong&gt;PhysRevB.100.121402&lt;/strong&gt;&lt;/a&gt; : Spin and valley waves in Dirac semimetals with population imbalance (Zyuzin, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.125411&quot;&gt;&lt;strong&gt;PhysRevB.100.125411&lt;/strong&gt;&lt;/a&gt; : Effective model for Majorana modes in graphene (Majorana, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.05174&quot;&gt;&lt;strong&gt;1909.05174&lt;/strong&gt;&lt;/a&gt; : Discovering Momentum-Dependent Magnon Spin Texture in Insulating Antiferromagnets: Role of Kitaev interaction (magnon, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.100.094411&quot;&gt;&lt;strong&gt;PhysRevB.100.094411&lt;/strong&gt;&lt;/a&gt; : NMR relaxation in the spin-1 Heisenberg chain (Sandvik, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03141&quot;&gt;&lt;strong&gt;1909.03141&lt;/strong&gt;&lt;/a&gt; : Possible ‘symmetry-imposed’ near-nodal two-dimensional p-wave pairing in Sr$_2$RuO$_4$ (Ruthenate, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03942&quot;&gt;&lt;strong&gt;1909.03942&lt;/strong&gt;&lt;/a&gt; : Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO2 (Arita, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.04015&quot;&gt;&lt;strong&gt;1909.04015&lt;/strong&gt;&lt;/a&gt; : Triplet-Superconductivity in Triple-Band Crossings (SB Lee, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03089&quot;&gt;&lt;strong&gt;1909.03089&lt;/strong&gt;&lt;/a&gt; : The case for octupolar order in d-orbital Mott insulators (Paramekanti, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03113&quot;&gt;&lt;strong&gt;1909.03113&lt;/strong&gt;&lt;/a&gt; : Octupolar vs N'{e}el Order in Cubic 5$d^2$ double perovskites (Paramekanti, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03893&quot;&gt;&lt;strong&gt;1909.03893&lt;/strong&gt;&lt;/a&gt; : Correlation driven metallic and half-metallic phases in a band insulator (DMFT, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.91.235108&quot;&gt;&lt;strong&gt;PhysRevB.91.235108&lt;/strong&gt;&lt;/a&gt; : Phase diagram of the half-filled ionic Hubbard model (DMFT, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03103&quot;&gt;&lt;strong&gt;1909.03103&lt;/strong&gt;&lt;/a&gt; : Electronic structure of carbon nanotubes on graphene substrates (MacDonald, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03298&quot;&gt;&lt;strong&gt;1909.03298&lt;/strong&gt;&lt;/a&gt; : The Haldane model and its localization dichotomy (Haldane, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.02678&quot;&gt;&lt;strong&gt;1909.02678&lt;/strong&gt;&lt;/a&gt; : Electronic structure of the parent compound of superconducting infinite-layer nickelates (nickelates, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.02743&quot;&gt;&lt;strong&gt;1909.02743&lt;/strong&gt;&lt;/a&gt; : A key role of correlation effects in the Lifshitz transition in Sr$_2$RuO$_4$ (ruthenate, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03015&quot;&gt;&lt;strong&gt;1909.03015&lt;/strong&gt;&lt;/a&gt; : &lt;strong&gt;Robust $d_{x^2-y^2}$-wave superconductivity of infinite-layer nickelates (S. Raghu, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.02828&quot;&gt;&lt;strong&gt;1909.02828&lt;/strong&gt;&lt;/a&gt; : Higher-order topological phases in a spring-mass model on a breathing kagome lattice (Hatsugai, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1909.03047&quot;&gt;&lt;strong&gt;1909.03047&lt;/strong&gt;&lt;/a&gt; : Wiedemann-Franz law and Mott relation for non-linear anomalous transport phenomena (WF laws, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 14 Sep 2019 09:36:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/09/Sep2weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/Sep2weeks</guid>
         
         
         <category>2019Sep</category>
