@@ -25,6 +25,7 @@ permalink: /categories/
      <th> <a href="../blog/2019/11/Nov2weeks">Nov2w</a>  </th>
      <th> <a href="../blog/2019/11/Nov3weeks">Nov3w</a>  </th>
      <th> <a href="../blog/2019/11/Nov4weeks">Nov4w</a>  </th>
+	    <th> <a href="../blog/2019/11/Nov5weeks">Nov5w</a>  </th>
 
        </tr>
 	
