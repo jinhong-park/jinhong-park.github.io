@@ -6,6 +6,32 @@ permalink: /categories/
   <a href="../../fulllist"><b>   Full list</b></a> 
 
 
+<!--  2020 begin -->
+
+ <table>
+       <caption>  </caption>
+   <thead>
+         <tr> <th>2020</th> </tr>
+   </thead>
+   <tbody>
+	
+	<tr>
+     <th> <a href="../blog/2020/01/Jan1weeks">Jan1w</a> </th>
+     <th> <a href="../blog/2020/01/Jan2weeks"></a>  </th>
+     <th> <a href="../blog/2020/01/Jan3weeks"></a>  </th>
+     <th> <a href="../blog/2020/01/Jan4weeks"></a>  </th>
+    </tr>
+	
+   </tbody>
+ </table>
+  
+  <br>
+
+<!--  2020 end -->
+
+<!--  2019 begin -->
+
+
   <table>
        <caption>  </caption>
        <thead>
@@ -15,16 +41,6 @@ permalink: /categories/
        </thead>
        <tbody>
     
-	
-	
-	<tr>
-     <th> <a href="../blog/2020/01/Jan1weeks">Jan1w</a> </th>
-     <th> <a href="../blog/2020/01/Jan2weeks"></a>  </th>
-     <th> <a href="../blog/2020/01/Jan3weeks"></a>  </th>
-     <th> <a href="../blog/2020/01/Jan4weeks"></a>  </th>
-
-
-       </tr>
 	
 	
 	
