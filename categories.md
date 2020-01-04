@@ -18,6 +18,17 @@ permalink: /categories/
 	
 	
 	<tr>
+     <th> <a href="../blog/2020/01/Jan1weeks">Jan1w</a> </th>
+     <th> <a href="../blog/2020/01/Jan2weeks"></a>  </th>
+     <th> <a href="../blog/2020/01/Jan3weeks"></a>  </th>
+     <th> <a href="../blog/2020/01/Jan4weeks"></a>  </th>
+
+
+       </tr>
+	
+	
+	
+	<tr>
      <th> <a href="../blog/2019/12/Dec1weeks">Dec1w</a> </th>
      <th> <a href="../blog/2019/12/Dec2weeks">Dec2w</a>  </th>
      <th> <a href="../blog/2019/12/Dec3weeks">Dec3w</a>  </th>
