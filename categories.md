@@ -18,7 +18,7 @@ permalink: /categories/
 	<tr>
      <th> <a href="../blog/2020/02/Feb1weeks">Feb1w</a> </th>
      <th> <a href="../blog/2020/02/Feb2weeks">Feb2w</a>  </th>
-     <th> <a href="../blog/2020/02/Feb3weeks"></a>  </th>
+     <th> <a href="../blog/2020/02/Feb3weeks">Feb3w</a>  </th>
      <th> <a href="../blog/2020/02/Feb4weeks"></a>  </th>
     </tr>
 	
