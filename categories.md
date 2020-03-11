@@ -20,6 +20,7 @@ permalink: /categories/
      <th> <a href="../blog/2020/02/Feb2weeks">Feb2w</a>  </th>
      <th> <a href="../blog/2020/02/Feb3weeks">Feb3w</a>  </th>
      <th> <a href="../blog/2020/02/Feb4weeks">Feb4w</a>  </th>
+	 <th> <a href="../blog/2020/02/Feb5weeks">Feb5w</a>  </th>
     </tr>
 	
 	<tr>
