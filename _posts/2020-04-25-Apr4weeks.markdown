@@ -5,7 +5,7 @@ date:   2020-04-25 00:16:27
 categories: 2020Apr
 ---
 
-
+{% include image.html url="/images/2020apr4weeks.png" caption="A WordCloud of 2020 April 4th week collection" width=300 align="center" %}
 
 
 1. **[2004.11353](http://arxiv.org/abs/2004.11353)** :  Nonvolatile switching of magnetic order by electric fields in an orbital Chern insulator (A. MacDonald, arXiv)
