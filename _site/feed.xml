@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 May 2020 00:01:05 +0900</pubDate>
-    <lastBuildDate>Mon, 04 May 2020 00:01:05 +0900</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Mon, 04 May 2020 13:10:44 +0900</pubDate>
+    <lastBuildDate>Mon, 04 May 2020 13:10:44 +0900</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>weekly picks (May 1 week 2020)</title>
@@ -300,7 +300,14 @@
     
       <item>
         <title>weekly picks (Apr 3 week 2020)</title>
-        <description>&lt;ol&gt;
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2020apr3weeks.png&quot; alt=&quot;A WordCloud of 2020 April 3rd week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2020 April 3rd week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2004.07569&quot;&gt;2004.07569&lt;/a&gt;&lt;/strong&gt; :  Thermodynamic and Transport Properties in Disordered Kitaev Models (Y. Motome, arXiv)&lt;/p&gt;
   &lt;/li&gt;
