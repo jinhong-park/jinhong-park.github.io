@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 May 2020 12:27:15 +0900</pubDate>
-    <lastBuildDate>Tue, 05 May 2020 12:27:15 +0900</lastBuildDate>
+    <pubDate>Tue, 05 May 2020 18:30:03 +0900</pubDate>
+    <lastBuildDate>Tue, 05 May 2020 18:30:03 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -520,7 +520,14 @@
     
       <item>
         <title>weekly picks (Apr 1 week 2020)</title>
-        <description>&lt;ol&gt;
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2020apr1weeks.png&quot; alt=&quot;A WordCloud of 2020 April 1st week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2020 April 1st week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.124.136407&quot;&gt;PhysRevLett.124.136407&lt;/a&gt;&lt;/strong&gt; :  M&quot;obius Insulator and Higher-Order Topology in ${\mathrm{MnBi}}&lt;em&gt;{2n}{\mathrm{Te}}&lt;/em&gt;{3n+1}$ (Das Sarma, PRL)&lt;/p&gt;
   &lt;/li&gt;
