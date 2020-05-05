@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 May 2020 21:24:35 +0900</pubDate>
-    <lastBuildDate>Mon, 04 May 2020 21:24:35 +0900</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Tue, 05 May 2020 12:27:15 +0900</pubDate>
+    <lastBuildDate>Tue, 05 May 2020 12:27:15 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>weekly picks (May 1 week 2020)</title>
@@ -388,7 +388,14 @@
     
       <item>
         <title>weekly picks (Apr 2 week 2020)</title>
-        <description>&lt;ol&gt;
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2020apr2weeks.png&quot; alt=&quot;A WordCloud of 2020 April 2nd week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2020 April 2nd week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.165304&quot;&gt;PhysRevB.101.165304&lt;/a&gt;&lt;/strong&gt; :  Surface charge theorem and topological constraints for edge states: Analytical study of one-dimensional nearest-neighbor tight-binding models (D. Loss, PRB)&lt;/p&gt;
   &lt;/li&gt;

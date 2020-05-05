@@ -6,6 +6,7 @@ categories: 2020Apr
 ---
 
 
+{% include image.html url="/images/2020apr2weeks.png" caption="A WordCloud of 2020 April 2nd week collection" width=300 align="center" %}
 
 1. **[PhysRevB.101.165304](https://link.aps.org/doi/10.1103/PhysRevB.101.165304)** :  Surface charge theorem and topological constraints for edge states: Analytical study of one-dimensional nearest-neighbor tight-binding models (D. Loss, PRB)
 
