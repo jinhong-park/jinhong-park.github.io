@@ -5,6 +5,7 @@ date:   2020-03-21 00:16:27
 categories: 2020Mar
 ---
 
+{% include image.html url="/images/2020mar3weeks.png" caption="A WordCloud of 2020 March 3rd week collection" width=300 align="center" %}
 
 1. **[2003.08682](http://arxiv.org/abs/2003.08682)** :  Magnetism and N\'{e}el skyrmion dynamics in GaV$_{4}$S$_{8-y}$Se$_{y}$ (skyrmion, arXiv)
 
