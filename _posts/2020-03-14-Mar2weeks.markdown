@@ -5,6 +5,8 @@ date:   2020-03-14 00:16:27
 categories: 2020Mar
 ---
 
+{% include image.html url="/images/2020mar2weeks.png" caption="A WordCloud of 2020 March 2nd week collection" width=300 align="center" %}
+
 
 1. **[PhysRevB.101.115133](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.115133)** :  Competition between Kondo physics and Kitaev physics in Kitaev clusters coupled to a fermionic bath (A. Rosch)
 

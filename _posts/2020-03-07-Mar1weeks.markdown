@@ -5,6 +5,7 @@ date:   2020-03-07 00:16:27
 categories: 2020Mar
 ---
 
+{% include image.html url="/images/2020mar1weeks.png" caption="A WordCloud of 2020 March 1st week collection" width=300 align="center" %}
 
 1. **[2002.08712](http://arxiv.org/abs/2002.08712)** :  **Observation of the Crystal Hall Effect in a Collinear Antiferromagnet (crystal Hall effect, arXiv)**
 
