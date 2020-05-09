@@ -22,6 +22,9 @@ __[https://topocondmat.org/](https://topocondmat.org/)__
 
 __[ Hamburg / The Fascination of Crystals and Symmetry / F. Hoffmann ](https://crystalsymmetry.wordpress.com/yt/)__,  __[youtube](https://www.youtube.com/channel/UCts9FTFNInqTMvcFpdyap7w/playlists?sort=dd&view=1&shelf_id=2)__
 
+
+__[Condensed Matter – Marcel Franz](https://www.youtube.com/watch?v=nSXmB9hWj28&list=PLaNkJORnlhZnU0bY50l10qHmjFGMyTfXi)__
+
 tags : `#blog`
 
 __[computational physics](https://compphys.go.ro/)__
