@@ -6,9 +6,111 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 May 2020 14:04:11 +0900</pubDate>
-    <lastBuildDate>Sat, 09 May 2020 14:04:11 +0900</lastBuildDate>
+    <pubDate>Sat, 16 May 2020 13:06:13 +0900</pubDate>
+    <lastBuildDate>Sat, 16 May 2020 13:06:13 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>weekly picks (May 3 week 2020)</title>
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2020may3weeks.png&quot; alt=&quot;A WordCloud of 2020 May 3rd week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2020 May 3rd week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.201107&quot;&gt;PhysRevB.101.201107&lt;/a&gt;&lt;/strong&gt; :  Unexpected magnetic phase in the weakly ordered spin-$\frac{1}{2}$ chain cuprate ${\mathrm{Sr}}&lt;em&gt;{2}{\mathrm{CuO}}&lt;/em&gt;{3}$ (curate, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.195126&quot;&gt;PhysRevB.101.195126&lt;/a&gt;&lt;/strong&gt; :  Gauge theories for the thermal Hall effect (Sachdev, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.195424&quot;&gt;PhysRevB.101.195424&lt;/a&gt;&lt;/strong&gt; :  Phase diagrams of single-layer two-dimensional transition metal dichalcogenides: Landau theory (TMDC, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2005.06729&quot;&gt;2005.06729&lt;/a&gt;&lt;/strong&gt; :  &lt;strong&gt;DMFT reveals the non-Hermitian topology in heavy-fermion systems (Fu, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.124.197203&quot;&gt;PhysRevLett.124.197203&lt;/a&gt;&lt;/strong&gt; : Three-Magnon Bound State in the Quasi-One-Dimensional Antiferromagnet α - NaMnO 2 (magnon, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.174423&quot;&gt;PhysRevB.101.174423&lt;/a&gt;&lt;/strong&gt; :  Semirealistic tight-binding model for spin-orbit torques (Monchon, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.10.021034&quot;&gt;PhysRevX.10.021034&lt;/a&gt;&lt;/strong&gt; :   Dynamic Spin Correlations in the Honeycomb Lattice Na 2 IrO 3 Measured by Resonant Inelastic x-Ray Scattering (BJKim, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2005.06896&quot;&gt;2005.06896&lt;/a&gt;&lt;/strong&gt; :  &lt;strong&gt;Impurity-induced resonant spinon zero modes in Dirac quantum spin-liquids (Lado, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.124.197201&quot;&gt;PhysRevLett.124.197201&lt;/a&gt;&lt;/strong&gt; :  Metamagnetism of Weakly Coupled Antiferromagnetic Topological Insulators (AFMTI, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.174203&quot;&gt;PhysRevB.101.174203&lt;/a&gt;&lt;/strong&gt; :  Critical properties of the ground-state localization-delocalization transition in the many-particle Aubry-André model (JMoore, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.184508&quot;&gt;PhysRevB.101.184508&lt;/a&gt;&lt;/strong&gt; :  Phonon spectrum of underdoped HgBa 2 CuO 4 + δ investigated by neutron scattering (phonon, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.174106&quot;&gt;PhysRevB.101.174106&lt;/a&gt;&lt;/strong&gt; :  First-principles study of the low-temperature charge density wave phase in the quasi-one-dimensional Weyl chiral compound ( TaSe 4 ) 2 I (Dagotto, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.184110&quot;&gt;PhysRevB.101.184110&lt;/a&gt;&lt;/strong&gt; :  Structural and thermal transport properties of ferroelectric domain walls in GeTe from first principles (GeTe, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2005.05884&quot;&gt;2005.05884&lt;/a&gt;&lt;/strong&gt; :  Magnonic Quadrupole Topological Insulator in Antiskyrmion Crystals (antiskyrmion, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2005.05497&quot;&gt;2005.05497&lt;/a&gt;&lt;/strong&gt; :  Ising superconductivity and magnetism in NbSe$_2$ (Ising, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.195121&quot;&gt;PhysRevB.101.195121&lt;/a&gt;&lt;/strong&gt; :  Symmetry-protected topological phases in a two-leg SU ( N ) spin ladder with unequal spins (spin ladder, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.180404&quot;&gt;PhysRevB.101.180404&lt;/a&gt;&lt;/strong&gt; :  Anomalous transverse response of Co 2 MnGa and universality of the room-temperature α i j A / σ i j A ratio across topological magnets (Behnia, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.124.197601&quot;&gt;PhysRevLett.124.197601&lt;/a&gt;&lt;/strong&gt; :  Nature of Symmetry Breaking at the Excitonic Insulator Transition: Ta 2 NiSe 5 (EI, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.124.197602&quot;&gt;PhysRevLett.124.197602&lt;/a&gt;&lt;/strong&gt; :  Raman Response in the Nematic Phase of FeSe (Chubukov, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.10.021033&quot;&gt;PhysRevX.10.021033&lt;/a&gt;&lt;/strong&gt; :  Deconfined Critical Point in a Doped Random Quantum Heisenberg Magnet (Sachdev, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2005.04238&quot;&gt;2005.04238&lt;/a&gt;&lt;/strong&gt; :  Density functional approach to correlated moire states: itinerant magnetism (Fu, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2005.04124&quot;&gt;2005.04124&lt;/a&gt;&lt;/strong&gt; :  Symmetry-mixed bound-state order: extended degeneracy of (d + ig)-superconductivity in Sr2RuO4 (Ruthenate, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2005.03679&quot;&gt;2005.03679&lt;/a&gt;&lt;/strong&gt; :  Time-reversal-invariant C2-symmetric higher-order topological superconductors (Sarma, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.195118&quot;&gt;PhysRevB.101.195118&lt;/a&gt;&lt;/strong&gt; :  Collective modes in excitonic insulators: Effects of electron-phonon coupling and signatures in the optical response (EI, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.201403&quot;&gt;PhysRevB.101.201403&lt;/a&gt;&lt;/strong&gt; :  Metallic network of topological domain walls (Jung, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.201105&quot;&gt;PhysRevB.101.201105&lt;/a&gt;&lt;/strong&gt; :  &lt;strong&gt;Observation of sixfold degenerate fermions in PdS b 2 (Hasan, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.195117&quot;&gt;PhysRevB.101.195117&lt;/a&gt;&lt;/strong&gt; :  Topological and nontopological features of generalized Su-Schrieffer-Heeger models (SSH, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 16 May 2020 09:16:27 +0900</pubDate>
+        <link>http://localhost:4000/blog/2020/05/May3weeks</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/05/May3weeks</guid>
+        
+        
+        <category>2020May</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (May 2 week 2020)</title>
@@ -1019,112 +1121,6 @@
         <pubDate>Sat, 14 Mar 2020 09:16:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2020/03/Mar2weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2020/03/Mar2weeks</guid>
-        
-        
-        <category>2020Mar</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Mar 1 week 2020)</title>
-        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2020mar1weeks.png&quot; alt=&quot;A WordCloud of 2020 March 1st week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;A WordCloud of 2020 March 1st week collection&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.08712&quot;&gt;2002.08712&lt;/a&gt;&lt;/strong&gt; :  &lt;strong&gt;Observation of the Crystal Hall Effect in a Collinear Antiferromagnet (crystal Hall effect, arXiv)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.08385&quot;&gt;2002.08385&lt;/a&gt;&lt;/strong&gt; :  Entanglement Signatures of Multipolar Higher Order Topological Phases (T. Hughes, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.125411&quot;&gt;PhysRevB.101.125411&lt;/a&gt;&lt;/strong&gt; :  Topological flat bands without magic angles in massive twisted bilayer graphenes (J. Jung, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.121107&quot;&gt;PhysRevB.101.121107&lt;/a&gt;&lt;/strong&gt; :  Quantum aspects of hydrodynamic transport from weak electron-impurity scattering (EA Kim, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.121106&quot;&gt;PhysRevB.101.121106&lt;/a&gt;&lt;/strong&gt; :  Universal spin dynamics in infinite-temperature one-dimensional quantum magnets (J. Moore, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.115120&quot;&gt;PhysRevB.101.115120&lt;/a&gt;&lt;/strong&gt; :  Appearance of hinge states in second-order topological insulators via the cutting procedure (S. Murakami, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.10.011062&quot;&gt;PhysRevX.10.011062&lt;/a&gt;&lt;/strong&gt; :  Dirac Magnons in a Honeycomb Lattice Quantum $\mathit{XY}$ Magnet ${\mathrm{CoTiO}}_{3}$ (Dirac magnon, PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://science.sciencemag.org/content/367/6483/1218&quot;&gt;science367.6483.1218&lt;/a&gt;&lt;/strong&gt; :  Realization of the kagome spin ice state in a frustrated intermetallic compound (kagome, science)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.11783&quot;&gt;2002.11783&lt;/a&gt;&lt;/strong&gt; :  Spin-orbit quantum impurity in a topological kagome magnet (Hasan, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.11777&quot;&gt;2002.11777&lt;/a&gt;&lt;/strong&gt; :  Driving a magnetized domain wall in an antiferromagnet by magnons (SK Kim, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.11727&quot;&gt;2002.11727&lt;/a&gt;&lt;/strong&gt; :  Magnon dispersion and dynamic spin response in three-dimensional spin models for $\alpha$-RuCl$_3$ (Vojta, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.11725&quot;&gt;2002.11725&lt;/a&gt;&lt;/strong&gt; :  Large Classes of Quantum Scarred Hamiltonians from Matrix Product States (Bernevig, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.12676&quot;&gt;2002.12676&lt;/a&gt;&lt;/strong&gt; :  Quantum Damping of Skyrmion Crystal Eigenmodes due to Spontaneous Quasiparticle Decay (D. Loss, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2002.12381&quot;&gt;2002.12381&lt;/a&gt;&lt;/strong&gt; :  Metal-insulator transition in a random Hubbard model (Sachdev, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2003.01705&quot;&gt;2003.01705&lt;/a&gt;&lt;/strong&gt; :  Haldane Phase in Spin-1 Bosons with a Flat Band (H. Katsura, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2003.01754&quot;&gt;2003.01754&lt;/a&gt;&lt;/strong&gt; :  Van Hove singularity in the magnon spectrum of the antiferromagnetic quantum honeycomb lattice (magnon, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2003.04835&quot;&gt;2003.04835&lt;/a&gt;&lt;/strong&gt; :  Dynamics of a two-dimensional quantum spin-orbital liquid: spectroscopic signatures of fermionic magnons (Knolle, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.104412&quot;&gt;PhysRevB.101.104412&lt;/a&gt;&lt;/strong&gt; :  Bose-Einstein condensation of deconfined spinons in two dimensions (Sandvik, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.115410&quot;&gt;PhysRevB.101.115410&lt;/a&gt;&lt;/strong&gt; :  Experimental study of ac Josephson effect in gate-tunable (Bi1−xSbx)2Te3 thin-ﬁlm Josephson junctions (Tarucha, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.115118&quot;&gt;PhysRevB.101.115118&lt;/a&gt;&lt;/strong&gt; :  Magnetic-order-driven metal-insulator transitions in the quasi-one-dimensional spin-ladder compounds ${\mathrm{BaFe}}&lt;em&gt;{2}{\mathrm{S}}&lt;/em&gt;{3}$ and ${\mathrm{BaFe}}&lt;em&gt;{2}{\mathrm{Se}}&lt;/em&gt;{3}$ (J. Jang, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.115116&quot;&gt;PhysRevB.101.115116&lt;/a&gt;&lt;/strong&gt; :  Phase diagram and thermal Hall conductivity of the spin-liquid Kekulé-Kitaev model (thermal Hall effect, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.124.106804&quot;&gt;PhysRevLett.124.106804&lt;/a&gt;&lt;/strong&gt; :  Ab Initio Mismatched Interface Theory of Graphene on $\ensuremath{\alpha}\text{\ensuremath{-}}{\mathrm{RuCl}}_{3}$: Doping and Magnetism (EA Kim, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.085415&quot;&gt;PhysRevB.101.085415&lt;/a&gt;&lt;/strong&gt; :  Carrier- and strain-tunable intrinsic magnetism in two-dimensional M A X 3 transition metal chalcogenides (EH Hwang, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.060504&quot;&gt;PhysRevB.101.060504&lt;/a&gt;&lt;/strong&gt; :  Robust d x 2 − y 2 -wave superconductivity of infinite-layer nickelates (nickelates, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.064514&quot;&gt;PhysRevB.101.064514&lt;/a&gt;&lt;/strong&gt; :  Finite bulk Josephson currents and chirality blockade removal from interorbital pairing in magnetic Weyl semimetals (magnetic Weyl semimetal, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.064424&quot;&gt;PhysRevB.101.064424&lt;/a&gt;&lt;/strong&gt; :  Berry curvature for magnetoelastic waves (S. Murakami, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.085423&quot;&gt;PhysRevB.101.085423&lt;/a&gt;&lt;/strong&gt; :  Dispersive Landau levels and valley currents in strained graphene nanoribbons (M. Franz, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.101.125201&quot;&gt;PhysRevB.101.125201&lt;/a&gt;&lt;/strong&gt; :  Nieh-Yan anomaly: Torsional Landau levels, central charge, and anomalous thermal Hall effect (M. Stone, PRB)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 07 Mar 2020 09:16:27 +0900</pubDate>
-        <link>http://localhost:4000/blog/2020/03/Mar1weeks</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020/03/Mar1weeks</guid>
         
         
         <category>2020Mar</category>
