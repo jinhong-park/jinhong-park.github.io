@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "weekly picks (May 4 week 2020)"
+date:   2020-05-23 00:16:27
+categories: 2020May
+---
+
+{% include image.html url="/images/2020may4weeks.png" caption="A WordCloud of 2020 May 4th week collection" width=300 align="center" %}
+
+
+
+1. **[PhysRevB.101.205424](https://link.aps.org/doi/10.1103/PhysRevB.101.205424)** :  Disorder-induced phase transition in Dirac systems beyond the linear approximation (Dirac, PRB)
+
+1. **[PhysRevB.101.205143](https://link.aps.org/doi/10.1103/PhysRevB.101.205143)** :  First-principles study of the nontrivial topological phase in chains of $3d$ transition metals (majorana, PRB)
+
+1. **[PhysRevB.101.205142](https://link.aps.org/doi/10.1103/PhysRevB.101.205142)** :  Simplified and improved approach to tensor network operators in two dimensions (TN, PRB)
+
+1. **[PhysRevX.10.021042](https://link.aps.org/doi/10.1103/PhysRevX.10.021042)** :  Chiral Spin Liquid Phase of the Triangular Lattice Hubbard Model: A Density Matrix Renormalization Group Study (JMoore, PRX)
+
+1. **[PhysRevLett.124.206603](https://link.aps.org/doi/10.1103/PhysRevLett.124.206603)** :  Anomalous Temperature Dependence of Quantum Correction to the Conductivity of Magnetic Topological Insulators (magneticTI, PRL)
+
+
+1. **[2005.10380](http://arxiv.org/abs/2005.10380)** :  Phase diagram of an interacting staggered Su-Schrieffer-Heeger two-chain ladder close to a quantum critical point (SSH, arXiv)
+
+1. **[2005.10273](http://arxiv.org/abs/2005.10273)** :  Einstein-de Haas Effect of Topological Magnons (magnon, arXiv)
+
+1. **[PhysRevB.101.174432](https://link.aps.org/doi/10.1103/PhysRevB.101.174432)** :  Topological Hall effect in weakly canted antiferromagnets (THE, PRB)
+
+1. **[PhysRevB.101.174434](https://link.aps.org/doi/10.1103/PhysRevB.101.174434)** :  Orientation dependence of the magnetic phase diagram of ${\mathrm{Yb}}_{2}{\mathrm{Ti}}_{2}{\mathrm{O}}_{7}$ (Pfleiderer, PRB)
+
+1. **[PhysRevLett.124.207004](https://link.aps.org/doi/10.1103/PhysRevLett.124.207004)** :  Critical Nature of the Ni Spin State in Doped NdNiO 2 (Nickelate, PRL)
+
+1. **[PhysRevLett.124.206404](https://link.aps.org/doi/10.1103/PhysRevLett.124.206404)** :  Itinerant-Electron Magnetism: The Importance of Many-Body Correlations (magnetism, PRL)
+
+1. **[PhysRevLett.124.207005](https://link.aps.org/doi/10.1103/PhysRevLett.124.207005)** :  Strongly Correlated Charge Density Wave in ${\mathrm{La}}_{2\ensuremath{-}x}{\mathrm{Sr}}_{x}{\mathrm{CuO}}_{4}$ Evidenced by Doping-Dependent Phonon Anomaly (cuprate, PRL)
+
+1. **[science368.6493.856](https://science.sciencemag.org/content/368/6493/856)** :  Observation of Floquet solitons in a topological bandgap (TI, Science)
+
+
+1. **[2005.09777](http://arxiv.org/abs/2005.09777)** :  Polarity dependent heating at the phase interface in metal-insulator transitions (AJMillis, arXiv)
+
+1. **[2005.09673](http://arxiv.org/abs/2005.09673)** :  Quantum Monte Carlo Simulations of the 2D Su-Schrieffer-Heeger Model (2DSSH, arXiv)
+
+1. **[PhysRevLett.124.206403](https://link.aps.org/doi/10.1103/PhysRevLett.124.206403)** :  Emergence of Topologically Nontrivial Spin-Polarized States in a Segmented Linear Chain (Cohen, PRL)
+
+1. **[Physics.13.82](https://link.aps.org/doi/10.1103/Physics.13.82)** :  Topological States in a Segmented Chain (molecule chain, Physics)
+
+1. **[PhysRevB.101.195136](https://link.aps.org/doi/10.1103/PhysRevB.101.195136)** :  Characterization of photoexcited states in the half-filled one-dimensional extended Hubbard model assisted by machine learning (Yunoki, PRB)
+
+1. **[PhysRevB.101.184518](https://link.aps.org/doi/10.1103/PhysRevB.101.184518)** :  Drastic enhancement of the thermal Hall angle in a d -wave superconductor (thermal Hall, PRB)
+
+1. **[PhysRevLett.124.207202](https://link.aps.org/doi/10.1103/PhysRevLett.124.207202)** :  Steering of the Skyrmion Hall Angle by Gate Voltages (skyrmion, PRL)
+
+1. **[PhysRevLett.124.206101](https://link.aps.org/doi/10.1103/PhysRevLett.124.206101)** :  Stacking Domains and Dislocation Networks in Marginally Twisted Bilayers of Transition Metal Dichalcogenides (Falko, PRL)
+
+
+1. **[2005.09129](http://arxiv.org/abs/2005.09129)** :  Correlation-driven renormalization of topological features in the CeTX$_3$ series (Savrasov, arXiv)
+
+1. **[2005.08973](http://arxiv.org/abs/2005.08973)** :  Critical theory of non-Fermi liquid fixed point in multipolar Kondo problem (YBKim, arXiv)
+
+1. **[PhysRevB.101.174429](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.174429)** :  Inverse Faraday effect in graphene and Weyl semimetals (inverse Faraday, PRB)
+
+1. **[PhysRevB.101.205134](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.205134)** :  Higher-order Dirac fermions in three dimensions (Higher Dirac, PRB)
+
+1. **[PhysRevB.101.205132](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.205132)** :  Phonon dispersion, Raman spectra, and evidence for spin-phonon coupling in MnV2O4 from ﬁrst principles (phonon, PRB)
+
+1. **[PhysRevB.101.205419](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.205419)** :  Thermal conductivity of Bi2Se3 from bulk to thin ﬁlms: Theory and experiment (Thermal conductivity, PRB)
+
+1. **[PhysRevLett.124.207601](https://link.aps.org/doi/10.1103/PhysRevLett.124.207601)** :  Continuum Theory for Topological Edge Soft Modes (KSun, PRL)
+
+1. **[PhysRevLett.124.207201](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.207201)** :  Skyrmion Crystal from RKKY Interaction Mediated by 2D Electron Gas (Batista, PRL)
+
+
+1. **[PhysRevB.101.205128](https://link.aps.org/doi/10.1103/PhysRevB.101.205128)** :  Higgs mode and stability of $xy$-orbital ordering in ${\mathrm{Ca}}_{2}{\mathrm{RuO}}_{4}$ (Ca2RuO4, PRB)
+
+1. **[PhysRevB.101.205125](https://link.aps.org/doi/10.1103/PhysRevB.101.205125)** :  Direct observation of the energy gain underpinning ferromagnetic superexchange in the electronic structure of ${\mathrm{CrGeTe}}_{3}$ (King, PRB)
+
+1. **[PhysRevB.101.180509](https://link.aps.org/doi/10.1103/PhysRevB.101.180509)** :  $t\ensuremath{-}J$ model on the effective brick-wall lattice for the recently discovered high-temperature superconductor ${\mathrm{Ba}}_{2}{\mathrm{CuO}}_{3+\ensuremath{\delta}}$ (curate, PRB)
+
+1. **[PhysRevB.101.174428](https://link.aps.org/doi/10.1103/PhysRevB.101.174428)** :  Emergence of pure spin current in doped excitonic magnets (Ohta, PRB)
+
+1. **[PhysRevB.101.195131](https://link.aps.org/doi/10.1103/PhysRevB.101.195131)** :  Unified structure for exact towers of scar states in the Affleck-Kennedy-Lieb-Tasaki and other models (AKLT, PRB)
+
+1. **[PhysRevB.101.195130](https://link.aps.org/doi/10.1103/PhysRevB.101.195130)** :  Non-Abelian topology of nodal-line rings in $\mathcal{PT}$-symmetric systems (Bzdušek, PRB)
+
+
+1. **[2005.07396](http://arxiv.org/abs/2005.07396)** :  Band structure of twisted bilayer graphene on hexagonal boron nitride (Guinea, arXiv)
+
+1. **[2005.07337](http://arxiv.org/abs/2005.07337)** :  Fractionalized conductivity at topological phase transitions (William, arXiv)
+
+1. **[2005.07315](http://arxiv.org/abs/2005.07315)** :  Exotic Superconducting States in FeSe-based Materials (Matsuda. arXiv)
