@@ -6,6 +6,8 @@ categories: 2020Feb
 ---
 
 
+{% include image.html url="/images/2020feb5weeks.png" caption="A WordCloud of 2020 Feb 5th week collection" width=300 align="center" %}
+
 1. **[PhysRevB.101.100402](https://link.aps.org/doi/10.1103/PhysRevB.101.100402)** :  **VI 3 : A two-dimensional Ising ferromagnet (VI3, PRB)**
 
 1. **[2003.04053](https://arxiv.org/pdf/2003.04053.pdf)** :  All-electrically tunable networks of Majorana bound states (Trauzettel, arXiv)
