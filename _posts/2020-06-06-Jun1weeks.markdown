@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "weekly picks (Jun 1 week 2020)"
+date:   2020-06-06 00:16:27
+categories: 2020Jun
+---
+
+{% include image.html url="/images/2020jun1weeks.png" caption="A WordCloud of 2020 Jun 1st week collection" width=300 align="center" %}
+
+
+
+1. **[PhysRevLett.124.226402](https://link.aps.org/doi/10.1103/PhysRevLett.124.226402)** :  Ab Initio Studies of Exciton $g$ Factors: Monolayer Transition Metal Dichalcogenides in Magnetic Fields (TMDC, PRL)
+
+1. **[PhysRevB.101.214507](https://link.aps.org/doi/10.1103/PhysRevB.101.214507)** :  Bulk odd-frequency pairing in the superconducting Su-Schrieffer-Heeger model (Jorge, PRB)
+
+1. **[PhysRevB.101.241104](https://link.aps.org/doi/10.1103/PhysRevB.101.241104)** :  Higher-order topological insulators and semimetals in generalized Aubry-Andr\'e-Harper models (AAH, PRB)
+
+1. **[PhysRevLett.124.227203](https://link.aps.org/doi/10.1103/PhysRevLett.124.227203)** :  Discovery of Magnetic Single- and Triple-$\mathbf{q}$ States in $\mathrm{Mn}/\mathrm{Re}(0001)$ (Wiesendanger, PRL)
+
+
+1. **[2006.03049](http://arxiv.org/abs/2006.03049)** :  The sign of longitudinal magnetoconductivity and the planar Hall effect in Weyl semimetals (Tewari, arXiv)
+
+1. **[PhysRevB.101.235121](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.235121)** :  Magic-angle semimetals with chiral symmetry (chiral symmetry, PRB)
+
+1. **[PhysRevB.101.220404](https://link.aps.org/doi/10.1103/PhysRevB.101.220404)** :  Approaching the quantum critical point in a highly correlated all-in--all-out antiferromagnet (AIAO, PRB)
+
+1. **[PhysRevB.101.214504](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.101.214504)** :  Superconducting properties of the hole-doped three-band $d-p$ model studied with minimal-size real-space $d$-wave pairing operators (VMC, PRB)
+
+1. **[eaam9744](https://science.sciencemag.org/content/sci/368/6495/eaam9744.full.pdf)** :  There’s plenty of room at the Top: What will drive computer performance after Moore’s law? (Moore’s law, Science)
+
+1. **[Science368.6495.1114](https://science.sciencemag.org/content/368/6495/1114)** :  A fractional corner anomaly reveals higher-order topology (Hughes, Science)
+
+
+1. **[2006.02114](http://arxiv.org/abs/2006.02114)** :  Magnetic reorientation transition in a three orbital model for $\rm Ca_2 Ru O_4$ -- Interplay of spin-orbit coupling, tetragonal distortion, and Coulomb interactions (ruthenate, arXiv)
+
+1. **[PhysRevB.101.245113](https://link.aps.org/doi/10.1103/PhysRevB.101.245113)** :  Fermi surface topology and nontrivial Berry phase in the flat-band semimetal ${\mathrm{Pd}}_{3}\mathrm{Pb}$ (Pd3Pb, PRB)
+
+1. **[2006.01861](http://arxiv.org/abs/2006.01861)** :  Thermal resistivity due to electron viscosity in bulk antimony (Behnia, arXiv)
+
+1. **[2006.02039](http://arxiv.org/abs/2006.02039)** :  Topological superconductivity induced by a triple-Q magnetic structure (Wiesendanger, arXiv)
+
+1. **[PhysRevB.101.241103](https://link.aps.org/doi/10.1103/PhysRevB.101.241103)** :  Local probes for quantum Hall ferroelectrics and nematics (Fu, PRB)
+
+1. **[PhysRevB.101.235113](https://link.aps.org/doi/10.1103/PhysRevB.101.235113)** :  Topological domain wall states in a nonsymmorphic chiral chain (DW, PRB)
+
+1. **[PhysRevB.101.245116](https://link.aps.org/doi/10.1103/PhysRevB.101.245116)** :  Geometric description of the Kitaev honeycomb lattice model (Pachos, PRB)
+
+1. **[PhysRevB.101.245114](https://link.aps.org/doi/10.1103/PhysRevB.101.245114)** :  Tuning Rashba spin-orbit coupling at LaAlO 3 / SrTiO 3 interfaces by band filling (STOLAO, PRB)
+
+
+1. **[2006.01801](http://arxiv.org/abs/2006.01801)** :  Variational optimization of continuous matrix product states (Verstraete, arXiv)
+
+1. **[2006.01140](http://arxiv.org/abs/2006.01140)** :  Deconfined criticality at the onset of antiferromagnetism in a metal (Sachdev, arXiv)
+
+1. **[2006.01716](http://arxiv.org/abs/2006.01716)** :  Massive suppression of proximity pairing in topological (Bi$_{1-x}$Sb$_{x})_2$Te$_3$ films on niobium (TCChiang, arXiv)
+
+1. **[PhysRevB.101.245110](https://link.aps.org/doi/10.1103/PhysRevB.101.245110)** :  **Higher-order topological insulators in antiperovskites (Cano, PRB)**
+
+1. **[PhysRevB.101.241101](https://link.aps.org/doi/10.1103/PhysRevB.101.241101)** :  **Thermoelectric response and entropy of fractional quantum Hall systems (Fu, PRB)**
+
+1. **[PhysRevB.101.214404](https://link.aps.org/doi/10.1103/PhysRevB.101.214404)** :  **Phases of frustrated quantum antiferromagnets on the square and triangular lattices (Kivelson, PRB)**
+
+1. **[PhysRevB.101.235110](https://link.aps.org/doi/10.1103/PhysRevB.101.235110)** :  Metal-insulator and magnetic phase diagram of Ca 2 RuO 4 from auxiliary field quantum Monte Carlo and dynamical mean field theory (ruthenate, PRB)
+
+1. **[PhysRevB.101.224503](https://link.aps.org/doi/10.1103/PhysRevB.101.224503)** :  Crystalline nodal topological superconductivity and Bogolyubov Fermi surfaces in monolayer NbSe 2 (Fernandes, PRB)
+
+1. **[PhysRevB.101.220403](https://link.aps.org/doi/10.1103/PhysRevB.101.220403)** :  Spontaneous antisymmetric spin splitting in noncollinear antiferromagnets without spin-orbit coupling (AFM, PRB)
+
+1. **[PhysRevB.101.235111](https://link.aps.org/doi/10.1103/PhysRevB.101.235111)** :  Topological band structure transitions and goniopolar transport in honeycomb antimonene as a function of buckling (buckling, PRB)
+
+1. **[PhysRevLett.124.227001](https://link.aps.org/doi/10.1103/PhysRevLett.124.227001)** :  In-Plane Zeeman-Field-Induced Majorana Corner and Hinge Modes in an s -Wave Superconductor Heterostructure (corner mode, PRL)
+
+
+1. **[2006.00746](http://arxiv.org/abs/2006.00746)** :  Quantum Ising chain with boundary dephasing (Katsura, arXiv)
+
+1. **[PhysRevB.101.241402](https://link.aps.org/doi/10.1103/PhysRevB.101.241402)** :  Berezinskii-Kosterlitz-Thouless phase in two-dimensional ferroelectrics (BKT, PRB)
+
+1. **[PhysRevB.101.235201](https://link.aps.org/doi/10.1103/PhysRevB.101.235201)** :  Spin Hall conductivity in topological Dirac semimetals (MSato, PRB)
+
+1. **[PhysRevB.101.235107](https://link.aps.org/doi/10.1103/PhysRevB.101.235107)** :  Spinon excitations in the quasi-one-dimensional S = 1 2 chain compound C s 4 CuS b 2 C l 12 (MLee, PRB)
+
+1. **[PhysRevB.101.235105](https://link.aps.org/doi/10.1103/PhysRevB.101.235105)** :  Electronic structure studies of FeSi: A chiral topological system (FeSi, PRB)
+
+1. **[PhysRevB.101.220401](https://link.aps.org/doi/10.1103/PhysRevB.101.220401)** :  High-field depinned phase and planar Hall effect in the skyrmion host ${\mathrm{Gd}}_{2}{\mathrm{PdSi}}_{3}$ (YTokura, PRB)
+
+
+1. **[2005.14500](http://arxiv.org/abs/2005.14500)** :  Topological second-order spin-3/2 liquids with hinge Fermi arcs (SAYang, arXiv)
+
+1. **[2005.14710](http://arxiv.org/abs/2005.14710)** :  Quasi-One-Dimensional Higher-Order Topological Insulators (Min, arXiv)
+
+1. **[2005.11863](http://arxiv.org/abs/2005.11863)** :  Skyrmion Mass from Spin-Phonon Interaction (skyrmion mass, arXiv)
