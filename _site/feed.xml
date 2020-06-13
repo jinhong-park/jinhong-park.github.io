@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2020 11:38:40 +0900</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2020 11:38:40 +0900</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2020 11:39:49 +0900</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2020 11:39:49 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>weekly picks (Jun 1 week 2020)</title>
+        <title>weekly picks (Jun 2 week 2020)</title>
         <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
 
 &lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2020jun2weeks.png&quot; alt=&quot;A WordCloud of 2020 Jun 2nd week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
@@ -166,7 +166,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sat, 06 Jun 2020 09:16:27 +0900</pubDate>
+        <pubDate>Sat, 13 Jun 2020 09:16:27 +0900</pubDate>
         <link>http://localhost:4000/blog/2020/06/Jun2weeks</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2020/06/Jun2weeks</guid>
         
