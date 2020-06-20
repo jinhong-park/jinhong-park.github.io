@@ -7,6 +7,9 @@ categories: 2020Feb
 
 
 
+{% include image.html url="/images/2020feb2weeks.png" caption="A WordCloud of 2020 Feb 2nd week collection" width=300 align="center" %}
+
+
 1. **[2002.00068](http://arxiv.org/abs/2002.00068)** : DMFTwDFT: An open-source code combining Dynamical Mean Field Theory with various Density Functional Theory packages (HW Park, arXiv)
 
 1. **[2002.01996](http://arxiv.org/abs/2002.01996)** : Multiferroic behavior confined by symmetry in EuTiO3 films (JW Kim, arXiv)
