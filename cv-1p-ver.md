@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: 
+permalink: /cv-1p-ver/
 ---
 
 ## About Me
