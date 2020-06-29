@@ -6,7 +6,7 @@ permalink: /cv-1p-ver/
 
 ## About Me
 
-<img class="profile-picture" src="/images/sherlock.jpg">
+<img  style="float:right" width="100" src="/images/sherlock.jpg">
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
