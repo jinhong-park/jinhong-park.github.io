@@ -1,14 +1,16 @@
 - title: "About"
   href: "/about/"
 
+- title: "Research"
+  href: "/research/"  
+
+
 - title: "Blog"
   href: "/blog/"
 
 - title: "CV"
   href: "/cv/"
   
-- title: "CV-1p-ver"
-  href: "/cv-1p-ver/"  
 
 - title: "Publications"
   href: "/Publications/"
