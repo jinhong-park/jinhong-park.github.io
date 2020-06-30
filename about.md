@@ -23,6 +23,8 @@ Hello! I am a Postdoctoral researcher in Sungkyunkwan University, Korea.
 
 [kakao map](https://place.map.kakao.com/17565616)
 
+---
+
 ## Research Interest
 
 I’m generally interested in the theoretical study of emergent phenomena in condensed matter physics, especially have worked on
@@ -38,6 +40,8 @@ Rashba effect in magnetic metal,
 fractional charge in one-dimensional system,
 >
 and magnetism in perovkite iridates.
+
+---
 
 ## Selected List of Publications
 
