@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title:
 permalink: /about/
 ---
 
-## About Me
 
 <img  style="float:right" width="100" src="/images/sherlock.png">
 
