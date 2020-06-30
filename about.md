@@ -4,6 +4,7 @@ title:
 permalink: /about/
 ---
 
+## About me
 
 <img  style="float:right" width="100" src="/images/sherlock.png">
 
