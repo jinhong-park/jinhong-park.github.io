@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "weekly picks (Jul 1 week 2020)"
+date:   2020-07-04 00:16:27
+categories: 2020Jul
+---
+
+{% include image.html url="/images/2020jul1weeks.png" caption="A WordCloud of 2020 Jul 1st week collection" width=300 align="center" %}
+
+
+
+1. **[2007.00871](http://arxiv.org/abs/2007.00871)** : Orbital antiferromagnetism, nematicity, and density wave orders in twisted bilayer graphene (Chubukov, arXiv)
+
+1. **[2007.00661](http://arxiv.org/abs/2007.00661)** : Hubbard ladders at small $U$ revisited (Kivelson, arXiv)
+
+1. **[2007.01153](http://arxiv.org/abs/2007.01153)** : **Designing nickelate superconductors with $d^8$ configuration exploiting mixed-anion strategy (nickelate, arXiv)**
+
+1. **[2007.01110](http://arxiv.org/abs/2007.01110)** : **Universal bound to the amplitude of the vortex Nernst signal in superconductors (Behnia, arXiv)**
+
+1. **[2007.01048](http://arxiv.org/abs/2007.01048)** : Jahn-Teller coupling to moir\`e phonons in the continuum model formalism for small angle twisted bilayer graphene (phonon, arXiv)
+
+1. **[PhysRevB.102.045301](https://link.aps.org/doi/10.1103/PhysRevB.102.045301)** : Evaluation of the vortex core size in gate-tunable Josephson junctions in Corbino geometry (STaruch, PRB)
+
+1. **[PhysRevB.102.041102](https://link.aps.org/doi/10.1103/PhysRevB.102.041102)** : Electronic band structure of (111) ${\mathrm{SrRuO}}_{3}$ thin films: An angle-resolved photoemission spectroscopy study (CKim, PRB)
+
+1. **[PhysRevB.102.024504](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.102.024504)** : Spectroscopic evidence for strong correlations between local superconducting gap and local Altshuler-Aronov density of states suppression in ultrathin NbN films (Altshuler-Aronov, PRB)
+
+1. **[PhysRevB.102.035107](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.102.035107)** : One-step model of photoemission at finite temperatures: Spin fluctuations of Fe(001) (Hubert, PRB)
+
+
+
+1. **[2007.00633](http://arxiv.org/abs/2007.00633)** : Magnetic phase transitions and spin density distribution in the molecular multiferroic GaV$_4$S$_8$ system (SWCheong, arXiv)
+
+1. **[2007.00575](http://arxiv.org/abs/2007.00575)** : $\mathbb{Z}_2$-projective translational symmetry protected topological phases (SAYang, arXiv)
+
+1. **[2007.00562](http://arxiv.org/abs/2007.00562)** : Entanglement properties of the doping-driven Mott transition in the two-dimensional Hubbard model (Tremblay, arXiv)
+
+1. **[2007.00519](http://arxiv.org/abs/2007.00519)** : Fermion-boson many-body interplay in a frustrated kagome paramagnet (kagome, arXiv)
+
+1. **[2007.00444](http://arxiv.org/abs/2007.00444)** : Evidence for current-induced phase coexistence in Ca$_{2}$RuO$_{4}$ and its influence on magnetic order (Ruthenate, arXiv)
+
+1. **[2007.00376](http://arxiv.org/abs/2007.00376)** : Degenerate manifolds, helimagnets, and multi-$\mathbf{Q}$ chiral phases in the classical Heisenberg antiferromagnet on the face-centered-cubic lattice (multi-Q, arXiv)
+
+1. **[2007.00134](http://arxiv.org/abs/2007.00134)** : Hybrid Wannier Chern bands in magic angle twisted bilayer graphene and the quantized anomalous Hall effect (Balents, arXiv)
+
+1. **[2007.00181](http://arxiv.org/abs/2007.00181)** : Orbital selectivity in electron correlations and superconducting pairing of iron-based superconductors (Qimiao, arXiv)
+
+1. **[2007.00007](http://arxiv.org/abs/2007.00007)** : Superconductivity, correlated insulators, and Wess-Zumino-Witten terms in twisted bilayer graphene (Sachdev, arXiv)
+
+1. **[PhysRevB.102.041201](https://link.aps.org/doi/10.1103/PhysRevB.102.041201)** : Multitype Dirac fermions protected by orthogonal glide symmetries in a noncentrosymmetric system (Dirac, PRB)
+
+
+1. **[2006.15775](http://arxiv.org/abs/2006.15775)** : Odd-Parity Spin-Triplet Superconductivity in Centrosymmetric Antiferromagnetic Metals (BJYang, arXiv)
+
+1. **[2006.16943](http://arxiv.org/abs/2006.16943)** : Magnetic exchange coupling in cuprate-analog $d^9$ nickelates (Arita, arXiv)
+
+1. **[2006.16643](http://arxiv.org/abs/2006.16643)** : Critical current for an insulating regime of an underdamped current-biased topological Josephson junction (Jelena, arXiv)
+
+1. **[2006.16253](http://arxiv.org/abs/2006.16253)** : Strong Coupling Limit of the Holstein-Hubbard Model (Kivelson, arXiv)
+
+1. **[PhysRevLett.125.017701](https://link.aps.org/doi/10.1103/PhysRevLett.125.017701)** : Magnetic-Field-Independent Subgap States in Hybrid Rashba Nanowires (Loss, PRL)
+
+1. **[PhysRevLett.125.017001](https://link.aps.org/doi/10.1103/PhysRevLett.125.017001)** : First- and Second-Order Topological Superconductivity and Temperature-Driven Topological Phase Transitions in the Extended Hubbard Model with Spin-Orbit Coupling (SC, PRL)
+
+1. **[PhysRevLett.125.017002](https://link.aps.org/doi/10.1103/PhysRevLett.125.017002)** : Kohn-Luttinger Mechanism Driven Exotic Topological Superconductivity on the Penrose Lattice (Penrose, PRL)
+
+
+1. **[PhysRevB.101.245441](https://link.aps.org/doi/10.1103/PhysRevB.101.245441)** : Chiral Majorana fermions in graphene from proximity-induced superconductivity (Fabian, PRB)
+
+1. **[PhysRevB.101.235166](https://link.aps.org/doi/10.1103/PhysRevB.101.235166)** : Glide-resolved photoemission spectroscopy: Measuring topological invariants in nonsymmorphic space groups (Zaletel, PRB)
+
+1. **[PhysRevB.101.214524](https://link.aps.org/doi/10.1103/PhysRevB.101.214524)** : Exotic interband pairing in multiband superconductors (multiband SC, PRB)
+
+1. **[PhysRevB.101.214443](https://link.aps.org/doi/10.1103/PhysRevB.101.214443)** : Prediction of the existence of a spin-liquid-like phase in the antiferromagnetic J 1 − J 2 spin- 1 2 system on the body-centered cubic lattice (BCC, PRB)
+
+1. **[PhysRevB.101.224514](https://link.aps.org/doi/10.1103/PhysRevB.101.224514)** : Flat-band superconductivity for tight-binding electrons on a square-octagon lattice (square-octagon, PRB)
+
+1. **[PhysRevB.101.235168](https://link.aps.org/doi/10.1103/PhysRevB.101.235168)** : Theory of the fractional quantum Hall effect in Weyl semimetals (Burkov, PRB)
+
+1. **[PhysRevB.101.214442](https://link.aps.org/doi/10.1103/PhysRevB.101.214442)** : Field stability of Majorana spin liquids in antiferromagnetic Kitaev models (kitaev, PRB)
+
+
+1. **[2006.15026](http://arxiv.org/abs/2006.15026)** : Topological entanglement properties of disconnected partitions in the Su-Schrieffer-Heeger model (SSH, scipost)
+
+1. **[2006.14912](http://arxiv.org/abs/2006.14912)** : Multi-orbital charge density wave excitations and concomitant phonon anomalies in Bi$_2$Sr$_2$LaCuO$_{6+\delta}$ (cuprate, arXiv)
+
+1. **[2006.14899](http://arxiv.org/abs/2006.14899)** : Anisotropy induced soliton excitation in magnetized strong-rung spin ladders (strong-rung spin, arXiv)
+
+1. **[advs.202001643](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202001643)** : Propagation Control of Octahedral Tilt in SrRuO3 via Artificial Heterostructuring (WSChoi, advs)
+
+1. **[2006.14729](https://arxiv.org/abs/2006.14729)** : Competing orders at higher-order Van Hove points (Chubukov, arXiv)
