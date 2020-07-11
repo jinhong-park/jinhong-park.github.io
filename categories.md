@@ -19,7 +19,7 @@ permalink: /categories/
 
 	<tr>
      <th> <a href="../blog/2020/07/Jul1weeks">Jul1w</a> </th>
-     <th> <a href="../blog/2020/07/Jul2weeks"></a>  </th>
+     <th> <a href="../blog/2020/07/Jul2weeks">Jul2w</a>  </th>
      <th> <a href="../blog/2020/07/Jul3weeks"></a>  </th>
      <th> <a href="../blog/2020/07/Jul4weeks"></a>  </th>
     </tr>
