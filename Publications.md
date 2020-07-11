@@ -10,7 +10,14 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-#### I have 16 publications including 1 in Nature and 4 in Physical Review Letters with 1475 citations. (web of science at May 2019). 
+#### I have 17 publications including 1 in Nature and 4 in Physical Review Letters with 1475 citations. (web of science at May 2019). 
+
+
+
+1.   Jintae Kim, Rajarshi Pal, __Jin-Hong Park__, and Jung Hoon Han \\
+[Path integral for spin-1 chain in the fluctuating matrix product state basis](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041105)\\
+Phys. Rev. B __102__, 041105(R) (6 July 2020) __*[arXiv:2002.11924](https://arxiv.org/abs/2002.11924)*__
+
 
 
 1.   Jung Hoon Han, __Jin-Hong Park__, Patrick A. Lee \\
