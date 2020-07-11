@@ -10,7 +10,7 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-#### I have 17 publications including 1 in Nature and 4 in Physical Review Letters with 1475 citations. (web of science at May 2019). 
+#### I have 17 publications including 1 in Nature and 4 in Physical Review Letters with +1800 citations. (web of science at July 2020). 
 
 
 
