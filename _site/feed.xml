@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Aug 2020 12:22:22 +0900</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2020 12:22:22 +0900</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2020 16:28:45 +0900</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2020 16:28:45 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2008.02378&quot;&gt;2008.02378&lt;/a&gt;&lt;/strong&gt; : Electronic structure of quantum materials studied by angle-resolved photoemission spectroscopy (ARPES, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.102.085201&quot;&gt;PhysRevB.102.085201&lt;/a&gt;&lt;/strong&gt; : Landau level spectroscopy of ${\mathrm{Bi}}&lt;em&gt;{2}{\mathrm{Te}}&lt;/em&gt;{3}$ (Bi2Te3, PRB)&lt;/p&gt;
   &lt;/li&gt;
