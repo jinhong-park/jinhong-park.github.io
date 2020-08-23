@@ -1,14 +1,8 @@
----
-layout: page
-title: weekly picks
-permalink: /categories/
----
-  <a href="../../fulllist"><b>   Full list</b></a> 
-
+I"|<p><a href="../../fulllist"><b>   Full list</b></a></p>
 
 <!--  2020 begin -->
 
- <table>
+<table>
        <caption>  </caption>
    <thead>
          <tr> <th>2020</th> </tr>
@@ -83,15 +77,14 @@ permalink: /categories/
 	
    </tbody>
  </table>
-  
-  <br>
+
+<p><br /></p>
 
 <!--  2020 end -->
 
 <!--  2019 begin -->
 
-
-  <table>
+<table>
        <caption>  </caption>
        <thead>
          <tr>
@@ -214,10 +207,10 @@ permalink: /categories/
        </tbody>
       
      </table>
-  
-  <br>
 
- <table>
+<p><br /></p>
+
+<table>
       <caption>   </caption>
       <thead>
         <tr>
@@ -242,3 +235,4 @@ permalink: /categories/
       </tbody>
       
     </table>
+:ET
