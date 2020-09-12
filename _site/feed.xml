@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Sep 2020 15:53:04 +0900</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2020 15:53:04 +0900</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2020 15:55:57 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2020 15:55:57 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -33,7 +33,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2009.04685&quot;&gt;2009.04685&lt;/a&gt;&lt;/strong&gt; : Dirac electrons in the square lattice Hubbard model with a $d$-wave pairing field: chiral Heisenberg universality class revisited (Yunoki, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2009.04475&quot;&gt;2009.04475&lt;/a&gt;&lt;/strong&gt; : Magnetic Anisotropy in Spin-3/2 with Heavy Ligand in Honeycomb Mott Insulators: Application to $\mathrm{CrI_3}$ (Kee, arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2009.04475&quot;&gt;2009.04475&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Magnetic Anisotropy in Spin-3/2 with Heavy Ligand in Honeycomb Mott Insulators: Application to $\mathrm{CrI_3}$ (Kee, arXiv)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2009.04922&quot;&gt;2009.04922&lt;/a&gt;&lt;/strong&gt; : Superconductivity in the three-band model of cuprates: nodal direction characteristics and influence of intersite interactions (three band model, arXiv)&lt;/p&gt;
@@ -48,7 +48,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.102.115123&quot;&gt;PhysRevB.102.115123&lt;/a&gt;&lt;/strong&gt; : Electronic structure of ${30}^{\ensuremath{\circ}}$ twisted double bilayer graphene (quasicrystal, PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.102.115120&quot;&gt;PhysRevB.102.115120&lt;/a&gt;&lt;/strong&gt; : Pseudospin-lattice coupling and electric control of the square-lattice iridate ${\mathrm{Sr}}&lt;em&gt;{2}\mathrm{Ir}{\mathrm{O}}&lt;/em&gt;{4}$ (Feng Ye, PRB)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.102.115120&quot;&gt;PhysRevB.102.115120&lt;/a&gt;&lt;/strong&gt; : &lt;strong&gt;Pseudospin-lattice coupling and electric control of the square-lattice iridate ${\mathrm{Sr}}&lt;em&gt;{2}\mathrm{Ir}{\mathrm{O}}&lt;/em&gt;{4}$ (Feng Ye, PRB)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.102.100503&quot;&gt;PhysRevB.102.100503&lt;/a&gt;&lt;/strong&gt; : All-electrically tunable networks of Majorana bound states (Trauzettel, PRB)&lt;/p&gt;
