@@ -5,7 +5,7 @@ date:   2020-09-12 00:16:27
 categories: 2020Sep
 ---
 
-{% include image.html url="/images/2020sep2weeks.png" caption="A WordCloud of 2020 Sep 2rd week collection" width=300 align="center" %}
+{% include image.html url="/images/2020sep2weeks.png" caption="A WordCloud of 2020 Sep 2nd week collection" width=300 align="center" %}
 
 
 1. **[2009.05025](http://arxiv.org/abs/2009.05025)** : Coherent phonons and the interplay between charge density wave and Mott phases in 1$T$-TaSe$_{2}$ (TaSe2, arXiv)
