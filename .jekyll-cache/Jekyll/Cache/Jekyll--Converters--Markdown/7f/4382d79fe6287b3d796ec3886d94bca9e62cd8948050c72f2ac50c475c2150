@@ -1,4 +1,4 @@
-I"Œ<p><a href="../../fulllist"><b>   Full list</b></a></p>
+I"Ê <p><a href="../../fulllist"><b>   Full list</b></a></p>
 
 <!--  2020 begin -->
 
@@ -12,11 +12,21 @@
 
 
 
+
+	<tr>
+     <th> <a href="../blog/2020/12/Dec1weeks">Dec1w</a> </th>
+     <th> <a href="../blog/2020/12/Dec2weeks"> </a>  </th>
+     <th> <a href="../blog/2020/12/Dec3weeks"> </a>  </th>
+     <th> <a href="../blog/2020/12/Dec4weeks"> </a>  </th>
+	 <th> <a href="../blog/2020/12/Dec5weeks"></a>  </th>
+    </tr>
+
+
 	<tr>
      <th> <a href="../blog/2020/11/Nov1weeks">Nov1w</a> </th>
      <th> <a href="../blog/2020/11/Nov2weeks">Nov2w</a>  </th>
      <th> <a href="../blog/2020/11/Nov3weeks">Nov3w</a>  </th>
-     <th> <a href="../blog/2020/11/Nov4weeks"></a>  </th>
+     <th> <a href="../blog/2020/11/Nov4weeks">Nov4w</a>  </th>
 	 <th> <a href="../blog/2020/11/Nov5weeks"></a>  </th>
     </tr>
 
