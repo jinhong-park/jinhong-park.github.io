@@ -10,7 +10,7 @@
 
 html, html[data-theme="light"] {
 	--link-color: rgb(0, 112, 201);
-  --main-background-color: hsl(0, 0%, 95%);
+  --main-background-color: hsl(0, 0%, 80%);
   --main-text-color: hsl(0, 0%, 20%);
 }
 
@@ -30,7 +30,7 @@ html[data-theme="dark"] {
 
     html[data-theme="light"] {
 		  --link-color: rgb(0, 112, 201);
-    	--main-background-color: hsl(0, 0%, 95%);
+    	--main-background-color: hsl(0, 0%, 80%);
   	 --main-text-color: hsl(0, 0%, 20%);
   } 
 }
