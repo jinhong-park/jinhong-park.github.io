@@ -1,4 +1,5 @@
 /** Site header */
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 .site-header { border-top: 0px solid #424242; border-bottom: 4px solid #f66733; min-height: 56px; background: #522D80; position: relative; }
 
 .site-title { font-size: 26px; /* 		margin-top: 15px; line-height: 40px; */ letter-spacing: -1px; margin-bottom: 0; float: left; font-weight: 500; font-family: 'Titillium Web', sans-serif; color: #ffffff; }
@@ -314,5 +315,25 @@ ul.listing li.listing-item a { color: #f66733; font-weight: 400; font-family: 'T
 .alignright { float: right; margin-left: 20px; margin-bottom: 15px; }
 
 .aligncenter { display: block; margin-left: auto; margin-right: auto; }
+
+* { box-sizing: border-box; }
+
+body { background-color: #fafafa; display: flex; align-items: center; justify-content: center; transition: background 0.2s linear; }
+
+body.dark { background: #292C35; }
+
+body.dark p { color: #fff; }
+
+.checkbox { opacity: 0; position: absolute; }
+
+.label { background-color: #111; border-radius: 50px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; padding: 5px; position: relative; height: 26px; width: 50px; transform: scale(1.5); }
+
+.label .ball { background-color: #fff; border-radius: 50%; position: absolute; top: 2px; left: 2px; height: 22px; width: 22px; transform: translateX(0px); transition: transform 0.2s linear; }
+
+.checkbox:checked + .label .ball { transform: translateX(24px); }
+
+.fa-moon { color: #f1c40f; }
+
+.fa-sun { color: #f39c12; }
 
 /*# sourceMappingURL=main.css.map */
