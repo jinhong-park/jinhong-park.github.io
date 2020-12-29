@@ -8,19 +8,24 @@
     {% include header.html %}
 
     
+    <div class="theme-switch">
+      <div class="switch"></div>
+    </div>
 		 
     <div class="page-content">
       <div class="wrapper">
    
-    <div class="theme-switch">
-      <div class="switch"></div>
-    </div>
+   
 		
 		{{ content }}
       </div>
     </div>
     {% include footer.html %}
   </body>
+
+$(".theme-switch").on("click", () => {
+  $("body").toggleClass("light-theme");
+});
 
 </html>
 <!-- d.s.m.s.050600.062508.030515.080516.030818 | "Baby, I'm Yours" -->
