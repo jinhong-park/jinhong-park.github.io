@@ -88,6 +88,7 @@ $on-laptop:        950px;
 ////
 
 
+
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 * {
@@ -96,9 +97,9 @@ $on-laptop:        950px;
 
 body {
 	background-color: #fafafa;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+	/* display: flex;
+	 align-items: center;
+	justify-content: center; */
 	transition: background 0.2s linear;
 }
 

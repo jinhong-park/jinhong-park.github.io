@@ -318,7 +318,7 @@ ul.listing li.listing-item a { color: #f66733; font-weight: 400; font-family: 'T
 
 * { box-sizing: border-box; }
 
-body { background-color: #fafafa; display: flex; align-items: center; justify-content: center; transition: background 0.2s linear; }
+body { background-color: #fafafa; /* display: flex; align-items: center; justify-content: center; */ transition: background 0.2s linear; }
 
 body.dark { background: #292C35; }
 
