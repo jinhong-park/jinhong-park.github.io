@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "weekly picks (Jan 1 week 2021)"
-date:   2021-01-02 00:16:27
-categories: 2020jan
+date:   2020-12-30 00:16:27
+categories: 2021jan
 ---
 
 {% include image.html url="/images/2021jan1weeks.png" caption="A WordCloud of 2021 Jan 1st week collection" width=300 align="center" %}
