@@ -6,6 +6,136 @@ permalink: /categories/
   <a href="../../fulllist"><b>   Full list</b></a> 
 
 
+
+
+<!--  2021 begin -->
+
+ <table>
+       <caption>  </caption>
+   <thead>
+         <tr> <th>2021</th> </tr>
+   </thead>
+   <tbody>
+	
+
+
+
+
+	<tr>
+     <th> <a href="../blog/2021/12/Dec1weeks"></a> </th>
+     <th> <a href="../blog/2021/12/Dec2weeks"></a>  </th>
+     <th> <a href="../blog/2021/12/Dec3weeks"></a>  </th>
+     <th> <a href="../blog/2021/12/Dec4weeks"></a>  </th>
+	 <th> <a href="../blog/2021/12/Dec5weeks"></a>  </th>
+    </tr>
+
+
+	<tr>
+     <th> <a href="../blog/2021/11/Nov1weeks"></a> </th>
+     <th> <a href="../blog/2021/11/Nov2weeks"></a>  </th>
+     <th> <a href="../blog/2021/11/Nov3weeks"></a>  </th>
+     <th> <a href="../blog/2021/11/Nov4weeks"></a>  </th>
+	 <th> <a href="../blog/2021/11/Nov5weeks"></a>  </th>
+    </tr>
+
+
+
+
+
+	<tr>
+     <th> <a href="../blog/2021/10/Oct1weeks"></a> </th>
+     <th> <a href="../blog/2021/10/Oct2weeks"></a>  </th>
+     <th> <a href="../blog/2021/10/Oct3weeks"></a>  </th>
+     <th> <a href="../blog/2021/10/Oct4weeks"></a>  </th>
+	 <th> <a href="../blog/2021/10/Oct5weeks"></a>  </th>
+    </tr>
+
+
+
+	<tr>
+     <th> <a href="../blog/2021/09/Sep1weeks"></a> </th>
+     <th> <a href="../blog/2021/09/Sep2weeks"></a>  </th>
+     <th> <a href="../blog/2021/09/Sep3weeks"></a>  </th>
+     <th> <a href="../blog/2021/09/Sep4weeks"></a>  </th>
+	 <th> <a href="../blog/2021/09/Sep5weeks"></a>  </th>
+    </tr>
+
+
+
+
+
+	<tr>
+     <th> <a href="../blog/2021/08/Aug1weeks"></a> </th>
+     <th> <a href="../blog/2021/08/Aug2weeks"></a>  </th>
+     <th> <a href="../blog/2021/08/Aug3weeks"></a>  </th>
+     <th> <a href="../blog/2021/08/Aug4weeks"></a>  </th>
+	 <th> <a href="../blog/2021/08/Aug5weeks"></a>  </th>
+    </tr>
+
+
+
+
+
+	<tr>
+     <th> <a href="../blog/2021/07/Jul1weeks"></a> </th>
+     <th> <a href="../blog/2021/07/Jul2weeks"></a>  </th>
+     <th> <a href="../blog/2021/07/Jul3weeks"></a>  </th>
+     <th> <a href="../blog/2021/07/Jul4weeks"></a>  </th>
+    </tr>
+
+
+	<tr>
+     <th> <a href="../blog/2021/06/Jun1weeks"></a> </th>
+     <th> <a href="../blog/2021/06/Jun2weeks"></a>  </th>
+     <th> <a href="../blog/2021/06/Jun3weeks"></a>  </th>
+     <th> <a href="../blog/2021/06/Jun4weeks"></a>  </th>
+    </tr>
+
+	<tr>
+     <th> <a href="../blog/2021/05/May1weeks"></a> </th>
+     <th> <a href="../blog/2021/05/May2weeks"></a>  </th>
+     <th> <a href="../blog/2021/05/May3weeks"></a>  </th>
+     <th> <a href="../blog/2021/05/May4weeks"></a>  </th>
+     <th> <a href="../blog/2021/05/May5weeks"></a>  </th>
+    </tr>
+	
+	<tr>
+     <th> <a href="../blog/2021/04/Apr1weeks"></a> </th>
+     <th> <a href="../blog/2021/04/Apr2weeks"></a>  </th>
+     <th> <a href="../blog/2021/04/Apr3weeks"></a>  </th>
+     <th> <a href="../blog/2021/04/Apr4weeks"></a>  </th>
+    </tr>
+	
+	<tr>
+     <th> <a href="../blog/2021/03/Mar1weeks"></a> </th>
+     <th> <a href="../blog/2021/03/Mar2weeks"></a>  </th>
+     <th> <a href="../blog/2021/03/Mar3weeks"></a>  </th>
+     <th> <a href="../blog/2021/03/Mar4weeks"></a>  </th>
+    </tr>
+	
+	
+	<tr>
+     <th> <a href="../blog/2021/02/Feb1weeks"></a> </th>
+     <th> <a href="../blog/2021/02/Feb2weeks"></a>  </th>
+     <th> <a href="../blog/2021/02/Feb3weeks"></a>  </th>
+     <th> <a href="../blog/2021/02/Feb4weeks"></a>  </th>
+	 <th> <a href="../blog/2021/02/Feb5weeks"></a>  </th>
+    </tr>
+	
+	<tr>
+     <th> <a href="../blog/2021/01/Jan1weeks">Jan1w</a> </th>
+     <th> <a href="../blog/2021/01/Jan2weeks"></a>  </th>
+     <th> <a href="../blog/2021/01/Jan3weeks"></a>  </th>
+     <th> <a href="../blog/2021/01/Jan4weeks"></a>  </th>
+    </tr>
+	
+   </tbody>
+ </table>
+  
+  <br>
+
+<!--  2020 end -->
+
 <!--  2020 begin -->
 
  <table>

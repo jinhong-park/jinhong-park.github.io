@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "weekly picks (Jan 1 week 2021)"
+date:   2021-01-02 00:16:27
+categories: 2020jan
+---
+
+{% include image.html url="/images/2021jan1weeks.png" caption="A WordCloud of 2021 Jan 1st week collection" width=300 align="center" %}
+
+
+
+1. **[PhysRevB.102.245431](https://link.aps.org/doi/10.1103/PhysRevB.102.245431)** : Pinning of Andreev bound states to zero energy in two-dimensional superconductor- semiconductor Rashba heterostructures (Jelena, PRB)
+
+1. **[PhysRevB.102.235161](https://link.aps.org/doi/10.1103/PhysRevB.102.235161)** : Thermodynamics of energy magnetization (DiXiao, PRB)
+
+1. **[PhysRevX.10.041062](https://link.aps.org/doi/10.1103/PhysRevX.10.041062)** : Magnetoresistance Scaling and the Origin of $H$-Linear Resistivity in ${\mathrm{BaFe}}_{2}({\mathrm{As}}_{1\ensuremath{-}x}{\mathrm{P}}_{x}{)}_{2}$ (H-Linear Resistivity, PRX)
+
+
+
+1. **[2012.14105](http://arxiv.org/abs/2012.14105)** : **Electric field driven octahedral rotation in perovskite (octahedral rotation, arXiv)**   
+
+1. **[2012.14052](http://arxiv.org/abs/2012.14052)** : Edge magnetic properties of black phosphorene nanoribbons (edge magnetic, arXiv)   
+
+1. **[2012.13729](http://arxiv.org/abs/2012.13729)** : The interplay of Dzyaloshinskii-Moriya and Kitaev interactions for magnonic propertiesof Heisenberg-Kitaev honeycomb ferromagnets (SBlugel, arXiv)
+
+1. **[2012.13502](http://arxiv.org/abs/2012.13502)** : **Skyrmion Control of Majorana States in Planar Josephson Junctions (Dagotto, arXiv)**
+
+1. **[2012.13411](http://arxiv.org/abs/2012.13411)** : Intrinsic Time-reversal-invariant Topological Superconductivity in Thin Films of Iron-based Superconductors (DasSarma, arXiv)    
+
+1. **[PhysRevB.102.245427](https://link.aps.org/doi/10.1103/PhysRevB.102.245427)** : Band flattening in buckled monolayer graphene (graphene, PRB)
+
+1. **[PhysRevB.102.245426](https://link.aps.org/doi/10.1103/PhysRevB.102.245426)** : Dissipative Berry phase effect in quantum tunneling (Nagaosa, PRB)
+
+1. **[PhysRevB.102.224433](https://link.aps.org/doi/10.1103/PhysRevB.102.224433)** : Quantum hydrodynamics of spin winding (Yaroslav, PRB)
+
+1. **[PhysRevB.102.214437](https://link.aps.org/doi/10.1103/PhysRevB.102.214437)** : Fractons from polarons (Fractons, PRB)
+
+1. **[PhysRevB.102.224434](https://link.aps.org/doi/10.1103/PhysRevB.102.224434)** : Machine learning phases and criticalities without using real data for training (Machine learning, PRB)
+
