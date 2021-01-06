@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "weekly picks (Jan 2 week 2021)"
+date:   2021-01-09 00:16:27
+categories: 2021jan
+---
+
+{% include image.html url="/images/2021jan2weeks.png" caption="A WordCloud of 2021 Jan 2nd week collection" width=300 align="center" %}
+
+
+1. **[2101.01180](http://arxiv.org/abs/2101.01180)** : Majorana corner states in square and Kagome quantum spin liquids (majorana, arXiv)
+
+1. **[2101.01258](http://arxiv.org/abs/2101.01258)** : Spontaneous fractional Chern insulators in transition metal dichalcogenides Moire superlattices (SZLin, arXiv)
+
+
+1. **[2101.01620](http://arxiv.org/abs/2101.01620)** : **Bereziskii-Kosterlitz-Thouless transition in the Weyl system \ce{PtBi2} (BKT Weyl, arXiv)**
+
+1. **[2101.01327](http://arxiv.org/abs/2101.01327)** : Giant anisotropic magnetoresistance in Ising superconductor-magnetic insulator tunnel junctions (SFS junction, arXiv)
+
+1. **[PhysRevB.103.L041301](https://link.aps.org/doi/10.1103/PhysRevB.103.L041301)** : Current-induced second harmonic generation of Dirac or Weyl semimetals in a strong magnetic field (SHG, PRB)
+
+1. **[PhysRevB.103.L041101](https://link.aps.org/doi/10.1103/PhysRevB.103.L041101)** : Quantum oscillations in the activated conductivity in excitonic insulators: Possible application to monolayer ${\mathrm{WTe}}_{2}$ (PALee, PRB)
+
+1. **[PhysRevB.103.045401](https://link.aps.org/doi/10.1103/PhysRevB.103.045401)** : Thermoelectric generation of orbital magnetization in metals (QNiu, PRB)
+
+1. **[PhysRevB.103.045104](https://link.aps.org/doi/10.1103/PhysRevB.103.045104)** : **Crystalline symmetry-dependent magnon formation in the itinerant ferromagnet $\mathrm{SrRu}{\mathrm{O}}_{3}$ (Ruthenate, PRB)**
+
+1. **[PhysRevB.103.035102](https://link.aps.org/doi/10.1103/PhysRevB.103.035102)** : Quantized electrochemical transport in Weyl semimetals (Weyl, PRB)
+
+1. **[PhysRevB.103.024501](https://link.aps.org/doi/10.1103/PhysRevB.103.024501)** : Impact of impurity scattering on odd-frequency spin-triplet pairing near the edge of the Kitaev chain (Kitaev, PRB)
+
+1. **[PhysRevB.103.L041102](https://link.aps.org/doi/10.1103/PhysRevB.103.L041102)** : Zero-energy corner states in a non-Hermitian quadrupole insulator (zero-energy Corner, PRB)
+
+1. **[PhysRevB.103.L020501](https://link.aps.org/doi/10.1103/PhysRevB.103.L020501)** : Resistivity saturation in an electron-doped cuprate (cuprate, PRB)
+
+1. **[PhysRevLett.126.016401](https://link.aps.org/doi/10.1103/PhysRevLett.126.016401)** : Topological Phase Transition and Phonon-Space Dirac Topology Surfaces in ${\mathrm{ZrTe}}_{5}$ (phonon Dirac, PRL)
+
+1. **[PhysRevX.11.011002](https://link.aps.org/doi/10.1103/PhysRevX.11.011002)** : Selective Orbital Imaging of Excited States with X-Ray Spectroscopy: The Example of $\ensuremath{\alpha}$-MnS (MnS, PRX)
+
+
+1. **[2101.00852](http://arxiv.org/abs/2101.00852)** : The superconductor-insulator transition in absence of disorder (SIT, arXiv)
+
+1. **[2101.00220](http://arxiv.org/abs/2101.00220)** : New paradigm for a disordered superconductor in a magnetic field (Nandini, arXiv)
+
+1. **[2101.00192](http://arxiv.org/abs/2101.00192)** : Superfluid weight and Berezinskii-Kosterlitz-Thouless transition temperature of strained graphene (KT graphene, arXiv)
+
+1. **[2101.01087](http://arxiv.org/abs/2101.01087)** : Quantum criticality and sequential destruction of spin-orbital Kondo entanglement (Qimiao, arXiv)
+
+1. **[PhysRevB.103.035101](https://link.aps.org/doi/10.1103/PhysRevB.103.035101)** : Real-space density functional theory adapted to cyclic and helical symmetry: Application to torsional deformation of carbon nanotubes (CN, PRB)
+
+1. **[PhysRevB.103.024401](https://link.aps.org/doi/10.1103/PhysRevB.103.024401)** : Magnetic phase transitions in two-dimensional two-valley semiconductors with in-plane magnetic field (Loss, PRB)
