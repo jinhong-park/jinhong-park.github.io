@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "weekly picks (Jan 4 week 2021)"
+date:   2021-01-23 00:16:27
+categories: 2021jan
+---
+
+{% include image.html url="/images/2021jan4weeks.png" caption="A WordCloud of 2021 Jan 4th week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+
+1. **[2101.07045](http://arxiv.org/abs/2101.07045)** : The phase diagram of the Hubbard model by Variational Auxiliary Field quantum Monte Carlo (QMC, arXiv)
+
+1. **[2101.07013](http://arxiv.org/abs/2101.07013)** : Specific heat of CeRhIn$_5$ in high magnetic fields: Magnetic phase diagram revisited (CeRhIn5, PRB)
+
+1. **[2101.06786](http://arxiv.org/abs/2101.06786)** : Experimental determination of the magnetic interactions of frustrated Cairo pentagon lattice materials (JGPark, arXiv)
+
+1. **[2101.06697](http://arxiv.org/abs/2101.06697)** : Superfluid Density in Conventional Superconductors: From Clean to Strongly Disordered (Ramakrishnan, arXiv)
+
+1. **[2101.06274](http://arxiv.org/abs/2101.06274)** : The dynamics of local magnetic moments induced by itinerant Weyl electrons (Weyl, arXiv)
+
+1. **[2101.06376](http://arxiv.org/abs/2101.06376)** : Equivalence of NEGF and scattering approaches to electron transport in the Kitaev chain (transport, arXiv)
+
+1. **[2101.06167](http://arxiv.org/abs/2101.06167)** : Putative helimagnetic phase in the kagome metal Co_3Sn_2-xIn_xS_2 (kagome metal, arXiv)
+
+1. **[2101.05831](http://arxiv.org/abs/2101.05831)** : Anomalous Hall effect in weak-itinerant ferrimagnet FeCr$_2$Te$_4$ (Binghai, PRB)
+
+1. **[2101.05812](http://arxiv.org/abs/2101.05812)** : The effect of midgap states on the magnetic exchange interaction mediated by a $d$-wave superconductor (midgap d-wave, arXiv)
