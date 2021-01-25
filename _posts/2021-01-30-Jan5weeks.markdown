@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "weekly picks (Jan 5 week 2021)"
+date:   2021-01-30 00:16:27
+categories: 2021jan
+---
+
+{% include image.html url="/images/2021jan5weeks.png" caption="A WordCloud of 2021 Jan 5th week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+1. **[2101.09134](http://arxiv.org/abs/2101.09134)** : Boundary conditions for the N\'{e}el order parameter in a chiral antiferromagnetic slab (AFM slab, arXiv)
+
+1. **[2101.08972](http://arxiv.org/abs/2101.08972)** : Localized 4f-electrons in the quantum critical heavy fermion ferromagnet CeRh$_6$Ge$_4$ (heavy fermion, arXiv)
+
+1. **[2101.08787](http://arxiv.org/abs/2101.08787)** : Broken-Symmetry Ground States of the Heisenberg model on the Pyrochlore Lattice (VMC, arXiv)
+
+1. **[2101.09221](http://arxiv.org/abs/2101.09221)** : **Normal state specific heat in the cuprates La$_{2-x}$Sr$_x$CuO$_4$ and Bi$_{2+y}$Sr$_{2-x-y}$La$_x$CuO$_{6+\delta}$ near the critical point of the pseudogap phase (Taillefer, arXiv)**
+
+1. **[2101.09062](http://arxiv.org/abs/2101.09062)** : **Quasi-isotropic orbital magnetoresistance in lightly doped SrTiO$_{3}$ (Behnia, arXiv)**
+
+1. **[2101.08821](http://arxiv.org/abs/2101.08821)** : Unusual $H$-$T$ phase diagram of CeRh$_2$As$_2$ -- the role of staggered non-centrosymmetriciy (Sigrist, arXiv)
