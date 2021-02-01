@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "weekly picks (Feb 1 week 2021)"
+date:   2021-02-06 00:16:27
+categories: 2021feb
+---
+
+{% include image.html url="/images/2021feb1weeks.png" caption="A WordCloud of 2021 Feb 1st week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+
+1. **[2101.12558](http://arxiv.org/abs/2101.12558)** : Electronic correlations at paramagnetic $(001)$ and $(110)$ NiO surfaces: Charge-transfer and Mott-Hubbard-type gaps at the surface and subsurface of $(110)$ NiO (Leonov, arxiv)
+
+1. **[2101.12405](http://arxiv.org/abs/2101.12405)** : Dynamical signatures of symmetry protected topology following symmetry breaking (Devereaux, arXiv)
+
+1. **[2101.12219](http://arxiv.org/abs/2101.12219)** : Spin-orbit coupled time-reversal symmetric Hofstadter model on the Kagome lattice (Kagome, arXiv)
+
+1. **[2101.12538](http://arxiv.org/abs/2101.12538)** : Fabrication of topological insulator devices (Ando, arXiv)
