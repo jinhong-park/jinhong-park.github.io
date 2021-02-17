@@ -6,6 +6,6 @@ categories:
 ---
 
 
-{% include image.html url="/images/Sachdev.jpg" caption="Sachdev poster" width=300 align="left" %}
+{% include image.html url="/images/Sachdev.jpg" caption="Sachdev poster" width=300 align="bottom" %}
 
-{% include image.html url="/images/SYK.png" caption="Sachdev poster" width=300 align="right" %}
+{% include image.html url="/images/SYK.jpeg" caption="Subir Sachdev, Jinwu Ye, Alexei Kitaev" width=300 align="bottom" %}
