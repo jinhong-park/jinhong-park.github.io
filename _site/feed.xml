@@ -6,9 +6,33 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2021 14:40:40 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2021 14:40:40 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Feb 2021 13:58:28 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Feb 2021 13:58:28 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Sachdev</title>
+        <description>&lt;dl class=&quot;wp-caption alignbottom&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/Sachdev.jpg&quot; alt=&quot;Sachdev poster&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;Sachdev poster&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;dl class=&quot;wp-caption alignbottom&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/SYK.jpeg&quot; alt=&quot;Subir Sachdev, Jinwu Ye, Alexei Kitaev = SYK&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;Subir Sachdev, Jinwu Ye, Alexei Kitaev = SYK&lt;/dd&gt;
+&lt;/dl&gt;
+
+</description>
+        <pubDate>Thu, 18 Feb 2021 00:36:27 +0900</pubDate>
+        <link>http://jinhong-park.github.io/blog/2021/02/Sachdev</link>
+        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2021/02/Sachdev</guid>
+        
+        
+      </item>
     
       <item>
         <title>weekly picks (Feb 2 week 2021)</title>
@@ -1155,25 +1179,6 @@
         
         
         <category>2021jan</category>
-        
-      </item>
-    
-      <item>
-        <title>2020 wordcloud</title>
-        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2020total.png&quot; alt=&quot;A WordCloud of 2020 collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;A WordCloud of 2020 collection&lt;/dd&gt;
-&lt;/dl&gt;
-
-</description>
-        <pubDate>Mon, 28 Dec 2020 09:16:27 +0900</pubDate>
-        <link>http://jinhong-park.github.io/blog/2020/12/Dec5weeks</link>
-        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2020/12/Dec5weeks</guid>
-        
-        
-        <category>2020dec</category>
         
       </item>
     
