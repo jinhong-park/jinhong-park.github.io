@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "weekly picks (Feb 4 week 2021)"
+date:   2021-02-27 00:16:27
+categories: 2021feb
+---
+
+{% include image.html url="/images/2021feb4weeks.png" caption="A WordCloud of 2021 Feb 4th week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+
+1. **[2102.09760](http://arxiv.org/abs/2102.09760)** : Observation of Kondo hybridization with an orbital-selective Mott phase in 4d Ca2-xSrxRuO4 (Kondo, arXiv)
+
+1. **[2102.09783](http://arxiv.org/abs/2102.09783)** : Thermodynamic electric quadrupole moments of nematic phases from first-principles calculation (Yanase, arXiv)
+
+1. **[s41467-021-21347-5](https://www.nature.com/articles/s41467-021-21347-5)** : Correlating Josephson supercurrents and Shiba states in quantum spins unconventionally coupled to superconductors (SSPParkin, ncomms)
