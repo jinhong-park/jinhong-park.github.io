@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "weekly picks (Mar 1 week 2021)"
+date:   2021-03-06 00:16:27
+categories: 2021mar
+---
+
+{% include image.html url="/images/2021mar1weeks.png" caption="A WordCloud of 2021 Mar 1st week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+1. **[2102.13126](http://arxiv.org/abs/2102.13126)** : Stability of highly-twisted Skyrmions from contact topology (skyrmion, arXiv)
+
+1. **[2102.13115](http://arxiv.org/abs/2102.13115)** : Electric Quantum Oscillation in Weyl Semimetals (KPark, arXiv)
+
+1. **[2102.13127](http://arxiv.org/abs/2102.13127)** : Thermal effects on collective modes in disordered $s$-wave superconductors (Nandini, arXiv)
+
+1. **[PhysRevB.103.L121101](https://link.aps.org/doi/10.1103/PhysRevB.103.L121101)** : From triple-point materials to multiband nodal links (Bzdušek, PRB)
+
+1. **[PhysRevB.103.125101](https://link.aps.org/doi/10.1103/PhysRevB.103.125101)** : Topological surface states on the nonpolar (110) and (111) surfaces of ${\mathrm{SmB}}_{6}$ (BIMin, PRB)
+
+1. **[PhysRevB.103.094402](https://link.aps.org/doi/10.1103/PhysRevB.103.094402)** : Triple helix versus skyrmion lattice in two-dimensional noncentrosymmetric magnets (skyrmion, PRB)
+
+1. **[PhysRevLett.126.097201](https://link.aps.org/doi/10.1103/PhysRevLett.126.097201)** : Anomalous Quantum Oscillations in a Heterostructure of Graphene on a Proximate Quantum Spin Liquid (Knolle, PRL)
+
+1. **[PhysRevX.11.011041](https://link.aps.org/doi/10.1103/PhysRevX.11.011041)** : **Atomic Line Defects and Topological Superconductivity in Unconventional Superconductors (FCZhang, PRX)**
+
+1. **[PhysRevB.102.224427](https://link.aps.org/doi/10.1103/PhysRevB.102.224427)** : **Semirealistic tight-binding model for Dzyaloshinskii-Moriya interaction (Manchon, PRB)**
+
