@@ -106,7 +106,7 @@ permalink: /categories/
 	
 <tr>
      <th> <a href="../blog/2021/03/Mar1weeks">Mar1w</a> </th>
-     <th> <a href="../blog/2021/03/Mar2weeks"></a>  </th>
+     <th> <a href="../blog/2021/03/Mar2weeks">Mar2w</a>  </th>
      <th> <a href="../blog/2021/03/Mar3weeks"></a>  </th>
      <th> <a href="../blog/2021/03/Mar4weeks"></a>  </th>
     </tr>
