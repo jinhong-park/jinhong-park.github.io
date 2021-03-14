@@ -6,6 +6,10 @@ categories: 2020Jan
 ---
 
 
+
+{% include image.html url="/images/2020jan3weeks.png" caption="A WordCloud of 2020 Jan 3rd week collection" width=300 align="center" %}
+
+
 1. **[2001.05963](http://arxiv.org/abs/2001.05963)** : First-principles hyperfine tensors for electrons and holes in GaAs and silicon (Stefano, arXiv)
 
 1. **[2001.05511](http://arxiv.org/abs/2001.05511)** : Kane-Mele with a twist: Quasicrystalline higher-order topological insulators with fractional mass kinks (Kane-Mele twist, arXiv)

@@ -6,6 +6,9 @@ categories: 2020Jan
 ---
 
 
+
+{% include image.html url="/images/2020jan2weeks.png" caption="A WordCloud of 2020 Jan 2nd week collection" width=300 align="center" %}
+
 1. **[science367.6474.145](https://science.sciencemag.org/content/367/6474/145)** : Counting on Majorana modes (JD Sau, Science)
 
 1. **[science367.6474.189](https://science.sciencemag.org/content/367/6474/189)** : Nearly quantized conductance plateau of vortex zero mode in an iron-based superconductor (Majorana, Science)

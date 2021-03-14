@@ -7,6 +7,8 @@ categories: 2020Jan
 
 
 
+{% include image.html url="/images/2020jan1weeks.png" caption="A WordCloud of 2020 Jan 1st week collection" width=300 align="center" %}
+
 
 1. **[PhysRevB.101.024502](https://link.aps.org/doi/10.1103/PhysRevB.101.024502)** : Mean-field study of the Amperean pairing state (amperean pairing, PRB)
 

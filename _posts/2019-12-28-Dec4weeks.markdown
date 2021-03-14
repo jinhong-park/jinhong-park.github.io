@@ -5,6 +5,11 @@ date:   2019-12-28 00:16:27
 categories: 2019Dec
 ---
 
+
+
+
+{% include image.html url="/images/2019dec4weeks.png" caption="A WordCloud of 2020 Dec 4th week collection" width=300 align="center" %}
+
 1. **[PhysRevB.100.220103](https://link.aps.org/doi/10.1103/PhysRevB.100.220103)** : Diversity of structural phases and resulting control of properties in brownmillerite oxides: A first-principles study (brownmillerite, PRB)
 
 1. **[PhysRevB.100.245148](https://link.aps.org/doi/10.1103/PhysRevB.100.245148)** : Ferromagnetic state above room temperature in a proximitized topological Dirac semimetal (Y. Tokura, PRB)

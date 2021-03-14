@@ -6,6 +6,11 @@ categories: 2020Jan
 ---
 
 
+
+
+{% include image.html url="/images/2020jan4weeks.png" caption="A WordCloud of 2020 Jan 4th week collection" width=300 align="center" %}
+
+
 1. **[PhysRevB.101.041113](https://link.aps.org/doi/10.1103/PhysRevB.101.041113)** : Topological sliding moir\'e heterostructure (SZ Lin, PRB)
 
 1. **[PhysRevB.101.045133](https://link.aps.org/doi/10.1103/PhysRevB.101.045133)** : Reentrance of the topological phase in a spin-1 frustrated Heisenberg chain (Spin-1 AFM, PRB)
