@@ -1,4 +1,4 @@
-I"mg<p><a href="../../fulllist"><b>   Full list</b></a></p>
+I":h<p><a href="../../fulllist"><b>   Full list</b></a></p>
 
 <ul class="listing">
 
@@ -6,6 +6,13 @@
   
     
     <li class="listing-seperator">2021</li>
+  
+  <li class="listing-item">
+    <time datetime="2021-03-20">2021-03-20</time>
+    <a href="/blog/2021/03/Mar3weeks" title="weekly picks (Mar 3 week 2021)">weekly picks (Mar 3 week 2021)</a>
+  </li>
+
+  
   
   <li class="listing-item">
     <time datetime="2021-03-13">2021-03-13</time>
