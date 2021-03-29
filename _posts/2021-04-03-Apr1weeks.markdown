@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "weekly picks (Apr 1 week 2021)"
+date:   2021-04-03 00:16:27
+categories: 2021apr
+---
+
+{% include image.html url="/images/2021apr1weeks.png" caption="A WordCloud of 2021 Apr 1st week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+1. **[2103.14449](http://arxiv.org/abs/2103.14449)** : Detection of Topological Spin Textures via Non-Linear Magnetic Interactions (skyrmion, arXiv)
+
+1. **[2103.14355](http://arxiv.org/abs/2103.14355)** : Flat-band solutions in $D$-dimensional decorated diamond and pyrochlore lattices: Reduction to molecular problem (Hatsugai, arXiv)
+
+1. **[s42254-020-00251-9](https://www.nature.com/articles/s42254-020-00251-9)** : From anyons to Majoranas (JSau, NatureReviewPhysics)
+
+1. **[2103.14398](http://arxiv.org/abs/2103.14398)** : Electric Multipoles of Double Majorana Kramers Pairs (majorana, arXiv)
+
