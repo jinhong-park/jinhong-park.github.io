@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "weekly picks (Apr 4 week 2021)"
+date:   2021-04-24 00:16:27
+categories: 2021apr
+---
+
+{% include image.html url="/images/2021apr4weeks.png" caption="A WordCloud of 2021 Apr 4th week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+1. **[2104.08209](http://arxiv.org/abs/2104.08209)** : Rotation symmetry breaking in the normal state of a kagome superconductor KV3Sb5 (LBalents, arXiv)
+
+1. **[2104.08071](http://arxiv.org/abs/2104.08071)** : Controlling the RKKY interaction and heat transport in a Kitaev spin liquid via $Z_2$ flux walls (RKKY Kitaev, arXiv)
+
+1. **[2104.07935](http://arxiv.org/abs/2104.07935)** : Charge-Density-Wave Order and Multiple Magnetic Transitions in Divalent Europium Compound EuAl$_4$ (CDW Eu, arXiv)
+
+1. **[2104.07880](http://arxiv.org/abs/2104.07880)** : Regular magnetic orders in triangular and kagome lattices (kagome, arXiv)
+
+1. **[2104.07801](http://arxiv.org/abs/2104.07801)** : Diffusion in the Anderson model in higher dimensions (Anderson model, arXiv)
+
+1. **[2104.07775](http://arxiv.org/abs/2104.07775)** : Fermi liquids and fractional statistics in one dimension (1D fermi liquid, arXiv)
+
+1. **[2104.07706](http://arxiv.org/abs/2104.07706)** : Mapping Domain Wall Topology in the Magnetic Weyl Semimetal CeAlSi (Weyl, arXiv)
+
+1. **[2104.08220](http://arxiv.org/abs/2104.08220)** : Origin of the dome-shaped superconducting phase diagram in $\mathrm{SrTiO}_3$-based interfaces (STO, arXiv)
+
+1. **[2104.07771](http://arxiv.org/abs/2104.07771)** : Holes' character and bond versus charge disproportionation in $s-p$ $ABX_{3}$ perovskites (perovskite, arXiv)
+
+1. **[2104.07734](http://arxiv.org/abs/2104.07734)** : **Spin susceptibility of superconductors with strong spin-orbit coupling (spin susceptibility, arXiv)**
