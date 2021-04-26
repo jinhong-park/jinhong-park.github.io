@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "weekly picks (May 1 week 2021)"
+date:   2021-05-01 00:16:27
+categories: 2021may
+---
+
+{% include image.html url="/images/2021may1weeks.png" caption="A WordCloud of 2021 May 1st week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+
+1. **[2104.11503](http://arxiv.org/abs/2104.11503)** : Controlled length-dependent interaction of Majorana modes in Yu-Shiba-Rusinov chains (Shiba, arXiv)
+
+1. **[2104.11497](http://arxiv.org/abs/2104.11497)** : Evidence of topological Shiba bands in artificial spin chains on superconductors (Shiba, arXiv)
+
+1. **[2104.11418](http://arxiv.org/abs/2104.11418)** : Electric polarization and nonlinear optical effects in noncentrosymmetric magnets (Morimoto, arXiv)
+
+1. **[2104.11363](http://arxiv.org/abs/2104.11363)** : Nematicity Liquid in a Trimerized-Kagome Antiferromagnet (nematic kagome, arXiv)
+
+1. **[2104.11245](http://arxiv.org/abs/2104.11245)** : Non-Trivial Fixed Points and Truncated SU(4) Kondo Models in a Quasi-Quartet Multipolar Kondo Impurity Problem (YBKim, arXiv)
+
+1. **[2104.11237](http://arxiv.org/abs/2104.11237)** : A supervised learning algorithm for interacting topological insulators based on local curvature (machine learning, arXiv)
+
