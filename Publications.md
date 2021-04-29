@@ -10,11 +10,13 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-#### I have 17 publications including 1 in Nature and 4 in Physical Review Letters with +1800 citations. (web of science at July 2020). 
+#### I have 18 publications including 1 in Nature and 4 in Physical Review Letters with +1800 citations. (web of science at July 2020). 
 
+1. Soohyun Cho, __Jin-Hong Park__, Soonsang Huh, Jisook Hong, Wonshik Kyung, Byeong-Gyu Park, J. D. Denlinger, Ji Hoon Shim, Changyoung Kim,  Seung Ryong Park \\
+[Studying local Berry curvature in 2H-WSe2 by circular dichroism photoemission utilizing crystal mirror plane](https://www.nature.com/articles/s41598-020-79672-6)\\
+Scientific Reports __11__, 1684 (18 January 2021) __Open Access__ 
 
-
-1.   Jintae Kim, Rajarshi Pal, __Jin-Hong Park__, and Jung Hoon Han \\
+1.   Jintae Kim, Rajarshi Pal, __Jin-Hong Park__,  Jung Hoon Han \\
 [Path integral for spin-1 chain in the fluctuating matrix product state basis](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041105)\\
 Phys. Rev. B __102__, 041105(R) (6 July 2020) __*[arXiv:2002.11924](https://arxiv.org/abs/2002.11924)*__
 
