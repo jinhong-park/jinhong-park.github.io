@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "weekly picks (May 3 week 2021)"
+date:   2021-05-15 00:16:27
+categories: 2021may
+---
+
+{% include image.html url="/images/2021may3weeks.png" caption="A WordCloud of 2021 May 3rd week collection" width=300 align="center" %}
+
+
+<--! 1. **[]()** : -->
+
+
+
+1. **[2105.03208](http://arxiv.org/abs/2105.03208)** : An SYK-inspired model with density-density interactions: spectral & wave function statistics, Green's function and phase diagram (SYK, arXiv)
+
+1. **[2105.03134](http://arxiv.org/abs/2105.03134)** : Fractional quantum Hall effect in the Hofstadter model of interacting fermions (FQHE, arXiv)
+
+1. **[2105.03129](http://arxiv.org/abs/2105.03129)** : Neural network enhanced hybrid quantum many-body dynamical distributions (Lado, arXiv)
+
+1. **[2105.03113](http://arxiv.org/abs/2105.03113)** : Field-angle dependence of thermal Hall conductivity in magnetically ordered Kitaev-Heisenberg system (thermal Hall conductivity, arXiv)
+
+1. **[2105.02891](http://arxiv.org/abs/2105.02891)** : Gate-defined wires in twisted bilayer graphene: from electrical detection of inter-valley coherence to internally engineered Majorana modes (twisted bilayer graphene, arXiv)
+
+1. **[2105.02888](http://arxiv.org/abs/2105.02888)** : Kramers' degeneracy for open systems in thermal equilibrium (Kramers degeneracy, arXiv)
