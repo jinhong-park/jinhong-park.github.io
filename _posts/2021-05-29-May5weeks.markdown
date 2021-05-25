@@ -8,8 +8,6 @@ categories: 2021may
 {% include image.html url="/images/2021may5weeks.png" caption="A WordCloud of 2021 May 5th week collection" width=300 align="center" %}
 
 
-<--! 1. **[]()** : -->
-
 
 1. **[10.1103/PhysRevLett.126.217201](https://link.aps.org/doi/10.1103/PhysRevLett.126.217201)** Twisted Boundary Condition and Lieb-Schultz-Mattis Ingappability for Discrete Symmetries (Oshikawa, PRL)
 
