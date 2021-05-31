@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "weekly picks (Jun 1 week 2021)"
+date:   2021-06-05 00:16:27
+categories: 2021jun
+---
+
+{% include image.html url="/images/2021jun1weeks.png" caption="A WordCloud of 2021 June 1st week collection" width=300 align="center" %}
+
+
+
+1. **[arXiv: 2105.13766](http://arxiv.org/abs/2105.13766)** Long-lived $\\pi$ edge modes of interacting and disorder-free Floquet spin chains (arXiv:2105.13766 [cond-mat, physics:quant-ph])
+
+1. **[arXiv: 2105.13422](http://arxiv.org/abs/2105.13422)** Gapless Higgs Mode in the Fulde-Ferrell-Larkin-Ovchinnikov State of a Superconductor (SZLin, arXiv:2105.13422 [cond-mat, physics:hep-th])
+
+
+1. **[arXiv: 2105.13494](http://arxiv.org/abs/2105.13494)** Nickelate superconductivity without rare-earth magnetism: (La,Sr)NiO$_{2}$ (arXiv:2105.13494 [cond-mat])
+
+1. **[arXiv: 2105.13614](http://arxiv.org/abs/2105.13614)** S-wave Superconductivity in the Dirac Line-nodal Material CaSb2 (arXiv:2105.13614 [cond-mat])
+
+1. **[arXiv: 2105.13956](http://arxiv.org/abs/2105.13956)** Intrinsic nature of spontaneous magnetic fields in superconductors with time-reversal symmetry breaking (arXiv:2105.13956 [cond-mat])
