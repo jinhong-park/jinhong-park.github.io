@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Jun 2021 09:27:53 +0900</pubDate>
-    <lastBuildDate>Sat, 12 Jun 2021 09:27:53 +0900</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
+    <pubDate>Sat, 12 Jun 2021 14:41:37 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 14:41:37 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>weekly picks (Jun 2 week 2021)</title>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2106.05899&quot;&gt;arXiv: 2106.05899&lt;/a&gt;&lt;/strong&gt; Magnetic field effect on topological spin excitations in CrI$_3$ (CrI3, arXiv:2106.05899 [cond-mat])&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.126.236402&quot;&gt;10.1103/PhysRevLett.126.236402&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Systematic Investigation of the Coupling between One-Dimensional Edge States of a Topological Crystalline Insulator (edge,PRL)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
