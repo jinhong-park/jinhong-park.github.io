@@ -79,6 +79,7 @@ permalink: /categories/
      <th> <a href="../blog/2021/07/Jul2weeks">Jul2w</a>  </th>
      <th> <a href="../blog/2021/07/Jul3weeks">Jul3w</a>  </th>
      <th> <a href="../blog/2021/07/Jul4weeks">Jul4w</a>  </th>
+     <th> <a href="../blog/2021/07/Jul5weeks">Jul5w</a>  </th>
     </tr>
 
 
