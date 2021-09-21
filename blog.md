@@ -5,6 +5,8 @@ permalink: /blog/
 ---
  
   <a href="../../fulllist"><b>   Full list</b></a> 
+  
+  <a href="../recent"><b>   recent </b></a> 
 
 <ul class="listing">
 {% for post in site.posts %}
