@@ -1,9 +1,12 @@
 ---
-layout: post
+title: "[연구자로써의삶](./_blank.pages)"
 mainfont: NanumGothic
-title:  "Life of researcher"
-date:   2021-10-14 00:16:27
-categories: 
+date: "2017.11.06"
+output:
+  html_document: default
+  pdf_document:
+    latex_engine: xelatex
+  word_document: default
 ---
 
 학문을 직업으로 삼으려는 젊은 학자들을 위하여
