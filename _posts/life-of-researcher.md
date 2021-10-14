@@ -1,12 +1,9 @@
 ---
-title: "[연구자로써의삶](./_blank.pages)"
+layout: post
 mainfont: NanumGothic
-date: "2017.11.06"
-output:
-  html_document: default
-  pdf_document:
-    latex_engine: xelatex
-  word_document: default
+title:  "Life of researcher"
+date:   2021-10-14 00:16:27
+categories: 
 ---
 
 학문을 직업으로 삼으려는 젊은 학자들을 위하여
@@ -58,3 +55,4 @@ output:
 젊은 교육학자들이 학자로서의 일상을 즐거워하기를 기원합니다. 여러 가지 학술모임에서 이들의 행복한 미소를 보게 되기를 희망합니다. 이들의 즐거움과 행복으로 한국의 교육학이 발전하기를 기대합니다.
  
 한국교육학회, 뉴스레터, 45(3), 5-9, 통권260호/2009,09
+
