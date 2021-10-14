@@ -1,6 +1,5 @@
 ---
 layout: post
-mainfont: NanumGothic
 title:  "Life of researcher"
 date:   2021-10-14 00:16:27
 categories: 
