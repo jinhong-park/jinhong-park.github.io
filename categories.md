@@ -44,7 +44,7 @@ permalink: /categories/
      <th> <a href="../blog/2021/10/Oct1weeks">Oct1w</a> </th>
      <th> <a href="../blog/2021/10/Oct2weeks">Oct2w</a>  </th>
      <th> <a href="../blog/2021/10/Oct3weeks">Oct3w</a>  </th>
-     <th> <a href="../blog/2021/10/Oct4weeks"></a>  </th>
+     <th> <a href="../blog/2021/10/Oct4weeks">Oct4w</a>  </th>
 	 <th> <a href="../blog/2021/10/Oct5weeks"></a>  </th>
     </tr>
 
