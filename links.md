@@ -12,7 +12,11 @@ permalink: /links/
 
 tags : `#following` 
 
-__[H. Vozmediano, María A.](https://wp.icmm.csic.es/field-theories-in-condensed-matter-physics/vozmediano/)__
+__[Vozmediano](https://wp.icmm.csic.es/field-theories-in-condensed-matter-physics/vozmediano/)__
+
+
+
+__[Lado](https://sites.google.com/site/joseluislado/home)__
 
 
 tags : `#mobile friendly`, `#something to read while commuting`, `#open access` 
