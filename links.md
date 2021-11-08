@@ -19,6 +19,9 @@ __[Vozmediano](https://wp.icmm.csic.es/field-theories-in-condensed-matter-physic
 __[Lado](https://sites.google.com/site/joseluislado/home)__
 
 
+__[GZ Alvarez](https://g1257.github.io/index.html)__
+
+
 tags : `#mobile friendly`, `#something to read while commuting`, `#open access` 
  
 
