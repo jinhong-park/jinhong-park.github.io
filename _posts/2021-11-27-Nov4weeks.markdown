@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "weekly picks (Nov 4 week 2021)"
+date:   2021-11-27 00:16:27
+categories: 2021nov
+---
+
+{% include image.html url="/images/2021nov4weeks.png" caption="A WordCloud of 2021 Nov 4th week collection" width=300 align="center" %}
+
+
+
+1. **[http://arxiv.org/abs/2111.09906](http://arxiv.org/abs/2111.09906)** Solvable model for a charge-$4e$ superconductor (4eSC, arXiv.org)
+
+1. **[http://arxiv.org/abs/2111.10018](http://arxiv.org/abs/2111.10018)** Superconductivity and bosonic fluid emerging from Moir\\'e flat bands (arXiv.org)
+
+1. **[http://arxiv.org/abs/2111.10289](http://arxiv.org/abs/2111.10289)** **Charge self-consistent electronic structure calculations with dynamical mean-field theory using Quantum ESPRESSO, Wannier90 and TRIQS (DMFT, arXiv.org)**
+
+1. **[http://arxiv.org/abs/2111.10147](http://arxiv.org/abs/2111.10147)** Edge $\\mathbb{Z}_3$ parafermions in fermionic lattices (parafermion, arXiv.org)
+
+1. **[http://arxiv.org/abs/2111.09988](http://arxiv.org/abs/2111.09988)** The inner workings of fractional quantum Hall parent Hamiltonians: An MPS point of view (arXiv.org)
