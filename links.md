@@ -12,9 +12,9 @@ permalink: /links/
 
 tags : `#following` 
 
-|---|---|---|---|
+|     |      |     |      |
 | __[Vozmediano](https://wp.icmm.csic.es/field-theories-in-condensed-matter-physics/vozmediano/)__  &nbsp; | __[Lado](https://sites.google.com/site/joseluislado/home)__ &nbsp;| __[GZ Alvarez](https://g1257.github.io/index.html)__ &nbsp;|
-__[Nature factory : Herrero](http://jarilloherrero.mit.edu/) |
+__[Nature factory : Herrero](http://jarilloherrero.mit.edu/)__  |
 |---|---|---|---|
 
 tags : `#mobile friendly`, `#something to read while commuting`, `#open access` 
