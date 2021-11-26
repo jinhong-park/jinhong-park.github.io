@@ -16,7 +16,7 @@ tags : `#following`
 
 |__[Vozmediano](https://wp.icmm.csic.es/field-theories-in-condensed-matter-physics/vozmediano/)__|__[Lado](https://sites.google.com/site/joseluislado/home)__|
 |------|------|
-|__[GZ Alvarez](https://g1257.github.io/index.html)__|__[Nature factory : Herrero](http://jarilloherrero.mit.edu/)__|
+|__[GZ Alvarez](https://g1257.github.io/index.html)__|__[Nature factory : Jarillo-Herrero](http://jarilloherrero.mit.edu/)__|
 
 
 
