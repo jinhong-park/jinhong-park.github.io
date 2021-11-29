@@ -20,7 +20,7 @@ permalink: /categories/
 
 
 <tr>
-     <th> <a href="../blog/2021/12/Dec1weeks"></a> </th>
+     <th> <a href="../blog/2021/12/Dec1weeks">Dec1w</a> </th>
      <th> <a href="../blog/2021/12/Dec2weeks"></a>  </th>
      <th> <a href="../blog/2021/12/Dec3weeks"></a>  </th>
      <th> <a href="../blog/2021/12/Dec4weeks"></a>  </th>
