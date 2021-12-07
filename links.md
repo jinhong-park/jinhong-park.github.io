@@ -29,7 +29,7 @@ __[Editors' Highlights in  Nature Communications](https://www.nature.com/collect
 
 tags : `#lecture course`
 
-__[Quantum many-body theory / AM Tremblay](https://www.youtube.com/channel/UChcJ8B6WaJqTMKOiPYxOPqA)__
+__[Quantum many-body theory #1 - #39 / AM Tremblay](https://www.youtube.com/channel/UChcJ8B6WaJqTMKOiPYxOPqA)__
 
 __[ TU Delft / Topology condensed matter / A. Akhmerov ](https://ocw.tudelft.nl/courses/topology-condensed-matter-concept/)__
 
