@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "weekly picks (Dec 5 week 2021)"
+date:   2021-12-31 00:16:27
+categories: 2021dec
+---
+
+{% include image.html url="/images/2021dec5weeks.png" caption="A WordCloud of 2021 Dec 5th week collection" width=300 align="center" %}
+
+
+1. **[https://www.nature.com/articles/s41567-021-01445-3](https://www.nature.com/articles/s41567-021-01445-3)** General construction and topological classification of crystalline flat bands (flatband Bernevig, Nature Physics)
+
+1. **[http://arxiv.org/abs/2112.12198](http://arxiv.org/abs/2112.12198)** Engineering holographic flat fermionic bands (arXiv:2112.12198 [cond-mat, physics:hep-th])
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevLett.127.277202](https://link.aps.org/doi/10.1103/PhysRevLett.127.277202)** Intrinsic Second-Order Anomalous Hall Effect and Its Application in Compensated Antiferromagnets (PRL)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevLett.127.277201](https://link.aps.org/doi/10.1103/PhysRevLett.127.277201)** Intrinsic Nonlinear Hall Effect in Antiferromagnetic Tetragonal CuMnAs (PRL)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.245139](https://link.aps.org/doi/10.1103/PhysRevB.104.245139)** Magnetic, charge, and transport properties of graphene nanoflakes (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.214432](https://link.aps.org/doi/10.1103/PhysRevB.104.214432)** Spin waves and Dirac magnons in a honeycomb-lattice zigzag antiferromagnet ${\\text{BaNi}}_{2}{({\\text{AsO}}_{4})}_{2}$ (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.214513](https://link.aps.org/doi/10.1103/PhysRevB.104.214513)** **Theory of the charge density wave in $A{\\mathrm{V}}_{3}{\\mathrm{Sb}}_{5}$ kagome metals (kagome, PRB)**
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.245136](https://link.aps.org/doi/10.1103/PhysRevB.104.245136)** Correlated half-semimetal state in heavy fermion systems (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.245137](https://link.aps.org/doi/10.1103/PhysRevB.104.245137)** Probing many-body interactions in the cyclotron resonance of $h$-BN/bilayer graphene/$h$-BN (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.245138](https://link.aps.org/doi/10.1103/PhysRevB.104.245138)** **Chiral symmetry breaking through spontaneous dimerization in kagom\\'e metals (kagome, PRB)**
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.245434](https://link.aps.org/doi/10.1103/PhysRevB.104.245434)** Effect of intravalley and intervalley electron-hole exchange on the nonlinear optical response of monolayer ${\\mathrm{MoSe}}_{2}$ (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.L220410](https://link.aps.org/doi/10.1103/PhysRevB.104.L220410)** Carrier tuning of Stoner ferromagnetism in ${\\mathrm{ThCr}}_{2}{\\mathrm{Si}}_{2}$-structure cobalt arsenides (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.L241112](https://link.aps.org/doi/10.1103/PhysRevB.104.L241112)** Superconducting-like response in driven systems near the Mott transition (PALee, PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.L241409](https://link.aps.org/doi/10.1103/PhysRevB.104.L241409)** Subgap states in superconducting islands (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.214431](https://link.aps.org/doi/10.1103/PhysRevB.104.214431)** Persistence of Ising-like easy-axis spin correlations in the paramagnetic state of the spin-1 chain compound ${\\mathrm{NiTe}}_{2}{\\mathrm{O}}_{5}$ (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.235150](https://link.aps.org/doi/10.1103/PhysRevB.104.235150)** **Quantitative investigation of the $4f$ occupation in the quasikagome Kondo lattice ${\\mathrm{CeRh}}_{1\\ensuremath{-}x}{\\mathrm{Pd}}_{x}\\mathrm{Sn}$ (kagome Ce, PRB)**
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.235206](https://link.aps.org/doi/10.1103/PhysRevB.104.235206)** **Cerium-based lead-free chalcogenide perovskites for photovoltaics (Ce, PRB)**
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.104.L241111](https://link.aps.org/doi/10.1103/PhysRevB.104.L241111)** Helical symmetry breaking and quantum anomaly in massive Dirac fermions (PRB)
+
