@@ -6,6 +6,7 @@ categories: 2021dec
 ---
 
 {% include image.html url="/images/2021total.png" caption="A WordCloud of 2021 collection" width=300 align="center" %}
+{% include image.html url="/images/2021total_count.png"  width=300 align="center" %}
 
 
 
