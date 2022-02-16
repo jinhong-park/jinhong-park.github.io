@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "연구재단"
+date:   2022-02-15 00:16:27
+categories: 
+---
+
+{% include image.html url="/memo/memo_2022.02.16.pdf" align="center" %}
+
