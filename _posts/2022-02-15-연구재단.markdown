@@ -5,5 +5,5 @@ date:   2022-02-15 00:16:27
 categories: 
 ---
 
-{% include image.html url="/memo/memo_2022.02.16.pdf" align="center" %}
+[연구재단 지침](/memo/memo_2022.02.16.pdf)
 
