@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Feb 2022 11:37:42 +0900</pubDate>
-    <lastBuildDate>Mon, 21 Feb 2022 11:37:42 +0900</lastBuildDate>
+    <pubDate>Mon, 21 Feb 2022 16:21:30 +0900</pubDate>
+    <lastBuildDate>Mon, 21 Feb 2022 16:21:30 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2109.10758&quot;&gt;http://arxiv.org/abs/2109.10758&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Hopfion Dynamics in Chiral Magnets (arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2202.09281&quot;&gt;http://arxiv.org/abs/2202.09281&lt;/a&gt;&lt;/strong&gt; Unsupervised and supervised learning of interacting topological phases from single-particle correlation functions (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
