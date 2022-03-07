@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "weekly picks (Mar 2 week 2022)"
+date:   2022-03-08 00:16:27
+categories: 2022mar
+---
+
+{% include image.html url="/images/2022mar2weeks.png" caption="A WordCloud of 2022 Mar 2nd week collection" width=300 align="center" %}
+
+1. **[http://arxiv.org/abs/2203.02451](http://arxiv.org/abs/2203.02451)** Mott Quantum Critical Points at finite doping (QCP, arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.02145](http://arxiv.org/abs/2203.02145)** Second-order magnetic responses in quantum magnets: Magnetization under ac magnetic fields (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.01962](http://arxiv.org/abs/2203.01962)** Anisotropic deconfined criticality in Dirac spin liquids (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.01957](http://arxiv.org/abs/2203.01957)** Anomalous gapped boundaries between surface topological orders in higher-order topological insulators and superconductors with inversion symmetry (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.02160](http://arxiv.org/abs/2203.02160)** **Reservoir Computing with Spin Waves in Skyrmion Crystal (Mochizuki, arXiv.org)**
