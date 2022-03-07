@@ -6,9 +6,45 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Mar 2022 13:36:36 +0900</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2022 13:36:36 +0900</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2022 13:45:11 +0900</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2022 13:45:11 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>weekly picks (Mar 2 week 2022)</title>
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2022mar2weeks.png&quot; alt=&quot;A WordCloud of 2022 Mar 2nd week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2022 Mar 2nd week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2203.02451&quot;&gt;http://arxiv.org/abs/2203.02451&lt;/a&gt;&lt;/strong&gt; Mott Quantum Critical Points at finite doping (QCP, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2203.02145&quot;&gt;http://arxiv.org/abs/2203.02145&lt;/a&gt;&lt;/strong&gt; Second-order magnetic responses in quantum magnets: Magnetization under ac magnetic fields (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2203.01962&quot;&gt;http://arxiv.org/abs/2203.01962&lt;/a&gt;&lt;/strong&gt; Anisotropic deconfined criticality in Dirac spin liquids (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2203.01957&quot;&gt;http://arxiv.org/abs/2203.01957&lt;/a&gt;&lt;/strong&gt; Anomalous gapped boundaries between surface topological orders in higher-order topological insulators and superconductors with inversion symmetry (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2203.02160&quot;&gt;http://arxiv.org/abs/2203.02160&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Reservoir Computing with Spin Waves in Skyrmion Crystal (Mochizuki, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 07 Mar 2022 09:16:27 +0900</pubDate>
+        <link>http://jinhong-park.github.io/blog/2022/03/Mar2weeks</link>
+        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2022/03/Mar2weeks</guid>
+        
+        
+        <category>2022mar</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Mar 1 week 2022)</title>
@@ -2436,32 +2472,6 @@
         
         
         <category>2022jan</category>
-        
-      </item>
-    
-      <item>
-        <title>2021 wordcloud</title>
-        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2021total.png&quot; alt=&quot;A WordCloud of 2021 collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;A WordCloud of 2021 collection&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 800px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2021total_count.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-</description>
-        <pubDate>Fri, 31 Dec 2021 09:16:27 +0900</pubDate>
-        <link>http://jinhong-park.github.io/blog/2021/12/Dec6weeks</link>
-        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2021/12/Dec6weeks</guid>
-        
-        
-        <category>2021dec</category>
         
       </item>
     
