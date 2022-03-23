@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "weekly picks (Mar 4 week 2022)"
+date:   2022-03-21 00:16:27
+categories: 2022mar
+---
+
+{% include image.html url="/images/2022mar4weeks.png" caption="A WordCloud of 2022 Mar 4th week collection" width=300 align="center" %}
+
+
+1. **[http://arxiv.org/abs/2203.11922](http://arxiv.org/abs/2203.11922)** Possible structural quantum criticality tuned by rare-earth ion substitution in infinite-layer nickelates (QCP nickelate, arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.11467](http://arxiv.org/abs/2203.11467)** Discovery of charge density wave in a correlated kagome lattice antiferromagnet (kagome, arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.11221](http://arxiv.org/abs/2203.11221)** Nematic phases and elastoresistivity from a multiorbital strange metal (nematic strange metal, arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.11308](http://arxiv.org/abs/2203.11308)** BinPo: An open-source code to compute the band structure of two-dimensional electron systems (code, arXiv.org)
+
+
+
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevX.12.011055](https://link.aps.org/doi/10.1103/PhysRevX.12.011055)** **Role of Oxygen States in the Low Valence Nickelate ${\\mathrm{La}}_{4}{\\mathrm{Ni}}_{3}{\\mathrm{O}}_{8}$ (nickelate, PRX)**
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevLett.128.120601](https://link.aps.org/doi/10.1103/PhysRevLett.128.120601)** Eigenvalues of Random Matrices with Generalized Correlations: A Path Integral Approach (PRL)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevLett.128.126401](https://link.aps.org/doi/10.1103/PhysRevLett.128.126401)** Spectroscopic Visualization of Flat Bands in Magic-Angle Twisted Monolayer-Bilayer Graphene: Coexistence of Localization and Delocalization (TBLG, PRL)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.094427](https://link.aps.org/doi/10.1103/PhysRevB.105.094427)** **Skyrmion crystal in the RKKY system on the two-dimensional triangular lattice (skyrmion RKKY, PRB)**
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.125416](https://link.aps.org/doi/10.1103/PhysRevB.105.125416)** Effect of nonlocal electrical conductivity on near-field radiative heat transfer between graphene sheets (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.094426](https://link.aps.org/doi/10.1103/PhysRevB.105.094426)** **Strain tuning of highly frustrated magnets: Order and disorder in the distorted kagome Heisenberg antiferromagnet (strain, PRB)**
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.094428](https://link.aps.org/doi/10.1103/PhysRevB.105.094428)** Simple microscopic model for magnetoelectric coupling in type-II antiferromagnetic multiferroics (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.125131](https://link.aps.org/doi/10.1103/PhysRevB.105.125131)** Chiral anomaly induced nonlinear Nernst and thermal Hall effects in Weyl semimetals (Weyl, PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.115126](https://link.aps.org/doi/10.1103/PhysRevB.105.115126)** Proximity spin-orbit and exchange coupling in ABA and ABC trilayer graphene van der Waals heterostructures (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.125127](https://link.aps.org/doi/10.1103/PhysRevB.105.125127)** $O(N$) ab initio calculation scheme for large-scale moir\\'e structures (XDai, PRB)
+
+
+
+
+1. **[http://arxiv.org/abs/2203.11133](http://arxiv.org/abs/2203.11133)** **Revisiting flat band superconductivity: dependence on minimal quantum metric and band touchings (flatband SC, arXiv.org)**
+
+1. **[http://arxiv.org/abs/2203.10943](http://arxiv.org/abs/2203.10943)** Quantum turbulence and Planckian dissipation (Volovik, arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.10964](http://arxiv.org/abs/2203.10964)** Sign-tunable anisotropic magnetoresistance and electrically detectable dual magnetic phases in a helical antiferromagnet ( arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.10648](http://arxiv.org/abs/2203.10648)** **Magnetization-direction-tunable kagome Weyl line (ZHasan kagome, arXiv.org)**
+
+1. **[http://arxiv.org/abs/2203.10542](http://arxiv.org/abs/2203.10542)** Robust Kagome Electronic Structure in Topological Quantum Magnets XMn6Sn6 (X = Dy, Tb, Gd, Y) (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.10151](http://arxiv.org/abs/2203.10151)** Orbital physics: glorious past, bright future (Khomskii, arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.11140](http://arxiv.org/abs/2203.11140)** Scattering of spin waves by a Bloch domain wall: effect of the dipolar interaction (arXiv.org)
+
+
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevX.12.011054](https://link.aps.org/doi/10.1103/PhysRevX.12.011054)** Emergent Dark States from Superradiant Dynamics in Multilevel Atoms in a Cavity (PRX)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.094110](https://link.aps.org/doi/10.1103/PhysRevB.105.094110)** First-principles study of defect formation energies in $\\mathrm{LaO}X{\\mathrm{S}}_{2}$ $(X=\\text{Sb},\\phantom{\\rule{4.pt}{0ex}}\\text{Bi})$ (defect, PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.094509](https://link.aps.org/doi/10.1103/PhysRevB.105.094509)** Fully gapped type-II superconductivity in Pt-doped ${\\mathrm{IrTe}}_{2}$ near critical doping (Dirac, PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.125126](https://link.aps.org/doi/10.1103/PhysRevB.105.125126)** Spin-polarized topological phases in a ferromagnetic ${\\mathrm{Bi}}_{2}{\\mathrm{Te}}_{3}/{\\mathrm{MnBi}}_{2}{\\mathrm{Te}}_{4}$ bilayer tuned by electric and magnetic fields (PRB)
+
+1. **[https://link.aps.org/doi/10.1103/PhysRevB.105.125201](https://link.aps.org/doi/10.1103/PhysRevB.105.125201)** Berry curvature induced linear electro-optic effect in chiral topological semimetals (PRB)
+
+
+
+
+
+
+1. **[http://arxiv.org/abs/2203.08137](http://arxiv.org/abs/2203.08137)** **RKKY interaction at helical edges of topological superconductors (DLoss, arXiv.org)**
+
+
+1. **[http://arxiv.org/abs/2203.09987](http://arxiv.org/abs/2203.09987)** Uniaxial Pressure Induced Stripe Order Rotation in La$_{1.88}$Sr$_{0.12}$CuO$_4$ (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.09688](http://arxiv.org/abs/2203.09688)** Experimental Progress on the Emergent Infinite-Layer Ni-Based Superconductors (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.09662](http://arxiv.org/abs/2203.09662)** Interplay of charge density waves, disorder, and superconductivity in 2$H$-TaSe$_2$ elucidated by NMR (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.09593](http://arxiv.org/abs/2203.09593)** **Field-tuned chiral transport in charge-ordered CsV$_3$Sb$_5$ (kagome, arXiv.org)**
+
+1. **[http://arxiv.org/abs/2203.10049](http://arxiv.org/abs/2203.10049)** Effects of external pressure on the narrow gap semiconductor Ce$_{3}$Cd$_{2}$As$_{6}$ (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.09819](http://arxiv.org/abs/2203.09819)** Semi-classical simulation of spin-1 magnets (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.09754](http://arxiv.org/abs/2203.09754)** Magnetic field-Temperature Phase Diagram of CeCoSi Constructed by Specific Heat, Magnetoresistivity, and Magnetization Measurements for a Single Crystal (arXiv.org)
+
+1. **[http://arxiv.org/abs/2203.10088](http://arxiv.org/abs/2203.10088)** **Theory of quantum anomalous Hall effect and electric-field-induced phase transition in AB-stacked MoTe2/WSe2 moire heterobilayers (TMDC, arXiv.org)**
