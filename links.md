@@ -19,6 +19,10 @@ tags : `#following`
 |__[GZ Alvarez](https://g1257.github.io/index.html)__|     &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  |__[Nature factory <br/> Jarillo-Herrero](http://jarilloherrero.mit.edu/)__|
 
 
+tags :`#tips`
+
+[pyenv configuration](https://fabulous-arch-47d.notion.site/pyenv-0518927baffa40418f2ff25dac55009b)
+
 
 
 tags : `#mobile friendly`, `#something to read while commuting`, `#open access` 
