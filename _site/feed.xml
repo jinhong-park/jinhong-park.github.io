@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2022 11:39:41 +0900</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2022 11:39:41 +0900</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2022 15:46:13 +0900</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2022 15:46:13 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.01452&quot;&gt;http://arxiv.org/abs/2204.01452&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Engineering spin-orbit effects and Berry curvature by deposition of Eu on WSe$_{2}$ (DWGo SBlugel, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2204.05242v1&quot;&gt;https://arxiv.org/abs/2204.05242v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Demonstration of $\mathbb{C}P^2$ skyrmions in three-band superconductors by self-consistent solutions to a Bogoliubov-de Gennes model (CP2, arxiv.org)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
