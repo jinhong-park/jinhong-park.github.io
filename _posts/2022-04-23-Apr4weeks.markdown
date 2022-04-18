@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "weekly picks (Apr 4 week 2022)"
+date:   2022-04-17 00:16:27
+categories: 2022apr
+---
+
+{% include image.html url="/images/2022apr4weeks.png" caption="A WordCloud of 2022 Apr 4th week collection" width=300 align="center" %}
+
+1. **[https://arxiv.org/abs/2204.07477v1](https://arxiv.org/abs/2204.07477v1)** Superconducting quantum fluctuations in one dimension (arxiv.org)
+
+1. **[https://arxiv.org/abs/2204.07260v1](https://arxiv.org/abs/2204.07260v1)** Vortices in a Ginzburg Landau Theory of Superconductors with Nematic Order (arxiv.org)
+
+1. **[https://arxiv.org/abs/2204.07307v1](https://arxiv.org/abs/2204.07307v1)** Dynamical mean-field theory study of a ferromagnetic CrI3 monolayer (arxiv.org)
