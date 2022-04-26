@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Apr 2022 23:32:42 +0900</pubDate>
-    <lastBuildDate>Mon, 25 Apr 2022 23:32:42 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Tue, 26 Apr 2022 10:29:51 +0900</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2022 10:29:51 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>weekly picks (Apr 5 week 2022)</title>
@@ -21,10 +21,52 @@
 
 &lt;ol&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.11737&quot;&gt;http://arxiv.org/abs/2204.11737&lt;/a&gt;&lt;/strong&gt; Phase diagram of superconductivity in the integer quantum Hall regime (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.11204&quot;&gt;http://arxiv.org/abs/2204.11204&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Nematic fluctuations in the non-superconducting iron pnictide BaFe$&lt;em&gt;{1.9-x}$Ni$&lt;/em&gt;{0.1}$Cr$&lt;em&gt;{x}$As$&lt;/em&gt;{2}$ (nematic fluctuation, arXiv.org)&lt;/strong&gt; &lt;img src=&quot;/images/2204.11204.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.11178&quot;&gt;http://arxiv.org/abs/2204.11178&lt;/a&gt;&lt;/strong&gt; Engineering Majorana corner modes from two-dimensional hexagonal crystals (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.11818&quot;&gt;http://arxiv.org/abs/2204.11818&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Majorana bound states with chiral magnetic textures (majorana, arXiv.org)&lt;/strong&gt; &lt;img src=&quot;/images/2204.11818.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.11578&quot;&gt;http://arxiv.org/abs/2204.11578&lt;/a&gt;&lt;/strong&gt; Scattering phenomena for spin transport in Kitaev spin liquid (Kitaev, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.11355&quot;&gt;http://arxiv.org/abs/2204.11355&lt;/a&gt;&lt;/strong&gt; Thermal Evolution of Dirac Magnons in the Honeycomb Ferromagnet CrBr$_3$ (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.11078&quot;&gt;http://arxiv.org/abs/2204.11078&lt;/a&gt;&lt;/strong&gt; Giant spectral renormalization and complex hybridization physics in a Kondo lattice system, CeCuSb2 (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.134520&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.134520&lt;/a&gt;&lt;/strong&gt; Anomalous acoustoelectric effect induced by clapping modes in chiral superconductors (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.134521&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.134521&lt;/a&gt;&lt;/strong&gt; Exploring quantum quasicrystal patterns: A variational study (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.144430&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.144430&lt;/a&gt;&lt;/strong&gt; Fast, semianalytical approach to obtain the stray magnetic field above a magnetic skyrmion (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.134303&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.134303&lt;/a&gt;&lt;/strong&gt; Charge-two Weyl phonons with type-III dispersion (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.155150&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.155150&lt;/a&gt;&lt;/strong&gt; Multicritical point and unified description of broken-symmetry phases in spin-$\frac{1}{2}$ antiferromagnets on a square lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.155151&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.155151&lt;/a&gt;&lt;/strong&gt; Spin dynamics of itinerant electrons: Local magnetic moment formation and Berry phase (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L161105&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L161105&lt;/a&gt;&lt;/strong&gt; Chiral electronic excitations in the quasi-two-dimensional Rashba system BiTeI (Rashba, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.021018&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevX.12.021018&lt;/a&gt;&lt;/strong&gt; Correlated Insulators, Semimetals, and Superconductivity in Twisted Trilayer Graphene (Sachdev, PRX)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.173202&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.173202&lt;/a&gt;&lt;/strong&gt; Laughlin’s Topological Charge Pump in an Atomic Hall Cylinder (PRL)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.173202&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.173202&lt;/a&gt;&lt;/strong&gt; Laughlin’s Topological Charge Pump in an Atomic Hall Cylinder (PRL) &lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v15/61?utm_campaign=weekly&amp;amp;utm_medium=email&amp;amp;utm_source=emailalert&quot;&gt;https://physics.aps.org/articles/v15/61?utm_campaign=weekly&amp;amp;utm_medium=email&amp;amp;utm_source=emailalert&lt;/a&gt;&lt;/strong&gt; Laughlinâs Charge Pump Realized (Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2204.10657v1&quot;&gt;https://arxiv.org/abs/2204.10657v1&lt;/a&gt;&lt;/strong&gt; Signatures of topotactic hydrogen in nickelate superconductors (nickelate, arxiv.org)&lt;/p&gt;
