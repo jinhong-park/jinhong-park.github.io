@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Apr 2022 20:19:47 +0900</pubDate>
-    <lastBuildDate>Thu, 28 Apr 2022 20:19:47 +0900</lastBuildDate>
+    <pubDate>Fri, 29 Apr 2022 12:02:39 +0900</pubDate>
+    <lastBuildDate>Fri, 29 Apr 2022 12:02:39 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,57 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.13633&quot;&gt;http://arxiv.org/abs/2204.13633&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Majorana fermions revealing the true nature of quantum phase slip junctions (majorana, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.13562&quot;&gt;http://arxiv.org/abs/2204.13562&lt;/a&gt;&lt;/strong&gt; Pseudo-Particle Vertex Solver for Quantum Impurity Models (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2204.12880&quot;&gt;http://arxiv.org/abs/2204.12880&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Designer magnetic topological graphene nanoribbons (arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.021023&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevX.12.021023&lt;/a&gt;&lt;/strong&gt; Adjoint Kirchhoff’s Law and General Symmetry Implications for All Thermal Emitters (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.176601&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.176601&lt;/a&gt;&lt;/strong&gt; Orbital Dynamics in Centrosymmetric Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.176802&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.176802&lt;/a&gt;&lt;/strong&gt; Spectral Function of the Chiral One-Dimensional Fermi Liquid in the Regime of Strong Interactions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.177202&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.177202&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Curved Magnetism in ${\mathrm{CrI}}_{3}$ (nanotube CrI3, PRL)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevLett.128.177202.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.134432&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.134432&lt;/a&gt;&lt;/strong&gt; Dynamics of the collapse of a ferromagnetic skyrmion in a centrosymmetric lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.134523&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.134523&lt;/a&gt;&lt;/strong&gt; Nodeless superconductivity in noncentrosymmetric LaRhSn (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.144306&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.144306&lt;/a&gt;&lt;/strong&gt; Floquet integrability and long-range entanglement generation in the one-dimensional quantum Potts model (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.144510&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.144510&lt;/a&gt;&lt;/strong&gt; Enhanced superconductivity and moderate spin fluctuations suppressed at low energies in heavily electron-doped La1111-based superconductor (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.155157&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.155157&lt;/a&gt;&lt;/strong&gt; Analysis of model-parameter dependences on the second-order nonlinear conductivity in $\mathcal{PT}$-symmetric collinear antiferromagnetic metals with magnetic toroidal moment on zigzag chains (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.155422&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.155422&lt;/a&gt;&lt;/strong&gt; Large suppression of spin-relaxation rate in graphene nanoribbons in the presence of magnetic impurities (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.165151&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.165151&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Optical phonons coupled to a Kitaev spin liquid (kitaev phonon, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.165152&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.165152&lt;/a&gt;&lt;/strong&gt; Asymmetric modulation of Majorana excitation spectra and nonreciprocal thermal transport in the Kitaev spin liquid under a staggered magnetic field (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.165153&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.165153&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Construction of low-energy symmetric Hamiltonians and Hubbard parameters for twisted multilayer systems using ab initio input (twisted bilayer, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.165310&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.165310&lt;/a&gt;&lt;/strong&gt; Robustness of quantum Hall interferometry (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-04512-8&quot;&gt;https://www.nature.com/articles/s41586-022-04512-8&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Observation of a linked-loop quantum state in a topological magnet (linked-loop state, Nature)&lt;/strong&gt; &lt;img src=&quot;/images/s41586-022-04512-8.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
