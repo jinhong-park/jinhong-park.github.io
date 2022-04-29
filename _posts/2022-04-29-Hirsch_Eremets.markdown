@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "J. Hirsch vs M. I. Eremets"
+date:   2022-04-29 00:16:27
+categories: 2022apr
+---
+
+
+![](/images/Hirsch_vs_Eremets.png)
+
+
+Zoom meeting hosted by T. Park in Sungkyunkwan University. 
+
+
+
