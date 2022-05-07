@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2022 11:07:25 +0900</pubDate>
-    <lastBuildDate>Fri, 06 May 2022 11:07:25 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 07 May 2022 11:47:03 +0900</pubDate>
+    <lastBuildDate>Sat, 07 May 2022 11:47:03 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (May 1 week 2022)</title>
@@ -20,6 +20,63 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.021031&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevX.12.021031&lt;/a&gt;&lt;/strong&gt; Quantum Anomalous Hall Effect from Inverted Charge Transfer Gap (QAHE, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.180201&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.180201&lt;/a&gt;&lt;/strong&gt; Machine Learning Hidden Symmetries (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.186001&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.186001&lt;/a&gt;&lt;/strong&gt; Low-Pressure Electrochemical Synthesis of Complex High-Pressure Superconducting Superhydrides (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.187202&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.187202&lt;/a&gt;&lt;/strong&gt; Electron Spin Resonance of the Interacting Spinon Liquid (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.187402&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.187402&lt;/a&gt;&lt;/strong&gt; Keldysh Space Control of Charge Dynamics in a Strongly Driven Mott Insulator (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.174507&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.174507&lt;/a&gt;&lt;/strong&gt; Quasiparticle density of states and triplet correlations in superconductor/ferromagnetic-insulator structures across a sharp domain wall (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.184506&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.184506&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Band crossover and magnetic phase diagram of the high-${T}&lt;em&gt;{c}$ superconducting compound ${\mathrm{Ba}}&lt;/em&gt;{2}{\mathrm{CuO}}_{4\ensuremath{-}\ensuremath{\delta}}$ (cuprate, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195107&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195107&lt;/a&gt;&lt;/strong&gt; Minimally entangled typical thermal state algorithms for finite temperature Matsubara Green functions (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195108&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195108&lt;/a&gt;&lt;/strong&gt; Non-Abelian bosonization in a $(3+1)$-d Kondo semimetal via quantum anomalies (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195110&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195110&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Giant efficiency for charge-to-spin conversion via the electron gas at the ${\mathrm{LaTiO}}&lt;em&gt;{3+\ensuremath{\delta}}/{\mathrm{SrTiO}}&lt;/em&gt;{3}$ interface (Rashba, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195303&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195303&lt;/a&gt;&lt;/strong&gt; Clean quantum point contacts in an InAs quantum well grown on a lattice-mismatched InP substrate (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195409&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195409&lt;/a&gt;&lt;/strong&gt; Valley transport driven by dynamic lattice distortion (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195410&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195410&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Electrically tunable magnetism and unique intralayer charge transfer in Janus monolayer MnSSe for spintronics applications (Janus, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195412&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195412&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Curved-space Dirac description of elastically deformed monolayer graphene is generally incorrect (curved graphene, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.195412.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.205410&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.205410&lt;/a&gt;&lt;/strong&gt; Interplay of boundary states of graphene nanoribbons with a Kondo impurity (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L180403&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L180403&lt;/a&gt;&lt;/strong&gt; Damped Dirac magnon in the metallic kagome antiferromagnet FeSn (magnon, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L201106&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L201106&lt;/a&gt;&lt;/strong&gt; Half-quantized Hall effect and power law decay of edge-current distribution (Half-quantum Hall edge, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L201107&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L201107&lt;/a&gt;&lt;/strong&gt; Competing orders and cascade of degeneracy lifting in doped Bernal bilayer graphene (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v15/s59&quot;&gt;https://physics.aps.org/articles/v15/s59&lt;/a&gt;&lt;/strong&gt; Spinon Collisions Glimpsed in a Model Quantum System (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-04513-7&quot;&gt;https://www.nature.com/articles/s41586-022-04513-7&lt;/a&gt;&lt;/strong&gt; Imaging tunable quantum Hall broken-symmetry orders in graphene (Nature)&lt;/p&gt;
   &lt;/li&gt;
