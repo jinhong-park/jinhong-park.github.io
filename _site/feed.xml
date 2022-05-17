@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 May 2022 16:35:13 +0900</pubDate>
-    <lastBuildDate>Mon, 16 May 2022 16:35:13 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Tue, 17 May 2022 11:35:52 +0900</pubDate>
+    <lastBuildDate>Tue, 17 May 2022 11:35:52 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (May 3 week 2022)</title>
@@ -21,6 +21,52 @@
 
 &lt;ol&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.07718&quot;&gt;http://arxiv.org/abs/2205.07718&lt;/a&gt;&lt;/strong&gt; Feedback of non-local $d_{xy}$ nematicity on the magnetic anisotropy in FeSe (nematicity, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.06816&quot;&gt;http://arxiv.org/abs/2205.06816&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Moir\‘e phonons and impact of electronic symmetry breaking in twisted trilayer graphene (Moire phonon, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.07806&quot;&gt;http://arxiv.org/abs/2205.07806&lt;/a&gt;&lt;/strong&gt; Magneto-Transport Properties of Kagome Magnet TmMn$_6$Sn$_6$ (kagome, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.174418&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.174418&lt;/a&gt;&lt;/strong&gt; Three-dimensional sandglass magnet with non-Kramers ions (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.174419&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.174419&lt;/a&gt;&lt;/strong&gt; Screening effect in spin Hall devices (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.184417&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.184417&lt;/a&gt;&lt;/strong&gt; Source and origin of the interfacial Dzyaloshinskii-Moriya interaction in a heavy-metal&lt;/td&gt;
+          &lt;td&gt;magnetic-insulator bilayer (PRB)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195122&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195122&lt;/a&gt;&lt;/strong&gt; Evolution of the electronic structure and correlations accompanied by suppression of itinerant ferromagnetism in ${\mathrm{Sr}}&lt;em&gt;{1\ensuremath{-}x}{({\mathrm{La}}&lt;/em&gt;{0.5}{\mathrm{K}}&lt;em&gt;{0.5})}&lt;/em&gt;{x}{\mathrm{RuO}}_{3}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195417&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195417&lt;/a&gt;&lt;/strong&gt; Theory of competing charge density wave, Kekul\‘e, and antiferromagnetically ordered fractional quantum Hall states in graphene aligned with boron nitride (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.205119&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.205119&lt;/a&gt;&lt;/strong&gt; ${C}_{3}$ symmetry breaking metal-insulator transitions in a flat band in the half-filled Hubbard model on the decorated honeycomb lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.205203&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.205203&lt;/a&gt;&lt;/strong&gt; Thermoelectric transport of type-I, II, and III massless Dirac fermions in a two-dimensional lattice model (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.205419&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.205419&lt;/a&gt;&lt;/strong&gt; Thermal Hall response: Violation of gravitational analogs and Einstein relations (JPark ARoasch, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L201109&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L201109&lt;/a&gt;&lt;/strong&gt; Anomalous thermoelectric effects and quantum oscillations in the kagome metal ${\mathrm{CsV}}&lt;em&gt;{3}{\mathrm{Sb}}&lt;/em&gt;{5}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.07107&quot;&gt;http://arxiv.org/abs/2205.07107&lt;/a&gt;&lt;/strong&gt; Tutorial: A Beginner’s Guide to Interpreting Magnetic Susceptibility Data with the Curie-Weiss Law (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2205.06626v1&quot;&gt;https://arxiv.org/abs/2205.06626v1&lt;/a&gt;&lt;/strong&gt; Pressure-induced superconductivity in weak topological insulator BiSe (Bi2Se3, arxiv.org)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -29,9 +75,7 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2205.06702v1&quot;&gt;https://arxiv.org/abs/2205.06702v1&lt;/a&gt;&lt;/strong&gt; Quantum Anomalous Hall Effect in Antiferromagnetism (arxiv.org)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-022-00881-8&quot;&gt;https://www.nature.com/articles/s42005-022-00881-8&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;An open quantum systems approach to proton tunnelling in DNA (DNA quantum tunnelling, Communications Physics)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-022-00881-8&quot;&gt;https://www.nature.com/articles/s42005-022-00881-8&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;An open quantum systems approach to proton tunnelling in DNA (DNA quantum tunnelling, Communications Physics)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 15 May 2022 09:16:27 +0900</pubDate>
