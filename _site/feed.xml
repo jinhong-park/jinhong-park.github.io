@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2022 11:35:52 +0900</pubDate>
-    <lastBuildDate>Tue, 17 May 2022 11:35:52 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Wed, 18 May 2022 10:53:40 +0900</pubDate>
+    <lastBuildDate>Wed, 18 May 2022 10:53:40 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>weekly picks (May 3 week 2022)</title>
@@ -20,6 +20,39 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.07910&quot;&gt;http://arxiv.org/abs/2205.07910&lt;/a&gt;&lt;/strong&gt; Phase diagram and magnetic excitation of J1-J3 Heisenberg model on the square lattice (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.206601&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.206601&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Quantum-Critical Resistivity of Strange Metals in a Magnetic Field (CVarma, PRL)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevLett.128.206601.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.206602&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.206602&lt;/a&gt;&lt;/strong&gt; Phonon-Limited Mobility in $h$-BN Encapsulated $AB$-Stacked Bilayer Graphene (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.184420&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.184420&lt;/a&gt;&lt;/strong&gt; Electronic and vibrational properties of bulk ${\mathrm{Cr}}&lt;em&gt;{2}{\mathrm{Ge}}&lt;/em&gt;{2}{\mathrm{Te}}_{6}$ from first-principles calculations (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195420&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195420&lt;/a&gt;&lt;/strong&gt; Reverse strain-induced snake states in graphene nanoribbons (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195421&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195421&lt;/a&gt;&lt;/strong&gt; Orbital Hall effect in bilayer transition metal dichalcogenides: From the intra-atomic approximation to the Bloch states orbital magnetic moment approach (citing paper, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.205303&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.205303&lt;/a&gt;&lt;/strong&gt; Nonlinear current response of Weyl semimetals to a strong dc-ac electric field in the ultraquantum regime (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L201110&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L201110&lt;/a&gt;&lt;/strong&gt; Quantum criticality and confinement in weak Mott insulators (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.174509&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.174509&lt;/a&gt;&lt;/strong&gt; Coupled Bogoliubov equations for electrons and phonons (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.184418&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.184418&lt;/a&gt;&lt;/strong&gt; Magnetization of the spin-$\frac{1}{2}$ Heisenberg antiferromagnet on the triangular lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L180408&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L180408&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Chirality of magnetic excitations in ferromagnetic ${\mathrm{SrRuO}}_{3}$ (ruthenate, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.L180408.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.07718&quot;&gt;http://arxiv.org/abs/2205.07718&lt;/a&gt;&lt;/strong&gt; Feedback of non-local $d_{xy}$ nematicity on the magnetic anisotropy in FeSe (nematicity, arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
