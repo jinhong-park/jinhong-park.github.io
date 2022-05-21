@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 May 2022 13:08:56 +0900</pubDate>
-    <lastBuildDate>Fri, 20 May 2022 13:08:56 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 21 May 2022 21:28:53 +0900</pubDate>
+    <lastBuildDate>Sat, 21 May 2022 21:28:53 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (May 3 week 2022)</title>
@@ -20,6 +20,21 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.206401&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.206401&lt;/a&gt;&lt;/strong&gt; Fermi Surface Expansion above Critical Temperature in a Hund Ferromagnet (Arita, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.207002&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.207002&lt;/a&gt;&lt;/strong&gt; Unveiling Unequivocal Charge Stripe Order in a Prototypical Cuprate Superconductor (cuprate, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195130&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195130&lt;/a&gt;&lt;/strong&gt; Edge magnetism in transition metal dichalcogenide nanoribbons: Mean field theory and determinant quantum Monte Carlo (edge magnetism, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.174424&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.174424&lt;/a&gt;&lt;/strong&gt; Nematicity and fractional magnetization plateaus induced by spin-lattice coupling in the classical kagome-lattice Heisenberg antiferromagnet (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.205124&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.205124&lt;/a&gt;&lt;/strong&gt; Dynamical correlations in single-layer ${\mathrm{CrI}}_{3}$ (CrI3, PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.abg9094&quot;&gt;https://www.science.org/doi/abs/10.1126/science.abg9094&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;All topological bands of all nonmagnetic stoichiometric materials (Bernevig, Science)&lt;/strong&gt; &lt;img src=&quot;/images/science.abg9094.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
