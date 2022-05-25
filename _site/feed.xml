@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 May 2022 11:09:09 +0900</pubDate>
-    <lastBuildDate>Tue, 24 May 2022 11:09:09 +0900</lastBuildDate>
+    <pubDate>Wed, 25 May 2022 10:34:32 +0900</pubDate>
+    <lastBuildDate>Wed, 25 May 2022 10:34:32 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,45 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2205.11959v1&quot;&gt;https://arxiv.org/abs/2205.11959v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic Interaction in Doped 2D Perovskite Cuprates with Nanoscale Inhomogeneity: Lattice Nonlocal Effects vs Superexchange (cuprate, arxiv.org)&lt;/strong&gt; &lt;img src=&quot;/images/2205.11959v1.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.11875&quot;&gt;http://arxiv.org/abs/2205.11875&lt;/a&gt;&lt;/strong&gt; Competing magnetic phases in the frustrated spin-1/2 chain compound $\beta$-TeVO$_4$ probed by NMR (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.11542&quot;&gt;http://arxiv.org/abs/2205.11542&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Quenched random mass disorder in the large N theory of vector bosons (quenched disorder, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2205.11571&quot;&gt;http://arxiv.org/abs/2205.11571&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Flat bands and band touching from real-space topology in hyperbolic lattices (Buduchek, arXiv.org)&lt;/strong&gt; &lt;img src=&quot;/images/2205.11571.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.128.217202&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevLett.128.217202&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Nonlocal Interactions in Moir\‘e Hubbard Systems (AHMacDonald, PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.195136&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.195136&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Temperature-driven reorganization of electronic order in ${\mathrm{CsV}}&lt;em&gt;{3}{\mathrm{Sb}}&lt;/em&gt;{5}$ (Kagome tem-evolution CDW pattern, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.195136.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.184110&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.184110&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Local multiplet formation around a single vacancy in graphene: An effective Anderson model analysis based on the block-Lanczos DMRG method (Yunoki, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.184422&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.184422&lt;/a&gt;&lt;/strong&gt; Topological metamagnetism: Thermodynamics and dynamics of the transition in spin ice under uniaxial compression (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.205306&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.205306&lt;/a&gt;&lt;/strong&gt; Optical absorption in two-dimensional materials with tilted Dirac cones (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L180412&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L180412&lt;/a&gt;&lt;/strong&gt; Another exact ground state of a two-dimensional quantum antiferromagnet (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L180505&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L180505&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Intrinsic and doping-enhanced superconductivity in monolayer $1H\text{\ensuremath{-}}{\mathrm{TaS}}_{2}$: Critical role of charge ordering and spin-orbit coupling (TaS2, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L180506&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L180506&lt;/a&gt;&lt;/strong&gt; Dimensionality switching and superconductivity transition in dense $1T\text{\ensuremath{-}}{\mathrm{HfSe}}_{2}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.L201114&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.L201114&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Tailoring quadrupole topological insulators with periodic driving and disorder (quadrupole, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.L201114.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2205.11462v1&quot;&gt;https://arxiv.org/abs/2205.11462v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Mott insulator state in a van der Waals flat-band compound (flatband, arxiv.org)&lt;/strong&gt; &lt;img src=&quot;/images/2205.11462v1.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
