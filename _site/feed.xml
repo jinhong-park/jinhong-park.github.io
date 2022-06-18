@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jun 2022 11:24:51 +0900</pubDate>
-    <lastBuildDate>Fri, 17 Jun 2022 11:24:51 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 18 Jun 2022 21:55:35 +0900</pubDate>
+    <lastBuildDate>Sat, 18 Jun 2022 21:55:35 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jun 3 week 2022)</title>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.245124&quot;&gt;https://link.aps.org/doi/10.1103/PhysRevB.105.245124&lt;/a&gt;&lt;/strong&gt; Nearly flat bands in twisted triple bilayer graphene (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-04715-z&quot;&gt;https://www.nature.com/articles/s41586-022-04715-z&lt;/a&gt;&lt;/strong&gt; Evidence for unconventional superconductivity in twisted trilayer graphene (Nature)&lt;/p&gt;
   &lt;/li&gt;
