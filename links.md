@@ -18,10 +18,10 @@ tags : `#following`
 |------|------|------|
 |__[GZ Alvarez](https://g1257.github.io/index.html)__|     &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  |__[Nature factory <br/> Jarillo-Herrero](http://jarilloherrero.mit.edu/)__|
 
-tags : `#search'
+tags : `#search`
 
-__[https://en.x-mol.com/](https://en.x-mol.com/)__  __[https://scholar.google.com/](https://scholar.google.com/)__ __[sci-hub](https://sci-hub.mksa.top/)__
-
+|__[https://en.x-mol.com/](https://en.x-mol.com/)__| &nbsp;&nbsp;&nbsp; &nbsp;  __[https://scholar.google.com/](https://scholar.google.com/)__| &nbsp;&nbsp;&nbsp; &nbsp;  __[sci-hub](https://sci-hub.mksa.top/)__|
+|------|------|------|
 
 tags :`#tips`
 
