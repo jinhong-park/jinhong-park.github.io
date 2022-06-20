@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "weekly picks (Jun 4 week 2022)"
+date:   2022-06-20 00:16:27
+categories: 2022jun
+---
+
+{% include image.html url="/images/2022jun4weeks.png" caption="A WordCloud of 2022 Jun 4yh week collection" width=300 align="center" %}
+
+
+1. **[https://arxiv.org/abs/2206.08385v1](https://arxiv.org/abs/2206.08385v1)** Giant modulation of optical nonlinearity by Floquet engineering (JGPark, arxiv.org)
+
+1. **[https://arxiv.org/abs/2206.08710v1](https://arxiv.org/abs/2206.08710v1)** Melting of magnetization plateaus for kagome and square-kagome lattice antiferromagnets (kagome, arxiv.org)
