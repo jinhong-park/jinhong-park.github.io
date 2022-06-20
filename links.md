@@ -20,7 +20,7 @@ tags : `#following`
 
 tags : `#search`
 
-|__[https://en.x-mol.com/](https://en.x-mol.com/)__| &nbsp;&nbsp;&nbsp; &nbsp;  __[https://scholar.google.com/](https://scholar.google.com/)__| &nbsp;&nbsp;&nbsp; &nbsp;  __[sci-hub](https://sci-hub.mksa.top/)__|
+|__[x-mol](https://en.x-mol.com/)__| &nbsp;&nbsp;&nbsp; &nbsp;  __[scholar google](https://scholar.google.com/)__| &nbsp;&nbsp;&nbsp; &nbsp;  __[sci-hub](https://sci-hub.mksa.top/)__|
 |------|------|------|
 
 tags :`#tips`
