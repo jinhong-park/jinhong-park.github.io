@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "weekly picks (Jul 1 week 2022)"
+date:   2022-06-27 00:16:27
+categories: 2022jul
+---
+
+{% include image.html url="/images/2022jul1weeks.png" caption="A WordCloud of 2022 Jul 1st week collection" width=300 align="center" %}
+
