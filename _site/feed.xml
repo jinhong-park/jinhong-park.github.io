@@ -6,9 +6,36 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jun 2022 09:14:58 +0900</pubDate>
-    <lastBuildDate>Mon, 27 Jun 2022 09:14:58 +0900</lastBuildDate>
+    <pubDate>Mon, 27 Jun 2022 11:16:02 +0900</pubDate>
+    <lastBuildDate>Mon, 27 Jun 2022 11:16:02 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>weekly picks (Jul 1 week 2022)</title>
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2022jul1weeks.png&quot; alt=&quot;A WordCloud of 2022 Jul 1st week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2022 Jul 1st week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.12122&quot;&gt;http://arxiv.org/abs/2206.12122&lt;/a&gt;&lt;/strong&gt; Enhanced low-energy magnetic excitations evidencing the Cu-induced localization in an Fe-based superconductor Fe$&lt;em&gt;{0.98}$Te$&lt;/em&gt;{0.5}$Se$_{0.5}$ (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.12022&quot;&gt;http://arxiv.org/abs/2206.12022&lt;/a&gt;&lt;/strong&gt; Traversing the pyrochlore stability diagram; microwave-assisted synthesis and discovery of mixed B-site Ln$_2$InSbO$_7$ family (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 27 Jun 2022 09:16:27 +0900</pubDate>
+        <link>http://jinhong-park.github.io/blog/2022/06/Jul1weeks</link>
+        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2022/06/Jul1weeks</guid>
+        
+        
+        <category>2022jul</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Jun 4 week 2022)</title>
@@ -2087,22 +2114,6 @@
         <pubDate>Sat, 30 Apr 2022 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/blog/2022/04/Apr5weeks</link>
         <guid isPermaLink="true">http://jinhong-park.github.io/blog/2022/04/Apr5weeks</guid>
-        
-        
-        <category>2022apr</category>
-        
-      </item>
-    
-      <item>
-        <title>J. Hirsch vs M. I. Eremets</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/Hirsch_vs_Eremets.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zoom meeting [2022.04.29] hosted by Prof. Tuson Park in Sungkyunkwan University.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 29 Apr 2022 09:16:27 +0900</pubDate>
-        <link>http://jinhong-park.github.io/blog/2022/04/Hirsch_Eremets</link>
-        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2022/04/Hirsch_Eremets</guid>
         
         
         <category>2022apr</category>
