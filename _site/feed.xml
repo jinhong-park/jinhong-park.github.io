@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jun 2022 12:40:44 +0900</pubDate>
-    <lastBuildDate>Wed, 29 Jun 2022 12:40:44 +0900</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2022 15:04:52 +0900</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2022 15:04:52 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,33 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.021067&quot;&gt;PhysRevX.12.021067&lt;/a&gt;&lt;/strong&gt; Interaction-Driven Metal-Insulator Transition with Charge Fractionalization (CenkeXu, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.017201&quot;&gt;PhysRevLett.129.017201&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Low-Energy Excitations of Skyrmion Crystals in a Centrosymmetric Kondo-Lattice Magnet: Decoupled Spin-Charge Excitations and Nonreciprocity (Mochizuki, PRL)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevLett.129.017201.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.235142&quot;&gt;PhysRevB.105.235142&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Orbital angular momentum driven anomalous Hall effect (OAM Bahramy, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.235142.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.214525&quot;&gt;PhysRevB.105.214525&lt;/a&gt;&lt;/strong&gt; Dispersive one-dimensional Majorana modes with emergent supersymmetry in one-dimensional proximitized superconductors via spatially modulated potentials and magnetic fields (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.214310&quot;&gt;PhysRevB.105.214310&lt;/a&gt;&lt;/strong&gt; Off-diagonal electron-phonon coupling effects on two-level system dynamics (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.224423&quot;&gt;PhysRevB.105.224423&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Skyrmion crystal under ${D}_{3h}$ point group: Role of out-of-plane Dzyaloshinskii-Moriya interaction (Hayami, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.224423.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.224424&quot;&gt;PhysRevB.105.224424&lt;/a&gt;&lt;/strong&gt; Route towards stable homochiral topological textures in $A$-type antiferromagnets (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.235204&quot;&gt;PhysRevB.105.235204&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Chiral phonons entangled with multiple Hall effects and unified convention for pseudoangular momentum in two-dimensional materials (SMurakami, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.235204.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.235307&quot;&gt;PhysRevB.105.235307&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Van Hove singularity and Lifshitz transition in thickness-controlled Li-intercalated graphene (Li-Graphene, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.105.235307.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.13537&quot;&gt;2206.13537&lt;/a&gt;&lt;/strong&gt; One-dimensional topological superconductivity based entirely on phase control (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
