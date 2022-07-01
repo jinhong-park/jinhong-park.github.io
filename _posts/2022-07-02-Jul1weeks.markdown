@@ -8,6 +8,8 @@ categories: 2022jul
 {% include image.html url="/images/2022jul1weeks.png" caption="A WordCloud of 2022 Jul 1st week collection" width=300 align="center" %}
 
 
+1. **[s41586-022-04744-8](https://www.nature.com/articles/s41586-022-04744-8)** **Ordered and tunable Majorana-zero-mode lattice in naturally strained LiFeAs (majorana lattice, Nature)** ![](/images/s41586-022-04744-8.pdf.jpg)
+
 1. **[2206.14828](http://arxiv.org/abs/2206.14828)** Majorana nanowires for topological quantum computation: A tutorial (Marra, arXiv)
 
 1. **[2206.14937](http://arxiv.org/abs/2206.14937)** Vortical versus skyrmionic states in the topological phase of a twisted bilayer with $d$-wave superconducting pairing (arXiv)
