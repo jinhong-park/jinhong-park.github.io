@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jun 2022 12:57:39 +0900</pubDate>
-    <lastBuildDate>Thu, 30 Jun 2022 12:57:39 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Fri, 01 Jul 2022 17:28:28 +0900</pubDate>
+    <lastBuildDate>Fri, 01 Jul 2022 17:28:28 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jul 1 week 2022)</title>
@@ -20,6 +20,30 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.14828&quot;&gt;2206.14828&lt;/a&gt;&lt;/strong&gt; Majorana nanowires for topological quantum computation: A tutorial (Marra, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.14937&quot;&gt;2206.14937&lt;/a&gt;&lt;/strong&gt; Vortical versus skyrmionic states in the topological phase of a twisted bilayer with $d$-wave superconducting pairing (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.14994&quot;&gt;2206.14994&lt;/a&gt;&lt;/strong&gt; Spin Susceptibility of a J=3/2 Superconductor (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.15196&quot;&gt;2206.15196&lt;/a&gt;&lt;/strong&gt; Tailoring phase transition from topological superconductor to trivial superconductor induced by magnetic textures of a spin-chain on a $p$-wave superconductor (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.15300&quot;&gt;2206.15300&lt;/a&gt;&lt;/strong&gt; Single magnon excited states of a Heisenberg spin-chain using a quantum computer (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.017202&quot;&gt;PhysRevLett.129.017202&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Fractionalization on the Surface: Is Type-II Terminated $1T\text{\ensuremath{-}}{\mathrm{TaS}}_{2}$ Surface an Anomalously Realized Spin Liquid? (PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.235145&quot;&gt;PhysRevB.105.235145&lt;/a&gt;&lt;/strong&gt; Crucial role of out-of-plane Sb $p$ orbitals in Van Hove singularity formation and electronic correlations in the superconducting kagome metal ${\mathrm{CsV}}&lt;em&gt;{3}{\mathrm{Sb}}&lt;/em&gt;{5}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.105.245420&quot;&gt;PhysRevB.105.245420&lt;/a&gt;&lt;/strong&gt; Two-gap superconductivity in a Janus MoSH monolayer (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2206.14210&quot;&gt;2206.14210&lt;/a&gt;&lt;/strong&gt; Breakdown of heavy quasiparticles in a honeycomb Kondo lattice: a quantum Monte Carlo study (arXiv)&lt;/p&gt;
   &lt;/li&gt;
