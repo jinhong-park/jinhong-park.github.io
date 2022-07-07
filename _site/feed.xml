@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Jul 2022 00:13:29 +0900</pubDate>
-    <lastBuildDate>Thu, 07 Jul 2022 00:13:29 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Thu, 07 Jul 2022 11:32:05 +0900</pubDate>
+    <lastBuildDate>Thu, 07 Jul 2022 11:32:05 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>weekly picks (Jul 2 week 2022)</title>
@@ -20,6 +20,24 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.02240&quot;&gt;2207.02240&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Drude-like Thermal Hall Resistivity in the Cuprates (William, arXiv)&lt;/strong&gt; &lt;img src=&quot;/images/2207.02240.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.02407&quot;&gt;2207.02407&lt;/a&gt;&lt;/strong&gt; Testing Electron-phonon Coupling for the Superconductivity in Kagome Metal $\rm{CsV_3Sb_5}$ (kagome, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.02806&quot;&gt;2207.02806&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Moire Engineering of Nonsymmorphic Symmetries and Hourglass Superconductors (nonsymmorphic, arXiv)&lt;/strong&gt; &lt;img src=&quot;/images/2207.02806.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.02383&quot;&gt;2207.02383&lt;/a&gt;&lt;/strong&gt; Anisotropic exchange coupling and ground state phase diagram of Kitaev compound YbOCl (Kitaev, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.027002&quot;&gt;PhysRevLett.129.027002&lt;/a&gt;&lt;/strong&gt; Charge and Spin Order Dichotomy in ${\mathrm{NdNiO}}_{2}$ Driven by the Capping Layer (nickelate, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.024505&quot;&gt;PhysRevB.106.024505&lt;/a&gt;&lt;/strong&gt; Pseudogap phase and fractionalization: Predictions for Josephson junction setup (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.027001&quot;&gt;PhysRevLett.129.027001&lt;/a&gt;&lt;/strong&gt; High-Throughput Investigations of Topological and Nodal Superconductors (PRL)&lt;/p&gt;
   &lt;/li&gt;
