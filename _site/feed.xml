@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jul 2022 10:40:51 +0900</pubDate>
-    <lastBuildDate>Thu, 14 Jul 2022 10:40:51 +0900</lastBuildDate>
+    <pubDate>Thu, 14 Jul 2022 15:52:21 +0900</pubDate>
+    <lastBuildDate>Thu, 14 Jul 2022 15:52:21 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,21 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.05788&quot;&gt;2207.05788&lt;/a&gt;&lt;/strong&gt; Twistronics of Janus transition metal dichalcogenide bilayers (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.05857&quot;&gt;2207.05857&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Nonlinear nonreciprocal transport in antiferromagnets free from spin-orbit coupling (Hayami, arXiv)&lt;/strong&gt; &lt;img src=&quot;/images/2207.05857.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.05862&quot;&gt;2207.05862&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Stability of Skyrmion Crystal Phase in Centrosymmetric Distorted Triangular-Lattice Antiferromagnets (Hayami, arXiv)&lt;/strong&gt; &lt;img src=&quot;/images/2207.05862.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.06040&quot;&gt;2207.06040&lt;/a&gt;&lt;/strong&gt; Quantum many-body scars of spinless fermions with correlated hopping in higher dimensions (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.06138&quot;&gt;2207.06138&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic-field induced melting of long-range magnetic order in Tb5Si3: A possible case for Kitaev physics (RKKY superexchange, arXiv)&lt;/strong&gt; &lt;img src=&quot;/images/2207.06138.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.06099&quot;&gt;2207.06099&lt;/a&gt;&lt;/strong&gt; How to detect higher order Van Hove singularities in multi-band Hamiltonians in practice (vanHove, arXiv)&lt;/p&gt;
   &lt;/li&gt;
