@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jul 2022 13:15:11 +0900</pubDate>
-    <lastBuildDate>Fri, 15 Jul 2022 13:15:11 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 16 Jul 2022 13:45:53 +0900</pubDate>
+    <lastBuildDate>Sat, 16 Jul 2022 13:45:53 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jul 3 week 2022)</title>
@@ -20,6 +20,27 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.031010&quot;&gt;PhysRevX.12.031010&lt;/a&gt;&lt;/strong&gt; Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.045120&quot;&gt;PhysRevB.106.045120&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Tuning the electronic band structure in a kagome ferromagnetic metal via magnetization (kagome, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.106.045120.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.024415&quot;&gt;PhysRevB.106.024415&lt;/a&gt;&lt;/strong&gt; Dynamics of magnetic skyrmions driven by a temperature gradient in a chiral magnet FeGe (skyrmion, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.035124&quot;&gt;PhysRevB.106.035124&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Surface and electronic structure at atomic length scales of the nonsymmorphic antiferromagnet ${\mathrm{Eu}}&lt;em&gt;{5}{\mathrm{In}}&lt;/em&gt;{2}{\mathrm{Sb}}_{6}$ (nonsymmorphic antiferromagnet, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.106.035124.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.045119&quot;&gt;PhysRevB.106.045119&lt;/a&gt;&lt;/strong&gt; Two pairs of topological Shockley surface bands in the ternary compound ${\mathrm{SnSb}}&lt;em&gt;{2}{\mathrm{Te}}&lt;/em&gt;{4}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.045414&quot;&gt;PhysRevB.106.045414&lt;/a&gt;&lt;/strong&gt; Orbital polarization and third-order anomalous Hall effect in $\mathrm{W}{\mathrm{Te}}_{2}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v15/106&quot;&gt;106&lt;/a&gt;&lt;/strong&gt; Quantum-Aided Machine Learning Shows Its Value (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.06747&quot;&gt;2207.06747&lt;/a&gt;&lt;/strong&gt; Superconductivity of high-entropy-alloy-type transition-metal zirconide (Fe,Co,Ni,Cu,Ga)Zr2 (HEA, arXiv)&lt;/p&gt;
   &lt;/li&gt;
