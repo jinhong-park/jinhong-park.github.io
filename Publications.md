@@ -10,7 +10,7 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-<span style=" font: bold ; font-size: medium; font-family: arial ;"> I have 18 publications including 1 in Nature and 4 in Physical Review Letters with +2100 citations. (web of science at April 2021). </span></p>
+<p><span style=" font: bold ; font-size: medium; font-family: arial ;"> I have 18 publications including 1 in Nature and 4 in Physical Review Letters with +2100 citations. (web of science at April 2021). </span></p>
 
 1. Soohyun Cho, __Jin-Hong Park__, Soonsang Huh, Jisook Hong, Wonshik Kyung, Byeong-Gyu Park, J. D. Denlinger, Ji Hoon Shim, Changyoung Kim,  Seung Ryong Park \\
 [Studying local Berry curvature in 2H-WSe2 by circular dichroism photoemission utilizing crystal mirror plane](https://www.nature.com/articles/s41598-020-79672-6)\\
