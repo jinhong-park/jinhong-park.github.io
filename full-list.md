@@ -23,7 +23,7 @@ permalink: /fulllist/
 
 {% if post.title != "wjwkdth" %}
 
-    <li class="listing-seperator">{{ post.title }}</li>
+    <li class="listing-seperator"><p>{{ post.title }}</p></li>
 
   <li class="listing-item">
 	  	{{ post.content }}
