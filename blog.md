@@ -13,11 +13,11 @@ permalink: /blog/
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
+    <li class="listing-seperator"><p>{{ y }}</p></li>
   {% endif %}
   <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}"><p>{{ post.date | date:"%Y-%m-%d" }}</p></time>
+    <a href="{{ post.url }}" title="{{ post.title }}"><p>{{ post.title }}</p></a>
   </li>
 {% endfor %}
 </ul>
