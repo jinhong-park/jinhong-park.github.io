@@ -16,7 +16,7 @@ permalink: /blog/
     <li class="listing-seperator"><p>{{ y }}</p></li>
   {% endif %}
   <li class="listing-item">
-   <div style="color: #008000;"> <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time> </div>
+ <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time> 
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 
