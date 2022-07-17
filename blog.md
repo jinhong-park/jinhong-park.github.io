@@ -15,10 +15,10 @@ permalink: /blog/
     {% assign year = y %}
     <li class="listing-seperator"><p>{{ y }}</p></li>
   {% endif %}
-<p>  <li class="listing-item">
+  <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
-</p>
+
 {% endfor %}
 </ul>

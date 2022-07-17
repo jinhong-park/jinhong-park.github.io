@@ -6,7 +6,7 @@ permalink: /about/
 
 ---
 
-## About me
+## <p>About me</p>
 
 <img  style="float:right" width="100" src="/images/sherlock.png">
 
@@ -14,7 +14,7 @@ Hello! I am a Postdoctoral researcher in Sungkyunkwan University, Korea.
 
 ---
 
-## Address
+## <p>Address</p>
 
 > \# 51204B Sungkyunkwan University, Seobu-ro 2066, Suwon 16419, Republic of Korea
 >
@@ -27,7 +27,7 @@ Hello! I am a Postdoctoral researcher in Sungkyunkwan University, Korea.
 
 ---
 
-## Research Interest
+## <p>Research Interest</p>
 
 I’m generally interested in the theoretical study of emergent phenomena in condensed matter physics, especially have worked on
 
@@ -45,7 +45,7 @@ and magnetism in perovkite iridates.
 
 ---
 
-## Selected List of Publications
+## <p>Selected List of Publications</p>
 
 1.  X. Z. Yu, Y. Onose, N. Kanazawa, __J. H. Park__, J. H. Han, Y. Matsui, N. Nagaosa and Y. Tokura \\
 [Real-space observation of a two-dimensional skyrmion crystal](http://www.nature.com/nature/journal/v465/n7300/full/nature09124.html) \\

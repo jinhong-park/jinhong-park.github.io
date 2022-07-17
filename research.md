@@ -7,16 +7,16 @@ permalink: /research/
 
 
 {% include image.html url="/images/LA2018.jpg" caption="APS March meeting 2018, Los Angeles, CA with Kareem Abdul-Jabbar behind" width=300 align="right" %}
-## Research statements
+## <p>Research statements</p>
 My research in the past years has focused on the theoretical study of the emergent phenomena in condensed matter physics beginning with the study of the nontrivial magnetic ordered phases in the spin system and moving more recently to the study of the skyrmion, Rashba effect, fractional charge in topological system. I divided the research achievements into four parts below.
 
-## Nontrivial magnetic ordered phase
+## <p>Nontrivial magnetic ordered phase</p>
 
 I have studied the planar spin model in the two-dimensional triangular lattice by using the Monte Carlo simulation [1]. From the perspective of *XY*  spin, it undergoes the Kosterlitz-Thouless phase transition. Meanwhile, the geometrical spin frustration of the triangular lattice induces the chirality phase transition which is nothing but the Ising-type phase transition. Although the origins of two phase transitions are different, the phase transition temperatures are extremely close. However, the study shows, by means of the Monte Carlo simulation, that we can separate the Kosterlitz-Thouless phase transition temperature and the chirality phase transition temperature by introducing the bi-quadratic spin-spin interaction, namely the nematic interaction. Therefore, we found a new magnetic ordered phase which can be called chiral-nematic phase where the interplay of nematic and spin chirality orders is crucial.
 
 After the first project, my classical spin Monte Carlo simulation was applied to the the multiferroic material BiMn2O5 [2]. The multiferroic materials are interesting compounds since one can control the electric polarization by using the external magnetic field or control the magnetic ordering by using the electric field. The spin-lattice coupling is an essential ingredient for the reversal of the electric polariza- tion in the multiferroic BiMn2O5 with the external magnetic field increased. By performing the Monte Carlo simulation, we have captured that the spin flip phenomenon which leads to reversal of the electric polarization by increasing the magnetic field. Moreover, we have obtained the various phase diagram with the different spin-lattice coupling constant. The existence of a critical end point in a given compound depends in a subtle manner on the choice of material parameters which could lead to three-different types of phase diagram. We conclude that the critical end point observed in the experiment for the material BiMn2O5 comes from the moderate strength of the spin-lattice interaction.
 
-## Skyrmion lattice in chiral magnets
+## <p>Skyrmion lattice in chiral magnets</p>
 
 Since 2009, my interest of the nontrivial spin ordered phase has been oriented to a topological object, i.e. Skyrmion. Skyrmion have long been recognized as an excitation mode of a Heisenberg ferromagnet, reflected in the integer topological number. This number counts how many times the spin configuration on an infinite two-dimensional plane, when projected onto a unit sphere, wraps around it. In collaboration with Riken’s group, we have reported first real-space image of two-dimensional Skyrmion lattice in a thin film of Fe0.5Co0.5Si using Lorentz transmission electron microscopy [3]. In this project, my duty was to carry out the Monte Carlo simulation for the Heisenberg spin model with Dzyaloshinskii-Moriya in- teraction and to confirm the existence of the Skyrmion lattice in this spin model. We also found, by utilizing the Monte Carlo calculation, that the evolution of a helical spin phase to a triangular lattice of Skyrmion under a perpendicular magnetic field which shows a very good agreement with the experimental results.
 
@@ -24,7 +24,7 @@ Based on the success of the numerical calculations, my technical treatment of th
 
 Since the Skyrmion lattice can be understood as the hybridized triple-spiral spin states in the two-dimensional space, I have extended it to multiple-spiral spin for the three-dimensional space [5]. The various multiple-spiral spin configurations can be possible for the three-dimensional chiral magnets. By means of the variational free energy calculation, I obtained the ground state phase diagram in the space of the external magnetic field and the anisotropy parameter. The three-dimensional spin crystal in the phase diagram exhibits the periodic arrangement of hedgehog and anti-hedgehog carrying the nonzero Skyrmion number.
 
-## Rashba effect
+## <p>Rashba effect</p>
 
 I am also interested in Rasha effect on metal surface. The Rashba effect is a phenomenon of the energy band splitting according to their spin helicity on the surface of the metal. Although it is well established that the spin-orbit interaction and the inversion symmetry breaking are two main ingredients to describe the Rashba effect, the multi-orbital character is underestimated. Hence, we study the Rashba effect from the multi-orbital perspective [6]. Especially, the combination between the multi-orbital degree of freedom and the inversion symmetry breaking leads to the emergence of the chiral orbital angular momentum in the momentum space even in the absence of the spin-orbit interaction. We conclude that the chiral orbital angular momentum is a generic consequence of the inversion symmetry breaking. This phenomenon is an orbital analogue of Rashba effect and we simply call it “orbital Rashba effect.” Such chiral orbital angular momentum structure can be measured by a circular dichroism angle-resolved photoemission spectroscopy. We derive explicit for- mulas relating the circular dichroism angle-resolved photoemission signal to the existence of nonzero chiral orbital angular momentum in the band structure.
 
@@ -32,12 +32,12 @@ For the next research project, I want to examine the role of the orbital angular
 
 After the project, my question is about the topological property of the orbital Rashba effect, or three-by-three Hamiltonian since the orbital Rashba Hamiltonian takes the form of the three-by-three matrix. To answer this question, I study the topological aspect of three-band model especially focusing on a kagome lattice Hamiltonian [8]. We found the generalized three-band Hamiltonian can be divided by spin-1 and nematic part which leads to quantum Hall effect and spin Hall effect, respectively.
 
-## Fractional charge
+## <p>Fractional charge</p>
 
 My research in Riken is to investigate the fractional charge in a nanostructure device [9]. We theoretically propose the one-dimensional system such as the array of quantum dots or nanowire subject to a periodically modulated charge-density-wave (CDW). We found that the fractional charges are localized at the both ends of the wire and the magnitudes of the fractional charge can be tuned by varying the phase of CDW or the total number of dots in the array. With the quantum field derivation, we obtain the general and compact expression of the fractional charge for both ends of wire. We also show that the fluctuation associated with the fractional charge falls exponentially as increasing the cut-off which means that the fractional charge is a sharp quantum observable. We expect to observe this fractional charge in the future experiments.
 
 
-## References
+## <p>References</p>
 
 [1] Jin-Hong Park, Shigeki Onoda, Naoto Nagaosa, and Jung Hoon Han, Phys. Rev. Lett. 101, 167202 (2008).
 
