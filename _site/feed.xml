@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2022 14:31:36 +0900</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2022 14:31:36 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Wed, 27 Jul 2022 00:50:33 +0900</pubDate>
+    <lastBuildDate>Wed, 27 Jul 2022 00:50:33 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jul 5 week 2022)</title>
@@ -20,6 +20,21 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.014420&quot;&gt;PhysRevB.106.014420&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Nonlinear nonreciprocal transport in antiferromagnets free from spin-orbit coupling (Hayami, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.024204&quot;&gt;PhysRevB.106.024204&lt;/a&gt;&lt;/strong&gt; Localization and multifractal properties of the long-range Kitaev chain in the presence of an Aubry-Andr\‘e-Harper modulation (AAH, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.024517&quot;&gt;PhysRevB.106.024517&lt;/a&gt;&lt;/strong&gt; Ubiquitous stripe phase and enhanced electron pairing in the interfacial high-${T}&lt;em&gt;{c}$ superconductor FeSe/${\mathrm{BaTiO}}&lt;/em&gt;{3}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.045138&quot;&gt;PhysRevB.106.045138&lt;/a&gt;&lt;/strong&gt; Magnetic and electronic transitions in monolayer electride ${\mathrm{Gd}}_{2}\mathrm{C}$ induced by hydrogenation: A first-principles study (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.045139&quot;&gt;PhysRevB.106.045139&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Directly probing the chirality of Majorana edge states (majorana, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2207.11323&quot;&gt;2207.11323&lt;/a&gt;&lt;/strong&gt; Multiband Superconductors: Two Characteristic Lengths for Each Contributing Condensate (arXiv)&lt;/p&gt;
   &lt;/li&gt;
