@@ -9,7 +9,8 @@ categories: 2022aug
 
 
 
-1. **[science.abo2542](https://www.science.org/doi/10.1126/science.abo2542)** Bioadhesive ultrasound for long-term continuous imaging of diverse organs (ultrasound, Science) ![](/images/ultrasound-sticker.jpeg)
+1. **[science.abo2542](https://www.science.org/doi/10.1126/science.abo2542)** Bioadhesive ultrasound for long-term continuous imaging of diverse organs (ultrasound, Science) 
+{% include image.html url="/images/ultrasound-sticker.jpeg"  width=100  %}
 
 
 1. **[s41586-022-04940-6](https://www.nature.com/articles/s41586-022-04940-6)** **Practical quantum advantage in quantum simulation (quantum simulation, Nature)** ![](/images/s41586-022-04940-6.pdf.jpg)
