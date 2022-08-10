@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Aug 2022 11:40:08 +0900</pubDate>
-    <lastBuildDate>Wed, 10 Aug 2022 11:40:08 +0900</lastBuildDate>
+    <pubDate>Wed, 10 Aug 2022 12:01:25 +0900</pubDate>
+    <lastBuildDate>Wed, 10 Aug 2022 12:01:25 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,21 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.04338&quot;&gt;2208.04338&lt;/a&gt;&lt;/strong&gt; High magnetic field superconductivity in a two-band superconductor (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.04407&quot;&gt;2208.04407&lt;/a&gt;&lt;/strong&gt; Comment on “Stranger than metals” (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.04474&quot;&gt;2208.04474&lt;/a&gt;&lt;/strong&gt; Charge excitations across a superconductor-insulator transition (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.04328&quot;&gt;2208.04328&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Loop current fluctuations and quantum critical transport (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.04636&quot;&gt;2208.04636&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic properties of moire quantum dot arrays (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.076401&quot;&gt;PhysRevLett.129.076401&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Reentrant Correlated Insulators in Twisted Bilayer Graphene at 25 T ($2\ensuremath{\pi}$ Flux) (Bernevig, PRL)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevLett.129.076401.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
