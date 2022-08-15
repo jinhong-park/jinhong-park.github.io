@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "weekly picks (Aug 3 week 2022)"
+date:   2022-08-15 00:16:27
+categories: 2022aug
+---
+
+{% include image.html url="/images/2022aug3weeks.png" caption="A WordCloud of 2022 Aug 3rd week collection" width=300 align="center" %}
+
+
+1. **[2208.05979](http://arxiv.org/abs/2208.05979)** Andreev reflection in scanning tunneling spectroscopy of unconventional superconductors (arXiv)
+
+1. **[2208.06108](http://arxiv.org/abs/2208.06108)** **Majorana nanowires, Kitaev chains, and spin models (DasSarma, arXiv)** ![](/images/2208.06108.pdf.jpg)
+
+1. **[2208.06208](http://arxiv.org/abs/2208.06208)** Weak antilocalization effect and triply degenerate state in Cu-doped CaAuAs (arXiv)
+
+1. **[2208.06407](http://arxiv.org/abs/2208.06407)** Weyl nodal ring states and Landau quantization with very large magnetoresistance in square-net magnet EuGa$_4$ (arXiv)
