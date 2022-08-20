@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Aug 2022 16:04:50 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Aug 2022 16:04:50 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 20 Aug 2022 22:57:18 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2022 22:57:18 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Aug 3 week 2022)</title>
@@ -20,6 +20,24 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.086602&quot;&gt;PhysRevLett.129.086602&lt;/a&gt;&lt;/strong&gt; Intrinsic Nonlinear Electric Spin Generation in Centrosymmetric Magnets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L081120&quot;&gt;PhysRevB.106.L081120&lt;/a&gt;&lt;/strong&gt; Quasiparticle metamorphosis in the random $t-J$ model (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.054423&quot;&gt;PhysRevB.106.054423&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Geometric integration of classical spin dynamics via a mean-field Schrodinger equation (CDBatista, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.106.054423.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.054424&quot;&gt;PhysRevB.106.054424&lt;/a&gt;&lt;/strong&gt; Temperature-dependent spin-resolved electronic structure of EuO thin films (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.064424&quot;&gt;PhysRevB.106.064424&lt;/a&gt;&lt;/strong&gt; Spin-wave-driven skyrmion dynamics in ferrimagnets: Effect of net angular momentum (skyrmion, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L081407&quot;&gt;PhysRevB.106.L081407&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Lattice-driven chiral charge density wave state in $1T\text{\ensuremath{-}}{\mathrm{TaS}}_{2}$ (1T-TaS2, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.106.L081407.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-04992-8&quot;&gt;s41586-022-04992-8&lt;/a&gt;&lt;/strong&gt; A compute-in-memory chip based on resistive random-access memory (Nature)&lt;/p&gt;
   &lt;/li&gt;
