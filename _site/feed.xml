@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Aug 2022 16:35:34 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Aug 2022 16:35:34 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Aug 2022 12:10:00 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Aug 2022 12:10:00 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,63 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10517&quot;&gt;2208.10517&lt;/a&gt;&lt;/strong&gt; Phase transition and fractionalization in superconducting Kondo lattice model (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10645&quot;&gt;2208.10645&lt;/a&gt;&lt;/strong&gt; Absence of spontaneous time-reversal symmetry breaking and ferromagnetism in superconducting NiBi3 single crystal (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10856&quot;&gt;2208.10856&lt;/a&gt;&lt;/strong&gt; Asymmetric higher-harmonic SQUID as a Josephson diode (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10502&quot;&gt;2208.10502&lt;/a&gt;&lt;/strong&gt; Determining all thermodynamic transport coefficients for an interacting large N quantum field theory (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10516&quot;&gt;2208.10516&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Dirac electron under periodic magnetic field: Platform for fractional Chern insulator and generalized Wigner crystal (LiangFu, arXiv)&lt;/strong&gt; &lt;img src=&quot;/images/2208.10516.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10899&quot;&gt;2208.10899&lt;/a&gt;&lt;/strong&gt; Local electron correlation effects on the Fermiology of the weak itinerant ferromagnet ZrZn$_2$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10991&quot;&gt;2208.10991&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Visualization of moire magnons in monolayer ferromagnet (Lado, arXiv)&lt;/strong&gt; &lt;img src=&quot;/images/2208.10991.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.096402&quot;&gt;PhysRevLett.129.096402&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Characterization and Manipulation of Intervalley Scattering Induced by an Individual Monovacancy in Graphene (vacancy, PRL)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevLett.129.096402.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.096403&quot;&gt;PhysRevLett.129.096403&lt;/a&gt;&lt;/strong&gt; Is the Orbital-Selective Mott Phase Stable against Interorbital Hopping? (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.096404&quot;&gt;PhysRevLett.129.096404&lt;/a&gt;&lt;/strong&gt; Eliminating Orbital Selectivity from the Metal-Insulator Transition by Strong Magnetic Fluctuations (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.090502&quot;&gt;PhysRevLett.129.090502&lt;/a&gt;&lt;/strong&gt; Solving the Sampling Problem of the Sycamore Quantum Circuits (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L081409&quot;&gt;PhysRevB.106.L081409&lt;/a&gt;&lt;/strong&gt; Magneto-optical measurements of the negatively charged $2s$ exciton in $\mathrm{WSe}_{2}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.085132&quot;&gt;PhysRevB.106.085132&lt;/a&gt;&lt;/strong&gt; Behavior of gapped and ungapped Dirac cones in the antiferromagnetic topological metal SmBi (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.054516&quot;&gt;PhysRevB.106.054516&lt;/a&gt;&lt;/strong&gt; Multipole-fluctuation pairing mechanism of $dx2-y2 + ig$ superconductivity in ${\mathrm{Sr}}&lt;em&gt;{2}{\mathrm{RuO}}&lt;/em&gt;{4}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.064427&quot;&gt;PhysRevB.106.064427&lt;/a&gt;&lt;/strong&gt; Ultrasound detection of emergent photons in generic quantum spin ice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.064428&quot;&gt;PhysRevB.106.064428&lt;/a&gt;&lt;/strong&gt; Spectra of a gapped quantum spin liquid with a strong chiral excitation on the triangular lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.064510&quot;&gt;PhysRevB.106.064510&lt;/a&gt;&lt;/strong&gt; Three-dimensional Fermi surfaces from charge order in layered ${\mathrm{CsV}}&lt;em&gt;{3}{\mathrm{Sb}}&lt;/em&gt;{5}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.075423&quot;&gt;PhysRevB.106.075423&lt;/a&gt;&lt;/strong&gt; Energetic stability and spatial inhomogeneity in the local electronic structure of relaxed twisted trilayer graphene (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L081121&quot;&gt;PhysRevB.106.L081121&lt;/a&gt;&lt;/strong&gt; Band tilt induced nonlinear Nernst effect in topological insulators: An efficient generation of high-performance spin polarization (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.09523&quot;&gt;2208.09523&lt;/a&gt;&lt;/strong&gt; Role of Local Ru Hexamers in Superconductivity of Ruthenium Phosphide (arXiv)&lt;/p&gt;
   &lt;/li&gt;
