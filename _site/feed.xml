@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Aug 2022 12:10:00 +0900</pubDate>
-    <lastBuildDate>Wed, 24 Aug 2022 12:10:00 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2022 11:28:24 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2022 11:28:24 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,54 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.11421&quot;&gt;2208.11421&lt;/a&gt;&lt;/strong&gt; Plasmarons in high-temperature cuprate superconductors (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.11142&quot;&gt;2208.11142&lt;/a&gt;&lt;/strong&gt; Minimal continuum models for Fe-based superlattices (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.031031&quot;&gt;PhysRevX.12.031031&lt;/a&gt;&lt;/strong&gt; Stirring by Staring: Measurement-Induced Chirality (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.095901&quot;&gt;PhysRevLett.129.095901&lt;/a&gt;&lt;/strong&gt; Real-Time Observation of Charge-Spin Cooperative Dynamics Driven by a Nonequilibrium Phonon Environment (Tarucha, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.097203&quot;&gt;PhysRevLett.129.097203&lt;/a&gt;&lt;/strong&gt; Coherent Picture on the Pure Spin Transport between $\mathrm{Ag}/\mathrm{Bi}$ and Ferromagnets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.075141&quot;&gt;PhysRevB.106.075141&lt;/a&gt;&lt;/strong&gt; Resonant inelastic x-ray scattering of spin-charge excitations in a Kondo system (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L081122&quot;&gt;PhysRevB.106.L081122&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Flavors of magnetic noise in quantum materials (Yaroslav, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.054430&quot;&gt;PhysRevB.106.054430&lt;/a&gt;&lt;/strong&gt; Optically excited spin dynamics of thermally metastable skyrmions in ${\mathrm{Fe}}&lt;em&gt;{0.75}{\mathrm{Co}}&lt;/em&gt;{0.25}\mathrm{Si}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L060305&quot;&gt;PhysRevB.106.L060305&lt;/a&gt;&lt;/strong&gt; Square-root Floquet topological phases and time crystals (floquet, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.054429&quot;&gt;PhysRevB.106.054429&lt;/a&gt;&lt;/strong&gt; Spin nematic ordering in the spin-1 chain system (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.075142&quot;&gt;PhysRevB.106.075142&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magic angle conditions for twisted three-dimensional topological insulators (Cano, PRB)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevB.106.075142.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.075425&quot;&gt;PhysRevB.106.075425&lt;/a&gt;&lt;/strong&gt; Proximity-induced diversified magnetic states and electrically controllable spin polarization in bilayer graphene: Towards layered spintronics (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.085133&quot;&gt;PhysRevB.106.085133&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Low-energy interband transition in the infrared response of the correlated metal ${\mathrm{SrVO}}_{3}$ in the ultraclean limit (SJMoon, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.085420&quot;&gt;PhysRevB.106.085420&lt;/a&gt;&lt;/strong&gt; Corner- and sublattice-sensitive Majorana zero modes on the kagome lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L060408&quot;&gt;PhysRevB.106.L060408&lt;/a&gt;&lt;/strong&gt; Gaps in topological magnon spectra: Intrinsic versus extrinsic effects (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.11227&quot;&gt;2208.11227&lt;/a&gt;&lt;/strong&gt; A thermal model with AC Josephson effect for a shunted superconducting weak-link (Physics Letters A)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2208.10517&quot;&gt;2208.10517&lt;/a&gt;&lt;/strong&gt; Phase transition and fractionalization in superconducting Kondo lattice model (arXiv)&lt;/p&gt;
   &lt;/li&gt;
