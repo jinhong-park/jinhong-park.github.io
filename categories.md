@@ -50,7 +50,7 @@ permalink: /categories/
 
 
 <tr>
-     <th> <a href="../blog/2022/09/Sep1weeks"></a> </th>
+     <th> <a href="../blog/2022/09/Sep1weeks">Sep1w</a> </th>
      <th> <a href="../blog/2022/09/Sep2weeks"></a>  </th>
      <th> <a href="../blog/2022/09/Sep3weeks"></a>  </th>
      <th> <a href="../blog/2022/09/Sep4weeks"></a>  </th>
