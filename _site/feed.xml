@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2022 16:38:35 +0900</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2022 16:38:35 +0900</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 17:37:24 +0900</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 17:37:24 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -60,7 +60,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2209.03743&quot;&gt;2209.03743&lt;/a&gt;&lt;/strong&gt; Exact analysis of the Liouvillian gap and dynamics in the dissipative SU($N$) Fermi-Hubbard model (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.116804&quot;&gt;PhysRevLett.129.116804&lt;/a&gt;&lt;/strong&gt; Moir\‘e Landau Fans and Magic Zeros (PRL)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.116804&quot;&gt;PhysRevLett.129.116804&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Moire Landau Fans and Magic Zeros (LiangFu, PRL)&lt;/strong&gt; &lt;img src=&quot;/images/PhysRevLett.129.116804.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.110601&quot;&gt;PhysRevLett.129.110601&lt;/a&gt;&lt;/strong&gt; Energetics of a Single Qubit Gate (PRL)&lt;/p&gt;
