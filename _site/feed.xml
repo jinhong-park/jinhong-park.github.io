@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Sep 2022 11:42:55 +0900</pubDate>
-    <lastBuildDate>Thu, 15 Sep 2022 11:42:55 +0900</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 20:25:14 +0900</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 20:25:14 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05034-z&quot;&gt;s41586-022-05034-z&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Discovery of charge density wave in a kagome lattice antiferromagnet (kagome, Nature)&lt;/strong&gt; &lt;img src=&quot;/images/s41586-022-05034-z.pdf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2209.06400&quot;&gt;2209.06400&lt;/a&gt;&lt;/strong&gt; Kondo scattering in underdoped Nd1-xSrxNiO2 infinite-layer superconducting thin films (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
