@@ -5,7 +5,7 @@ date:   2022-09-26 00:16:27
 categories: 2022sep
 ---
 
-{% include image.html url="/images/2022sep4weeks.png" caption="A WordCloud of 2022 Sep 4th week collection" width=300 align="center" %}
+{% include image.html url="/images/2022sep5weeks.png" caption="A WordCloud of 2022 Sep 5th week collection" width=300 align="center" %}
 
 
 
@@ -14,14 +14,14 @@ categories: 2022sep
 
 1. **[2209.11656](http://arxiv.org/abs/2209.11656)** The kagome metals RbTi$_3$Bi$_5$ and CsTi$_3$Bi$_5$ (kagome, arXiv)
 
-1. **[2209.11243](http://arxiv.org/abs/2209.11243)** Symmetry fractionalization in the gauge mean-field theory of quantum spin ice (arXiv)
+1. **[2209.11243](http://arxiv.org/abs/2209.11243)** **Symmetry fractionalization in the gauge mean-field theory of quantum spin ice (YBKim, arXiv)**
 
 1. **[2209.11246](http://arxiv.org/abs/2209.11246)** Neutron Depolarization due to Ferromagnetism and Spin Freezing in CePd$_{1-x}$Rh$_x$ (Ce, arXiv)
 
-1. **[2209.11381](http://arxiv.org/abs/2209.11381)** Pair density wave in doped three-band Hubbard model on square lattice (arXiv)
+1. **[2209.11381](http://arxiv.org/abs/2209.11381)** **Pair density wave in doped three-band Hubbard model on square lattice (arXiv)**
 
 1. **[2209.11556](http://arxiv.org/abs/2209.11556)** Asymmetry effects on the phases of RKKY-coupled two-impurity Kondo systems (arXiv)
 
-1. **[2209.11599](http://arxiv.org/abs/2209.11599)** Quantum critical dynamics of electric dipoles in two-dimensions (arXiv)
+1. **[2209.11599](http://arxiv.org/abs/2209.11599)** **Quantum critical dynamics of electric dipoles in two-dimensions (Chisa Hotta, arXiv)** ![](/images/2209.11599.pdf.jpg)
 
 1. **[2209.11724](http://arxiv.org/abs/2209.11724)** Superconductivity in the twisted bilayer transition metal dichalcogenide WSe2 : a quantum cluster study (arXiv)
