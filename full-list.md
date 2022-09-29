@@ -7,6 +7,9 @@ permalink: /fulllist/
 
 <ul class="listing">
 
+
+<a href="https://t.me/s/jinhong_park"><b>Daily Shorts</b></a>
+
 {% for post in site.posts %}
 
 {% if post.title == "wjwkdth" %}
