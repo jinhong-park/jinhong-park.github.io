@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Oct 2022 18:04:47 +0900</pubDate>
-    <lastBuildDate>Wed, 05 Oct 2022 18:04:47 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Thu, 06 Oct 2022 00:41:29 +0900</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 00:41:29 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Oct 1 week 2022)</title>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.144404&quot;&gt;PhysRevB.106.144404&lt;/a&gt;&lt;/strong&gt; Magneto-optical detection of topological contributions to the anomalous Hall effect in a kagome ferromagnet (kagome, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.144405&quot;&gt;PhysRevB.106.144405&lt;/a&gt;&lt;/strong&gt; Skyrmion inertia in synthetic antiferromagnets (skyrmion, PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.01646&quot;&gt;2210.01646&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;An emerging global picture of heavy fermion physics (YFYang, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
