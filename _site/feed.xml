@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Oct 2022 12:01:14 +0900</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2022 12:01:14 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Fri, 07 Oct 2022 00:27:14 +0900</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 00:27:14 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Oct 1 week 2022)</title>
@@ -20,6 +20,15 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.134201&quot;&gt;PhysRevB.106.134201&lt;/a&gt;&lt;/strong&gt; Weak quantization of noninteracting topological Anderson insulator (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.165105&quot;&gt;PhysRevB.106.165105&lt;/a&gt;&lt;/strong&gt; Layer pseudospin magnetism in a transition metal dichalcogenide double-moire system (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L140502&quot;&gt;PhysRevB.106.L140502&lt;/a&gt;&lt;/strong&gt; Anisotropic magnetotransport properties of the heavy-fermion superconductor ${\mathrm{CeRh}}&lt;em&gt;{2}{\mathrm{As}}&lt;/em&gt;{2}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.01830&quot;&gt;2210.01830&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Exceptional van Hove Singularities in Pseudogapped Metals (cuprate, arXiv)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
