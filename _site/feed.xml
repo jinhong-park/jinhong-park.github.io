@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Oct 2022 17:16:27 +0900</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2022 17:16:27 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Thu, 13 Oct 2022 00:44:04 +0900</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 00:44:04 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Oct 2 week 2022)</title>
@@ -20,6 +20,21 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.041004&quot;&gt;PhysRevX.12.041004&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Dynamics of Visons and Thermal Hall Effect in Perturbed Kitaev Models (ARosch, PRX)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.134410&quot;&gt;PhysRevB.106.134410&lt;/a&gt;&lt;/strong&gt; Quantum paramagnetic states in the spin-$\frac{1}{2}$ distorted honeycomb-lattice Heisenberg antiferromagnet: Application to ${\mathrm{Cu}}&lt;em&gt;{2}$(pymca)${}&lt;/em&gt;{3}$(${\mathrm{ClO}}_{4})$ (honeycomb, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.165412&quot;&gt;PhysRevB.106.165412&lt;/a&gt;&lt;/strong&gt; Half-integer Wannier diagram and Brown-Zak fermions of graphene on hexagonal boron nitride (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L140403&quot;&gt;PhysRevB.106.L140403&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Direct visualization and control of antiferromagnetic domains and spin reorientation in a parent cuprate (cuprate spin domain, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.134508&quot;&gt;PhysRevB.106.134508&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Topological transitions in two-dimensional Floquet superconductors (PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.04908&quot;&gt;2210.04908&lt;/a&gt;&lt;/strong&gt; Majorana Modes of Giant Vortices (majorana vortex, arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
