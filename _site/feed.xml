@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Oct 2022 00:44:04 +0900</pubDate>
-    <lastBuildDate>Thu, 13 Oct 2022 00:44:04 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Thu, 13 Oct 2022 10:17:15 +0900</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 10:17:15 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>weekly picks (Oct 2 week 2022)</title>
@@ -20,6 +20,18 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.144504&quot;&gt;PhysRevB.106.144504&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Loop currents in $A{\mathrm{V}}&lt;em&gt;{3}{\mathrm{Sb}}&lt;/em&gt;{5}$ kagome metals: Multipolar and toroidal magnetic orders (kagome, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.134412&quot;&gt;PhysRevB.106.134412&lt;/a&gt;&lt;/strong&gt; Tunable magnetic anisotropy in two-dimensional $\mathrm{Cr}{X}_{3}/\mathrm{AlN} (X=\mathrm{I},\mathrm{Br},\mathrm{Cl})$ heterostructures (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.134413&quot;&gt;PhysRevB.106.134413&lt;/a&gt;&lt;/strong&gt; Terahertz spectroscopy of spin excitations in magnetoelectric ${\mathrm{LiFePO}}_{4}$ in high magnetic fields (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L140404&quot;&gt;PhysRevB.106.L140404&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Schwinger boson theory of the ${J}&lt;em&gt;{1}, {J}&lt;/em&gt;{2}={J}_{3}$ kagome antiferromagnet (PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.041004&quot;&gt;PhysRevX.12.041004&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Dynamics of Visons and Thermal Hall Effect in Perturbed Kitaev Models (ARosch, PRX)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
