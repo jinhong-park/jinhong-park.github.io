@@ -8,7 +8,7 @@ permalink: /blog/
   
   <a href="../blog/recent"><b>   recent </b></a> 
    
-  <a href="https://t.me/s/jinhong_park"><b>Daily Shorts</b> </a>
+  <a href="https://t.me/s/jin_hongpark"><b>Daily Shorts</b> </a>
    
 <ul class="listing">
 {% for post in site.posts %}

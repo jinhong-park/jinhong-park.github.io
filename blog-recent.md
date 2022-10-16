@@ -6,7 +6,7 @@ permalink: /blog/recent
  
  <ul class="listing">
 
-<a href="https://t.me/s/jinhong_park"> Daily Shorts </a>
+<a href="https://t.me/s/jin_hongpark"> Daily Shorts </a>
 
  {% for post in site.posts %}
 
