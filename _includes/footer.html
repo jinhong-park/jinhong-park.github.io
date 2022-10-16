@@ -34,7 +34,15 @@
           <li><strong>{{ site.title }}</strong></li>
 
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+          {% if site.telegram_username %}
+          <li>
+            <a href="https://t.me/s/jinhong_park">
+              <span class="username">@{{ site.telegram_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+          
+          </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
@@ -53,13 +61,6 @@
           </li>
           {% endif %}
 
-          {% if site.telegram_username %}
-          <li>
-            <a href="https://t.me/s/jinhong_park">
-              <span class="username">{{ site.telegram_username }}</span>
-            </a>
-          </li>
-          {% endif %}
         </ul>
       </div>
 	  
