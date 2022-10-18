@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Oct 2022 11:04:36 +0900</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2022 11:04:36 +0900</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 11:12:25 +0900</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 11:12:25 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,15 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.08048&quot;&gt;2210.08048&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Probing Fermi sea topology by Andreev state transport (CKane, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.08790&quot;&gt;2210.08790&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Repulsion of a N\‘eel-type skyrmion from a Pearl vortex in thin ferromagnet-superconductor heterostructures (skyrmion-vortex, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.09288&quot;&gt;2210.09288&lt;/a&gt;&lt;/strong&gt; Traces of Electron-Phonon Coupling in One-Dimensional Cuprates (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.170601&quot;&gt;PhysRevLett.129.170601&lt;/a&gt;&lt;/strong&gt; Dynamics in Systems with Modulated Symmetries (modulation, PRL)&lt;/p&gt;
   &lt;/li&gt;
