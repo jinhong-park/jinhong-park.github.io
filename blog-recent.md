@@ -7,8 +7,8 @@ permalink: /blog/recent
  <ul class="listing">
 
 <a href="https://t.me/s/jin_hongpark"> Daily Shorts </a>
-
-  <a href="https://ui.adsabs.harvard.edu"> <b>Good Luck Search using Adsabs </b> </a>
+<br>
+<a href="https://ui.adsabs.harvard.edu"> Good Luck Search using Adsabs  </a>
 
  {% for post in site.posts %}
 
