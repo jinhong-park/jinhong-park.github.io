@@ -10,7 +10,7 @@ permalink: /blog/
    
   <a href="https://t.me/s/jin_hongpark"><b>Daily Shorts</b> </a>
    
-  <a href="https://ui.adsabs.harvard.edu"> <b>Good Luck Search using Adsabs </b> </a>
+
    
 <ul class="listing">
 {% for post in site.posts %}

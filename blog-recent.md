@@ -8,6 +8,8 @@ permalink: /blog/recent
 
 <a href="https://t.me/s/jin_hongpark"> Daily Shorts </a>
 
+  <a href="https://ui.adsabs.harvard.edu"> <b>Good Luck Search using Adsabs </b> </a>
+
  {% for post in site.posts %}
 
 
