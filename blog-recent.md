@@ -8,9 +8,9 @@ permalink: /blog/recent
 
 <a href="https://t.me/s/jin_hongpark"> Daily Shorts </a>
 <br>
-<a href="https://ui.adsabs.harvard.edu"> Good Luck Search using Adsabs  </a>
+<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
 <br>
-<a href="https://scholar.google.com/"> google scholar </a>
+<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
 
  {% for post in site.posts %}
 
