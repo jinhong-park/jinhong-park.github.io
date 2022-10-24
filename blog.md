@@ -8,7 +8,6 @@ permalink: /blog/
   
   <a href="../blog/recent"><b>   recent </b></a> 
    
-  <a href="https://t.me/s/jin_hongpark"><b>Daily Shorts</b> </a>
    
 
    

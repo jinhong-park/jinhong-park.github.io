@@ -6,7 +6,6 @@ permalink: /blog/recent
  
  <ul class="listing">
 
-<a href="https://t.me/s/jin_hongpark"> Daily Shorts </a>
 <br>
 <a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
 <br>
