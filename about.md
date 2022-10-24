@@ -10,7 +10,7 @@ permalink: /about/
 
 <img  style="float:right" width="100" src="/images/sherlock.png">
 
-Hello! I am a Postdoctoral researcher in Sungkyunkwan University, Korea.
+Hello! I am a Postdoctoral researcher in Seoul National University, Korea.
 
 ---
 
