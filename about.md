@@ -14,6 +14,7 @@ Hello! I am a Postdoctoral researcher in Seoul National University, Korea.
 
 ---
 
+{% comment %} 
 <p><span style=" font: bold ; font-size: large; font-family: arial ;">Address</span></p>
 
 > \# 51204B Sungkyunkwan University, Seobu-ro 2066, Suwon 16419, Republic of Korea
@@ -26,6 +27,9 @@ Hello! I am a Postdoctoral researcher in Seoul National University, Korea.
 [kakao map](https://place.map.kakao.com/17565616)
 
 ---
+{% endcomment %}
+
+
 
 <p><span style=" font: bold ; font-size: large; font-family: arial ;">Research Interest</span></p>
 
