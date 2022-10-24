@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "weekly picks (Oct 4 week 2022)"
+date:   2022-10-24 00:16:27
+categories: 2022oct
+---
+
+{% include image.html url="/images/2022oct4weeks.png" caption="A WordCloud of 2022 Oct 4th week collection" width=300 align="center" %}
+
+
+
+1. **[2210.11587](http://arxiv.org/abs/2210.11587)** Increased localization of Majorana modes in antiferromagnetic chains on superconductors (majorana, arXiv)
+
+1. **[2210.11738](http://arxiv.org/abs/2210.11738)** Two-electron photoemission spectroscopy in Topological Superconductors (arXiv)
+
+1. **[2210.11769](http://arxiv.org/abs/2210.11769)** Stabilization of superconductivity by metamagnetism in an easy-axis magnetic field on UTe$_2$ (metamagnetism, arXiv)
+
+1. **[2210.11955](http://arxiv.org/abs/2210.11955)** **New type of helical topological superconducting pairing at finite excitation energies (CTimm, arXiv)**
+
+1. **[2210.10866](http://arxiv.org/abs/2210.10866)** Berezinskii-Kosterlitz-Thouless phase transition with Rabi coupled bosons (KT, arXiv)
+
+1. **[2210.11486](http://arxiv.org/abs/2210.11486)** **1/4 is the new 1/2: Interaction-induced Quantum Anomalous and Spin Hall Mott Insulators (Phillips, arXiv)**
+
+1. **[2210.11573](http://arxiv.org/abs/2210.11573)** Real space representation of topological system: twisted bilayer graphene as an example (arXiv)
+
+1. **[2210.11733](http://arxiv.org/abs/2210.11733)** Quantum Monte Carlo sign bounds, topological Mott insulator and thermodynamic transitions in twisted bilayer graphene model (arXiv)
+
+1. **[2210.11765](http://arxiv.org/abs/2210.11765)** Emergent many-body composite excitations of interacting spin-1/2 trimers (arXiv)
+
+1. **[2210.11873](http://arxiv.org/abs/2210.11873)** Superconductivity induced by the inter-valley Coulomb scattering in few layers of graphene (arXiv)
+
+1. **[2210.12049](http://arxiv.org/abs/2210.12049)** Ferromagnetic domains in the large-$U$ Hubbard model with a few holes: an FCIQMC study (arXiv)
+
+1. **[2210.12058](http://arxiv.org/abs/2210.12058)** Easy-plane antiferromagnet in tilted field: gap in magnon spectrum and susceptibility (arXiv)
+
+1. **[2210.12087](http://arxiv.org/abs/2210.12087)** Tuning bulk topological magnon properties with light-induced magnons (arXiv)
+
+1. **[2210.12117](http://arxiv.org/abs/2210.12117)** Triangular Kondo lattice in $\\mathrm{YbV_6Sn_6}$ and its quantum critical behaviors in magnetic field (arXiv)
+
+1. **[2210.12132](http://arxiv.org/abs/2210.12132)** **A perspective on machine learning and data science for strongly correlated electron problems (ML AI, arXiv)**
+
