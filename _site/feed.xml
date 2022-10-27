@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Oct 2022 14:43:05 +0900</pubDate>
-    <lastBuildDate>Wed, 26 Oct 2022 14:43:05 +0900</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 10:39:28 +0900</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 10:39:28 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,42 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v15/s143&quot;&gt;s143&lt;/a&gt;&lt;/strong&gt; Electrical Conductance Reveals Complex Fractals (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.186802&quot;&gt;PhysRevLett.129.186802&lt;/a&gt;&lt;/strong&gt; Multifractal Conductance Fluctuations in High-Mobility Graphene in the Integer Quantum Hall Regime (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.134310&quot;&gt;PhysRevB.106.134310&lt;/a&gt;&lt;/strong&gt; Possible absence of a Jahn-Teller distortion critical thickness in geometrically designed ${\mathrm{LaMnO}}_{3}$ films (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.155148&quot;&gt;PhysRevB.106.155148&lt;/a&gt;&lt;/strong&gt; $J=0$ nonmagnetic insulating state in ${\mathrm{K}}&lt;em&gt;{2}\mathrm{Os}{X}&lt;/em&gt;{6} (X=\mathrm{F},\mathrm{Cl},\phantom{\rule{0.28em}{0ex}}\text{and}\phantom{\rule{0.28em}{0ex}}\mathrm{Br})$ (Dagotto, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.144109&quot;&gt;PhysRevB.106.144109&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Understanding the size and chirality dependence of bending stiffness of single-layer ${\mathrm{MoS}}_{2}$ by a spring-driven method (MoSe2, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.144431&quot;&gt;PhysRevB.106.144431&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Highly anisotropic geometrical Hall effect via $f\text{\ensuremath{-}}d$ exchange fields in doped pyrochlore molybdates (YTokura, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.144433&quot;&gt;PhysRevB.106.144433&lt;/a&gt;&lt;/strong&gt; Magnetic interactions in AB-stacked kagome lattices: Magnetic structure, symmetry, and duality (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.144511&quot;&gt;PhysRevB.106.144511&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Finite element method for the quasiclassical theory of superconductivity (FEM, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.155149&quot;&gt;PhysRevB.106.155149&lt;/a&gt;&lt;/strong&gt; Possible transition between charge density wave and Weyl semimetal phase in ${\mathrm{Y}}&lt;em&gt;{2}{\mathrm{Ir}}&lt;/em&gt;{2}{\mathrm{O}}_{7}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.155426&quot;&gt;PhysRevB.106.155426&lt;/a&gt;&lt;/strong&gt; Valley spin-acoustic resonance in $\mathrm{MoS}{}_{2}$ monolayers (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.165130&quot;&gt;PhysRevB.106.165130&lt;/a&gt;&lt;/strong&gt; Semiclassical treatment of spinor topological effects in driven inhomogeneous insulators under external electromagnetic fields (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L161302&quot;&gt;PhysRevB.106.L161302&lt;/a&gt;&lt;/strong&gt; Single-pair Weyl points with the maximum charge number in acoustic crystals (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.13478&quot;&gt;2210.13478&lt;/a&gt;&lt;/strong&gt; Absence of a BCS-BEC crossover in the cuprate superconductors (arXiv)&lt;/p&gt;
   &lt;/li&gt;
