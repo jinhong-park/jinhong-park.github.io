@@ -28,7 +28,7 @@ permalink: /categories/
 
 
 <tr>
-     <th> <a href="../blog/2022/11/Nov1weeks"></a> </th>
+     <th> <a href="../blog/2022/11/Nov1weeks">Nov1w</a> </th>
      <th> <a href="../blog/2022/11/Nov2weeks"></a>  </th>
      <th> <a href="../blog/2022/11/Nov3weeks"></a>  </th>
      <th> <a href="../blog/2022/11/Nov4weeks"></a>  </th>
