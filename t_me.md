@@ -5,6 +5,10 @@ layout: default
 
 
 
+<script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="jhpark_official/24" data-width="100%"></script>
+
+
+
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="jhpark_official/17" data-width="100%"></script>
 
 
