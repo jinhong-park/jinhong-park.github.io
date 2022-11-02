@@ -7,6 +7,31 @@ categories: 2022nov
 
 {% include image.html url="/images/2022nov1weeks.png" caption="A WordCloud of 2022 Nov 1st week collection" width=300 align="center" %}
 
+
+1. **[PhysRevLett.129.193601](https://link.aps.org/doi/10.1103/PhysRevLett.129.193601)** **Long-Lived Memory for Orbital Angular Momentum Quantum States (OAM qubit, PRL)**
+
+1. **[PhysRevB.106.L201101](https://link.aps.org/doi/10.1103/PhysRevB.106.L201101)** Integer quantum Hall effect and enhanced $g$ factor in quantum-confined ${\\mathrm{Cd}}_{3}{\\mathrm{As}}_{2}$ films (Cd3As2, PRB)
+
+1. **[PhysRevB.106.174501](https://link.aps.org/doi/10.1103/PhysRevB.106.174501)** Disorder suppression in topological semiconductor-superconductor junctions (PRB)
+
+1. **[PhysRevB.106.174502](https://link.aps.org/doi/10.1103/PhysRevB.106.174502)** Anomalous supercurrent modulated by interfacial magnetizations in Josephson junctions with ferromagnetic bilayers (PRB)
+
+1. **[PhysRevB.106.184101](https://link.aps.org/doi/10.1103/PhysRevB.106.184101)** Design of a higher-order nodal-line semimetal in a spring-shaped acoustic topological crystal (PRB)
+
+1. **[PhysRevB.106.184401](https://link.aps.org/doi/10.1103/PhysRevB.106.184401)** Multicritical phase diagram of ${\\mathrm{PrMn}}_{1\\ensuremath{-}x}{\\mathrm{Sb}}_{2}$ with two interacting magnetic elements (PRB)
+
+1. **[PhysRevB.106.184501](https://link.aps.org/doi/10.1103/PhysRevB.106.184501)** **Stochastic path-integral approach for predicting the superconducting temperatures of anharmonic solids (anharmonicity, PRB)**
+
+1. **[PhysRevB.106.205102](https://link.aps.org/doi/10.1103/PhysRevB.106.205102)** Unconventional optical selection rules in ${\\mathrm{ZrTe}}_{5}$ under an in-plane magnetic field (PRB)
+
+1. **[PhysRevB.106.205103](https://link.aps.org/doi/10.1103/PhysRevB.106.205103)** **Correlated electronic structure of the kagome metal ${\\mathrm{Mn}}_{3}\\mathrm{Sn}$ (kagome, PRB)**
+
+1. **[PhysRevB.106.L180401](https://link.aps.org/doi/10.1103/PhysRevB.106.L180401)** Origin of ferromagnetic interactions in ${\\mathrm{NaMnCl}}_{3}$: How the response theory reconciles with Goodenough-Kanamori-Anderson rules (PRB)
+
+1. **[PhysRevB.106.L180402](https://link.aps.org/doi/10.1103/PhysRevB.106.L180402)** Magnetic structure and spin fluctuations in the colossal magnetoresistance ferrimagnet ${\\mathrm{Mn}}_{3}{\\mathrm{Si}}_{2}{\\mathrm{Te}}_{6}$ (PRB)
+
+
+
 1. **[2210.16493](http://arxiv.org/abs/2210.16493)** **Neural network quantum state with proximal optimization: a ground-state searching scheme based on variational Monte Carlo (ML VMC, arXiv)**
 
 1. **[2210.16614](http://arxiv.org/abs/2210.16614)** Topological symplectic Kondo effect (Kondo, arXiv)

@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Nov 2022 21:04:00 +0900</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2022 21:04:00 +0900</lastBuildDate>
+    <pubDate>Wed, 02 Nov 2022 09:49:29 +0900</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2022 09:49:29 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,39 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.193601&quot;&gt;PhysRevLett.129.193601&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Long-Lived Memory for Orbital Angular Momentum Quantum States (OAM qubit, PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L201101&quot;&gt;PhysRevB.106.L201101&lt;/a&gt;&lt;/strong&gt; Integer quantum Hall effect and enhanced $g$ factor in quantum-confined ${\mathrm{Cd}}&lt;em&gt;{3}{\mathrm{As}}&lt;/em&gt;{2}$ films (Cd3As2, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.174501&quot;&gt;PhysRevB.106.174501&lt;/a&gt;&lt;/strong&gt; Disorder suppression in topological semiconductor-superconductor junctions (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.174502&quot;&gt;PhysRevB.106.174502&lt;/a&gt;&lt;/strong&gt; Anomalous supercurrent modulated by interfacial magnetizations in Josephson junctions with ferromagnetic bilayers (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184101&quot;&gt;PhysRevB.106.184101&lt;/a&gt;&lt;/strong&gt; Design of a higher-order nodal-line semimetal in a spring-shaped acoustic topological crystal (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184401&quot;&gt;PhysRevB.106.184401&lt;/a&gt;&lt;/strong&gt; Multicritical phase diagram of ${\mathrm{PrMn}}&lt;em&gt;{1\ensuremath{-}x}{\mathrm{Sb}}&lt;/em&gt;{2}$ with two interacting magnetic elements (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184501&quot;&gt;PhysRevB.106.184501&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Stochastic path-integral approach for predicting the superconducting temperatures of anharmonic solids (anharmonicity, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.205102&quot;&gt;PhysRevB.106.205102&lt;/a&gt;&lt;/strong&gt; Unconventional optical selection rules in ${\mathrm{ZrTe}}_{5}$ under an in-plane magnetic field (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.205103&quot;&gt;PhysRevB.106.205103&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Correlated electronic structure of the kagome metal ${\mathrm{Mn}}_{3}\mathrm{Sn}$ (kagome, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L180401&quot;&gt;PhysRevB.106.L180401&lt;/a&gt;&lt;/strong&gt; Origin of ferromagnetic interactions in ${\mathrm{NaMnCl}}_{3}$: How the response theory reconciles with Goodenough-Kanamori-Anderson rules (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L180402&quot;&gt;PhysRevB.106.L180402&lt;/a&gt;&lt;/strong&gt; Magnetic structure and spin fluctuations in the colossal magnetoresistance ferrimagnet ${\mathrm{Mn}}&lt;em&gt;{3}{\mathrm{Si}}&lt;/em&gt;{2}{\mathrm{Te}}_{6}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2210.16493&quot;&gt;2210.16493&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Neural network quantum state with proximal optimization: a ground-state searching scheme based on variational Monte Carlo (ML VMC, arXiv)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
