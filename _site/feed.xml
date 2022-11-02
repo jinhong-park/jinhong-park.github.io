@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2022 11:44:21 +0900</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2022 11:44:21 +0900</lastBuildDate>
+    <pubDate>Wed, 02 Nov 2022 12:39:29 +0900</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2022 12:39:29 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -65,8 +65,11 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184401&quot;&gt;PhysRevB.106.184401&lt;/a&gt;&lt;/strong&gt; Multicritical phase diagram of ${\mathrm{PrMn}}&lt;em&gt;{1\ensuremath{-}x}{\mathrm{Sb}}&lt;/em&gt;{2}$ with two interacting magnetic elements (PRB)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184501&quot;&gt;PhysRevB.106.184501&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Stochastic path-integral approach for predicting the superconducting temperatures of anharmonic solids (anharmonicity, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184501&quot;&gt;PhysRevB.106.184501&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Stochastic path-integral approach for predicting the superconducting temperatures of anharmonic solids (anharmonicity, PRB)&lt;/strong&gt;
+    &lt;blockquote&gt;
+
+      &lt;p&gt;we find that anharmonicity strongly suppresses the predicted superconducting transition temperature.&lt;/p&gt;
+    &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.205102&quot;&gt;PhysRevB.106.205102&lt;/a&gt;&lt;/strong&gt; Unconventional optical selection rules in ${\mathrm{ZrTe}}_{5}$ under an in-plane magnetic field (PRB)&lt;/p&gt;
