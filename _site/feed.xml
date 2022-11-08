@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Nov 2022 12:18:16 +0900</pubDate>
-    <lastBuildDate>Tue, 08 Nov 2022 12:18:16 +0900</lastBuildDate>
+    <pubDate>Tue, 08 Nov 2022 14:20:11 +0900</pubDate>
+    <lastBuildDate>Tue, 08 Nov 2022 14:20:11 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,39 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.02663&quot;&gt;2211.02663&lt;/a&gt;&lt;/strong&gt; Quantum noise spectroscopy of dynamical critical phenomena (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.02668&quot;&gt;2211.02668&lt;/a&gt;&lt;/strong&gt; Interplay of superconductivity and localization near a 2D ferromagnetic quantum critical point (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.02693&quot;&gt;2211.02693&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Kekule spiral order in magic-angle graphene: a density matrix renormalization group study (graphene, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.03198&quot;&gt;2211.03198&lt;/a&gt;&lt;/strong&gt; Gauge Equivariant Neural Networks for 2+1D U(1) Gauge Theory Simulations in Hamiltonian Formulation (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.03412&quot;&gt;2211.03412&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Optical studies of structural phase transition in the vanadium-based kagome metal ScV6Sn6 (kagome, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.03654&quot;&gt;2211.03654&lt;/a&gt;&lt;/strong&gt; Magnetic excitations, phase diagram and order-by-disorder in the extended triangular-lattice Hubbard model (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.03737&quot;&gt;2211.03737&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Non-Kitaev vs. Kitaev Honeycomb Cobaltates (Kee, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.02880&quot;&gt;2211.02880&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Superconductivity and correlated phases in bilayer, trilayer graphene and related structures (FGuinea, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.03075&quot;&gt;2211.03075&lt;/a&gt;&lt;/strong&gt; Prediction of superconducting properties of materials based on machine learning models (Cr2CuO4, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.03083&quot;&gt;2211.03083&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;T-linear resistivity in the strange-metal phase of cuprate superconductors due to umklapp scattering from a spin excitation (T-linear, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.03265&quot;&gt;2211.03265&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Machine-learning approach for discovery of conventional superconductors (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195113&quot;&gt;PhysRevB.106.195113&lt;/a&gt;&lt;/strong&gt; Anomalous Hall conductivity control in ${\mathrm{Mn}}_{3}\mathrm{NiN}$ antiperovskite by epitaxial strain along the kagome plane (PRB)&lt;/p&gt;
   &lt;/li&gt;
