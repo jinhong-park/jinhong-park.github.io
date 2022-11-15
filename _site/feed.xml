@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2022 13:04:27 +0900</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2022 13:04:27 +0900</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2022 12:56:59 +0900</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2022 12:56:59 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,60 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.06468&quot;&gt;2211.06468&lt;/a&gt;&lt;/strong&gt; Quantum correlations in the frustrated XY model on the honeycomb lattice (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.06498&quot;&gt;2211.06498&lt;/a&gt;&lt;/strong&gt; Ubiquity of light small pairs in Hubbard models with long range hoppings and interactions (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.06811&quot;&gt;2211.06811&lt;/a&gt;&lt;/strong&gt; Coupling of Magnetic Phases at Nickelate Interfaces (nickelate, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.06817&quot;&gt;2211.06817&lt;/a&gt;&lt;/strong&gt; Microscopic mechanism for intrinsic nonlinear Hall conductivity in noncollinear antiferromagnetic metals (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.07007&quot;&gt;2211.07007&lt;/a&gt;&lt;/strong&gt; A structural hysteresis in the charge density wave transition of 1T-TaS2 (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.07010&quot;&gt;2211.07010&lt;/a&gt;&lt;/strong&gt; Photoinduced sliding transition into a hidden phase in van der Waals materials (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.07030&quot;&gt;2211.07030&lt;/a&gt;&lt;/strong&gt; Field Tunable Magnetic Transitions of CsCo2(MoO4)2(OH): A Triangular Chain Structure with a Frustrated Geometry (Co Covalt, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.07423&quot;&gt;2211.07423&lt;/a&gt;&lt;/strong&gt; Revisiting superconductivity in the extended one-band Hubbard model: pairing via spin and charge fluctuations (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.07370&quot;&gt;2211.07370&lt;/a&gt;&lt;/strong&gt; Generalization of interlayer tunneling models to cuprate superconductors with charge density waves (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.07406&quot;&gt;2211.07406&lt;/a&gt;&lt;/strong&gt; Orbital Fulde-Ferrell pairing state in moir\‘e Ising superconductors (KTLaw, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.174411&quot;&gt;PhysRevB.106.174411&lt;/a&gt;&lt;/strong&gt; Spin interaction and magnetism in cobaltate Kitaev candidate materials: An ab initio and model Hamiltonian approach (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.174510&quot;&gt;PhysRevB.106.174510&lt;/a&gt;&lt;/strong&gt; Testing for pair density wave order in ${\mathrm{La}}&lt;em&gt;{1.875}{\mathrm{Ba}}&lt;/em&gt;{0.125}{\mathrm{CuO}}_{4}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184206&quot;&gt;PhysRevB.106.184206&lt;/a&gt;&lt;/strong&gt; Disordered graphene ribbons as topological multicritical systems (graphene, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195123&quot;&gt;PhysRevB.106.195123&lt;/a&gt;&lt;/strong&gt; Low energy excitation spectrum of magic-angle semimetals (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195411&quot;&gt;PhysRevB.106.195411&lt;/a&gt;&lt;/strong&gt; Topological characteristics of gap closing points in nonlinear Weyl semimetals (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195413&quot;&gt;PhysRevB.106.195413&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Kekule-induced valley birefringence and skew scattering in graphene (kekule, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.205409&quot;&gt;PhysRevB.106.205409&lt;/a&gt;&lt;/strong&gt; Spin-valley polarized transport in a field-controllable bilayer silicene superlattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L201403&quot;&gt;PhysRevB.106.L201403&lt;/a&gt;&lt;/strong&gt; Moire phonons and impact of electronic symmetry breaking in twisted trilayer graphene (Moire phonons, PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.05870&quot;&gt;2211.05870&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;3D two-electron double quantum dot: comparison between the behavior of some physical quantities under two different confinement potentials in the presence of a magnetic field (QD, arXiv)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
