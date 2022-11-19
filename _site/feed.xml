@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Nov 2022 14:58:14 +0900</pubDate>
-    <lastBuildDate>Thu, 17 Nov 2022 14:58:14 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 19 Nov 2022 15:22:34 +0900</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2022 15:22:34 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Nov 3 week 2022)</title>
@@ -20,6 +20,63 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09483&quot;&gt;2211.09483&lt;/a&gt;&lt;/strong&gt; Suppression of non-equilibrium quasiparticle transport in flat band superconductors (flatband, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09143&quot;&gt;2211.09143&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Robust d-wave superconductivity from the Su-Schrieffer-Heeger-Hubbard model: possible route to high-temperature superconductivity (d-wave SSH HYao, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09254&quot;&gt;2211.09254&lt;/a&gt;&lt;/strong&gt; Heat transport in Weyl semimetals in the hydrodynamic regime (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09282&quot;&gt;2211.09282&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Boundary Ferromagnetism in Zigzag Edged Graphene (graphene, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09290&quot;&gt;2211.09290&lt;/a&gt;&lt;/strong&gt; Electronic Properties of Pyrochlore-Type Ca2Ir2O7 (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09577&quot;&gt;2211.09577&lt;/a&gt;&lt;/strong&gt; Vibronic order and emergent magnetism in cubic $d^1$ double perovskites (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09584&quot;&gt;2211.09584&lt;/a&gt;&lt;/strong&gt; Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.09742&quot;&gt;2211.09742&lt;/a&gt;&lt;/strong&gt; Anharmonicity reveals the tunability of the charge density wave orders in monolayer VSe$_2$ (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L201404&quot;&gt;PhysRevB.106.L201404&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Creating and detecting poor man’s Majorana bound states in interacting quantum dots (majorana, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L201305&quot;&gt;PhysRevB.106.L201305&lt;/a&gt;&lt;/strong&gt; Interference and parity blockade in transport through a Majorana box (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L201304&quot;&gt;PhysRevB.106.L201304&lt;/a&gt;&lt;/strong&gt; Anisotropic spin-to-charge conversion in bismuth (spin-to-charge, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L201109&quot;&gt;PhysRevB.106.L201109&lt;/a&gt;&lt;/strong&gt; Role of spin currents on electron-electron interaction in the quantum spin Hall phase (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.205304&quot;&gt;PhysRevB.106.205304&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Wigner molecules in phosphorene quantum dots (QD, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.205128&quot;&gt;PhysRevB.106.205128&lt;/a&gt;&lt;/strong&gt; Higher-order topological state induced by $d$-wave competing orders in high-${T}_{c}$ superconductor based heterostructures (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195416&quot;&gt;PhysRevB.106.195416&lt;/a&gt;&lt;/strong&gt; Negative-positive oscillation in interfacial friction of a ${\mathrm{In}}&lt;em&gt;{2}{\mathrm{Se}}&lt;/em&gt;{3}$-graphene heterojunction (In2Se3, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195134&quot;&gt;PhysRevB.106.195134&lt;/a&gt;&lt;/strong&gt; Magnon scattering modulated planar Hall effect in a ferromagnet/topological insulator heterostructure (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.184415&quot;&gt;PhysRevB.106.184415&lt;/a&gt;&lt;/strong&gt; Dynamics of spin-$\frac{1}{2} {J}&lt;em&gt;{1}–{J}&lt;/em&gt;{2}$ model on the triangular lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.174418&quot;&gt;PhysRevB.106.174418&lt;/a&gt;&lt;/strong&gt; Anomalous sign inversion of spin-orbit torque in ferromagnetic/nonmagnetic bilayer systems due to self-induced spin-orbit torque (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195304&quot;&gt;PhysRevB.106.195304&lt;/a&gt;&lt;/strong&gt; Topological Anderson insulator via disorder-recovered average symmetry (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.08625&quot;&gt;2211.08625&lt;/a&gt;&lt;/strong&gt; Superconductor/Ferromagnet Heterostructures: A Platform for Superconducting Spintronics and Quantum Computation (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
