@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Nov 2022 16:09:11 +0900</pubDate>
-    <lastBuildDate>Tue, 22 Nov 2022 16:09:11 +0900</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2022 12:53:07 +0900</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2022 12:53:07 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,48 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.11778&quot;&gt;2211.11778&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Superconductivity in monolayer and few-layer graphene: II. Topological edge states and Chern numbers (graphene, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.12015&quot;&gt;2211.12015&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Sharp Kohn-like phonon anomalies due to charge order can strongly enhance the superconducting $T_c$ (CDW QCP, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.12264&quot;&gt;2211.12264&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Superconductivity and orbital-selective nematic order in a new titanium-based kagome metal CsTi3Bi5 (kagome, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.11911&quot;&gt;2211.11911&lt;/a&gt;&lt;/strong&gt; Melting, Reentrant Ordering and Peak Effect for Wigner Crystals with Quenched and Thermal Disorder (LosAlamos, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.12387&quot;&gt;2211.12387&lt;/a&gt;&lt;/strong&gt; Magnetic resonance study of rare-earth titanates (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.12453&quot;&gt;2211.12453&lt;/a&gt;&lt;/strong&gt; Elastocaloric signatures of symmetric and antisymmetric strain-tuning of quadrupolar and magnetic phases in DyB2C2 (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.12495&quot;&gt;2211.12495&lt;/a&gt;&lt;/strong&gt; Impurity-induced pairing in two-dimensional Fermi gases (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.226401&quot;&gt;PhysRevLett.129.226401&lt;/a&gt;&lt;/strong&gt; Sublattice Ferrimagnetism in Quasifreestanding Graphene (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.227001&quot;&gt;PhysRevLett.129.227001&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Kibble-Zurek Mechanism for Dynamical Ordering in a Driven Vortex System (topological defect, PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.227201&quot;&gt;PhysRevLett.129.227201&lt;/a&gt;&lt;/strong&gt; Spin Excitation Spectra of Anisotropic Spin-$1/2$ Triangular Lattice Heisenberg Antiferromagnets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.174430&quot;&gt;PhysRevB.106.174430&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic and spin-orbit exciton excitations in the honeycomb lattice compound ${\mathrm{RuBr}}_{3}$ (KYChoi, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.195142&quot;&gt;PhysRevB.106.195142&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Topological charge-2 Dirac phonons in three dimensions: Theory and realization (charge-2 Dirac phonon, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.L180201&quot;&gt;PhysRevB.106.L180201&lt;/a&gt;&lt;/strong&gt; Many-body localization and the area law in two dimensions (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.223401&quot;&gt;PhysRevLett.129.223401&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Bose-Einstein Condensation of Europium (Dipole-Dipole &amp;gt; spin interaction in BEC, PRL)&lt;/strong&gt; &lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v15/s157&quot;&gt;s157&lt;/a&gt;&lt;/strong&gt; A Dense, Cold Gas of Europium Atoms (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2211.10572&quot;&gt;2211.10572&lt;/a&gt;&lt;/strong&gt; Josephson diode effect on the surface of topological insulators (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
