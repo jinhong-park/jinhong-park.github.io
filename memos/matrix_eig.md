@@ -21,7 +21,7 @@ A = Matrix([[-4, 4, -1, 9],
            [-5, 8, 6, 8],
            [ 7, 0, -4, -2]])
 
-Eigenvalues, eigenvectors_tem =  eigensystem(A)
+Eigenvalues, eigenvectors_tem =  Eigensystem(A)
 
 Eigenvectors = eigenvectors_tem.transpose() 
 ```
