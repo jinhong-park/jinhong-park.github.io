@@ -7,7 +7,7 @@ date:   2022-11-28 00:16:27
 
 ## Eigensystem in python
 
-[jupyter notebook](/memo/matrix_eig_test.ipynb)
+jupyter notebook file Click to [Download](/memos/matrix_eig_test.ipynb)
 
 ```python
 import numpy as np
