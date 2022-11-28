@@ -26,7 +26,7 @@ Eigenvalues, eigenvectors_tem =  eigensystem(A)
 Eigenvectors = eigenvectors_tem.transpose() 
 ```
 np.matrix 도 가능하지만 
-np.matrix 는 numpy 공식문서에서 말하기 곧 없어진다고 함.
+np.matrix 는 numpy 공식문서에서 말하길 곧 없어진다고 함.
 It is no longer recommended to use the np.matrix class, 
 even for linear algebra. Instead use regular np.array. 
 The np.matrix class may be removed in the future.
