@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "weekly picks (Dec 1 week 2022)"
+date:   2022-11-28 00:16:27
+categories: 2022dec
+---
+
+{% include image.html url="/images/2022dec1weeks.png" caption="A WordCloud of 2022 Dec 1st week collection" width=300 align="center" %}
+
+1. **[2211.13321](http://arxiv.org/abs/2211.13321)** Electronic structure, magnetic properties, spin orientation, and doping effect in Mn$_3$Si$_2$Te$_6$ (arXiv)
+
+1. **[2211.13401](http://arxiv.org/abs/2211.13401)** Avoided ferromagnetic quantum critical point in CeZn (arXiv)
+
+1. **[2211.13584](http://arxiv.org/abs/2211.13584)** Signatures of the order parameter of a superconducting adatom layer in quasiparticle interference patterns (arXiv)
+
+1. **[2211.13663](http://arxiv.org/abs/2211.13663)** Non-local self energies in pyrochlore iridates from ab-initio TRILEX calculations, and their relevance for the Weyl semimetal phase (FLEX, arXiv)
+
+1. **[2211.13803](http://arxiv.org/abs/2211.13803)** RIXS interferometry and the role of disorder in the quantum magnet Ba$_3$Ti$_{3-x}$Ir$_{x}$O$_9$ (arXiv)
+
+1. **[2211.13806](http://arxiv.org/abs/2211.13806)** **Chiral magnons in altermagnetic RuO2 (chiral magnon, arXiv)**
+
+1. **[2211.13884](http://arxiv.org/abs/2211.13884)** Non-local spin correlation as a signature of Ising anyons trapped in vacancies of the Kitaev spin liquid (arXiv)
+
+1. **[2211.13903](http://arxiv.org/abs/2211.13903)** Possible helimagnetic order in Co4+-containing perovskites Sr1-xCaxCoO3 (Co, arXiv)
+
+1. **[2211.14192](http://arxiv.org/abs/2211.14192)** Superfluid density and two-component conductivity in hole-doped cuprates (arXiv)
+
+1. **[2211.11786](http://arxiv.org/abs/2211.11786)** Model-Independent Learning of Quantum Phases of Matter with Quantum Convolutional Neural Networks (arXiv)
+
+1. **[2211.13338](http://arxiv.org/abs/2211.13338)** Simulating Superconducting Properties of Overdoped Cuprates: the Role of Inhomogeneity (arXiv)
+
+1. **[2211.13340](http://arxiv.org/abs/2211.13340)** Quadristor: a novel device for superconducting electronics (arXiv)
+
+1. **[2211.13531](http://arxiv.org/abs/2211.13531)** Disorder-induced trapping and anti-trapping of vortices in type-II superconductors (arXiv)
+
+1. **[2211.14283](http://arxiv.org/abs/2211.14283)** The gate-tunable Josephson diode (Kouwenhoven, arXiv)
