@@ -171,29 +171,29 @@
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
 
 <span class="c1"># mathematica style function defined
-</span><span class="n">matrix</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">array</span>     
-<span class="n">eigensystem</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">linalg</span><span class="p">.</span><span class="n">eig</span>
-<span class="n">conj</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">conjugate</span>
+</span><span class="n">Matrix</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">array</span>     
+<span class="n">Eigensystem</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">linalg</span><span class="p">.</span><span class="n">eig</span>
+<span class="n">Conj</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">conjugate</span>
 
-<span class="n">A</span> <span class="o">=</span> <span class="n">matrix</span><span class="p">([[</span><span class="o">-</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">9</span><span class="p">],</span>
+<span class="n">A</span> <span class="o">=</span> <span class="n">Matrix</span><span class="p">([[</span><span class="o">-</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">9</span><span class="p">],</span>
            <span class="p">[</span><span class="mi">6</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">10</span><span class="p">],</span>
            <span class="p">[</span><span class="o">-</span><span class="mi">5</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">8</span><span class="p">],</span>
            <span class="p">[</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="o">-</span><span class="mi">4</span><span class="p">,</span> <span class="o">-</span><span class="mi">2</span><span class="p">]])</span>
 
-<span class="n">eigenvalues</span><span class="p">,</span> <span class="n">eigenvectors_tem</span> <span class="o">=</span>  <span class="n">eigensystem</span><span class="p">(</span><span class="n">A</span><span class="p">)</span>
+<span class="n">Eigenvalues</span><span class="p">,</span> <span class="n">eigenvectors_tem</span> <span class="o">=</span>  <span class="n">eigensystem</span><span class="p">(</span><span class="n">A</span><span class="p">)</span>
 
-<span class="n">eigenvectors</span> <span class="o">=</span> <span class="n">eigenvectors_tem</span><span class="p">.</span><span class="n">transpose</span><span class="p">()</span> 
+<span class="n">Eigenvectors</span> <span class="o">=</span> <span class="n">eigenvectors_tem</span><span class="p">.</span><span class="n">transpose</span><span class="p">()</span> 
 </code></pre></div></div>
 <p>np.matrix 도 가능하지만 
 np.matrix 는 numpy 공식문서에서 말하기 곧 없어진다고 함.
-It is no longer recommended to use the np.matrix  class, 
-even for linear algebra. Instead use regular arrays. 
+It is no longer recommended to use the np.matrix class, 
+even for linear algebra. Instead use regular np.array. 
 The np.matrix class may be removed in the future.
 python 은 transpose 해야 제대로된 eigenvectors를 얻을 수 있음.</p>
 
 <h3 id="eigenvalues">Eigenvalues</h3>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">eigenvalues</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Eigenvalues</span>
 </code></pre></div></div>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>array([  7.91990627+3.47031997j,   7.91990627-3.47031997j,
@@ -202,7 +202,7 @@ python 은 transpose 해야 제대로된 eigenvectors를 얻을 수 있음.</p>
 
 <h3 id="eigenvectors">Eigenvectors</h3>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">eigenvectors</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Eigenvectors</span>
 </code></pre></div></div>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>array([[-0.0091516 +0.29357931j,  0.39202769+0.23164396j,
@@ -217,24 +217,24 @@ python 은 transpose 해야 제대로된 eigenvectors를 얻을 수 있음.</p>
 
 <h3 id="the-eigenvectors-are-already-normalized">The eigenvectors are already normalized</h3>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">np</span><span class="p">.</span><span class="n">dot</span><span class="p">(</span><span class="n">conj</span><span class="p">(</span><span class="n">eigenvectors</span><span class="p">[</span><span class="mi">0</span><span class="p">]),</span> <span class="n">eigenvectors</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">np</span><span class="p">.</span><span class="n">dot</span><span class="p">(</span><span class="n">Conj</span><span class="p">(</span><span class="n">Eigenvectors</span><span class="p">[</span><span class="mi">0</span><span class="p">]),</span> <span class="n">Eigenvectors</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
 </code></pre></div></div>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(1+0j)
 </code></pre></div></div>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">len</span><span class="p">(</span><span class="n">eigenvalues</span><span class="p">)</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">len</span><span class="p">(</span><span class="n">Eigenvalues</span><span class="p">)</span>
 </code></pre></div></div>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>4
 </code></pre></div></div>
 
-<h3 id="eigenvalue-eigenvector-check">Eigenvalue, Eigenvector check!</h3>
+<h3 id="eigenvalues-eigenvectors-check">Eigenvalues, Eigenvectors check!</h3>
 <p>A.$\varphi$[i] - $\lambda$[i] $\varphi$[i] = 0</p>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tem</span> <span class="o">=</span> <span class="mf">0.0</span>
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">eigenvalues</span><span class="p">))</span> <span class="p">:</span> 
-    <span class="n">tem</span> <span class="o">+=</span> <span class="n">np</span><span class="p">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">eigenvectors</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">-</span> <span class="n">eigenvalues</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">*</span> <span class="n">eigenvectors</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">Eigenvalues</span><span class="p">))</span> <span class="p">:</span> 
+    <span class="n">tem</span> <span class="o">+=</span> <span class="n">np</span><span class="p">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">Eigenvectors</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">-</span> <span class="n">Eigenvalues</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">*</span> <span class="n">Eigenvectors</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
 
 <span class="n">tem</span>
 

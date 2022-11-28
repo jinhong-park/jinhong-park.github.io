@@ -12,30 +12,30 @@ date:   2022-11-28 00:16:27
 import numpy as np
 
 # mathematica style function defined
-matrix = np.array     
-eigensystem = np.linalg.eig
-conj = np.conjugate
+Matrix = np.array     
+Eigensystem = np.linalg.eig
+Conj = np.conjugate
 
-A = matrix([[-4, 4, -1, 9],
+A = Matrix([[-4, 4, -1, 9],
            [6, -6, 9, 10],
            [-5, 8, 6, 8],
            [ 7, 0, -4, -2]])
 
-eigenvalues, eigenvectors_tem =  eigensystem(A)
+Eigenvalues, eigenvectors_tem =  eigensystem(A)
 
-eigenvectors = eigenvectors_tem.transpose() 
+Eigenvectors = eigenvectors_tem.transpose() 
 ```
 np.matrix 도 가능하지만 
 np.matrix 는 numpy 공식문서에서 말하기 곧 없어진다고 함.
-It is no longer recommended to use the np.matrix  class, 
-even for linear algebra. Instead use regular arrays. 
+It is no longer recommended to use the np.matrix class, 
+even for linear algebra. Instead use regular np.array. 
 The np.matrix class may be removed in the future.
 python 은 transpose 해야 제대로된 eigenvectors를 얻을 수 있음. 
 
 ### Eigenvalues
 
 ```python
-eigenvalues
+Eigenvalues
 ```
 
 
@@ -50,7 +50,7 @@ eigenvalues
 
 
 ```python
-eigenvectors
+Eigenvectors
 ```
 
 
@@ -71,7 +71,7 @@ eigenvectors
 
 
 ```python
-np.dot(conj(eigenvectors[0]), eigenvectors[0])
+np.dot(Conj(Eigenvectors[0]), Eigenvectors[0])
 ```
 
 
@@ -83,7 +83,7 @@ np.dot(conj(eigenvectors[0]), eigenvectors[0])
 
 
 ```python
-len(eigenvalues)
+len(Eigenvalues)
 ```
 
 
@@ -93,14 +93,14 @@ len(eigenvalues)
 
 
 
-### Eigenvalue, Eigenvector check!
+### Eigenvalues, Eigenvectors check!
 A.$\varphi$[i] - $\lambda$[i] $\varphi$[i] = 0
 
 
 ```python
 tem = 0.0
-for i in range(len(eigenvalues)) : 
-    tem += np.dot(A, eigenvectors[i]) - eigenvalues[i]* eigenvectors[i]
+for i in range(len(Eigenvalues)) : 
+    tem += np.dot(A, Eigenvectors[i]) - Eigenvalues[i]* Eigenvectors[i]
 
 tem
 
