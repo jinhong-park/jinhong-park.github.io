@@ -166,22 +166,15 @@
   </header>
 
   <article class="post-content">
-    <p>Copyright (c) 2022 <a href="https://jinhong-park.github.io">Jin-Hong Park</a></p>
-
-<h2 id="eigensystem-in-python">Eigensystem in python</h2>
+    <h2 id="eigensystem-in-python">Eigensystem in python</h2>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
 
 <span class="c1"># mathematica style function defined
-</span><span class="n">matrix</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">array</span>     <span class="c1"># np.matrix 도 가능하지만 
-</span>                      <span class="c1"># np.matrix 는 numpy 공식문서에서 말하기 곧 없어진다고 함.
-</span>                      <span class="c1"># It is no longer recommended to use the np.matrix  class, 
-</span>                      <span class="c1"># even for linear algebra. Instead use regular arrays. 
-</span>                      <span class="c1"># The np.matrix class may be removed in the future.
-</span><span class="n">eigensystem</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">linalg</span><span class="p">.</span><span class="n">eig</span>
+</span><span class="n">matrix</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">array</span>     
+<span class="n">eigensystem</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">linalg</span><span class="p">.</span><span class="n">eig</span>
 <span class="n">conj</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">conjugate</span>
-<span class="c1"># 
-</span>
+
 <span class="n">A</span> <span class="o">=</span> <span class="n">matrix</span><span class="p">([[</span><span class="o">-</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">9</span><span class="p">],</span>
            <span class="p">[</span><span class="mi">6</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">10</span><span class="p">],</span>
            <span class="p">[</span><span class="o">-</span><span class="mi">5</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">8</span><span class="p">],</span>
@@ -189,9 +182,14 @@
 
 <span class="n">eigenvalues</span><span class="p">,</span> <span class="n">eigenvectors_tem</span> <span class="o">=</span>  <span class="n">eigensystem</span><span class="p">(</span><span class="n">A</span><span class="p">)</span>
 
-<span class="c1"># python 은 transpose 해야 eigenvectors 를 구할 수 있음. 
-</span><span class="n">eigenvectors</span> <span class="o">=</span> <span class="n">eigenvectors_tem</span><span class="p">.</span><span class="n">transpose</span><span class="p">()</span>
+<span class="n">eigenvectors</span> <span class="o">=</span> <span class="n">eigenvectors_tem</span><span class="p">.</span><span class="n">transpose</span><span class="p">()</span> 
 </code></pre></div></div>
+<p>np.matrix 도 가능하지만 
+np.matrix 는 numpy 공식문서에서 말하기 곧 없어진다고 함.
+It is no longer recommended to use the np.matrix  class, 
+even for linear algebra. Instead use regular arrays. 
+The np.matrix class may be removed in the future.
+python 은 transpose 해야 제대로된 eigenvectors를 얻을 수 있음.</p>
 
 <h3 id="eigenvalues">Eigenvalues</h3>
 
@@ -246,6 +244,8 @@
         7.32747196e-15+0.j])
 </code></pre></div></div>
 
+<h3 id="numerically-small-value">numerically small value</h3>
+<p>6.66133815e-15 ~ 0</p>
 
   </article>
 

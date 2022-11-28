@@ -5,11 +5,6 @@ date:   2022-11-28 00:16:27
 ---
 
 
-
-
-Copyright (c) 2022 [Jin-Hong Park](https://jinhong-park.github.io)
-
-
 ## Eigensystem in python
 
 
@@ -17,14 +12,9 @@ Copyright (c) 2022 [Jin-Hong Park](https://jinhong-park.github.io)
 import numpy as np
 
 # mathematica style function defined
-matrix = np.array     # np.matrix 도 가능하지만 
-                      # np.matrix 는 numpy 공식문서에서 말하기 곧 없어진다고 함.
-                      # It is no longer recommended to use the np.matrix  class, 
-                      # even for linear algebra. Instead use regular arrays. 
-                      # The np.matrix class may be removed in the future.
+matrix = np.array     
 eigensystem = np.linalg.eig
 conj = np.conjugate
-# 
 
 A = matrix([[-4, 4, -1, 9],
            [6, -6, 9, 10],
@@ -33,12 +23,16 @@ A = matrix([[-4, 4, -1, 9],
 
 eigenvalues, eigenvectors_tem =  eigensystem(A)
 
-# python 은 transpose 해야 eigenvectors 를 구할 수 있음. 
-eigenvectors = eigenvectors_tem.transpose()
+eigenvectors = eigenvectors_tem.transpose() 
 ```
+np.matrix 도 가능하지만 
+np.matrix 는 numpy 공식문서에서 말하기 곧 없어진다고 함.
+It is no longer recommended to use the np.matrix  class, 
+even for linear algebra. Instead use regular arrays. 
+The np.matrix class may be removed in the future.
+python 은 transpose 해야 제대로된 eigenvectors를 얻을 수 있음. 
 
 ### Eigenvalues
-
 
 ```python
 eigenvalues
@@ -119,3 +113,6 @@ tem
             7.32747196e-15+0.j])
 
 
+
+### numerically small value
+6.66133815e-15 ~ 0
