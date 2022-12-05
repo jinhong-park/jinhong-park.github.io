@@ -1,0 +1,54 @@
+I"0	<ul class="listing">
+
+
+<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
+<br />
+<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
+<br />
+<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
+
+ 
+
+
+
+<li class="listing-seperator"><p>weekly picks (Dec 2 week 2022)</p></li>
+
+   <li class="listing-item">
+           <dl class="wp-caption aligncenter" style="max-width: 300px">
+
+<dt><a href=""><img class="" src="/images/2022dec2weeks.png" alt="A WordCloud of 2022 Dec 2nd week collection" /></a></dt>
+
+<dd>A WordCloud of 2022 Dec 2nd week collection</dd>
+</dl>
+
+<ol>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.00925">2212.00925</a></strong> <strong>Superconductivity in a Magnetic Rashba Semimetal EuAuBi (arXiv)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.00983">2212.00983</a></strong> Photo-induced nonlinear band shift and valence transition in SmS (SKimura, arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.01058">2212.01058</a></strong> Topological Phases in Coupled Polyyne Chains (leg-rung-SSH, arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.01090">2212.01090</a></strong> Interplay of dynamic correlations and uniaxial strain driving magnetic phase transitions in LaMnO$_3$ (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.01183">2212.01183</a></strong> <strong>Interplay of stripe and double-Q magnetism with superconductivity in $\mathrm{Ba}<em>{1-x}\mathrm{K}</em>{x}\mathrm{Fe}<em>{2}\mathrm{As}</em>{2}$ under the influence of magnetic fields (double-Q, arXiv)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.01278">2212.01278</a></strong> Thermal first-order phase transitions, Ising critical points, and reentrance in the Ising-Heisenberg model on the diamond-decorated square lattice in a magnetic field (MC, arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.01084">2212.01084</a></strong> Tuning metal/superconductor to insulator/superconductor coupling via control of proximity enhancement between NbSe$_2$ monolayers (NbSe2, arXiv)</p>
+  </li>
+</ol>
+
+
+   </li>
+    
+    
+ </ul>
+
+:ET
