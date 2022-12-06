@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Dec 2022 12:32:58 +0900</pubDate>
-    <lastBuildDate>Tue, 06 Dec 2022 12:32:58 +0900</lastBuildDate>
+    <pubDate>Tue, 06 Dec 2022 12:50:51 +0900</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2022 12:50:51 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.02183&quot;&gt;2212.02183&lt;/a&gt;&lt;/strong&gt; The supercurrent diode effect and nonreciprocal paraconductivity due to the chiral structure of nanotubes (Nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.01634&quot;&gt;2212.01634&lt;/a&gt;&lt;/strong&gt; Tuning Superconductivity and Charge Density Wave Order in 2H-TaSe2 by Modulating the Van Hove Singularity (TaSe2, arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
