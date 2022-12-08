@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Dec 2022 11:54:19 +0900</pubDate>
-    <lastBuildDate>Thu, 08 Dec 2022 11:54:19 +0900</lastBuildDate>
+    <pubDate>Thu, 08 Dec 2022 21:13:49 +0900</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2022 21:13:49 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2212.01653&quot;&gt;2212.01653&lt;/a&gt;&lt;/strong&gt; Fusion protocol for Majorana modes in coupled quantum dots (JDSau, arXiv) &lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.08045&quot;&gt;2206.08045&lt;/a&gt;&lt;/strong&gt; Realization of a minimal Kitaev chain in coupled quantum dots (Kouwenhoven, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.03337&quot;&gt;2212.03337&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Transient gap generation in BaFe$_2$As$_2$ driven by coherent lattice vibrations (lattice, arXiv)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
