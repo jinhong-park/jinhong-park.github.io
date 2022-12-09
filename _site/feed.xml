@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Dec 2022 10:52:20 +0900</pubDate>
-    <lastBuildDate>Fri, 09 Dec 2022 10:52:20 +0900</lastBuildDate>
+    <pubDate>Fri, 09 Dec 2022 12:33:39 +0900</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2022 12:33:39 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,15 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.04447&quot;&gt;2212.04447&lt;/a&gt;&lt;/strong&gt; Observation of Flat Band, Dirac Nodal Lines and Topological Surface States in Kagome Superconductor CsTi$_3$Bi$_5$ (kagome, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.04299&quot;&gt;2212.04299&lt;/a&gt;&lt;/strong&gt; Topology of chalcogen chains (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.04460&quot;&gt;2212.04460&lt;/a&gt;&lt;/strong&gt; Tunable van Hove singularity without structural instability in Kagome metal CsTi$_3$Bi$_5$ (kagome, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.abq1158&quot;&gt;science.abq1158&lt;/a&gt;&lt;/strong&gt; Competition-level code generation with AlphaCode (Science)&lt;/p&gt;
   &lt;/li&gt;
