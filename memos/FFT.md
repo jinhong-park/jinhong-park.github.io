@@ -100,7 +100,7 @@ plt.show()
 
 
     
-![png](FFT_2_0.png)
+![png](/memos/FFT_2_0.png)
     
 
 
