@@ -9,3 +9,5 @@ permalink: /memo/
 [2022.02.16_spinon](/memos/memo_2022.02.16_spinon.pdf)
 
 [2022.11.28 eigensystem in python](/memos/matrix_eig.md)
+
+[2022.12.11 matplotlib setting(FFT)](/memos/FFT.md)
