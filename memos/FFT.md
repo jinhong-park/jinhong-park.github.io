@@ -100,7 +100,7 @@ plt.show()
 
 
     
-![png](memos/FFT_2_0.png)
+<img src="https://jinhong-park.github.io/memos/FFT_2_0.png" width=300>
     
 
 
