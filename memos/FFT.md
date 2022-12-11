@@ -5,7 +5,6 @@ date:   2022-12-11 00:16:27
 ---
 
 
-## FFT using matplotlib
 
 jupyter notebook file Click to [Download](/memos/FFT.ipynb)
 
@@ -45,7 +44,7 @@ import numpy as np
 
 %matplotlib inline
 
-plt.style.use('seaborn-v0_8-whitegrid')
+#plt.style.use('seaborn-v0_8-whitegrid')
 plt.rc('text', usetex = True)     # rc : runtime configuration
 plt.rc('font', family='times')
 
