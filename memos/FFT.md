@@ -100,7 +100,7 @@ plt.show()
 
 
     
-![png](FFT_files/FFT_2_0.png)
+![png](FFT_2_0.png)
     
 
 
