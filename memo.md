@@ -10,4 +10,4 @@ permalink: /memo/
 
 [2022.11.28 eigensystem in python](/memos/matrix_eig.md)
 
-[2022.12.11 matplotlib setting(FFT)](/memos/FFT.md)
+[2022.12.11 matplotlib setting (FFT)](/memos/FFT.md)
