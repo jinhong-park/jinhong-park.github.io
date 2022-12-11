@@ -10,37 +10,8 @@ jupyter notebook file Click to [Download](/memos/FFT.ipynb)
 
 
 ```python
-import numpy as np
-
-
-def dft(x) :
-    x = np.asarray(x, dtype=float)
-    N = x.shape[0]
-    n = np.arange(N)
-    k = n.reshape((N,1))
-    M = np.exp(-2j * np.pi * k * n / N)
-    return np.dot(M, x)
-
-x = np.random.random(1024)
-```
-
-
-```python
-x
-```
-
-
-
-
-    array([0.11934924, 0.30855014, 0.92738862, ..., 0.6236919 , 0.43767435,
-           0.93026136])
-
-
-
-
-```python
 import matplotlib.pyplot as plt
-
+import numpy as np
 
 %matplotlib inline
 
@@ -48,27 +19,6 @@ import matplotlib.pyplot as plt
 plt.rc('text', usetex = True)     # rc : runtime configuration
 plt.rc('font', family='times')
 
-def FFT(x) :
-    """
-    A recursive impliementation of 
-    the 1D Cooley-Tukey FFT, the
-    input should have a length of 
-    power of 2.
-    """
-    N = len(x)
-
-    if N == 1:
-        return x 
-    else:
-        X_even = FFT(x[::2])
-        X_odd = FFT(x[1::2])
-        factor = \
-            np.exp(-2j * np.pi * np.arrange(N)/N)
-        
-        X = np.concatenate(\
-            [X_even + factor[:int(N/2)]*X_odd,
-            X_even+factor[int(N/2):]*X_odd])
-        return X
 
 # sampling rate
 sr = 128
@@ -86,7 +36,7 @@ x += np.sin(2*np.pi * freq * t)
 freq = 7
 x += 0.5 * np.sin(2*np.pi*freq*t)
 
-plt.figure(figsize = (8,6), dpi=300)
+plt.figure(figsize = (8,6), dpi=200)
 plt.plot(t, x, 'r')
 plt.ylabel('Amplitude', fontsize=14)
 plt.xlabel(r'Time($t$)', fontsize=14)
@@ -94,12 +44,51 @@ plt.yticks(fontsize=14)
 plt.xticks(fontsize=14)
 plt.grid(linestyle='dashed')
 plt.xlim(0, 1)
+plt.savefig("FFT1.png")
 plt.show()
+
 ```
 
 
+<img src="https://jinhong-park.github.io/memos/FFT1.png" width=500>    
+
     
-<img src="https://jinhong-park.github.io/memos/FFT_2_0.png" width=500>
+
+
+
+```python
+from scipy.fftpack import fft, ifft
+
+X = fft(x)
+N = len(X)
+n = np.arange(N)
+T = N/sr
+freq = n/T
+
+plt.figure(figsize = (12, 6), dpi=200)
+plt.subplot(121)
+
+plt.stem(freq, np.abs(X), 'b', markerfmt =" ", basefmt="-b")
+plt.xlabel('Freq (Hz)')
+plt.ylabel('FFT Amplitude $\|X(freq)\|$')
+plt.grid(linestyle='dashed')
+plt.xlim(0, 10)
+
+plt.subplot(122)
+plt.plot(t, ifft(X), 'r')
+plt.xlabel('Time (s)')
+plt.ylabel('Amplitude')
+plt.grid(linestyle='dashed')
+plt.tight_layout()
+plt.savefig("FFT2.png")
+plt.show()
+```
+
+   
+
+
+
+<img src="https://jinhong-park.github.io/memos/FFT2.png" width=500>        
     
 
 
@@ -124,8 +113,8 @@ plt.rcParams
               'animation.html': 'none',
               'animation.writer': 'ffmpeg',
               'axes.autolimit_mode': 'data',
-              'axes.axisbelow': 'line',
-              'axes.edgecolor': 'black',
+              'axes.axisbelow': True,
+              'axes.edgecolor': '.8',
               'axes.facecolor': 'white',
               'axes.formatter.limits': [-5, 6],
               'axes.formatter.min_exponent': 0,
@@ -133,14 +122,14 @@ plt.rcParams
               'axes.formatter.use_locale': False,
               'axes.formatter.use_mathtext': False,
               'axes.formatter.useoffset': True,
-              'axes.grid': False,
+              'axes.grid': True,
               'axes.grid.axis': 'both',
               'axes.grid.which': 'major',
-              'axes.labelcolor': 'black',
+              'axes.labelcolor': '.15',
               'axes.labelpad': 4.0,
               'axes.labelsize': 'medium',
               'axes.labelweight': 'normal',
-              'axes.linewidth': 0.8,
+              'axes.linewidth': 1.0,
               'axes.prop_cycle': cycler('color', ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf']),
               'axes.spines.bottom': True,
               'axes.spines.left': True,
@@ -244,7 +233,7 @@ plt.rcParams
                                'Comic Neue',
                                'Comic Sans MS',
                                'cursive'],
-              'font.family': ['serif'],
+              'font.family': ['times'],
               'font.fantasy': ['Chicago',
                                'Charcoal',
                                'Impact',
@@ -262,16 +251,10 @@ plt.rcParams
                                  'Fixed',
                                  'Terminal',
                                  'monospace'],
-              'font.sans-serif': ['DejaVu Sans',
+              'font.sans-serif': ['Arial',
+                                  'Liberation Sans',
+                                  'DejaVu Sans',
                                   'Bitstream Vera Sans',
-                                  'Computer Modern Sans Serif',
-                                  'Lucida Grande',
-                                  'Verdana',
-                                  'Geneva',
-                                  'Lucid',
-                                  'Arial',
-                                  'Helvetica',
-                                  'Avant Garde',
                                   'sans-serif'],
               'font.serif': ['DejaVu Serif',
                              'Bitstream Vera Serif',
@@ -293,14 +276,14 @@ plt.rcParams
               'font.variant': 'normal',
               'font.weight': 'normal',
               'grid.alpha': 1.0,
-              'grid.color': '#b0b0b0',
+              'grid.color': '.8',
               'grid.linestyle': '-',
               'grid.linewidth': 0.8,
               'hatch.color': 'black',
               'hatch.linewidth': 1.0,
               'hist.bins': 10,
               'image.aspect': 'equal',
-              'image.cmap': 'viridis',
+              'image.cmap': 'Greys',
               'image.composite_image': True,
               'image.interpolation': 'antialiased',
               'image.lut': 256,
@@ -330,7 +313,7 @@ plt.rcParams
               'legend.fancybox': True,
               'legend.fontsize': 'medium',
               'legend.framealpha': 0.8,
-              'legend.frameon': True,
+              'legend.frameon': False,
               'legend.handleheight': 0.7,
               'legend.handlelength': 2.0,
               'legend.handletextpad': 0.8,
@@ -357,7 +340,7 @@ plt.rcParams
               'lines.markerfacecolor': 'auto',
               'lines.markersize': 6.0,
               'lines.scale_dashes': True,
-              'lines.solid_capstyle': <CapStyle.projecting: 'projecting'>,
+              'lines.solid_capstyle': <CapStyle.round: 'round'>,
               'lines.solid_joinstyle': <JoinStyle.round: 'round'>,
               'markers.fillstyle': 'full',
               'mathtext.bf': 'sans:bold',
@@ -409,7 +392,7 @@ plt.rcParams
               'svg.hashsalt': None,
               'svg.image_inline': True,
               'text.antialiased': True,
-              'text.color': 'black',
+              'text.color': '.15',
               'text.hinting': 'force_autohint',
               'text.hinting_factor': 8,
               'text.kerning_factor': 0,
@@ -426,7 +409,7 @@ plt.rcParams
               'xaxis.labellocation': 'center',
               'xtick.alignment': 'center',
               'xtick.bottom': True,
-              'xtick.color': 'black',
+              'xtick.color': '.15',
               'xtick.direction': 'out',
               'xtick.labelbottom': True,
               'xtick.labelcolor': 'inherit',
@@ -434,19 +417,19 @@ plt.rcParams
               'xtick.labeltop': False,
               'xtick.major.bottom': True,
               'xtick.major.pad': 3.5,
-              'xtick.major.size': 3.5,
+              'xtick.major.size': 0.0,
               'xtick.major.top': True,
               'xtick.major.width': 0.8,
               'xtick.minor.bottom': True,
               'xtick.minor.pad': 3.4,
-              'xtick.minor.size': 2.0,
+              'xtick.minor.size': 0.0,
               'xtick.minor.top': True,
               'xtick.minor.visible': False,
               'xtick.minor.width': 0.6,
               'xtick.top': False,
               'yaxis.labellocation': 'center',
               'ytick.alignment': 'center_baseline',
-              'ytick.color': 'black',
+              'ytick.color': '.15',
               'ytick.direction': 'out',
               'ytick.labelcolor': 'inherit',
               'ytick.labelleft': True,
@@ -456,12 +439,12 @@ plt.rcParams
               'ytick.major.left': True,
               'ytick.major.pad': 3.5,
               'ytick.major.right': True,
-              'ytick.major.size': 3.5,
+              'ytick.major.size': 0.0,
               'ytick.major.width': 0.8,
               'ytick.minor.left': True,
               'ytick.minor.pad': 3.4,
               'ytick.minor.right': True,
-              'ytick.minor.size': 2.0,
+              'ytick.minor.size': 0.0,
               'ytick.minor.visible': False,
               'ytick.minor.width': 0.6,
               'ytick.right': False})
@@ -508,3 +491,8 @@ plt.style.available
      'tableau-colorblind10']
 
 
+
+
+```python
+
+```
