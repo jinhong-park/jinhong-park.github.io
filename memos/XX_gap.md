@@ -71,7 +71,7 @@ plt.show()
 
 
     
-<img scr="https://jinhong-park.github.io/memos/XX.png" width=500>
+<img src="https://jinhong-park.github.io/memos/XX.png" width=500>
     
 
 
