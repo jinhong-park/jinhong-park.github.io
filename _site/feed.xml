@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Dec 2022 10:47:57 +0900</pubDate>
-    <lastBuildDate>Wed, 14 Dec 2022 10:47:57 +0900</lastBuildDate>
+    <pubDate>Wed, 14 Dec 2022 12:02:48 +0900</pubDate>
+    <lastBuildDate>Wed, 14 Dec 2022 12:02:48 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,27 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2212.06171v1&quot;&gt;2212.06171v1&lt;/a&gt;&lt;/strong&gt; Chip-Integrated Vortex Manipulation (arxiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2212.06196v1&quot;&gt;2212.06196v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Unconventional localization of electrons inside of a nematic electronic phase (arxiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2212.06197v1&quot;&gt;2212.06197v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Topological superconductivity in three-dimensional centrosymmetric MoTe$_2$ (majorana, arxiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2212.06237v1&quot;&gt;2212.06237v1&lt;/a&gt;&lt;/strong&gt; Analysis of electrical resistance data from Snider et al., Nature $\underline{586}$, 373 (2020) (arxiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2212.06703v1&quot;&gt;2212.06703v1&lt;/a&gt;&lt;/strong&gt; Direct observation of topological surface state in the topological superconductor 2M-WS2 (arxiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.06190&quot;&gt;2212.06190&lt;/a&gt;&lt;/strong&gt; IrF4: From Tetrahedral Compass Model to Topological Semimetal (Ir, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.06722&quot;&gt;2212.06722&lt;/a&gt;&lt;/strong&gt; Atomic-scale description of the paramagnetic susceptibility of non-magnetic Ba$_2$YMoO$_6$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.106.214306&quot;&gt;PhysRevB.106.214306&lt;/a&gt;&lt;/strong&gt; Complex symmetry of phases and magnetic properties of ${\mathrm{EuTiO}}_{3}$ (PRB)&lt;/p&gt;
   &lt;/li&gt;

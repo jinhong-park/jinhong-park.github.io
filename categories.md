@@ -21,7 +21,7 @@ permalink: /categories/
 <tr>
      <th> <a href="../blog/2022/12/Dec1weeks">Dec1w</a> </th>
      <th> <a href="../blog/2022/12/Dec2weeks">Dec2w</a>  </th>
-     <th> <a href="../blog/2022/12/Dec3weeks"></a>  </th>
+     <th> <a href="../blog/2022/12/Dec3weeks">Dec3w</a>  </th>
      <th> <a href="../blog/2022/12/Dec4weeks"></a>  </th>
     <th> <a href="../blog/2022/12/Dec5weeks"></a>  </th>
     </tr>
