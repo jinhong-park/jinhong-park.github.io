@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Dec 2022 11:12:30 +0900</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2022 11:12:30 +0900</lastBuildDate>
+    <pubDate>Thu, 15 Dec 2022 16:10:35 +0900</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2022 16:10:35 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05352-2&quot;&gt;s41586-022-05352-2&lt;/a&gt;&lt;/strong&gt; Singlet and triplet Cooper pair splitting in hybrid superconducting nanowires (Kouwenhoven, Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05382-w&quot;&gt;s41586-022-05382-w&lt;/a&gt;&lt;/strong&gt; Majorana-like Coulomb spectroscopy in the absence of zero-bias peaks (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2212.06953v1&quot;&gt;2212.06953v1&lt;/a&gt;&lt;/strong&gt; Robust Interlayer-Coherent Quantum Hall States in Twisted Bilayer Graphene (arxiv)&lt;/p&gt;
   &lt;/li&gt;
