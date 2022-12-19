@@ -29,6 +29,9 @@ tags :`#tips`
 __[pyenv configuration](https://fabulous-arch-47d.notion.site/pyenv-0518927baffa40418f2ff25dac55009b)__
 
 
+tags :`#youtube`
+
+__[Scientific Visual Artist](https://www.youtube.com/watch?v=y_HKSAb3jkM)__  
 
 tags : `#mobile friendly`, `#something to read while commuting`, `#open access` 
  
