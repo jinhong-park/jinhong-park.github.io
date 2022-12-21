@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="/node_modules/reveal.js/dist/reveal.css" />
+    <link
+      rel="stylesheet"
+      href="/node_modules/reveal.js/dist/theme/black.css"
+    />
+    <link
+      rel="stylesheet"
+      href="/node_modules/reveal.js/plugin/highlight/monokai.css"
+    />
+  </head>
+
+  <body>
+    <script src="src/index.js"></script>
+    <div id="app" class="reveal">
+      <div class="slides">
+        <!-- Use external markdown resource, separate slides by three ---; vertical slides by two -- -->
+        <section
+          data-markdown="markdown.md"
+          data-separator="^\n---\n$"
+          data-separator-vertical="^\n--\n$"
+        ></section>
+      </div>
+    </div>
+  </body>
+</html>
