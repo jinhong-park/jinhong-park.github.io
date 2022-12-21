@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Dec 2022 10:27:45 +0900</pubDate>
-    <lastBuildDate>Wed, 21 Dec 2022 10:27:45 +0900</lastBuildDate>
+    <pubDate>Wed, 21 Dec 2022 12:35:24 +0900</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2022 12:35:24 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,18 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.09786&quot;&gt;2212.09786&lt;/a&gt;&lt;/strong&gt; Chiral surface superconductivity in half-Heusler semimetals (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.10175&quot;&gt;2212.10175&lt;/a&gt;&lt;/strong&gt; Spin-resolved spectroscopy using a quantum dot defined in InAs 2DEG (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.09796&quot;&gt;2212.09796&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Machine learning assisted derivation of effective low energy models for metallic magnets (CDBatista, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.10040&quot;&gt;2212.10040&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Spin Nematics Meet Spin Liquids: Exotic Quantum Phases in the Spin-$1$ Bilinear-Biquadratic Model with Kitaev Interactions (YMotome, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.12.041030&quot;&gt;PhysRevX.12.041030&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Imaging the Ultrafast Coherent Control of a Skyrmion Crystal (skyrmion, PRX)&lt;/strong&gt;  &lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v15/s177&quot;&gt;s177&lt;/a&gt;&lt;/strong&gt; A New Way to Manipulate a Skyrmion Crystal (Physics)&lt;/p&gt;
   &lt;/li&gt;
