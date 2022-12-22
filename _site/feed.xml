@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Dec 2022 12:06:37 +0900</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2022 12:06:37 +0900</lastBuildDate>
+    <pubDate>Thu, 22 Dec 2022 17:35:10 +0900</pubDate>
+    <lastBuildDate>Thu, 22 Dec 2022 17:35:10 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05367-9&quot;&gt;s41586-022-05367-9&lt;/a&gt;&lt;/strong&gt; Topological lattices realized in superconducting circuit optomechanics (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.10972&quot;&gt;2212.10972&lt;/a&gt;&lt;/strong&gt; Umklapp scattering in the one-dimensional Hubbard model (arXiv)&lt;/p&gt;
   &lt;/li&gt;
