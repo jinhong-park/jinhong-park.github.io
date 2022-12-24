@@ -1,20 +1,4 @@
-I"-<ul class="listing">
-
-
-<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
-<br />
-<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
-<br />
-<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
-
- 
-
-
-
-<li class="listing-seperator"><p>weekly picks (Dec 4 week 2022)</p></li>
-
-   <li class="listing-item">
-           <dl class="wp-caption aligncenter" style="max-width: 300px">
+I"�O<dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2022dec4weeks.png" alt="A WordCloud of 2022 Dec 4th week collection" /></a></dt>
 
@@ -22,6 +6,129 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.129.263604">PhysRevLett.129.263604</a></strong> Observation of Non-Abelian Charged Nodes Linking Nonadjacent Gaps (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.129.267401">PhysRevLett.129.267401</a></strong> <strong>Disorder-Induced Topological State Transition in the Optical Skyrmion Family (skyrmion, PRL)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.129.266401">PhysRevLett.129.266401</a></strong> Nonstoichiometric Salt Intercalation as a Means to Stabilize Alkali Doping of 2D Materials (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214207">PhysRevB.106.214207</a></strong> Localization transitions and winding numbers for non-Hermitian Aubry-Andr\‘e-Harper models with off-diagonal modulations (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214524">PhysRevB.106.214524</a></strong> <strong>Theory of giant diode effect in $d$-wave superconductor junctions on the surface of a topological insulator (nagaosa, PRB)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.224425">PhysRevB.106.224425</a></strong> Magnetic correlations in the magnetic topological insulator ${(\mathrm{Cr},\mathrm{Sb})}<em>{2}{\mathrm{Te}}</em>{3}$ (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.245425">PhysRevB.106.245425</a></strong> Quantum anomalous layer Hall effect in the topological magnet ${\mathrm{MnBi}}<em>{2}{\mathrm{Te}}</em>{4}$ (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.L220409">PhysRevB.106.L220409</a></strong> Anisotropic linear and nonlinear charge-spin conversion in topological semimetal ${\mathrm{SrIrO}}_{3}$ (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.224423">PhysRevB.106.224423</a></strong> (${\mathrm{Fe}}<em>{1\ensuremath{-}x}{\mathrm{Ni}}</em>{x}{)}<em>{5}{\mathrm{GeTe}}</em>{2}$: An antiferromagnetic triangular Ising lattice with itinerant magnetism (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.11757">2212.11757</a></strong> Fractional transconductance via non-adiabatic topological Cooper pair pumping (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.11855">2212.11855</a></strong> Closed-loop machine learning for discovery of novel superconductors (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.11964">2212.11964</a></strong> Structure of Charge Density Waves in La1.875Ba0.125CuO4 (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.11283">2212.11283</a></strong> Marginal Fermi liquid at magnetic quantum criticality from dimensional confinement (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.129.266601">PhysRevLett.129.266601</a></strong> <strong>Superconductor-Insulator Transition in a Non-Fermi Liquid (PRL)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.129.267201">PhysRevLett.129.267201</a></strong> <strong>Emergent Magnetomultipoles and Nonlinear Responses of a Magnetic Hopfion (Nagaosa, PRL)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214427">PhysRevB.106.214427</a></strong> Magnetic field tuning of parallel spin stripe order and fluctuations near the pseudogap quantum critical point in ${\mathrm{La}}<em>{1.36}{\mathrm{Nd}}</em>{0.4}{\mathrm{Sr}}<em>{0.24}{\mathrm{CuO}}</em>{4}$ (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214429">PhysRevB.106.214429</a></strong> Variational quantum eigensolver for the Heisenberg antiferromagnet on the kagome lattice (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214522">PhysRevB.106.214522</a></strong> Low-energy spin fluctuations in ${\mathrm{FeSe}}<em>{0.95}{\mathrm{S}}</em>{0.05}$ (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214523">PhysRevB.106.214523</a></strong> Pairing of fermions under spin-orbit coupling in two dimensions (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.224309">PhysRevB.106.224309</a></strong> Floquet band engineering with Bloch oscillations (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.235148">PhysRevB.106.235148</a></strong> Metal to Wigner-Mott insulator transition in two-leg ladders (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.science.org/content/article/researchers-push-preprint-reviews-improve-scientific-communications">researchers push preprint reviews</a></strong> Researchers push preprint reviews to improve scientific communications (Science)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.nature.com/articles/s41586-022-05367-9">s41586-022-05367-9</a></strong> Topological lattices realized in superconducting circuit optomechanics (Nature)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.10972">2212.10972</a></strong> Umklapp scattering in the one-dimensional Hubbard model (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.11161">2212.11161</a></strong> Josephson effect in excitonic chiral double layers (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.11226">2212.11226</a></strong> Spin susceptibility of nonunitary spin-triplet superconductors (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.10668">2212.10668</a></strong> Noncollinear twisted RKKY interaction on the optically driven SnTe(001) surface (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.10685">2212.10685</a></strong> Lattice Model For The Quantum Anomalous Hall Effect in Moire Graphene (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.10835">2212.10835</a></strong> Higher-order topological insulator in a modified Haldane-Hubbard model (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2212.10838">2212.10838</a></strong> Magnetism of the $s=1/2$ $J_1$-$J_2$ square-kagome lattice antiferromagnet (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevX.12.041031">PhysRevX.12.041031</a></strong> <strong>Phonon Thermal Hall Conductivity from Scattering with Collective Fluctuations (LBalents, PRX)</strong>  <strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.245139">PhysRevB.106.245139</a></strong> <strong>Thermal conductivity and theory of inelastic scattering of phonons by collective fluctuations (PRB)</strong>  <strong><a href="https://physics.aps.org/articles/v15/198">198</a></strong> Resolving the Achillesâ  Heel of Thermal Hall Conductivity Measurements (Physics)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214425">PhysRevB.106.214425</a></strong> Topological Nernst effect emerging from real-space gauge field and thermal fluctuations in a magnetic skyrmion lattice (skyrmion, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214520">PhysRevB.106.214520</a></strong> Surface state of the interorbital pairing state in the ${\mathrm{Sr}}<em>{2}{\mathrm{RuO}}</em>{4}$ superconductor (surface states, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.224515">PhysRevB.106.224515</a></strong> Strongly overdoped ${\mathrm{La}}<em>{2\ensuremath{-}x}{\mathrm{Sr}}</em>{x}{\mathrm{CuO}}_{4}$: Evidence for Josephson-coupled grains of strongly correlated superconductor (cuprate, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.235143">PhysRevB.106.235143</a></strong> Holes and magnetic polarons in a triangular lattice antiferromagnet (triangular, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.235423">PhysRevB.106.235423</a></strong> <strong>Spin Berry curvature of the Haldane model (Haldane, PRB)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.235424">PhysRevB.106.235424</a></strong> Third-order optical nonlinearity of one-dimensional Dirac fermions (Dirac, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.245138">PhysRevB.106.245138</a></strong> String-like theory of quantum Hall interfaces (droplet, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.245423">PhysRevB.106.245423</a></strong> Electric field induced tunable half-metallicity in an $A$-type antiferromagnetic bilayer ${\mathrm{LaBr}}_{2}$ (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.L220407">PhysRevB.106.L220407</a></strong> Invisible flat bands on a topological chiral edge (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.235144">PhysRevB.106.235144</a></strong> Flat bands arising from spin-orbit assisted orbital frustration (PRB)</p>
+  </li>
   <li>
     <p><strong><a href="http://arxiv.org/abs/2212.09786">2212.09786</a></strong> Chiral surface superconductivity in half-Heusler semimetals (arXiv)</p>
   </li>
@@ -170,11 +277,5 @@
     <p><strong><a href="http://arxiv.org/abs/2212.08590">2212.08590</a></strong> Spin excitations in the Kagome-lattice metallic antiferromagnet Fe$<em>{0.89}$Co$</em>{0.11}$Sn (kagome, arXiv)</p>
   </li>
 </ol>
-
-
-   </li>
-    
-    
- </ul>
 
 :ET
