@@ -13,3 +13,5 @@ permalink: /memo/
 [2022.12.11 matplotlib setting (FFT)](/memos/FFT.md)
 
 [2022.12.11 transverse Ising model](/memos/XX_gap.md)
+
+[2022.12.28 sympy plot](/memos/2_sympy_plot.md)
