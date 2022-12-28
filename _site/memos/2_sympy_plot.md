@@ -22,14 +22,21 @@ plot(1/x,(x,-1,1))
 
 
 
+
+
 ```python
 plot(gamma(x), (x, -5, 5), ylim=(-5,5))
 ```
 
 
+
+
     
 ![png](https://jinhong-park.github.io/memos/2_sympy_plot_files/2_sympy_plot_2_1.png)
     
+
+
+
 
 
 
@@ -50,6 +57,7 @@ plot(gamma(x), (x,-5,5), ylim=(-5,5), detect_poles=True, adaptive=False, n=2e4, 
 
 
 
+
 ```python
 plot(floor(x), (x,0,8))
 ```
@@ -63,6 +71,9 @@ plot(floor(x), (x,0,8))
 
 
 
+
+
+
 ```python
 plot(floor(x), (x,0,8), detect_poles=True)
 ```
@@ -71,6 +82,7 @@ plot(floor(x), (x,0,8), detect_poles=True)
     
 ![png](https://jinhong-park.github.io/memos/2_sympy_plot_files/2_sympy_plot_5_0.png)
     
+
 
 
 
@@ -109,22 +121,19 @@ plot(sin(x), cos(x), (x,-2*pi, 2*pi), backend = MB)
 
 
 
+
 ```python
 from sympy import *
 from spb import *
 
 x = Symbol('x')
-plot(sin(x), cos(x), (x,-2*pi, 2*pi), backend = BB) ## BB means Bokeh
+plot(sin(x), cos(x), (x,-2*pi, 2*pi), backend = MB) ## BB means Bokeh
 ```
 
 
-
-
-
-<div class="bk-root" id="d220fa84-d163-4145-8ad4-c5c80ef2f592" data-root-id="1145"></div>
-
-
-
+    
+![png](https://jinhong-park.github.io/memos/2_sympy_plot_files/2_sympy_plot_8_0.png)
+    
 
 
 
@@ -155,3 +164,40 @@ plot_polar(expr, (phi, 0, 2 * pi), polar_axis = True, ylim = (0,3), title = "$%s
 
 
 
+
+```python
+from sympy import *
+from spb import *
+
+z = Symbol('z')
+expr = log(z)
+plot_complex( expr, (z, -2-2j, 2+2j), coloring = 'b', title = '$' + latex(expr)+'$', backend=MB)   ## MB -> BB bokeh backend
+```
+
+
+    
+![png](https://jinhong-park.github.io/memos/2_sympy_plot_files/2_sympy_plot_11_0.png)
+    
+
+
+
+
+```python
+from sympy import *
+from spb import *
+import numpy as np
+
+
+u, v = symbols("u, v")
+
+plot3d_parametric_surface(1.2**v * sin(u)**2 * sin(v), 
+1.2**v * sin(u)**2 * cos(v), 
+1.2**v * sin(u)* cos(u), (u, 0, pi) , (v, -pi/4, 3*pi),
+wireframe = True,  use_cm = True, wf_n1 = 50, backend = MB)   ## MB -> PB plotly backend
+
+```
+
+
+    
+![png](https://jinhong-park.github.io/memos/2_sympy_plot_files/2_sympy_plot_12_0.png)
+    
