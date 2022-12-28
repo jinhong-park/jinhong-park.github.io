@@ -21,20 +21,10 @@ plot(1/x,(x,-1,1))
 
 
 
-    <spb.backends.matplotlib.MatplotlibBackend at 0x114c5a1a0>
-
-
-
 
 ```python
 plot(gamma(x), (x, -5, 5), ylim=(-5,5))
 ```
-
-    /Users/parkjinhong/.pyenv/versions/3.10.3/lib/python3.10/site-packages/adaptive/learner/learner1D.py:573: RuntimeWarning: invalid value encountered in subtract
-      self._scale[1] = np.max(y_max - y_min)
-    /Users/parkjinhong/.pyenv/versions/3.10.3/lib/python3.10/site-packages/adaptive/learner/learner1D.py:448: RuntimeWarning: invalid value encountered in true_divide
-      return y / y_scale
-
 
 
     
@@ -42,10 +32,6 @@ plot(gamma(x), (x, -5, 5), ylim=(-5,5))
     
 
 
-
-
-
-    <spb.backends.matplotlib.MatplotlibBackend at 0x13a262350>
 
 
 
@@ -63,10 +49,6 @@ plot(gamma(x), (x,-5,5), ylim=(-5,5), detect_poles=True, adaptive=False, n=2e4, 
 
 
 
-    <spb.backends.matplotlib.MatplotlibBackend at 0x13a371030>
-
-
-
 
 ```python
 plot(floor(x), (x,0,8))
@@ -81,11 +63,6 @@ plot(floor(x), (x,0,8))
 
 
 
-    <spb.backends.matplotlib.MatplotlibBackend at 0x13a5d08b0>
-
-
-
-
 ```python
 plot(floor(x), (x,0,8), detect_poles=True)
 ```
@@ -95,11 +72,6 @@ plot(floor(x), (x,0,8), detect_poles=True)
 ![png](https://jinhong-park.github.io/memos/2_sympy_plot_files/2_sympy_plot_5_0.png)
     
 
-
-
-
-
-    <spb.backends.matplotlib.MatplotlibBackend at 0x13a5d1450>
 
 
 
@@ -137,11 +109,6 @@ plot(sin(x), cos(x), (x,-2*pi, 2*pi), backend = MB)
 
 
 
-    <spb.backends.matplotlib.MatplotlibBackend at 0x13a9e9420>
-
-
-
-
 ```python
 from sympy import *
 from spb import *
@@ -159,11 +126,6 @@ plot(sin(x), cos(x), (x,-2*pi, 2*pi), backend = BB) ## BB means Bokeh
 
 
 
-
-
-
-
-    <spb.backends.bokeh.BokehBackend at 0x14a64d390>
 
 
 
@@ -189,9 +151,6 @@ plot_polar(expr, (phi, 0, 2 * pi), polar_axis = True, ylim = (0,3), title = "$%s
 
 
 
-
-
-    <spb.backends.matplotlib.MatplotlibBackend at 0x14b8123b0>
 
 
 
