@@ -1,6 +1,10 @@
-I"-<*<ul class="listing">
+I"6B*<ul class="listing">
 
 
+
+
+
+   
 
 
 
@@ -927,6 +931,30 @@
 
 
 
+    <li class="listing-seperator"><p>2022 wordcloud</p></li>
+
+  <li class="listing-item">
+	  	<dl class="wp-caption aligncenter" style="max-width: 300px">
+
+<dt><a href=""><img class="" src="/images/2022total.png" alt="A WordCloud of 2022 collection" /></a></dt>
+
+<dd>A WordCloud of 2022 collection</dd>
+</dl>
+
+<dl class="wp-caption aligncenter" style="max-width: 800px">
+
+<dt><a href=""><img class="" src="/images/2022total_count.png" alt="" /></a></dt>
+
+<dd></dd>
+</dl>
+
+
+  </li>
+  
+
+
+
+
     <li class="listing-seperator"><p>weekly picks (Dec 5 week 2022)</p></li>
 
   <li class="listing-item">
@@ -939,10 +967,22 @@
 
 <ol>
   <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214529">PhysRevB.106.214529</a></strong> Strong-coupling superconductivity and weak vortex pinning in Ta-doped ${\mathrm{CsV}}<em>{3}{\mathrm{Sb}}</em>{5}$ single crystals (kagome, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.214530">PhysRevB.106.214530</a></strong> Revisiting superconductivity in the extended one-band Hubbard model: Pairing via spin and charge fluctuations (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.224521">PhysRevB.106.224521</a></strong> Advanced approach of superconducting gap function extraction from tunneling experiments (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.106.L241114">PhysRevB.106.L241114</a></strong> Universality of charge doping driven metal-insulator transition in ${\mathrm{Sr}}<em>{2}{\mathrm{RhO}}</em>{4}$ and role of spin-orbit coupling (CKim, PRB)</p>
+  </li>
+  <li>
     <p><strong><a href="http://arxiv.org/abs/2212.13458">2212.13458</a></strong> Interaction between spin and Abrikosov vortices in doped topological insulators (arXiv)</p>
   </li>
   <li>
-    <p><strong><a href="http://arxiv.org/abs/2212.13526">2212.13526</a></strong> Decoding flat bands from compact localized states (JHu, arXiv)</p>
+    <p><strong><a href="http://arxiv.org/abs/2212.13526">2212.13526</a></strong> <strong>Decoding flat bands from compact localized states (JHu, arXiv)</strong></p>
   </li>
   <li>
     <p><strong><a href="http://arxiv.org/abs/2212.13580">2212.13580</a></strong> Advanced approach of superconducting gap function extraction from tunneling experiments (arXiv)</p>

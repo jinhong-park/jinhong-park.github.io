@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "2022 wordcloud"
+date:   2022-12-31 00:16:27
+categories: 2022dec
+---
+
+{% include image.html url="/images/2022total.png" caption="A WordCloud of 2022 collection" width=300 align="center" %}
+{% include image.html url="/images/2022total_count.png"  width=800 align="center" %}
+
+
+
