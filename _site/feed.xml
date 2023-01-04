@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jan 2023 10:02:27 +0900</pubDate>
-    <lastBuildDate>Wed, 04 Jan 2023 10:02:27 +0900</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2023 12:11:57 +0900</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2023 12:11:57 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.13319&quot;&gt;2212.13319&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Impact of Sb degrees of freedom on the charge density wave phase diagram of the kagome metal CsV$_3$Sb$_5$ (kagome, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.00824&quot;&gt;2301.00824&lt;/a&gt;&lt;/strong&gt; A Generic Topological Criterion for Flat Bands in Two Dimensions (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.024401&quot;&gt;PhysRevB.107.024401&lt;/a&gt;&lt;/strong&gt; Orbital and magnetic ordering in single-layer ${\mathrm{FePS}}_{3}$: A $\mathrm{DFT}+U$ study (PRB)&lt;/p&gt;
   &lt;/li&gt;
