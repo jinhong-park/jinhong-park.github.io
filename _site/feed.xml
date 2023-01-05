@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jan 2023 14:21:35 +0900</pubDate>
-    <lastBuildDate>Wed, 04 Jan 2023 14:21:35 +0900</lastBuildDate>
+    <pubDate>Thu, 05 Jan 2023 12:37:21 +0900</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2023 12:37:21 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,54 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01402&quot;&gt;2301.01402&lt;/a&gt;&lt;/strong&gt; Coexistence of bulk-nodal and surface-nodeless Cooper pairings in a superconducting Dirac semimetal (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01467&quot;&gt;2301.01467&lt;/a&gt;&lt;/strong&gt; Nodeless superconductivity in noncentrosymmetric LaRhSn (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01633&quot;&gt;2301.01633&lt;/a&gt;&lt;/strong&gt; Physical properties, electronic structure, and strain-tuned monolayer of the weak topological insulator RbTi3Bi5 with Kagome lattice (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01669&quot;&gt;2301.01669&lt;/a&gt;&lt;/strong&gt; Ultra-thin Epitaxial MgB2 on SiC: Substrate Surface Polarity Dependent Properties (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01301&quot;&gt;2301.01301&lt;/a&gt;&lt;/strong&gt; Strong correlation effects observed by an ANN-MFT encoder trained on $\alpha$-RuCl$_3$ high magnetic field data (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01363&quot;&gt;2301.01363&lt;/a&gt;&lt;/strong&gt; Gaussian-state Ansatz for the non-equilibrium dynamics of quantum spin lattices (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01403&quot;&gt;2301.01403&lt;/a&gt;&lt;/strong&gt; Atomic-scale Modulation of Synthetic Magnetic Order in Oxide Superlattices (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01444&quot;&gt;2301.01444&lt;/a&gt;&lt;/strong&gt; Magnetic properties of the layered heavy fermion antiferromagnet CePdGa$_6$ (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01509&quot;&gt;2301.01509&lt;/a&gt;&lt;/strong&gt; Magnetization dynamics with time-dependent spin-density functional theory: significance of exchange-correlation torques (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.01517&quot;&gt;2301.01517&lt;/a&gt;&lt;/strong&gt; Tuning a two-impurity Kondo system by a moir\‘e superstructure (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.016301&quot;&gt;PhysRevLett.130.016301&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Control over Berry Curvature Dipole with Electric Field in ${\mathrm{WTe}}_{2}$ (PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.014501&quot;&gt;PhysRevB.107.014501&lt;/a&gt;&lt;/strong&gt; High-angular-momentum topological superconductivities in twisted bilayer quasicrystal systems (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.024501&quot;&gt;PhysRevB.107.024501&lt;/a&gt;&lt;/strong&gt; Superconductivity of graphenelike hydrogen in ${\mathrm{H}}_{2}\mathrm{He}$ at high pressure (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.035105&quot;&gt;PhysRevB.107.035105&lt;/a&gt;&lt;/strong&gt; Particle zoo in a doped spin chain: Correlated states of mesons and magnons (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.045105&quot;&gt;PhysRevB.107.045105&lt;/a&gt;&lt;/strong&gt; Anomalous periodicity and parafermion hybridization in superconducting qubits (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.045301&quot;&gt;PhysRevB.107.045301&lt;/a&gt;&lt;/strong&gt; Electric-dipole spin resonance and spin orbit coupling effects in odd-integer quantum Hall edge channels (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2212.13319&quot;&gt;2212.13319&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Impact of Sb degrees of freedom on the charge density wave phase diagram of the kagome metal CsV$_3$Sb$_5$ (kagome, arXiv)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
@@ -45,7 +93,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.045402&quot;&gt;PhysRevB.107.045402&lt;/a&gt;&lt;/strong&gt; Interplay between exchange-split Dirac and Rashba-type surface states at the ${\mathrm{MnBi}}&lt;em&gt;{2}{\mathrm{Te}}&lt;/em&gt;{4}/\mathrm{BiTeI}$ interface (PRB)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/1&quot;&gt;2023-physics-1&lt;/a&gt;&lt;/strong&gt; Spin-Interaction Studies Take on a New Dimension (Physics)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/1&quot;&gt;2023-physics-1&lt;/a&gt;&lt;/strong&gt; Spin-Interaction Studies Take on a New Dimension (Physics) &lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2103.12742v3&quot;&gt;2103.12742v3&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Probing many-body dynamics in a two dimensional dipolar spin ensemble (NYao, arXiv)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.00472&quot;&gt;2301.00472&lt;/a&gt;&lt;/strong&gt; Bosonization of the interacting Su-Schrieffer-Heeger model (arXiv)&lt;/p&gt;
