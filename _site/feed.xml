@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Jan 2023 12:24:42 +0900</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2023 12:24:42 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 07 Jan 2023 12:59:06 +0900</pubDate>
+    <lastBuildDate>Sat, 07 Jan 2023 12:59:06 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 1 week 2023)</title>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.024405&quot;&gt;PhysRevB.107.024405&lt;/a&gt;&lt;/strong&gt; Polarized neutron scattering study of the centrosymmetric skyrmion host material ${\mathrm{Gd}}&lt;em&gt;{2}{\mathrm{PdSi}}&lt;/em&gt;{3}$ (skyrmion, PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05521-3&quot;&gt;s41586-022-05521-3&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Coupled ferroelectricity and superconductivity in bilayer Td-MoTe2 (TMDC, Nature)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
