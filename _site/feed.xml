@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2023 09:50:24 +0900</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2023 09:50:24 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 14 Jan 2023 21:04:18 +0900</pubDate>
+    <lastBuildDate>Sat, 14 Jan 2023 21:04:18 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 2 week 2023)</title>
@@ -20,6 +20,45 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.04801&quot;&gt;2301.04801&lt;/a&gt;&lt;/strong&gt; Anisotropic Enhancement of Lower Critical Field in Ultraclean Crystals of Spin-Triplet Superconductor UTe2 (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.04734&quot;&gt;2301.04734&lt;/a&gt;&lt;/strong&gt; Construction of Wannier functions from the spectral moments of correlated electron systems (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.04893&quot;&gt;2301.04893&lt;/a&gt;&lt;/strong&gt; Stripe Helical Magnetism and Two Regimes of Anomalous Hall Effect in NdAlGe (NdAlGe, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.026001&quot;&gt;PhysRevLett.130.026001&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Pair Density Wave Order from Electron Repulsion (SRaghu, PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.026701&quot;&gt;PhysRevLett.130.026701&lt;/a&gt;&lt;/strong&gt; Direct Optical Probe of Magnon Topology in Two-Dimensional Quantum Magnets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.026702&quot;&gt;PhysRevLett.130.026702&lt;/a&gt;&lt;/strong&gt; Suppressed Fluctuations as the Origin of the Static Magnetic Order in Strained ${\mathrm{Sr}}&lt;em&gt;{2}{\mathrm{RuO}}&lt;/em&gt;{4}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.014105&quot;&gt;PhysRevB.107.014105&lt;/a&gt;&lt;/strong&gt; Magnetic corner states in a two-dimensional gyromagnetic photonic crystal (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.014202&quot;&gt;PhysRevB.107.014202&lt;/a&gt;&lt;/strong&gt; Critical and topological phases of dimerized Kitaev chain in presence of quasiperiodic potential (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.014410&quot;&gt;PhysRevB.107.014410&lt;/a&gt;&lt;/strong&gt; Unconventional thermoelectric transport in tilted Weyl semimetals (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.035305&quot;&gt;PhysRevB.107.035305&lt;/a&gt;&lt;/strong&gt; Influence of Dirac cone warping and tilting on the Friedel oscillations in a topological insulator (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.035411&quot;&gt;PhysRevB.107.035411&lt;/a&gt;&lt;/strong&gt; Electrical tuning of valley polarization in monolayer transition metal dichalcogenides (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.035412&quot;&gt;PhysRevB.107.035412&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Remote control of spin polarization of topological corner states (PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.045118&quot;&gt;PhysRevB.107.045118&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Higher-order topological phases emerging from Su-Schrieffer-Heeger stacking (PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.026401&quot;&gt;PhysRevLett.130.026401&lt;/a&gt;&lt;/strong&gt; Unveiling and Manipulating Hidden Symmetries in Graphene Nanoribbons (PRL)&lt;/p&gt;
   &lt;/li&gt;
