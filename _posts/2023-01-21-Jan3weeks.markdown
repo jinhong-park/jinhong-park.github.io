@@ -5,7 +5,14 @@ date:   2023-01-16 00:16:27
 categories: 2023jan
 ---
 
-{% include image.html url="/images/2023jan3weeks.png" caption="A WordCloud of 2023 Jan 3rd week collection" width=300 align="center" %}
+
+{% include image.html url="/images/2023-1-nphys.png" caption="A WordCloud of 2023 Jan 3rd week collection" width=300 align="left" %}
+
+
+{% include image.html url="/images/2023jan3weeks.png" caption="A WordCloud of 2023 Jan 3rd week collection" width=300 align="right" %}
+
+
+
 
 1. **[s41586-022-05437-y](https://www.nature.com/articles/s41586-022-05437-y)** Magnetically mediated hole pairing in fermionic ladders of ultracold atoms (Nature)
 
