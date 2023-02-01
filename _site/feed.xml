@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Feb 2023 11:10:47 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2023 11:10:47 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2023 13:17:29 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2023 13:17:29 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,27 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.13234&quot;&gt;2301.13234&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Field Theoretic Aspects of Condensed Matter Physics: An Overview (Fradkin, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.13520&quot;&gt;2301.13520&lt;/a&gt;&lt;/strong&gt; Theoretical study of phonon-mediated superconductivity beyond Migdal-Eliashberg approximation and Coulomb pseudopotential (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.13726&quot;&gt;2301.13726&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Nodal line resonance generating the giant anomalous Hall effect of Co$_3$Sn$_2$S$_2$ (nodal line, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.13870&quot;&gt;2301.13870&lt;/a&gt;&lt;/strong&gt; Symmetry constraints and spectral crossing in a Mott insulator with Green’s function zeros (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.13707&quot;&gt;2301.13707&lt;/a&gt;&lt;/strong&gt; Topological features in the ferromagnetic Weyl semimetal CeAlSi: Role of domain walls (Ce-Weyl, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.13488&quot;&gt;2301.13488&lt;/a&gt;&lt;/strong&gt; Orientation-dependent electron-phonon coupling in interfacial superconductors LaAlO3/KTaO3 (el-ph coupling, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2301.13740&quot;&gt;2301.13740&lt;/a&gt;&lt;/strong&gt; Parity protected superconducting diode effect in topological Josephson junctions (DLoss, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.014207&quot;&gt;PhysRevB.107.014207&lt;/a&gt;&lt;/strong&gt; Localization and subdiffusive transport in quantum spin chains with dilute disorder (PRB)&lt;/p&gt;
   &lt;/li&gt;
