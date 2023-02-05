@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Feb 2023 13:09:00 +0900</pubDate>
-    <lastBuildDate>Fri, 03 Feb 2023 13:09:00 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sun, 05 Feb 2023 22:01:50 +0900</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2023 22:01:50 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Feb 1 week 2023)</title>
@@ -20,6 +20,21 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.129.167202&quot;&gt;PhysRevLett.129.167202&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Orbital Angular Momentum of Magnons in Collinear Magnets (PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054401&quot;&gt;PhysRevB.107.054401&lt;/a&gt;&lt;/strong&gt; Construction of entangled many-body states via the Higgs mechanism (EGMoon, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075108&quot;&gt;PhysRevB.107.075108&lt;/a&gt;&lt;/strong&gt; Isospin- and momentum-polarized orders in bilayer graphene (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.085101&quot;&gt;PhysRevB.107.085101&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Real-space entanglement spectra of lowest Landau level projected fractional quantum Hall states using Monte Carlo methods (QHE MC, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.085201&quot;&gt;PhysRevB.107.085201&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Topological contribution to magnetism in the Kane-Mele model: An explicit wave-function approach (Kane-Mele, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05610-3&quot;&gt;s41586-022-05610-3&lt;/a&gt;&lt;/strong&gt; Pseudospin-selective Floquet band engineering in black phosphorus (Floquet, Nature)&lt;/p&gt;
   &lt;/li&gt;
