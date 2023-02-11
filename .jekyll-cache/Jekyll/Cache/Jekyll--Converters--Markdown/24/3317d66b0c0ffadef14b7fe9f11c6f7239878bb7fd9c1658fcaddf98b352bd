@@ -1,4 +1,20 @@
-I"®3<dl class="wp-caption aligncenter" style="max-width: 300px">
+I"ê;<ul class="listing">
+
+
+<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
+<br />
+<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
+<br />
+<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
+
+ 
+
+
+
+<li class="listing-seperator"><p>weekly picks (Feb 2 week 2023)</p></li>
+
+   <li class="listing-item">
+           <dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023feb2weeks.png" alt="A WordCloud of 2023 Feb 2nd week collection" /></a></dt>
 
@@ -6,6 +22,27 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.064411">PhysRevB.107.064411</a></strong> Strong higher-order angular dependence of spin-orbit torque in W/CoFeB bilayer (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.085408">PhysRevB.107.085408</a></strong> Probing topological signatures in an optically driven $\ensuremath{\alpha}\ensuremath{-}{T}_{3}$ lattice (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.085411">PhysRevB.107.085411</a></strong> Intrinsic layer-polarized anomalous Hall effect in bilayer $\mathrm{Mn}{\mathrm{Bi}}<em>{2}{\mathrm{Te}}</em>{4}$ (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.L060502">PhysRevB.107.L060502</a></strong> Change of superconducting character in ${\mathrm{UTe}}_{2}$ induced by magnetic field (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.066001">PhysRevLett.130.066001</a></strong> Tunable Superconductivity and Mobius Fermi Surfaces in an Inversion-Symmetric Twisted van der Waals Heterostructure (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.066302">PhysRevLett.130.066302</a></strong> Multichannel Topological Kondo Effect (topological Kondo, PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.066701">PhysRevLett.130.066701</a></strong> Magnon Interference Tunneling Spectroscopy as a Probe of 2D Magnetism (PRL)</p>
+  </li>
   <li>
     <p><strong><a href="http://arxiv.org/abs/2302.04489">2302.04489</a></strong> Robust topological superconductivity in spin-orbit coupled systems at higher-order van Hove filling (arXiv.org)</p>
   </li>
@@ -187,5 +224,11 @@
     <p><strong><a href="http://arxiv.org/abs/2302.01870">2302.01870</a></strong> Universality of the {\bf q}=1/2 Orbital Magnetism in the Pseudogap Phase of the High-$T_c$ superconductor $\rm YBa_{2}Cu_{3}O_{6+x}$ (arXiv)</p>
   </li>
 </ol>
+
+
+   </li>
+    
+    
+ </ul>
 
 :ET
