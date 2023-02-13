@@ -1,14 +1,8 @@
----
-layout: page
-title: weekly picks
-permalink: /categories/
----
-  <a href="../../fulllist"><b>   Full list</b></a> 
-
+I"ÙN<p><a href="../../fulllist"><b>   Full list</b></a></p>
 
 <!--  2023 begin -->
 
- <table>
+<table>
        <caption>  </caption>
    <thead>
          <tr> <th><p>2023</p></th> </tr>
@@ -117,9 +111,9 @@ permalink: /categories/
      <th> <a href="../blog/2023/02/Feb2weeks">Feb2w</a>  </th>
      <th> <a href="../blog/2023/02/Feb3weeks">Feb3w</a>  </th>
   <!--    <th> <a href="../blog/2023/02/Feb4weeks">Feb4w</a>  </th>       -->
-</tr>
+&lt;/tr&gt;
     
--->    
+--&gt;    
     
 <tr>
      <th> <a href="../blog/2023/01/Jan1weeks">Jan1w</a> </th>
@@ -131,20 +125,14 @@ permalink: /categories/
     
    </tbody>
  </table>
-  
-  <br>
+
+<p><br /></p>
 
 <!--  2023 end -->
 
-
-
-
-
-
-
 <!--  2022 begin -->
 
- <table>
+<table>
        <caption>  </caption>
    <thead>
          <tr> <th><p>2022</p></th> </tr>
@@ -265,17 +253,14 @@ permalink: /categories/
     
    </tbody>
  </table>
-  
-  <br>
+
+<p><br /></p>
 
 <!--  2022 end -->
 
-
-
-
 <!--  2021 begin -->
 
- <table>
+<table>
        <caption>  </caption>
    <thead>
          <tr> <th><p>2021</p></th> </tr>
@@ -395,14 +380,14 @@ permalink: /categories/
 	
    </tbody>
  </table>
-  
-  <br>
+
+<p><br /></p>
 
 <!--  2021 end -->
 
 <!--  2020 begin -->
 
- <table>
+<table>
        <caption>  </caption>
    <thead>
          <tr> <th><p>2020</p></th> </tr>
@@ -509,15 +494,14 @@ permalink: /categories/
 	
    </tbody>
  </table>
-  
-  <br>
+
+<p><br /></p>
 
 <!--  2020 end -->
 
 <!--  2019 begin -->
 
-
-  <table>
+<table>
        <caption>  </caption>
        <thead>
          <tr>
@@ -619,10 +603,10 @@ permalink: /categories/
        
 </tbody>
      </table>
-  
-  <br>
 
- <table>
+<p><br /></p>
+
+<table>
       <caption>   </caption>
       <thead>
         <tr>
@@ -643,3 +627,4 @@ permalink: /categories/
         </tr>
       </tbody>
     </table>
+:ET
