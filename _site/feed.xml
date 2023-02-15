@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Feb 2023 12:27:39 +0900</pubDate>
-    <lastBuildDate>Tue, 14 Feb 2023 12:27:39 +0900</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2023 12:46:03 +0900</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2023 12:46:03 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,69 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.06645&quot;&gt;2302.06645&lt;/a&gt;&lt;/strong&gt; Atomistic modeling of a superconductor-transition-metal dichalcogenide-superconductor Josephson junction (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.06765&quot;&gt;2302.06765&lt;/a&gt;&lt;/strong&gt; Singlet, Triplet and Pair Density Wave Superconductivity in the Doped Triangular-Lattice Moire System (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.06823&quot;&gt;2302.06823&lt;/a&gt;&lt;/strong&gt; Proximity-induced quasi-one-dimensional superconducting quantum anomalous Hall state: a promising scalable top-down approach towards localized Majorana modes (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.07094&quot;&gt;2302.07094&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Andreev reflection in Euler materials (Euler materials, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.07113&quot;&gt;2302.07113&lt;/a&gt;&lt;/strong&gt; Pressure-tunable magnetic topological phases in magnetic topological insulator MnSb4Te7 (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.06633&quot;&gt;2302.06633&lt;/a&gt;&lt;/strong&gt; Fluctuation-dominated quantum oscillations in excitonic insulators (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.06635&quot;&gt;2302.06635&lt;/a&gt;&lt;/strong&gt; Hybrid Dyons, inverted Lorentz force and magnetic Nernst effect in quantum spin ice (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.06642&quot;&gt;2302.06642&lt;/a&gt;&lt;/strong&gt; Raman scattering study of multimagnon (bi- and tri-magnon) excitations and rotonlike points in the distorted triangular lattice antiferromagnet (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.06964&quot;&gt;2302.06964&lt;/a&gt;&lt;/strong&gt; Laser-induced topological spin switching in a 2D van der Waals magnet (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.07007&quot;&gt;2302.07007&lt;/a&gt;&lt;/strong&gt; Magnetic excitations in the topological semimetal $\mathrm{YbMnSb}_2$ (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.07242&quot;&gt;2302.07242&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Spin wave Hamiltonian and anomalous scattering in NiPS$_3$ (NiPS3, arXiv.org)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.076203&quot;&gt;PhysRevLett.130.076203&lt;/a&gt;&lt;/strong&gt; Bottom-Up Growth of Monolayer Honeycomb SiC (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.076701&quot;&gt;PhysRevLett.130.076701&lt;/a&gt;&lt;/strong&gt; Dynamical Axions in $U(1)$ Quantum Spin Liquids (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.076801&quot;&gt;PhysRevLett.130.076801&lt;/a&gt;&lt;/strong&gt; Multiple Local Symmetries Result in a Common Average Polar Axis in High-Strain ${\mathrm{BiFeO}}_{3}$-Based Ceramics (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054104&quot;&gt;PhysRevB.107.054104&lt;/a&gt;&lt;/strong&gt; Two-dimensional crystal phases of graphene monoxide (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054105&quot;&gt;PhysRevB.107.054105&lt;/a&gt;&lt;/strong&gt; Exploring interacting topological insulator in the extended Su-Schrieffer-Heeger model (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054106&quot;&gt;PhysRevB.107.054106&lt;/a&gt;&lt;/strong&gt; Comparative structural evolution under pressure of powder and single crystals of the layered antiferromagnet ${\mathrm{FePS}}_{3}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.064418&quot;&gt;PhysRevB.107.064418&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Dimensionality-driven in-plane antiferromagnetism in two-dimensional ${\mathrm{SrRuO}}_{3}$ (SRO, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075134&quot;&gt;PhysRevB.107.075134&lt;/a&gt;&lt;/strong&gt; Magnetic barrier and electric field effects on exciton-polaron relaxation and transport properties in transition metal dichalcogenide monolayers (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075419&quot;&gt;PhysRevB.107.075419&lt;/a&gt;&lt;/strong&gt; Charge quenching at defect states in transition metal dichalcogenide–graphene van der Waals heterobilayers (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s17&quot;&gt;s17&lt;/a&gt;&lt;/strong&gt; How To Grow Silicon Carbide (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.05616&quot;&gt;2302.05616&lt;/a&gt;&lt;/strong&gt; Evidence for three-dimensional Dirac semimetal state in strongly correlated organic quasi-two-dimensional material (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
