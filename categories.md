@@ -106,9 +106,9 @@ permalink: /categories/
     
 <tr>
      <th> <a href="../blog/2023/03/Mar1weeks">Mar1w</a> </th>
-     <th> <a href="../blog/2023/03/Mar2weeks">Mar2w</a>  </th>
+  <!--     <th> <a href="../blog/2023/03/Mar2weeks">Mar2w</a>  </th>
      <th> <a href="../blog/2023/03/Mar3weeks">Mar3w</a>  </th>
-     <th> <a href="../blog/2023/03/Mar4weeks">Mar4w</a>  </th>
+     <th> <a href="../blog/2023/03/Mar4weeks">Mar4w</a>  </th>        -->
     </tr>
     
 -->
@@ -117,7 +117,7 @@ permalink: /categories/
      <th> <a href="../blog/2023/02/Feb1weeks">Feb1w</a> </th>
      <th> <a href="../blog/2023/02/Feb2weeks">Feb2w</a>  </th>
      <th> <a href="../blog/2023/02/Feb3weeks">Feb3w</a>  </th>
-  <!--    <th> <a href="../blog/2023/02/Feb4weeks">Feb4w</a>  </th>       -->
+    <th> <a href="../blog/2023/02/Feb4weeks">Feb4w</a>  </th>    
 </tr>
     
 
