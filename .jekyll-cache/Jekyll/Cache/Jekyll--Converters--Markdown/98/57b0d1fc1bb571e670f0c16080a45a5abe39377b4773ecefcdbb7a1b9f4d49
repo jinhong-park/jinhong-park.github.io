@@ -1,4 +1,20 @@
-I"ÿH<dl class="wp-caption aligncenter" style="max-width: 300px">
+I"ÔL<ul class="listing">
+
+
+<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
+<br />
+<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
+<br />
+<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
+
+ 
+
+
+
+<li class="listing-seperator"><p>weekly picks (Feb 4 week 2023)</p></li>
+
+   <li class="listing-item">
+           <dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023feb4weeks.png" alt="A WordCloud of 2023 Feb 4th week collection" /></a></dt>
 
@@ -6,6 +22,12 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.054436">PhysRevB.107.054436</a></strong> Topological Hall effect in three-dimensional centrosymmetric magnetic skyrmion crystals (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.064423">PhysRevB.107.064423</a></strong> Temperature dependence of current-driven and Brownian skyrmion dynamics in ferrimagnets with compensation point (PRB)</p>
+  </li>
   <li>
     <p><strong><a href="https://www.nature.com/articles/s41586-023-05731-3">s41586-023-05731-3</a></strong> <strong>Topological spin texture in the pseudogap phase of a high-Tc superconductor (skyrmion cuprate, Nature)</strong></p>
   </li>
@@ -262,4 +284,10 @@
     <p><strong><a href="https://www.science.org/doi/10.1126/sciadv.add7194">sciadv.add7194</a></strong> Electric field-dependent phonon spectrum and heat conduction in ferroelectrics (Science Advances)</p>
   </li>
 </ol>
+
+   </li>
+    
+    
+ </ul>
+
 :ET
