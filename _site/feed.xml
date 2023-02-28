@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Feb 2023 19:25:33 +0900</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2023 19:25:33 +0900</lastBuildDate>
+    <pubDate>Tue, 28 Feb 2023 13:02:50 +0900</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2023 13:02:50 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,45 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054206&quot;&gt;PhysRevB.107.054206&lt;/a&gt;&lt;/strong&gt; Electronic states of a disordered two-dimensional quasiperiodic tiling: From critical states to Anderson localization (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054438&quot;&gt;PhysRevB.107.054438&lt;/a&gt;&lt;/strong&gt; Spin wave spectra of single crystal ${\mathrm{CoPS}}_{3}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075438&quot;&gt;PhysRevB.107.075438&lt;/a&gt;&lt;/strong&gt; Elementary excitations of a system of one-dimensional chiral fermions with short-range interactions (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.064428&quot;&gt;PhysRevB.107.064428&lt;/a&gt;&lt;/strong&gt; Spin excitation in the coupled honeycomb lattice compound ${\mathrm{Ni}}&lt;em&gt;{2}{\mathrm{InSbO}}&lt;/em&gt;{6}$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.064511&quot;&gt;PhysRevB.107.064511&lt;/a&gt;&lt;/strong&gt; Nuclear spin relaxation rate of nonunitary Dirac and Weyl superconductors (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075153&quot;&gt;PhysRevB.107.075153&lt;/a&gt;&lt;/strong&gt; Topological invariants based on generalized position operators and application to the interacting Rice-Mele model (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075156&quot;&gt;PhysRevB.107.075156&lt;/a&gt;&lt;/strong&gt; Phase diagram of twisted bilayer graphene at filling factor $\ensuremath{\nu}=\ifmmode\pm\else\textpm\fi{}3$ (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054109&quot;&gt;PhysRevB.107.054109&lt;/a&gt;&lt;/strong&gt; Kitaev formula for periodic, quasicrystal, and fractal Floquet topological insulators (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075152&quot;&gt;PhysRevB.107.075152&lt;/a&gt;&lt;/strong&gt; Revealing the band structure of ${\mathrm{ZrTe}}_{5}$ using multicarrier transport (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075436&quot;&gt;PhysRevB.107.075436&lt;/a&gt;&lt;/strong&gt; Monolayer and bilayer ${\mathrm{PtCl}}_{3}$: Energetics, magnetism, and band topology (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075437&quot;&gt;PhysRevB.107.075437&lt;/a&gt;&lt;/strong&gt; Realization of a three-dimensional quantum Hall effect in a Zeeman-induced second-order topological insulator on a torus (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.L081114&quot;&gt;PhysRevB.107.L081114&lt;/a&gt;&lt;/strong&gt; Nematic spectral signatures of the Hund’s metal (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054437&quot;&gt;PhysRevB.107.054437&lt;/a&gt;&lt;/strong&gt; Programmable skyrmion-based logic gates in a single nanotrack (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.12377&quot;&gt;2302.12377&lt;/a&gt;&lt;/strong&gt; Impact of the orbital current order on the superconducting properties of the kagome superconductors (arXiv)&lt;/p&gt;
   &lt;/li&gt;
