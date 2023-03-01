@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Feb 2023 15:37:32 +0900</pubDate>
-    <lastBuildDate>Tue, 28 Feb 2023 15:37:32 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Wed, 01 Mar 2023 21:23:33 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Mar 2023 21:23:33 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Mar 1 week 2023)</title>
@@ -20,6 +20,51 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.14612&quot;&gt;2302.14612&lt;/a&gt;&lt;/strong&gt; Multiple-q current states in a multicomponent superconducting channel (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.14855&quot;&gt;2302.14855&lt;/a&gt;&lt;/strong&gt; Discovery of Orbital Ordering in Bi$&lt;em&gt;2$Sr$_2$CaCu$_2$O$&lt;/em&gt;{8+x}$ (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.14073&quot;&gt;2302.14073&lt;/a&gt;&lt;/strong&gt; Phonon Thermal Hall Effect in a non-Kramers Paramagnet (Phonon Thermal Hall Effect, arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.14328&quot;&gt;2302.14328&lt;/a&gt;&lt;/strong&gt; Emergent glassiness in disorder-free Kitaev model (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.011027&quot;&gt;PhysRevX.13.011027&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Transverse Peierls Transition (XDai, PRX)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.090201&quot;&gt;PhysRevLett.130.090201&lt;/a&gt;&lt;/strong&gt; Proofs of Network Quantum Nonlocality in Continuous Families of Distributions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.096903&quot;&gt;PhysRevLett.130.096903&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Chiral Light Amplifier with Pumped Weyl Semimetals (PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054439&quot;&gt;PhysRevB.107.054439&lt;/a&gt;&lt;/strong&gt; Noncollinear twisted RKKY interaction on the optically driven SnTe(001) surface (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054442&quot;&gt;PhysRevB.107.054442&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Linear response based theories for Dzyaloshinskii-Moriya interactions (PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.064429&quot;&gt;PhysRevB.107.064429&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnons, magnon bound pairs, and their hybrid spin-multipolar topology (DLoss, PRB)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.075443&quot;&gt;PhysRevB.107.075443&lt;/a&gt;&lt;/strong&gt; Electronic, spintronic, and piezoelectric properties of new Janus $\mathrm{Zn}AXY$ ($A=\mathrm{Si},\mathrm{Ge},\mathrm{Sn}$, and $X,Y=\mathrm{S},\mathrm{Se},\mathrm{Te}$) monolayers (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.085151&quot;&gt;PhysRevB.107.085151&lt;/a&gt;&lt;/strong&gt; Floquet engineering of magnetic topological insulator ${\mathrm{MnBi}}&lt;em&gt;{2}{\mathrm{Te}}&lt;/em&gt;{4}$ films (floquet, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.085152&quot;&gt;PhysRevB.107.085152&lt;/a&gt;&lt;/strong&gt; Inhomogeneous magnetic fields interacting with spinful states in a double quantum dot: Evidence for a staggered spin-orbit interaction (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.L081405&quot;&gt;PhysRevB.107.L081405&lt;/a&gt;&lt;/strong&gt; Shear-strain controlled high-harmonic generation in graphene (strain graphene, PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s24&quot;&gt;s24&lt;/a&gt;&lt;/strong&gt; New Amplifier Works in High Magnetic Fields (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2302.12988&quot;&gt;2302.12988&lt;/a&gt;&lt;/strong&gt; The Isotope Effect and Critical Magnetic Fields of Superconducting YH$_{6}$: A Migdal-Eliashberg Theory Approach (arXiv)&lt;/p&gt;
   &lt;/li&gt;

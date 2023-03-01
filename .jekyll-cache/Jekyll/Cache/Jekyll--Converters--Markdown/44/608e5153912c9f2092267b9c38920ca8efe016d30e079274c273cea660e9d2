@@ -1,20 +1,4 @@
-I"þ!<ul class="listing">
-
-
-<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
-<br />
-<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
-<br />
-<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
-
- 
-
-
-
-<li class="listing-seperator"><p>weekly picks (Mar 1 week 2023)</p></li>
-
-   <li class="listing-item">
-           <dl class="wp-caption aligncenter" style="max-width: 300px">
+I"•,<dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023mar1weeks.png" alt="A WordCloud of 2023 Mar 1st week collection" /></a></dt>
 
@@ -22,6 +6,51 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2302.14612">2302.14612</a></strong> Multiple-q current states in a multicomponent superconducting channel (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2302.14855">2302.14855</a></strong> Discovery of Orbital Ordering in Bi$<em>2$Sr$_2$CaCu$_2$O$</em>{8+x}$ (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2302.14073">2302.14073</a></strong> Phonon Thermal Hall Effect in a non-Kramers Paramagnet (Phonon Thermal Hall Effect, arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2302.14328">2302.14328</a></strong> Emergent glassiness in disorder-free Kitaev model (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevX.13.011027">PhysRevX.13.011027</a></strong> <strong>Transverse Peierls Transition (XDai, PRX)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.090201">PhysRevLett.130.090201</a></strong> Proofs of Network Quantum Nonlocality in Continuous Families of Distributions (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.096903">PhysRevLett.130.096903</a></strong> <strong>Chiral Light Amplifier with Pumped Weyl Semimetals (PRL)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.054439">PhysRevB.107.054439</a></strong> Noncollinear twisted RKKY interaction on the optically driven SnTe(001) surface (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.054442">PhysRevB.107.054442</a></strong> <strong>Linear response based theories for Dzyaloshinskii-Moriya interactions (PRB)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.064429">PhysRevB.107.064429</a></strong> <strong>Magnons, magnon bound pairs, and their hybrid spin-multipolar topology (DLoss, PRB)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.075443">PhysRevB.107.075443</a></strong> Electronic, spintronic, and piezoelectric properties of new Janus $\mathrm{Zn}AXY$ ($A=\mathrm{Si},\mathrm{Ge},\mathrm{Sn}$, and $X,Y=\mathrm{S},\mathrm{Se},\mathrm{Te}$) monolayers (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.085151">PhysRevB.107.085151</a></strong> Floquet engineering of magnetic topological insulator ${\mathrm{MnBi}}<em>{2}{\mathrm{Te}}</em>{4}$ films (floquet, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.085152">PhysRevB.107.085152</a></strong> Inhomogeneous magnetic fields interacting with spinful states in a double quantum dot: Evidence for a staggered spin-orbit interaction (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.L081405">PhysRevB.107.L081405</a></strong> Shear-strain controlled high-harmonic generation in graphene (strain graphene, PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://physics.aps.org/articles/v16/s24">s24</a></strong> New Amplifier Works in High Magnetic Fields (Physics)</p>
+  </li>
   <li>
     <p><strong><a href="http://arxiv.org/abs/2302.12988">2302.12988</a></strong> The Isotope Effect and Critical Magnetic Fields of Superconducting YH$_{6}$: A Migdal-Eliashberg Theory Approach (arXiv)</p>
   </li>
@@ -137,10 +166,4 @@
     <p><strong><a href="http://arxiv.org/abs/2302.12672">2302.12672</a></strong> Dielectric tunability of magnetic properties in orthorhombic ferromagnetic monolayer CrSBr (arXiv)</p>
   </li>
 </ol>
-
-   </li>
-    
-    
- </ul>
-
 :ET
