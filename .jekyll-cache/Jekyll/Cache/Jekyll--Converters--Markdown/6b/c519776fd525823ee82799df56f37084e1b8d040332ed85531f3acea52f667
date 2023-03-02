@@ -1,20 +1,4 @@
-I"�.<ul class="listing">
-
-
-<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
-<br />
-<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
-<br />
-<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
-
- 
-
-
-
-<li class="listing-seperator"><p>weekly picks (Mar 1 week 2023)</p></li>
-
-   <li class="listing-item">
-           <dl class="wp-caption aligncenter" style="max-width: 300px">
+I"X3<dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023mar1weeks.png" alt="A WordCloud of 2023 Mar 1st week collection" /></a></dt>
 
@@ -22,6 +6,30 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevX.13.011028">PhysRevX.13.011028</a></strong> Interference Measurements of Non-Abelian $e/4$ &amp; Abelian $e/2$ Quasiparticle Braiding (PRX)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.090202">PhysRevLett.130.090202</a></strong> One-Photon Measurement of Two-Photon Entanglement (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.091403">PhysRevLett.130.091403</a></strong> Vanishing of Black Hole Tidal Love Numbers from Scattering Amplitudes (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.096301">PhysRevLett.130.096301</a></strong> <strong>Probing Fermi Sea Topology by Andreev State Transport (CKane, PRL)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.125102">PhysRevB.107.125102</a></strong> <strong>Engineering axion insulator and other topological phases in superlattices without inversion symmetry (PRB)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.094201">PhysRevB.107.094201</a></strong> Molecular-orbital representation with random U(1) variables (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.115301">PhysRevB.107.115301</a></strong> Moir\‘e phonons in graphene/hexagonal boron nitride moir\‘e superlattice (PRB)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevB.107.125101">PhysRevB.107.125101</a></strong> Anomalous chiral magnetic effect in time reversal symmetry breaking Weyl semimetals (PRB)</p>
+  </li>
   <li>
     <p><strong><a href="http://arxiv.org/abs/2302.14612">2302.14612</a></strong> Multiple-q current states in a multicomponent superconducting channel (arXiv.org)</p>
   </li>
@@ -182,10 +190,4 @@
     <p><strong><a href="http://arxiv.org/abs/2302.12672">2302.12672</a></strong> Dielectric tunability of magnetic properties in orthorhombic ferromagnetic monolayer CrSBr (arXiv)</p>
   </li>
 </ol>
-
-   </li>
-    
-    
- </ul>
-
 :ET
