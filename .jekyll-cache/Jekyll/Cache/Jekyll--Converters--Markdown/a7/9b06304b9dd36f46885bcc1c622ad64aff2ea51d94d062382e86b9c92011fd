@@ -1,4 +1,20 @@
-I"ù<dl class="wp-caption aligncenter" style="max-width: 300px">
+I"d&<ul class="listing">
+
+
+<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
+<br />
+<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
+<br />
+<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
+
+ 
+
+
+
+<li class="listing-seperator"><p>weekly picks (Mar 3 week 2023)</p></li>
+
+   <li class="listing-item">
+           <dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023mar3weeks.png" alt="A WordCloud of 2023 Mar 3rd week collection" /></a></dt>
 
@@ -6,6 +22,27 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.116204">PhysRevLett.130.116204</a></strong> Connecting Higher-Order Topology with the Orbital Hall Effect in Monolayers of Transition Metal Dichalcogenides (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.09156">2303.09156</a></strong> Ground-State Phase Diagram of the Kitaev-Heisenberg Model on a Three-dimensional Hyperhoneycomb Lattice (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.09288">2303.09288</a></strong> Fractionalized Excitations Probed by Ultrasound (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.09507">2303.09507</a></strong> Resonant inelastic x-ray scattering data for Ruddlesden-Popper and reduced Ruddlesden-Popper nickelates (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.09052">2303.09052</a></strong> Superconducting Diode Effect and Large Magnetochiral Anisotropy in T$_d$-MoTe$_2$ Thin Film (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.09108">2303.09108</a></strong> Manipulating the nematic director by magnetic fields in the spin-triplet superconducting state of CuxBi2Se3 (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.nature.com/articles/s41586-023-05731-3">s41586-023-05731-3</a></strong> Topological spin texture in the pseudogap phase of a high-Tc superconductor (Nature)</p>
+  </li>
   <li>
     <p><strong><a href="http://arxiv.org/abs/2303.08247">2303.08247</a></strong> High-$T_c$ superconductors as a New Playground for High-order Van Hove singularities and Flat-band Physics (arXiv.org)</p>
   </li>
@@ -121,4 +158,10 @@
     <p><strong><a href="http://arxiv.org/abs/2303.06077">2303.06077</a></strong> Return of the phonons: Planckian scattering emerges from vibronic dynamics (arXiv)</p>
   </li>
 </ol>
+
+   </li>
+    
+    
+ </ul>
+
 :ET
