@@ -1,20 +1,4 @@
-I"?<ul class="listing">
-
-
-<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
-<br />
-<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
-<br />
-<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
-
- 
-
-
-
-<li class="listing-seperator"><p>weekly picks (Mar 4 week 2023)</p></li>
-
-   <li class="listing-item">
-           <dl class="wp-caption aligncenter" style="max-width: 300px">
+I"ú!<dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023mar4weeks.png" alt="A WordCloud of 2023 Mar 4th week collection" /></a></dt>
 
@@ -22,6 +6,57 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.126702">PhysRevLett.130.126702</a></strong> <strong>Distinct Magnetic Gaps between Antiferromagnetic and Ferromagnetic Orders Driven by Surface Defects in the Topological Magnet ${\mathrm{MnBi}}<em>{2}{\mathrm{Te}}</em>{4}$ (Binghai, PRL)</strong></p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.126701">PhysRevLett.130.126701</a></strong> Imprinting Spatial Helicity Structure of Vector Vortex Beam on Spin Texture in Semiconductors (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://physics.aps.org/articles/v16/50">50</a></strong> Beaming in a Spin Texture (Physics)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.science.org/doi/abs/10.1126/science.abq5375">science.abq5375</a></strong> Visualizing the atomic-scale origin of metallic behavior in Kondo insulators (Science)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12833">2303.12833</a></strong> Emergence of Chern Supermetal and Pair-Density Wave through Higher-Order Van Hove Singularities in the Haldane-Hubbard Model (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12977">2303.12977</a></strong> Anharmonic theory of superconductivity and its applications to emerging quantum materials (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12825">2303.12825</a></strong> Single-parameter variational wavefunctions for quantum Hall bilayers (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12956">2303.12956</a></strong> Thermodynamic evidence for electron correlation-driven flattening of the quasiparticle bands in the high-Tc cuprates (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.13144">2303.13144</a></strong> Topological classification of non-Hermitian Hamiltonians with frequency dependence (arXiv.org)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.126303">PhysRevLett.130.126303</a></strong> Intrinsic Nonlinear Planar Hall Effect (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.126001">PhysRevLett.130.126001</a></strong> Pair-Density-Wave and Chiral Superconductivity in Twisted Bilayer Transition Metal Dichalcogenides (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12142">2303.12142</a></strong> Transient dynamics and quantum phase diagram for the square lattice Rashba-Hubbard model at arbitrary hole doping (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12144">2303.12144</a></strong> The topological Hall effect in CeAlGe (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12252">2303.12252</a></strong> Geometric aspects of nonlinear and nonequilibrium phenomena (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12273">2303.12273</a></strong> Electronic Correlation Effects on Stabilizing a Perfect Kagome Lattice and Ferromagnetic Fluctuation in LaRu$_3$Si$_2$ (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12661">2303.12661</a></strong> Crystal field excitation in the chiral helimagnet YbNi$_3$Al$_9$ (arXiv)</p>
+  </li>
+  <li>
+    <p><strong><a href="http://arxiv.org/abs/2303.12575">2303.12575</a></strong> First-principles study on the superconductivity of N-doped fcc-LuH3 (LuH2, arXiv)</p>
+  </li>
   <li>
     <p><strong><a href="http://arxiv.org/abs/2303.11345">2303.11345</a></strong> Superconductivity in Monolayer WTe$_2$ from repulsive interactions (arXiv.org)</p>
   </li>
@@ -101,10 +136,4 @@
     <p><strong><a href="http://arxiv.org/abs/2303.09844">2303.09844</a></strong> Observation of Rydberg moir\â€˜e excitons (arXiv)</p>
   </li>
 </ol>
-
-   </li>
-    
-    
- </ul>
-
 :ET
