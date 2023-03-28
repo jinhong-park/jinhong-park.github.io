@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Mar 2023 10:35:25 +0900</pubDate>
-    <lastBuildDate>Tue, 28 Mar 2023 10:35:25 +0900</lastBuildDate>
+    <pubDate>Tue, 28 Mar 2023 11:42:40 +0900</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2023 11:42:40 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -21,10 +21,49 @@
 
 &lt;ol&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14673&quot;&gt;2303.14673&lt;/a&gt;&lt;/strong&gt; Type III superconductivity (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14236&quot;&gt;2303.14236&lt;/a&gt;&lt;/strong&gt; Andreev reflection in altermagnets (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.15432&quot;&gt;2303.15432&lt;/a&gt;&lt;/strong&gt; Visualizing the atomic-scale origin of metallic behavior in Kondo insulators (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.15398&quot;&gt;2303.15398&lt;/a&gt;&lt;/strong&gt; Switching the Magnetization in Quantum Antiferromagnets (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.15358&quot;&gt;2303.15358&lt;/a&gt;&lt;/strong&gt; Comprehensive mean-field analysis of magnetic and charge orders in the two-dimensional Hubbard mode (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14973&quot;&gt;2303.14973&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Optical transitions of a single nodal ring in SrAs$_3$: radially and axially resolved characterization (nodal ring, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14627&quot;&gt;2303.14627&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Symmetry analysis of light-induced magnetic interactions via Floquet engineering (Hayami, arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14903&quot;&gt;2303.14903&lt;/a&gt;&lt;/strong&gt; Strong Inter-valley Electron-Phonon Coupling in Magic-Angle Twisted Bilayer Graphene (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.15283&quot;&gt;2303.15283&lt;/a&gt;&lt;/strong&gt; Controlling magnetic skyrmion nucleation with Ga+ ion irradiation (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14853&quot;&gt;2303.14853&lt;/a&gt;&lt;/strong&gt; Homochiral antiferromagnetic merons, antimerons and bimerons realized in synthetic antiferromagnets (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14843&quot;&gt;2303.14843&lt;/a&gt;&lt;/strong&gt; Compact localised states in magnonic Lieb lattices (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14794&quot;&gt;2303.14794&lt;/a&gt;&lt;/strong&gt; Anomalous open orbits in Hofstadter spectrum of Chern insulator (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.14635&quot;&gt;2303.14635&lt;/a&gt;&lt;/strong&gt; Kerr, Faraday, and Magnetoelectric Effects in MnBi$_2$Te$_4$ Thin Films (MacDonald, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.011046&quot;&gt;PhysRevX.13.011046&lt;/a&gt;&lt;/strong&gt; Direct Observation of Quantum Anomalous Vortex in Fe(Se,Te) (PRX)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/47&quot;&gt;47&lt;/a&gt;&lt;/strong&gt; Superconducting Vortices Made Without Magnetic Fields (Physics)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/47&quot;&gt;47&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Superconducting Vortices Made Without Magnetic Fields (Physics)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.13704&quot;&gt;2303.13704&lt;/a&gt;&lt;/strong&gt; Two-fold symmetric superconductivity in the kagome superconductor RbV3Sb5 (kagome, arXiv)&lt;/p&gt;
