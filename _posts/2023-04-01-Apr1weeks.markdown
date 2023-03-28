@@ -1,12 +1,19 @@
 ---
 layout: post
 title:  "weekly picks (Apr 1 week 2023)"
-date:   2023-03-27 00:16:27
+date:   2023-03-28 00:16:27
 categories: 2023apr
 ---
 
 
 {% include image.html url="/images/2023apr1weeks.png" caption="A WordCloud of 2023 Apr 1st week collection" width=300 align="center" %}
+
+
+1. **[PhysRevX.13.011046](https://link.aps.org/doi/10.1103/PhysRevX.13.011046)** Direct Observation of Quantum Anomalous Vortex in Fe(Se,Te) (PRX)
+
+1. **[47](https://physics.aps.org/articles/v16/47)** Superconducting Vortices Made Without Magnetic Fields (Physics)
+
+
 
 
 1. **[2303.13704](http://arxiv.org/abs/2303.13704)** Two-fold symmetric superconductivity in the kagome superconductor RbV3Sb5 (kagome, arXiv)
