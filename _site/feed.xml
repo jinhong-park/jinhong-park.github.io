@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Mar 2023 10:26:18 +0900</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2023 10:26:18 +0900</lastBuildDate>
+    <pubDate>Fri, 31 Mar 2023 10:40:13 +0900</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2023 10:40:13 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.adg0014&quot;&gt;science.adg0014&lt;/a&gt;&lt;/strong&gt; Moiré photonics and optoelectronics (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2303.17286&quot;&gt;2303.17286&lt;/a&gt;&lt;/strong&gt; Charge fluctuations, phonons and superconductivity in multilayer graphene (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
