@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Mar 2023 10:40:13 +0900</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2023 10:40:13 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 01 Apr 2023 14:21:21 +0900</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2023 14:21:21 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Apr 1 week 2023)</title>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.136201&quot;&gt;PhysRevLett.130.136201&lt;/a&gt;&lt;/strong&gt; Realistic Protocol to Measure Entanglement at Finite Temperatures (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.136701&quot;&gt;PhysRevLett.130.136701&lt;/a&gt;&lt;/strong&gt; Kagome Lattice Promotes Chiral Spin Fluctuations (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.adg0014&quot;&gt;science.adg0014&lt;/a&gt;&lt;/strong&gt; Moiré photonics and optoelectronics (Science)&lt;/p&gt;
   &lt;/li&gt;
@@ -173,9 +179,9 @@
 &lt;/ol&gt;
 
 </description>
-        <pubDate>Tue, 28 Mar 2023 09:16:27 +0900</pubDate>
-        <link>http://jinhong-park.github.io/blog/2023/03/Apr1weeks</link>
-        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2023/03/Apr1weeks</guid>
+        <pubDate>Sat, 01 Apr 2023 09:16:27 +0900</pubDate>
+        <link>http://jinhong-park.github.io/blog/2023/04/Apr1weeks</link>
+        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2023/04/Apr1weeks</guid>
         
         
         <category>2023apr</category>

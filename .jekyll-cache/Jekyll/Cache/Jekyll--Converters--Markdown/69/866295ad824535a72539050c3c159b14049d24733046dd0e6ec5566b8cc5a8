@@ -1,4 +1,20 @@
-I"ý'<dl class="wp-caption aligncenter" style="max-width: 300px">
+I"‰+<ul class="listing">
+
+
+<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
+<br />
+<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
+<br />
+<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
+
+ 
+
+
+
+<li class="listing-seperator"><p>weekly picks (Apr 1 week 2023)</p></li>
+
+   <li class="listing-item">
+           <dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023apr1weeks.png" alt="A WordCloud of 2023 Apr 1st week collection" /></a></dt>
 
@@ -6,6 +22,12 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.136201">PhysRevLett.130.136201</a></strong> Realistic Protocol to Measure Entanglement at Finite Temperatures (PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.136701">PhysRevLett.130.136701</a></strong> Kagome Lattice Promotes Chiral Spin Fluctuations (PRL)</p>
+  </li>
   <li>
     <p><strong><a href="https://www.science.org/doi/abs/10.1126/science.adg0014">science.adg0014</a></strong> MoirÃ© photonics and optoelectronics (Science)</p>
   </li>
@@ -157,5 +179,11 @@
     <p><strong><a href="http://arxiv.org/abs/2303.13999">2303.13999</a></strong> Near coincidence of metal-insulator transition and quantum critical fluctuations: Electronic ground state and magnetic order in Fe$<em>{1-x}$Co$</em>{x}$Si (arXiv)</p>
   </li>
 </ol>
+
+
+   </li>
+    
+    
+ </ul>
 
 :ET
