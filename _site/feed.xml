@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Apr 2023 14:21:21 +0900</pubDate>
-    <lastBuildDate>Sat, 01 Apr 2023 14:21:21 +0900</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 18:45:48 +0900</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 18:45:48 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202211164&quot;&gt;adma.202211164&lt;/a&gt;&lt;/strong&gt; Discovery of Topological Magnetic Textures near Room Temperature in Quantum Magnet TbMn6Sn6 (Advanced Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0370157323000108&quot;&gt;S0370157323000108&lt;/a&gt;&lt;/strong&gt; Chirality as generalized spin-orbit interaction in spintronics (Physics Reports)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.136201&quot;&gt;PhysRevLett.130.136201&lt;/a&gt;&lt;/strong&gt; Realistic Protocol to Measure Entanglement at Finite Temperatures (PRL)&lt;/p&gt;
   &lt;/li&gt;
