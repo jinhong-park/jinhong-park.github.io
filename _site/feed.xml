@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Apr 2023 11:15:43 +0900</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2023 11:15:43 +0900</lastBuildDate>
+    <pubDate>Thu, 13 Apr 2023 13:34:31 +0900</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2023 13:34:31 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-05807-0&quot;&gt;s41586-023-05807-0&lt;/a&gt;&lt;/strong&gt; Giant magnetoresistance of Dirac plasma in high-mobility graphene (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2304.05488&quot;&gt;2304.05488&lt;/a&gt;&lt;/strong&gt; Non-integrable Floquet Ising model with duality twisted boundary conditions (arXiv)&lt;/p&gt;
   &lt;/li&gt;
