@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Apr 2023 12:34:52 +0900</pubDate>
-    <lastBuildDate>Mon, 24 Apr 2023 12:34:52 +0900</lastBuildDate>
+    <pubDate>Mon, 24 Apr 2023 18:08:43 +0900</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2023 18:08:43 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/RevModPhys.95.025001&quot;&gt;RevModPhys.95.025001&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Topological phases in polar oxide nanostructures (Ramesh, Reviews of Modern Physics)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2304.10583&quot;&gt;2304.10583&lt;/a&gt;&lt;/strong&gt; A mechanism for $\pi$ phase shifts in Little-Parks experiments: application to 2H-TaS$_2$ intercalated with chiral molecules and to 4Hb-TaS$_2$ (PALee, arXiv)&lt;/p&gt;
   &lt;/li&gt;
