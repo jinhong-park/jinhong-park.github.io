@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "weekly picks (Apr 5 week 2023)"
+date:   2023-04-24 00:16:27
+categories: 2023apr
+---
+
+
+{% include image.html url="/images/2023apr5weeks.png" caption="A WordCloud of 2023 Apr 5th week collection" width=300 align="center" %}
+
+
+
+1. **[2304.10583](http://arxiv.org/abs/2304.10583)** A mechanism for $\\pi$ phase shifts in Little-Parks experiments: application to 2H-TaS$_2$ intercalated with chiral molecules and to 4Hb-TaS$_2$ (PLee, arXiv)
+
+1. **[2304.11154](http://arxiv.org/abs/2304.11154)** Transition to the Haldane phase driven by electron-electron correlations (arXiv)
+
+1. **[2304.10890](http://arxiv.org/abs/2304.10890)** Magnetism and field-induced effect in a spin-orbit entangled Jeff = 1/2 honeycomb lattice (arXiv)
+
+1. **[2304.10746](http://arxiv.org/abs/2304.10746)** Emergence of Rashba-spin-valley state in two-dimensional strained bismuth oxychalcogenides Bi$_{2}$O$_{2}$Se (arXiv)
+
+1. **[2304.10586](http://arxiv.org/abs/2304.10586)** Imaging inter-valley coherent order in magic-angle twisted trilayer graphene (arXiv)
+
+1. **[2304.10872](http://arxiv.org/abs/2304.10872)** Generalized Wiedemann-Franz law in a two-site charge Kondo circuit: \"magic\" Lorenz ratio as a benchmark for the orthogonality catastrophe (arXiv)
+
+1. **[2304.10852](http://arxiv.org/abs/2304.10852)** Adversarial Hamiltonian learning of quantum dots in a minimal Kitaev chain (arXiv)
+
+1. **[2304.10747](http://arxiv.org/abs/2304.10747)** Revealing the higher-order spin nature of the Hall effect in non-collinear antiferromagnet $\\mathrm{Mn_3Ni_{0.35}Cu_{0.65}N}$ (arXiv)
+
+1. **[2304.10699](http://arxiv.org/abs/2304.10699)** Confined states and topological phases in two-dimensional quasicrystalline $\\pi$-flux model (arXiv)
