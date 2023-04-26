@@ -1,20 +1,4 @@
-I"ö<ul class="listing">
-
-
-<a href="https://jinhong-park.github.io/t_me"> Daily t.me </a> 
-<br />
-<a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
-<br />
-<a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
-
- 
-
-
-
-<li class="listing-seperator"><p>weekly picks (Apr 5 week 2023)</p></li>
-
-   <li class="listing-item">
-           <dl class="wp-caption aligncenter" style="max-width: 300px">
+I"§<dl class="wp-caption aligncenter" style="max-width: 300px">
 
 <dt><a href=""><img class="" src="/images/2023apr5weeks.png" alt="A WordCloud of 2023 Apr 5th week collection" /></a></dt>
 
@@ -22,6 +6,15 @@
 </dl>
 
 <ol>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevX.13.021013">PhysRevX.13.021013</a></strong> Emergent $s$-Wave Interactions between Identical Fermions in Quasi-One-Dimensional Geometries (PRX)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.176301">PhysRevLett.130.176301</a></strong> Nonreciprocal Phonon Propagation in a Metallic Chiral Magnet (<strong>Seki</strong>, PRL)</p>
+  </li>
+  <li>
+    <p><strong><a href="https://link.aps.org/doi/10.1103/PhysRevLett.130.176801">PhysRevLett.130.176801</a></strong> Sliding Phase Transition in Ferroelectric van der Waals Bilayers (<strong>GBauer</strong>, PRL)</p>
+  </li>
   <li>
     <p><strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202302984">adfm.202302984</a></strong> Observation of Colossal Topological Hall Effect in Noncoplanar Ferromagnet Cr5Te6 Thin Films (Advanced Functional Materials)</p>
   </li>
@@ -101,10 +94,4 @@
     <p><strong><a href="http://arxiv.org/abs/2304.10699">2304.10699</a></strong> Confined states and topological phases in two-dimensional quasicrystalline $\pi$-flux model (arXiv)</p>
   </li>
 </ol>
-
-   </li>
-    
-    
- </ul>
-
 :ET
