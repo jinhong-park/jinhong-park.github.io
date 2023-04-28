@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Apr 2023 10:31:07 +0900</pubDate>
-    <lastBuildDate>Thu, 27 Apr 2023 10:31:07 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Fri, 28 Apr 2023 13:26:12 +0900</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2023 13:26:12 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (Apr 5 week 2023)</title>
@@ -20,6 +20,15 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2303.16472&quot;&gt;2303.16472&lt;/a&gt;&lt;/strong&gt; Coarse-graining collective skyrmion dynamics in confined geometries (arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.176201&quot;&gt;PhysRevLett.130.176201&lt;/a&gt;&lt;/strong&gt; Tuning a Two-Impurity Kondo System by a Moir\‘e Superstructure (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.176901&quot;&gt;PhysRevLett.130.176901&lt;/a&gt;&lt;/strong&gt; Monolayer-to-Mesoscale Modulation of the Optical Properties in 2D ${\mathrm{CrI}}_{3}$ Mapped by Hyperspectral Microscopy (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2304.13083&quot;&gt;2304.13083&lt;/a&gt;&lt;/strong&gt; Quantum Monte Carlo study of a bilayer $U(2)\times U(2)$ symmetric Hubbard model (QMC, arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
