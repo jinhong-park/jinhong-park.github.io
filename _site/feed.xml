@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 May 2023 09:36:08 +0900</pubDate>
-    <lastBuildDate>Tue, 16 May 2023 09:36:08 +0900</lastBuildDate>
+    <pubDate>Tue, 16 May 2023 09:53:23 +0900</pubDate>
+    <lastBuildDate>Tue, 16 May 2023 09:53:23 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202211634&quot;&gt;adma.202211634&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Topological Spin Textures in a Non-Collinear Antiferromagnet System (&lt;del&gt;Mn3Sn skyrmion&lt;/del&gt;, Advanced Materials)&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202211634&quot;&gt;adma.202211634&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Topological Spin Textures in a Non-Collinear Antiferromagnet System (&lt;em&gt;Mn3Sn skyrmion&lt;/em&gt;, Advanced Materials)&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.207001&quot;&gt;PhysRevLett.130.207001&lt;/a&gt;&lt;/strong&gt; Trivial Andreev Band Mimicking Topological Bulk Gap Reopening in the Nonlocal Conductance of Long Rashba Nanowires (&lt;strong&gt;Jelena&lt;/strong&gt;, PRL)&lt;/p&gt;
