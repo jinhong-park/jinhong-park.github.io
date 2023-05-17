@@ -7,7 +7,9 @@ permalink: /links/
 
 
 
- 
+tags : `#Feynman Lecture`
+
+[https://www.feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu)
  
 
 tags : `#following` 
