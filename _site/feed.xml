@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 May 2023 10:52:46 +0900</pubDate>
-    <lastBuildDate>Thu, 25 May 2023 10:52:46 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Fri, 26 May 2023 00:17:27 +0900</pubDate>
+    <lastBuildDate>Fri, 26 May 2023 00:17:27 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (May 4 week 2023)</title>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2305.13018&quot;&gt;2305.13018&lt;/a&gt;&lt;/strong&gt; Lifetime of coexisting sub-10 nm zero-field skyrmions and antiskyrmions (&lt;strong&gt;skyrmion antiskyrmion&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2305.15373&quot;&gt;2305.15373&lt;/a&gt;&lt;/strong&gt; Half unit cell shift defect induced helical states in Fe-based chalcogenide superconductors (arXiv.org)&lt;/p&gt;
   &lt;/li&gt;
