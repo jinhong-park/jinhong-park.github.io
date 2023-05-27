@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 May 2023 11:12:53 +0900</pubDate>
-    <lastBuildDate>Fri, 26 May 2023 11:12:53 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 27 May 2023 10:57:37 +0900</pubDate>
+    <lastBuildDate>Sat, 27 May 2023 10:57:37 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (May 4 week 2023)</title>
@@ -22,6 +22,15 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2305.16062&quot;&gt;2305.16062&lt;/a&gt;&lt;/strong&gt; A Simple Model of Pair Density Wave (&lt;strong&gt;PDW Tsvelik&lt;/strong&gt;,arXiv.org)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.210404&quot;&gt;PhysRevLett.130.210404&lt;/a&gt;&lt;/strong&gt; Signatures of Dissipation Driven Quantum Phase Transition in Rabi Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.216901&quot;&gt;PhysRevLett.130.216901&lt;/a&gt;&lt;/strong&gt; Cavity Quantum Electrodynamics with Hyperbolic van der Waals Materials (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.216402&quot;&gt;PhysRevLett.130.216402&lt;/a&gt;&lt;/strong&gt; Exchange-Driven Intermixing of Bulk and Topological Surface States by Chiral Excitons in ${\mathrm{Bi}}&lt;em&gt;{2}{\mathrm{Se}}&lt;/em&gt;{3}$ (&lt;strong&gt;Chiral Excitons&lt;/strong&gt;, PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2305.15763&quot;&gt;2305.15763&lt;/a&gt;&lt;/strong&gt; Proximity effect and Anomalous metal state in a model of mixed metal-superconductor grains (arXiv.org)&lt;/p&gt;
