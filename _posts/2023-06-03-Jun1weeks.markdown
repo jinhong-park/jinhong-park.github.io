@@ -1,12 +1,37 @@
 ---
 layout: post
 title:  "weekly picks (Jun 1 week 2023)"
-date:   2023-05-29 00:16:27
+date:   2023-06-01 00:16:27
 categories: 2023jun
 ---
 
 
 {% include image.html url="/images/2023jun1weeks.png" caption="A WordCloud of 2023 Jun 1st week collection" width=300 align="center" %}
+
+
+
+
+1. **[2305.19967](http://arxiv.org/abs/2305.19967)** Dark Matter Detection with Strongly Correlated Topological Materials: Flatband Effect (__*JXZhu* flat__, arXiv.org)
+
+1. **[2305.19927](http://arxiv.org/abs/2305.19927)** Twistronics of Kekul\\'e Graphene: Honeycomb and Kagome Flat Bands (**flat**, arXiv.org)
+
+1. **[2305.19970](http://arxiv.org/abs/2305.19970)** Zero-bias conductance peaks at zero applied magnetic field due to stray fields from integrated micromagnets in hybrid nanowire quantum dots (arXiv.org)
+
+1. **[2305.19805](http://arxiv.org/abs/2305.19805)** Axion Topology in Photonic Crystal Domain Walls (arXiv.org)
+
+1. **[2305.19456](http://arxiv.org/abs/2305.19456)** Photonic Flatband Resonances in Multiple Light Scattering (**flat**, arXiv.org)
+
+1. **[PhysRevX.13.021032](https://link.aps.org/doi/10.1103/PhysRevX.13.021032)** Why Are There Six Degrees of Separation in a Social Network? (PRX)
+
+1. **[PhysRevLett.130.226001](https://link.aps.org/doi/10.1103/PhysRevLett.130.226001)** Superconductivity, Charge Density Wave, and Supersolidity in Flat Bands with a Tunable Quantum Metric (**flat**, PRL)
+
+1. **[PhysRevLett.130.226401](https://link.aps.org/doi/10.1103/PhysRevLett.130.226401)** Carrier-Density Control of the Quantum-Confined $1T\\text{\\ensuremath{-}}{\\mathrm{TiSe}}_{2}$ Charge Density Wave (TiSe2, PRL)
+
+1. **[PhysRevLett.130.226501](https://link.aps.org/doi/10.1103/PhysRevLett.130.226501)** Ultrafast Switching from the Charge Density Wave Phase to a Metastable Metallic State in $1T\\text{\\ensuremath{-}}{\\mathrm{TiSe}}_{2}$ (TiSe2, PRL)
+
+1. **[PhysRevLett.130.226801](https://link.aps.org/doi/10.1103/PhysRevLett.130.226801)** Hexagonal Close-Packed Polar-Skyrmion Lattice in Ultrathin Ferroelectric ${\\mathrm{PbTiO}}_{3}$ Films (skyrmion, PRL)
+
+1. **[PhysRevLett.130.220001](https://link.aps.org/doi/10.1103/PhysRevLett.130.220001)** Essay: Overcoming the Obstacles to a Magnetic Fusion Power Plant (PRL)
 
 
 
