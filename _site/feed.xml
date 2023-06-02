@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Jun 2023 21:07:59 +0900</pubDate>
-    <lastBuildDate>Fri, 02 Jun 2023 21:07:59 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 03 Jun 2023 08:13:18 +0900</pubDate>
+    <lastBuildDate>Sat, 03 Jun 2023 08:13:18 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jun 1 week 2023)</title>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.220603&quot;&gt;PhysRevLett.130.220603&lt;/a&gt;&lt;/strong&gt; Model-Independent Learning of Quantum Phases of Matter with Quantum Convolutional Neural Networks (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s77&quot;&gt;s77&lt;/a&gt;&lt;/strong&gt; Another Way for Black Holes to Evaporate (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://doi.org/10.1021/acsnano.3c02481&quot;&gt;acsnano.3c02481&lt;/a&gt;&lt;/strong&gt; Ultrasmall Polar Skyrmions and Merons in SrTiO3 Heterostructures by Polaron Engineering (ACS Nano)&lt;/p&gt;
   &lt;/li&gt;
