@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jun 2023 08:13:18 +0900</pubDate>
-    <lastBuildDate>Sat, 03 Jun 2023 08:13:18 +0900</lastBuildDate>
+    <pubDate>Sun, 04 Jun 2023 17:19:06 +0900</pubDate>
+    <lastBuildDate>Sun, 04 Jun 2023 17:19:06 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.researchsquare.com/article/rs-2839142/v1&quot;&gt;v1&lt;/a&gt;&lt;/strong&gt; Deterministic switching of antiferromagnetic spin textures by chaotic magnons (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.220603&quot;&gt;PhysRevLett.130.220603&lt;/a&gt;&lt;/strong&gt; Model-Independent Learning of Quantum Phases of Matter with Quantum Convolutional Neural Networks (PRL)&lt;/p&gt;
   &lt;/li&gt;
