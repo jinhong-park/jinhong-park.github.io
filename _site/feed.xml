@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jun 2023 14:27:13 +0900</pubDate>
-    <lastBuildDate>Tue, 06 Jun 2023 14:27:13 +0900</lastBuildDate>
+    <pubDate>Tue, 06 Jun 2023 14:32:53 +0900</pubDate>
+    <lastBuildDate>Tue, 06 Jun 2023 14:32:53 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41535-023-00565-8&quot;&gt;s41535-023-00565-8&lt;/a&gt;&lt;/strong&gt; Realization of practical eightfold fermions and fourfold van Hove singularity in TaCo2Te2 (npj Quantum Materials)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03017&quot;&gt;2306.03017&lt;/a&gt;&lt;/strong&gt; Controllable odd-frequency Cooper pairs in multi-superconductor Josephson junctions (Jorge, arXiv)&lt;/p&gt;
   &lt;/li&gt;
