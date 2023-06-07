@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jun 2023 16:56:09 +0900</pubDate>
-    <lastBuildDate>Tue, 06 Jun 2023 16:56:09 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Wed, 07 Jun 2023 10:57:40 +0900</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2023 10:57:40 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (Jun 2 week 2023)</title>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.236601&quot;&gt;PhysRevLett.130.236601&lt;/a&gt;&lt;/strong&gt; Hofstadter Topology with Real Space Invariants and Reentrant Projective Symmetries (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/96&quot;&gt;96&lt;/a&gt;&lt;/strong&gt; X-Ray Spectroscopy of a Lone Atom (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://doi.org/10.1021/acs.nanolett.3c00731&quot;&gt;acs.nanolett.3c00731&lt;/a&gt;&lt;/strong&gt; Manipulation of Skyrmion by Magnetic Field Gradients: A Stern-Gerlach-Like Experiment (Nano Lett)&lt;/p&gt;
   &lt;/li&gt;
