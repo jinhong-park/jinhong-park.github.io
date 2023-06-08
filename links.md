@@ -12,6 +12,10 @@ tags : `#Feynman Lecture`
 [https://www.feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu)
  
 
+tags : `#amazon`
+
+[https://www.amazon.science](https://www.amazon.science)
+
 tags : `#following` 
 
 
