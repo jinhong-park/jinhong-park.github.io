@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jun 2023 10:32:39 +0900</pubDate>
-    <lastBuildDate>Fri, 09 Jun 2023 10:32:39 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 10 Jun 2023 12:35:07 +0900</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2023 12:35:07 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jun 2 week 2023)</title>
@@ -28,6 +28,12 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.2212730119&quot;&gt;pnas.2212730119&lt;/a&gt;&lt;/strong&gt; Correlation-driven electronic nematicity in the Dirac semimetal BaNiS2 (RIKEN, PNAS)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.236402&quot;&gt;PhysRevLett.130.236402&lt;/a&gt;&lt;/strong&gt; Experimental Realization of a Three-Dimensional Dirac Semimetal Phase with a Tunable Lifshitz Transition in ${\mathrm{Au}}_{2}\mathrm{Pb}$ (3D-Dirac, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.238202&quot;&gt;PhysRevLett.130.238202&lt;/a&gt;&lt;/strong&gt; Predicting Dynamic Heterogeneity in Glass-Forming Liquids by Physics-Inspired Machine Learning (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05034&quot;&gt;2306.05034&lt;/a&gt;&lt;/strong&gt; Topological Superconducting States and Quasiparticle Transport on Kagome Lattice (kagome, arXiv)&lt;/p&gt;
