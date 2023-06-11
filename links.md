@@ -63,6 +63,6 @@ tags : `#blog`
 
 __[computational physics](https://compphys.go.ro/)__
 
-tags : `#python`
+tags : `#3d graphics`
 
-__[python VTK](https://lorensen.github.io/VTKExamples/site/)__
+__[blender](https://www.blender.org)__,  Depth estimators : __[MiDaS](https://github.com/isl-org/MiDaS)__
