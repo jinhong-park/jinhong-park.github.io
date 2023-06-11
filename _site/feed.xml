@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Jun 2023 20:51:53 +0900</pubDate>
-    <lastBuildDate>Sat, 10 Jun 2023 20:51:53 +0900</lastBuildDate>
+    <pubDate>Sun, 11 Jun 2023 16:38:26 +0900</pubDate>
+    <lastBuildDate>Sun, 11 Jun 2023 16:38:26 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -28,6 +28,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.2212730119&quot;&gt;pnas.2212730119&lt;/a&gt;&lt;/strong&gt; Correlation-driven electronic nematicity in the Dirac semimetal BaNiS2 (RIKEN, PNAS)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-023-39207-9&quot;&gt;s41467-023-39207-9&lt;/a&gt;&lt;/strong&gt; Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system (skyrmion, Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.235116&quot;&gt;PhysRevB.107.235116&lt;/a&gt;&lt;/strong&gt; Flat bands with high Chern numbers and multiple flat bands in multifold staggered-flux models (PRB)&lt;/p&gt;
