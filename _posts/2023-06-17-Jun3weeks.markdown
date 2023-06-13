@@ -9,6 +9,7 @@ categories: 2023jun
 {% include image.html url="/images/2023jun3weeks.png" caption="A WordCloud of 2023 Jun 3rd week collection" width=300 align="center" %}
 
 
+1. **[PhysRevB.107.054408](https://link.aps.org/doi/10.1103/PhysRevB.107.054408)** Topological spin textures in $1T$-phase Janus magnets: Interplay between Dzyaloshinskii-Moriya interaction, magnetic frustration, and isotropic higher-order interactions (**1T-phase Janus**, PRB)
 
 
 1. **[2306.07275](http://arxiv.org/abs/2306.07275)** Effective model and pairing tendency in bilayer Ni-based superconductor La$_3$Ni$_2$O$_7$ (**JHu**, arXiv)

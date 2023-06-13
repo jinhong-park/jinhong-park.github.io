@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Jun 2023 11:00:09 +0900</pubDate>
-    <lastBuildDate>Tue, 13 Jun 2023 11:00:09 +0900</lastBuildDate>
+    <pubDate>Tue, 13 Jun 2023 15:18:06 +0900</pubDate>
+    <lastBuildDate>Tue, 13 Jun 2023 15:18:06 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054408&quot;&gt;PhysRevB.107.054408&lt;/a&gt;&lt;/strong&gt; Topological spin textures in $1T$-phase Janus magnets: Interplay between Dzyaloshinskii-Moriya interaction, magnetic frustration, and isotropic higher-order interactions (&lt;strong&gt;1T-phase Janus&lt;/strong&gt;, PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.07275&quot;&gt;2306.07275&lt;/a&gt;&lt;/strong&gt; Effective model and pairing tendency in bilayer Ni-based superconductor La$_3$Ni$_2$O$_7$ (&lt;strong&gt;JHu&lt;/strong&gt;, arXiv)&lt;/p&gt;
   &lt;/li&gt;
