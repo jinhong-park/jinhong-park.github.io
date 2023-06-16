@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Jun 2023 12:04:09 +0900</pubDate>
-    <lastBuildDate>Fri, 16 Jun 2023 12:04:09 +0900</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 12:46:14 +0900</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2023 12:46:14 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.adc9487&quot;&gt;science.adc9487&lt;/a&gt;&lt;/strong&gt; Proximate deconfined quantum critical point in SrCu2(BO3)2 (&lt;strong&gt;QCP&lt;/strong&gt;, Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05149&quot;&gt;2306.05149&lt;/a&gt;&lt;/strong&gt; Engineering flat bands in twisted-bilayer graphene away from the magic angle with chiral optical cavities (arXiv)&lt;/p&gt;
   &lt;/li&gt;
