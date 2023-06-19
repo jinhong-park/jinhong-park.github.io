@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Jun 2023 10:41:09 +0900</pubDate>
-    <lastBuildDate>Mon, 19 Jun 2023 10:41:09 +0900</lastBuildDate>
+    <pubDate>Mon, 19 Jun 2023 16:32:22 +0900</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2023 16:32:22 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05591&quot;&gt;2306.05591&lt;/a&gt;&lt;/strong&gt; Proposal for realizing quantum spin models with Dzyaloshinskii-Moriya interaction using Rydberg atoms (katsura, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.09868v1&quot;&gt;2306.09868v1&lt;/a&gt;&lt;/strong&gt; Anatomy of the band structure of the newest apparent near-ambient superconductor LuH$_{3-x}$N$_x$ (Lu, arXiv)&lt;/p&gt;
   &lt;/li&gt;
