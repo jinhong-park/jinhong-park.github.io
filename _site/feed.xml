@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Jun 2023 16:32:22 +0900</pubDate>
-    <lastBuildDate>Mon, 19 Jun 2023 16:32:22 +0900</lastBuildDate>
+    <pubDate>Tue, 20 Jun 2023 14:38:13 +0900</pubDate>
+    <lastBuildDate>Tue, 20 Jun 2023 14:38:13 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevResearch.5.023166&quot;&gt;PhysRevResearch.5.023166&lt;/a&gt;&lt;/strong&gt; Many-body ground states from decomposition of ideal higher Chern bands: Applications to chirally twisted graphene multilayers (Physical Review Research)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-023-39110-3&quot;&gt;s41467-023-39110-3&lt;/a&gt;&lt;/strong&gt; Local spectroscopy of a gate-switchable moire quantum anomalous Hall insulator (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05591&quot;&gt;2306.05591&lt;/a&gt;&lt;/strong&gt; Proposal for realizing quantum spin models with Dzyaloshinskii-Moriya interaction using Rydberg atoms (katsura, arXiv)&lt;/p&gt;
   &lt;/li&gt;
