@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jun 2023 10:49:50 +0900</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2023 10:49:50 +0900</lastBuildDate>
+    <pubDate>Mon, 26 Jun 2023 15:35:39 +0900</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2023 15:35:39 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://pubs.rsc.org/en/content/articlelanding/2023/mh/d3mh00572k&quot;&gt;d3mh00572k&lt;/a&gt;&lt;/strong&gt; Ferroelectrically tunable magnetic skyrmions in two-dimensional multiferroics (Materials Horizons)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.13632&quot;&gt;2306.13632&lt;/a&gt;&lt;/strong&gt; Light-induced switching between singlet and triplet superconducting states (arXiv)&lt;/p&gt;
   &lt;/li&gt;
