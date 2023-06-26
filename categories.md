@@ -72,6 +72,7 @@ permalink: /categories/
 
 
 
+-->
 
 <tr>
      <th> <a href="../blog/2023/07/Jul1weeks">Jul1w</a> </th>
@@ -82,7 +83,6 @@ permalink: /categories/
     </tr>
 
 
--->
 
 <tr>
      <th> <a href="../blog/2023/06/Jun1weeks">Jun1w</a> </th>
