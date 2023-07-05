@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Jul 2023 11:02:50 +0900</pubDate>
-    <lastBuildDate>Tue, 04 Jul 2023 11:02:50 +0900</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2023 18:07:03 +0900</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2023 18:07:03 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.annualreviews.org/doi/abs/10.1146/annurev-matsci-080921-110002&quot;&gt;annurev-matsci-080921-110002&lt;/a&gt;&lt;/strong&gt; Design Principles for Noncentrosymmetric Materials (annurev)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.01042&quot;&gt;2307.01042&lt;/a&gt;&lt;/strong&gt; A unique van Hove singularity in kagome superconductor CsV$_{3-x}$Ta$_x$Sb$_5$ with enhanced superconductivity (&lt;strong&gt;kagome&lt;/strong&gt;, arXiv)&lt;/p&gt;
   &lt;/li&gt;
