@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jul 2023 10:59:44 +0900</pubDate>
-    <lastBuildDate>Tue, 11 Jul 2023 10:59:44 +0900</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2023 14:07:04 +0900</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2023 14:07:04 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.108.014408&quot;&gt;PhysRevB.108.014408&lt;/a&gt;&lt;/strong&gt; Unconventional skyrmions in an interfacial frustrated triangular lattice (skyrmion, PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.03954&quot;&gt;2307.03954&lt;/a&gt;&lt;/strong&gt; Magnon influence on the superconducting DOS in FI/S bilayers (arXiv)&lt;/p&gt;
   &lt;/li&gt;
