@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jul 2023 11:18:56 +0900</pubDate>
-    <lastBuildDate>Fri, 14 Jul 2023 11:18:56 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 15 Jul 2023 12:29:42 +0900</pubDate>
+    <lastBuildDate>Sat, 15 Jul 2023 12:29:42 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jul 3 week 2023)</title>
@@ -46,6 +46,12 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.06365&quot;&gt;2307.06365&lt;/a&gt;&lt;/strong&gt; Building crystalline topological superconductors from Shiba lattices (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031005&quot;&gt;PhysRevX.13.031005&lt;/a&gt;&lt;/strong&gt; Quantized Charge Polarization as a Many-Body Invariant in $(2+1)\mathrm{D}$ Crystalline Topological States and Hofstadter Butterflies (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.026902&quot;&gt;PhysRevLett.131.026902&lt;/a&gt;&lt;/strong&gt; Two-Dimensional Terahertz Spectroscopy of Nonlinear Phononics in the Topological Insulator ${\mathrm{MnBi}}&lt;em&gt;{2}{\mathrm{Te}}&lt;/em&gt;{4}$ (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/images/QC-with-phonon.pdf&quot;&gt;201aa4435925&lt;/a&gt;&lt;/strong&gt; quantum computer with phonon (medium)&lt;/p&gt;
