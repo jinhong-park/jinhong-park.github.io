@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jul 2023 10:44:51 +0900</pubDate>
-    <lastBuildDate>Tue, 18 Jul 2023 10:44:51 +0900</lastBuildDate>
+    <pubDate>Tue, 18 Jul 2023 17:14:54 +0900</pubDate>
+    <lastBuildDate>Tue, 18 Jul 2023 17:14:54 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-023-02120-5&quot;&gt;s41567-023-02120-5&lt;/a&gt;&lt;/strong&gt; Asymmetric slow dynamics of the skyrmion lattice in MnSi (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.07990&quot;&gt;2307.07990&lt;/a&gt;&lt;/strong&gt; Long-ranged charge order conspired by magnetism and lattice in an antiferromagnetic Kagome metal (arXiv)&lt;/p&gt;
   &lt;/li&gt;
