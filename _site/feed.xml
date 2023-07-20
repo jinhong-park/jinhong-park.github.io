@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jul 2023 11:28:01 +0900</pubDate>
-    <lastBuildDate>Wed, 19 Jul 2023 11:28:01 +0900</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2023 11:53:38 +0900</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 11:53:38 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -25,6 +25,51 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09431&quot;&gt;2307.09431&lt;/a&gt;&lt;/strong&gt; Metallic quantum criticality enabled by flat bands in a kagome lattice (&lt;strong&gt;kagome QCP JCano Qimiao&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09993&quot;&gt;2307.09993&lt;/a&gt;&lt;/strong&gt; Yu-Shiba-Rusinov bands in a self-assembled kagome lattice of magnetic molecules (&lt;strong&gt;kagome Shiba lattice&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09791&quot;&gt;2307.09791&lt;/a&gt;&lt;/strong&gt; Superconductivity with Wannier-Stark Flat Bands (&lt;strong&gt;flat&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09500&quot;&gt;2307.09500&lt;/a&gt;&lt;/strong&gt; Exact hole-induced $SU(N)$ flavor-singlets in certain $U=\infty$ $SU(N)$ Hubbard models (&lt;strong&gt;katsura&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09957&quot;&gt;2307.09957&lt;/a&gt;&lt;/strong&gt; Mean field approach plus the Bethe ansatz solution of one dimensional models of Kondo insulator (&lt;strong&gt;kondo&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09686&quot;&gt;2307.09686&lt;/a&gt;&lt;/strong&gt; Uniform and Staggered electric axial moment in zigzag chain (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09506&quot;&gt;2307.09506&lt;/a&gt;&lt;/strong&gt; Flat-band spin density wave in twisted bilayer materials (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.10150&quot;&gt;2307.10150&lt;/a&gt;&lt;/strong&gt; Direct observation of chiral edge current at zero magnetic field in odd-layer MnBi$_2$Te$_4$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.10024&quot;&gt;2307.10024&lt;/a&gt;&lt;/strong&gt; Observation of Kekul\‘e vortices induced in graphene by hydrogen adatoms (&lt;strong&gt;graphene&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09960&quot;&gt;2307.09960&lt;/a&gt;&lt;/strong&gt; Magic-angle twisted bilayer graphene under orthogonal and in-plane magnetic fields (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09937&quot;&gt;2307.09937&lt;/a&gt;&lt;/strong&gt; Electrical detection of the flat band dispersion in van der Waals field-effect structures (&lt;strong&gt;flat&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09808&quot;&gt;2307.09808&lt;/a&gt;&lt;/strong&gt; Observation of large intrinsic anomalous Hall conductivity in polycrystalline Mn3Sn films (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09690&quot;&gt;2307.09690&lt;/a&gt;&lt;/strong&gt; Fast Fourier-Chebyshev approach to real-space simulations of the Kubo formula (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09528&quot;&gt;2307.09528&lt;/a&gt;&lt;/strong&gt; Controllable Creation of Skyrmion Bags in a Ferromagnetic Nanodisk (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.10012&quot;&gt;2307.10012&lt;/a&gt;&lt;/strong&gt; Drude weight and the many-body quantum metric in one-dimensional Bose systems (&lt;strong&gt;Torma&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s101&quot;&gt;s101&lt;/a&gt;&lt;/strong&gt; Exciton Ensembles Manifest Coherence (Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09335&quot;&gt;2307.09335&lt;/a&gt;&lt;/strong&gt; Electron spin resonance study on the 4f honeycomb quantum magnet YbCl3 (arXiv)&lt;/p&gt;
