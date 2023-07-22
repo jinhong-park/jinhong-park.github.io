@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Jul 2023 11:40:26 +0900</pubDate>
-    <lastBuildDate>Fri, 21 Jul 2023 11:40:26 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 22 Jul 2023 19:53:58 +0900</pubDate>
+    <lastBuildDate>Sat, 22 Jul 2023 19:53:58 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jul 4 week 2023)</title>
@@ -22,6 +22,15 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-023-02120-5&quot;&gt;s41567-023-02120-5&lt;/a&gt;&lt;/strong&gt; Asymmetric slow dynamics of the skyrmion lattice in MnSi (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031008&quot;&gt;PhysRevX.13.031008&lt;/a&gt;&lt;/strong&gt; Non-Abelian Floquet Spin Liquids in a Digital Rydberg Simulator (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.036504&quot;&gt;PhysRevLett.131.036504&lt;/a&gt;&lt;/strong&gt; Multiorbital Nature of Doped ${\mathrm{Sr}}&lt;em&gt;{2}{\mathrm{IrO}}&lt;/em&gt;{4}$ (&lt;strong&gt;doped-iridates&lt;/strong&gt;, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.036505&quot;&gt;PhysRevLett.131.036505&lt;/a&gt;&lt;/strong&gt; Detecting Emergent Continuous Symmetries at Quantum Criticality (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.09431&quot;&gt;2307.09431&lt;/a&gt;&lt;/strong&gt; Metallic quantum criticality enabled by flat bands in a kagome lattice (&lt;strong&gt;kagome QCP JCano Qimiao&lt;/strong&gt;, arXiv)&lt;/p&gt;
