@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jul 2023 11:53:38 +0900</pubDate>
-    <lastBuildDate>Tue, 25 Jul 2023 11:53:38 +0900</lastBuildDate>
+    <pubDate>Wed, 26 Jul 2023 11:05:15 +0900</pubDate>
+    <lastBuildDate>Wed, 26 Jul 2023 11:05:15 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,60 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13312&quot;&gt;2307.13312&lt;/a&gt;&lt;/strong&gt; Higher-order topological superconductor phases in a multilayer system (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13030&quot;&gt;2307.13030&lt;/a&gt;&lt;/strong&gt; Superconductivity in twisted bilayer graphene: possible pairing symmetries, impurity-induced states and Chern number (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13534&quot;&gt;2307.13534&lt;/a&gt;&lt;/strong&gt; Charge fluctuations in the intermediate-valence ground state of SmCoIn$_5$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13688&quot;&gt;2307.13688&lt;/a&gt;&lt;/strong&gt; Correlated insulator in two Coulomb-coupled quantum wires (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13562&quot;&gt;2307.13562&lt;/a&gt;&lt;/strong&gt; How massless are Weyl fermions in Weyl semimetals? (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13031&quot;&gt;2307.13031&lt;/a&gt;&lt;/strong&gt; Supersymmetry on the honeycomb lattice: resonating charge stripes, superfrustration, and domain walls (&lt;strong&gt;graphene&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13388&quot;&gt;2307.13388&lt;/a&gt;&lt;/strong&gt; Unusual band evolution and persistence of topological surface states in high-T_C magnetic topological insulator (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13651&quot;&gt;2307.13651&lt;/a&gt;&lt;/strong&gt; Pseudo-spin model of argentophilicity in honeycomb bilayered materials (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13414&quot;&gt;2307.13414&lt;/a&gt;&lt;/strong&gt; Spin waves in bilayers of transition-metal dichalcogenides (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13400&quot;&gt;2307.13400&lt;/a&gt;&lt;/strong&gt; Tuning the magnetic properties in MPS3 (M = Mn, Fe, and Ni) by proximity-induced Dzyaloshinskii Moriya interactions (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.13378&quot;&gt;2307.13378&lt;/a&gt;&lt;/strong&gt; Weyl phonons in chiral crystals (&lt;strong&gt;SMurakami&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031010&quot;&gt;PhysRevX.13.031010&lt;/a&gt;&lt;/strong&gt; No Nematicity at the Onset Temperature of the Pseudogap Phase in the Cuprate Superconductor ${\mathrm{YBa}}&lt;em&gt;{2}{\mathrm{Cu}}&lt;/em&gt;{3}{\mathrm{O}}_{y}$ (&lt;strong&gt;Taillefer&lt;/strong&gt;, PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.047101&quot;&gt;PhysRevLett.131.047101&lt;/a&gt;&lt;/strong&gt; Two-Dimensional Crystals far from Equilibrium (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.049701&quot;&gt;PhysRevLett.131.049701&lt;/a&gt;&lt;/strong&gt; Comment on ``Anisotropic Scattering Caused by Apical Oxygen Vacancies in Thin Films of Overdoped High-Temperature Cuprate Superconductors’’ (cuprate, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.049702&quot;&gt;PhysRevLett.131.049702&lt;/a&gt;&lt;/strong&gt; Wang et al. Reply: (cuprate, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.046401&quot;&gt;PhysRevLett.131.046401&lt;/a&gt;&lt;/strong&gt; Flat $\mathrm{\ensuremath{\Gamma}}$ Moir\‘e Bands in Twisted Bilayer ${\mathrm{WSe}}_{2}$ (&lt;strong&gt;flatband&lt;/strong&gt;, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.046801&quot;&gt;PhysRevLett.131.046801&lt;/a&gt;&lt;/strong&gt; Lamellar Fluctuations Melt Ferroelectricity (STO QCP, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/124&quot;&gt;124&lt;/a&gt;&lt;/strong&gt; Two-Dimensional Crystal Found in a Nonequilibrium System (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2307.12861&quot;&gt;2307.12861&lt;/a&gt;&lt;/strong&gt; Unconventional superconductivity protected from disorder on the kagome lattice (kagome, arXiv)&lt;/p&gt;
   &lt;/li&gt;
