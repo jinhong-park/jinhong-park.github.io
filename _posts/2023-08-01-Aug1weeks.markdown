@@ -1,12 +1,35 @@
 ---
 layout: post
 title:  "weekly picks (Aug 1 week 2023)"
-date:   2023-07-31 00:16:27
+date:   2023-08-01 00:16:27
 categories: 2023aug
 ---
 
 
 {% include image.html url="/images/2023aug1weeks.png" caption="A WordCloud of 2023 Aug 1st week collection" width=300 align="center" %}
+
+
+
+
+1. **[2307.16697](http://arxiv.org/abs/2307.16697)** Electron correlations and superconductivity in La$_3$Ni$_2$O$_7$ under pressure tuning (arXiv)
+
+1. **[2307.15784](http://arxiv.org/abs/2307.15784)** Superconducting-Spin Reorientation in Spin-Triplet Multiple Superconducting Phases of UTe2 (arXiv)
+
+1. **[2307.16853](http://arxiv.org/abs/2307.16853)** Spin-frame field theory of a three-sublattice antiferromagnet (arXiv)
+
+1. **[2307.16038](http://arxiv.org/abs/2307.16038)** Ancilla wavefunctions of Mott insulator and pseudogap metal through quantum teleportation (arXiv)
+
+1. **[2307.15828](http://arxiv.org/abs/2307.15828)** Epitaxial Kagome Thin Films as a Platform for Topological Flat Bands (arXiv)
+
+1. **[2307.16827](http://arxiv.org/abs/2307.16827)** Nonlinearity-induced topological phase transition characterized by the nonlinear Chern number (arXiv)
+
+1. **[2307.15923](http://arxiv.org/abs/2307.15923)** Charge-Spin Conversion in Two-Subband Quantum Wells with Conventional and Unconventional Rashba Spin-Orbit Coupling (arXiv)
+
+1. **[2307.16025](http://arxiv.org/abs/2307.16025)** Swapping exchange and spin-orbit induced correlated phases in ex-so-tic van der Waals heterostructures (arXiv)
+
+1. **[2307.15769](http://arxiv.org/abs/2307.15769)** Magnetic Antiskyrmions in Two-Dimensional van der Waals Magnets Engineered by Layer Stacking (arXiv)
+
+1. **[PhysRevLett.131.056401](https://link.aps.org/doi/10.1103/PhysRevLett.131.056401)** Intrinsic Nonlinear Hall Detection of the N\\'eel Vector for Two-Dimensional Antiferromagnetic Spintronics (PRL)
 
 
 
