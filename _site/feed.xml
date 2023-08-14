@@ -6,9 +6,63 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Aug 2023 21:00:38 +0900</pubDate>
-    <lastBuildDate>Sun, 13 Aug 2023 21:00:38 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Mon, 14 Aug 2023 12:03:13 +0900</pubDate>
+    <lastBuildDate>Mon, 14 Aug 2023 12:03:13 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>weekly picks (Aug 3 week 2023)</title>
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2023aug3weeks.png&quot; alt=&quot;A WordCloud of 2023 Aug 3rd week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2023 Aug 3rd week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.06256&quot;&gt;2308.06256&lt;/a&gt;&lt;/strong&gt; Single crystal synthesis, structure, and magnetism of Pb$_{10-x}$Cu$_x$(PO$_4$)$_6$O (&lt;strong&gt;LK99&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.05919&quot;&gt;2308.05919&lt;/a&gt;&lt;/strong&gt; Piezostrain-induced in-plane anisotropy of superconducting transition temperature for FeSe0.5Te0.5 thin films (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.05791&quot;&gt;2308.05791&lt;/a&gt;&lt;/strong&gt; Transport anomalies in multiband superconductors near quantum critical point (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.05786&quot;&gt;2308.05786&lt;/a&gt;&lt;/strong&gt; Ferromagnetism and insulating behavior with a logarithmic temperature dependence of resistivity in $Pb_{10-x}Cu_x\left( PO_4 \right) _6O$ (&lt;strong&gt;LK99&lt;/strong&gt; HHWen, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.05778&quot;&gt;2308.05778&lt;/a&gt;&lt;/strong&gt; Current percolation model for the special resistivity behavior observed in Cu-doped Apatite (&lt;strong&gt;LK99&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.06222&quot;&gt;2308.06222&lt;/a&gt;&lt;/strong&gt; High-temperature superconductivity induced by the Su-Schrieffer-Heeger electron-phonon coupling (HYao, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.06073&quot;&gt;2308.06073&lt;/a&gt;&lt;/strong&gt; Emergent inductance from spin fluctuations in strongly correlated magnets (TOh Nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.05803&quot;&gt;2308.05803&lt;/a&gt;&lt;/strong&gt; Nature of the current-induced insulator-to-metal transition in Ca$_2$RuO$_4$ as revealed by transport-ARPES (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.05773&quot;&gt;2308.05773&lt;/a&gt;&lt;/strong&gt; Comment on “Identification of the Mott Insulating Charge Density Wave State in $1T$-TaS$_2$” (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.06068&quot;&gt;2308.06068&lt;/a&gt;&lt;/strong&gt; Goodenough-Kanamori-Anderson rules in 2D magnet: A chemical trend in MCl2 with M=V, Mn, and Ni (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.05796&quot;&gt;2308.05796&lt;/a&gt;&lt;/strong&gt; Crystalline-electromagnetic responses of higher order topological semimetals (Hughes, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 14 Aug 2023 09:16:27 +0900</pubDate>
+        <link>http://jinhong-park.github.io/blog/2023/08/Aug3weeks</link>
+        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2023/08/Aug3weeks</guid>
+        
+        
+        <category>2023aug</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Aug 2 week 2023)</title>
@@ -1959,228 +2013,6 @@
         <pubDate>Mon, 12 Jun 2023 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/blog/2023/06/Jun3weeks</link>
         <guid isPermaLink="true">http://jinhong-park.github.io/blog/2023/06/Jun3weeks</guid>
-        
-        
-        <category>2023jun</category>
-        
-      </item>
-    
-      <item>
-        <title>weekly picks (Jun 2 week 2023)</title>
-        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2023jun2weeks.png&quot; alt=&quot;A WordCloud of 2023 Jun 2nd week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;A WordCloud of 2023 Jun 2nd week collection&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-05954-4&quot;&gt;s41586-023-05954-4&lt;/a&gt;&lt;/strong&gt; Non-Abelian braiding of graph vertices in a superconducting processor (&lt;strong&gt;Nature&lt;/strong&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.adh7670&quot;&gt;science.adh7670&lt;/a&gt;&lt;/strong&gt; Atomic-scale polarization switching in wurtzite ferroelectrics (&lt;strong&gt;Science&lt;/strong&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.2212730119&quot;&gt;pnas.2212730119&lt;/a&gt;&lt;/strong&gt; Correlation-driven electronic nematicity in the Dirac semimetal BaNiS2 (RIKEN, PNAS)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-023-39207-9&quot;&gt;s41467-023-39207-9&lt;/a&gt;&lt;/strong&gt; Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system (skyrmion, Nature Communications)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.235116&quot;&gt;PhysRevB.107.235116&lt;/a&gt;&lt;/strong&gt; Flat bands with high Chern numbers and multiple flat bands in multifold staggered-flux models (PRB)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41524-023-01056-x&quot;&gt;s41524-023-01056-x&lt;/a&gt;&lt;/strong&gt; Deep learning approach to genome of two-dimensional materials with flat electronic bands (npj Computational Materials)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.04081&quot;&gt;2306.04081&lt;/a&gt;&lt;/strong&gt; Majorana zero modes in Y-shape interacting Kitaev wires (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.236402&quot;&gt;PhysRevLett.130.236402&lt;/a&gt;&lt;/strong&gt; Experimental Realization of a Three-Dimensional Dirac Semimetal Phase with a Tunable Lifshitz Transition in ${\mathrm{Au}}_{2}\mathrm{Pb}$ (3D-Dirac, PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.238202&quot;&gt;PhysRevLett.130.238202&lt;/a&gt;&lt;/strong&gt; Predicting Dynamic Heterogeneity in Glass-Forming Liquids by Physics-Inspired Machine Learning (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03610&quot;&gt;2306.03610&lt;/a&gt;&lt;/strong&gt; Ultrafast Hidden Spin Polarization Dynamics of Bright and Dark Excitons in 2H-WSe$_2$ (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05034&quot;&gt;2306.05034&lt;/a&gt;&lt;/strong&gt; Topological Superconducting States and Quasiparticle Transport on Kagome Lattice (kagome, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05121&quot;&gt;2306.05121&lt;/a&gt;&lt;/strong&gt; Electronic correlations and superconducting instability in La$_3$Ni$_2$O$_7$ under high pressure (nickelate, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.04851&quot;&gt;2306.04851&lt;/a&gt;&lt;/strong&gt; The Performance of VQE across a phase transition point in the $J_1$-$J_2$ model on kagome lattice (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.04854&quot;&gt;2306.04854&lt;/a&gt;&lt;/strong&gt; Non-coplanar helimagnetism in the layered van-der-Waals metal DyTe$_3$ (&lt;strong&gt;helimagnetism&lt;/strong&gt;, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.04729&quot;&gt;2306.04729&lt;/a&gt;&lt;/strong&gt; Effects of Pressure on the Electronic and Magnetic Properties of Bulk NiI$_{2}$ (&lt;strong&gt;NiI2&lt;/strong&gt;, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05351&quot;&gt;2306.05351&lt;/a&gt;&lt;/strong&gt; Electroluminescence of the graphene 2D semi-metal (&lt;strong&gt;graphene&lt;/strong&gt;, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05237&quot;&gt;2306.05237&lt;/a&gt;&lt;/strong&gt; Solitons induced by an in-plane magnetic field in rhombohedral multilayer graphene (&lt;strong&gt;graphene&lt;/strong&gt;, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05104&quot;&gt;2306.05104&lt;/a&gt;&lt;/strong&gt; Tunable magnon topology in monolayer CrI$_\mathbf{3}$ under external stimuli (&lt;strong&gt;magnon&lt;/strong&gt;, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.05163&quot;&gt;2306.05163&lt;/a&gt;&lt;/strong&gt; Straintronics in Phosphorene: Tensile vs Shear Strains and Their Combinations for Manipulating the Band Gap (&lt;strong&gt;Straintronics&lt;/strong&gt;, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.04683&quot;&gt;2306.04683&lt;/a&gt;&lt;/strong&gt; Anderson Critical Metal Phase in Trivial States Protected by $C_{2z}T$ Symmetry on Average (C2zT symmetry, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.01413&quot;&gt;2306.01413&lt;/a&gt;&lt;/strong&gt; Theory of magnetic field-stabilized compact skyrmions in thin film ferromagnets (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.01370&quot;&gt;2306.01370&lt;/a&gt;&lt;/strong&gt; Insight into the electronic structure of the centrosymmetric skyrmion magnet GdRu$_2$Si$_2$ (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://doi.org/10.1063/5.0149692&quot;&gt;5.0149692&lt;/a&gt;&lt;/strong&gt; Phase-resolved frequency-domain analysis of the photoemission spectra for photoexcited 1T-TaS2 in the Mott insulating charge density wave state (Applied Physics Letters)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.04312v1&quot;&gt;2306.04312v1&lt;/a&gt;&lt;/strong&gt; Flat band-engineered spin-density wave and the emergent multi-$k$ magnetic state in the topological kagome metal Mn$_{3}$Sn (&lt;strong&gt;Mn3Sn&lt;/strong&gt;, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.04017v1&quot;&gt;2306.04017v1&lt;/a&gt;&lt;/strong&gt; Time-reversal switching responses in antiferromagnets (Hayami, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.04552v1&quot;&gt;2306.04552v1&lt;/a&gt;&lt;/strong&gt; High temperature, gate-free quantum anomalous Hall effect with an active capping layer (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.021033&quot;&gt;PhysRevX.13.021033&lt;/a&gt;&lt;/strong&gt; Electronic and Structural Fingerprints of Charge-Density-Wave Excitations in Extreme Ultraviolet Transient Absorption Spectroscopy (PRX)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.237001&quot;&gt;PhysRevLett.130.237001&lt;/a&gt;&lt;/strong&gt; Observation of Magnetic State Dependent Thermoelectricity in Superconducting Spin Valves (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.237002&quot;&gt;PhysRevLett.130.237002&lt;/a&gt;&lt;/strong&gt; Quantized Spin Pumping in Topological Ferromagnetic-Superconducting Nanowires (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s83&quot;&gt;s83&lt;/a&gt;&lt;/strong&gt; Pinpointing Problems in Transmission Power Grids (Physics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03814&quot;&gt;2306.03814&lt;/a&gt;&lt;/strong&gt; Reply to Comment on Nontrivial Quantum Geometry and the Strength of Electron-Phonon Coupling (&lt;strong&gt;Bernevig&lt;/strong&gt;, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03706&quot;&gt;2306.03706&lt;/a&gt;&lt;/strong&gt; Possible $S_\pm$-wave superconductivity in La$_3$Ni$_2$O$_7$ (QHWang, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03370&quot;&gt;2306.03370&lt;/a&gt;&lt;/strong&gt; Vanadium-Based Superconductivity in a Breathing Kagome Compound Ta2V3.1Si0.9 (Kagome, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03231&quot;&gt;2306.03231&lt;/a&gt;&lt;/strong&gt; Electronic structure, orbital-selective behavior, and magnetic tendencies in the bilayer nickelate superconductor La$_3$Ni$_2$O$_7$ under pressure (nickelate, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03688&quot;&gt;2306.03688&lt;/a&gt;&lt;/strong&gt; Direct observation of the exchange anisotropy in the helimagnetic insulator Cu$_2$OSeO$_3$ (helimagnet, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03677&quot;&gt;2306.03677&lt;/a&gt;&lt;/strong&gt; Stability of the 1/3 magnetization plateau of the $J_1-J_2$ kagome Heisenberg model (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03510&quot;&gt;2306.03510&lt;/a&gt;&lt;/strong&gt; Evolution of magnetic correlation in an inhomogeneous square lattice (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03478&quot;&gt;2306.03478&lt;/a&gt;&lt;/strong&gt; Interplay between multi-spin and chiral spin interactions on triangular lattice (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03451&quot;&gt;2306.03451&lt;/a&gt;&lt;/strong&gt; Monoaxial Dzyaloshinskii-Moriya interaction-induced topological Hall effect in a new chiral-lattice magnet GdPt$_2$B (&lt;strong&gt;DMI&lt;/strong&gt;, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03143&quot;&gt;2306.03143&lt;/a&gt;&lt;/strong&gt; Machine learning feature discovery of spinon Fermi surface (EAKim, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03690&quot;&gt;2306.03690&lt;/a&gt;&lt;/strong&gt; Rigorous analysis of the topologically protected edge states in the quantum spin Hall phase of the armchair ribbon geometry (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03468&quot;&gt;2306.03468&lt;/a&gt;&lt;/strong&gt; Two-dimensional metal halide perovskites and their heterostructures: from synthesis to applications (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.236601&quot;&gt;PhysRevLett.130.236601&lt;/a&gt;&lt;/strong&gt; Hofstadter Topology with Real Space Invariants and Reentrant Projective Symmetries (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/96&quot;&gt;96&lt;/a&gt;&lt;/strong&gt; X-Ray Spectroscopy of a Lone Atom (Physics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://doi.org/10.1021/acs.nanolett.3c00731&quot;&gt;acs.nanolett.3c00731&lt;/a&gt;&lt;/strong&gt; Manipulation of Skyrmion by Magnetic Field Gradients: A Stern-Gerlach-Like Experiment (Nano Lett)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://doi.org/10.1021/acs.nanolett.3c01117&quot;&gt;acs.nanolett.3c01117&lt;/a&gt;&lt;/strong&gt; Evolution of Emergent Monopoles into Magnetic Skyrmion Strings (Nano Lett)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.researchsquare.com/article/rs-2842071/v1&quot;&gt;rs-2842071/v1&lt;/a&gt;&lt;/strong&gt; Softening of a flat phonon mode in the kagome ScV6Sn6 (kagome, researchsquare)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41535-023-00565-8&quot;&gt;s41535-023-00565-8&lt;/a&gt;&lt;/strong&gt; Realization of practical eightfold fermions and fourfold van Hove singularity in TaCo2Te2 (npj Quantum Materials)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03017&quot;&gt;2306.03017&lt;/a&gt;&lt;/strong&gt; Controllable odd-frequency Cooper pairs in multi-superconductor Josephson junctions (Jorge, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02621&quot;&gt;2306.02621&lt;/a&gt;&lt;/strong&gt; Spontaneous breaking of mirror symmetry beyond critical doping in Pb-Bi2212 (CKim, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02375&quot;&gt;2306.02375&lt;/a&gt;&lt;/strong&gt; Comment on “Nontrivial Quantum Geometry and the Strength of Electron-Phonon Coupling” (Pickett, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.03056&quot;&gt;2306.03056&lt;/a&gt;&lt;/strong&gt; Magnetic field-induced partially polarized chiral spin liquid in a transition-metal dichalcogenide Moire system (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02501&quot;&gt;2306.02501&lt;/a&gt;&lt;/strong&gt; Topological magnets and magnons in twisted bilayer MoTe$_2$ and WSe$_2$ (LiangFu, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02909&quot;&gt;2306.02909&lt;/a&gt;&lt;/strong&gt; Degenerate flat bands in twisted bilayer graphene (flat, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02513&quot;&gt;2306.02513&lt;/a&gt;&lt;/strong&gt; Zero-field composite Fermi liquid in twisted semiconductor bilayers (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02998&quot;&gt;2306.02998&lt;/a&gt;&lt;/strong&gt; Berry-Curvature Engineering for Nonreciprocal Directional Dichroism in Two-Dimensional Antiferromagnets (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02655&quot;&gt;2306.02655&lt;/a&gt;&lt;/strong&gt; Quantum Valley and Sub-valley Hall Effect in the Large Angle Twisted Bilayer Graphene (BJYang, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.02046&quot;&gt;2306.02046&lt;/a&gt;&lt;/strong&gt; Two types of zero Hall phenomena in few-layer MnBi$_2$Te$_4$ (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.236401&quot;&gt;PhysRevLett.130.236401&lt;/a&gt;&lt;/strong&gt; Transformer Variational Wave Functions for Frustrated Quantum Spin Systems (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.130.237401&quot;&gt;PhysRevLett.130.237401&lt;/a&gt;&lt;/strong&gt; Shockwavelike Behavior across Social Media (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/89&quot;&gt;89&lt;/a&gt;&lt;/strong&gt; A New Science for Describing Unhealthy Online Environments (Physics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.01686v1&quot;&gt;2306.01686v1&lt;/a&gt;&lt;/strong&gt; Electronic Stripe Patterns Near the Fermi Level of Tetragonal Fe(Se,S) (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.01239v1&quot;&gt;2306.01239v1&lt;/a&gt;&lt;/strong&gt; Superconductivity at 12 K in La$_2$IOs$_2$: a 5d metal with osmium honeycomb layer (&lt;strong&gt;honeycomb 5d&lt;/strong&gt;, arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.01719v1&quot;&gt;2306.01719v1&lt;/a&gt;&lt;/strong&gt; Composite Fermi Liquid at Zero Magnetic Field in Twisted MoTe$_2$ (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.01572v1&quot;&gt;2306.01572v1&lt;/a&gt;&lt;/strong&gt; Detection and modeling of hole capture by single point defects under variable electric fields (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.01437v1&quot;&gt;2306.01437v1&lt;/a&gt;&lt;/strong&gt; Straintronics using the monolayer-Xene platform – a comparative study (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.01402v1&quot;&gt;2306.01402v1&lt;/a&gt;&lt;/strong&gt; Machine learning wave functions to identify fractal phases (arxiv)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Mon, 05 Jun 2023 09:16:27 +0900</pubDate>
-        <link>http://jinhong-park.github.io/blog/2023/06/Jun2weeks</link>
-        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2023/06/Jun2weeks</guid>
         
         
         <category>2023jun</category>
