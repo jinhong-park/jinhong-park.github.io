@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Aug 2023 15:42:09 +0900</pubDate>
-    <lastBuildDate>Wed, 16 Aug 2023 15:42:09 +0900</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2023 12:32:13 +0900</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2023 12:32:13 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,57 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-023-02175-4&quot;&gt;s41567-023-02175-4&lt;/a&gt;&lt;/strong&gt; Three-dimensional neutron far-field tomography of a bulk skyrmion lattice (skyrmion, Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08458&quot;&gt;2308.08458&lt;/a&gt;&lt;/strong&gt; Comment on “Origin of correlated isolated flat bands in copper-substituted lead phosphate apatite” (&lt;strong&gt;LK99&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08454&quot;&gt;2308.08454&lt;/a&gt;&lt;/strong&gt; Different phase leads to different transport behavior in Pb$_9$Cu(PO$_4$)$_6$O compounds (&lt;strong&gt;LK99&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08248&quot;&gt;2308.08248&lt;/a&gt;&lt;/strong&gt; Quantum geometry in superfluidity and superconductivity (&lt;strong&gt;Torma&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08526&quot;&gt;2308.08526&lt;/a&gt;&lt;/strong&gt; Ab-initio Insights on the Fermiology of $d^1$ Transition metals in Honeycomb lattice : Hierarchy of hopping pathways and spin-orbit coupling (honeycomb, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08336&quot;&gt;2308.08336&lt;/a&gt;&lt;/strong&gt; Photoemission Evidence of a Novel Charge Order in Kagome Metal FeGe (FeGe, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08246&quot;&gt;2308.08246&lt;/a&gt;&lt;/strong&gt; Orbital-selective charge-density wave in TaTe$_4$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08149&quot;&gt;2308.08149&lt;/a&gt;&lt;/strong&gt; Correlated flat bands in the paramagnetic phase of triangular antiferromagnets Na$_2$BaX(PO$_4$)$_2$ (X = Mn, Co, Ni) (flatband, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08116&quot;&gt;2308.08116&lt;/a&gt;&lt;/strong&gt; Dimensional reduction of Kitaev spin liquid at quantum criticality (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08486&quot;&gt;2308.08486&lt;/a&gt;&lt;/strong&gt; Nontrivial Aharonov-Bohm effect and alternating dispersion of magnons in cone-state ferromagnetic rings (magnon, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08447&quot;&gt;2308.08447&lt;/a&gt;&lt;/strong&gt; Accelerating micromagnetic and atomistic simulations using multiple GPUs (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08207&quot;&gt;2308.08207&lt;/a&gt;&lt;/strong&gt; Promoting $p$-based Hall effects by $p$-$d$-$f$ hybridization in Gd-based dichalcogenides (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08091&quot;&gt;2308.08091&lt;/a&gt;&lt;/strong&gt; Deterministic Spin-Orbit Torque Switching of Mn3Sn with the Interplay between Spin Polarization and Kagome Plane (Mn3Sn, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08542&quot;&gt;2308.08542&lt;/a&gt;&lt;/strong&gt; All-optical switching at the two-photon limit with interference-localized states (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08355&quot;&gt;2308.08355&lt;/a&gt;&lt;/strong&gt; Multiple antiferromagnetic phases and magnetic anisotropy in exfoliated CrBr$_3$ multilayers (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://doi.org/10.1021/acs.nanolett.3c02513&quot;&gt;acs.nanolett.3c02513&lt;/a&gt;&lt;/strong&gt; Topological Flat Bands in Strained Graphene: Substrate Engineering and Optical Control (flatband, Nano Letters)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.076301&quot;&gt;PhysRevLett.131.076301&lt;/a&gt;&lt;/strong&gt; Multifractal Conductance Fluctuations of Helical Edge States (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.076801&quot;&gt;PhysRevLett.131.076801&lt;/a&gt;&lt;/strong&gt; Why Dissolving Salt in Water Decreases Its Dielectric Permittivity (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2308.07408v1&quot;&gt;2308.07408v1&lt;/a&gt;&lt;/strong&gt; Cu-substituted lead phosphate apatite as an inversion-asymmetric Weyl semimetal (&lt;strong&gt;LK99&lt;/strong&gt; MFranz, arXiv)&lt;/p&gt;
