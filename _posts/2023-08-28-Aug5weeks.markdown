@@ -6,7 +6,7 @@ categories: 2023aug
 ---
 
 
-{% include image.html url="/images/2023aug4weeks.png" caption="A WordCloud of 2023 Aug 5th week collection" width=300 align="center" %}
+{% include image.html url="/images/2023aug5weeks.png" caption="A WordCloud of 2023 Aug 5th week collection" width=300 align="center" %}
 
 
 
