@@ -1,12 +1,50 @@
 ---
 layout: post
-title:  "weekly picks (Aug 5 week 2023)"
-date:   2023-08-28 00:16:27
-categories: 2023aug
+title:  "weekly picks (Sep 1 week 2023)"
+date:   2023-09-01 00:16:27
+categories: 2023sep
 ---
 
 
-{% include image.html url="/images/2023aug5weeks.png" caption="A WordCloud of 2023 Aug 5th week collection" width=300 align="center" %}
+{% include image.html url="/images/2023sep1weeks.png" caption="A WordCloud of 2023 Sep 1st week collection" width=300 align="center" %}
+
+
+
+1. **[s41586-023-06280-5](https://www.nature.com/articles/s41586-023-06280-5)** Frustration- and doping-induced magnetism in a Fermi-Hubbard simulator (Nature)
+
+1. **[s41586-023-06279-y](https://www.nature.com/articles/s41586-023-06279-y)** Spin-mediated shear oscillators in a van der Waals antiferromagnet (Nature)
+
+1. **[why-do-cats-love-tuna](https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know)** Why do cats love tuna so much? Scientists may finally know (Science)
+
+1. **[science.adk0121](https://www.science.org/doi/abs/10.1126/science.adk0121)** The raw material of evolution (Science)
+
+
+
+
+
+1. **[PhysRevLett.131.096401](https://link.aps.org/doi/10.1103/PhysRevLett.131.096401)** Untwisting Moire Physics: Almost Ideal Bands and Fractional Chern Insulators in Periodically Strained Monolayer Graphene (PRL)
+
+1. **[148](https://physics.aps.org/articles/v16/148)** The Mystery of a Strange Metals Explained (Physics)
+
+1. **[s117](https://physics.aps.org/articles/v16/s117)** New Physics Magnified in Spinning Black Holes (Physics)
+
+
+
+
+1. **[2308.16908](http://arxiv.org/abs/2308.16908)** Quantized thermal and spin transports of dirty planar topological superconductors (arXiv)
+
+1. **[2308.16806](http://arxiv.org/abs/2308.16806)** Tunable magnetic domains in ferrimagnetic MnSb$_2$Te$_4$ (arXiv)
+
+1. **[2308.16563](http://arxiv.org/abs/2308.16563)** Schwinger boson symmetric spin liquids of Shastry-Sutherland model (arXiv)
+
+1. **[2308.16440](http://arxiv.org/abs/2308.16440)** Localizing Transitions via Interaction-Induced Flat Bands (arXiv)
+
+1. **[2308.16407](http://arxiv.org/abs/2308.16407)** General Formula for the Green's Function Approach to the Spin-1/2 Antiferromagnetic Heisenberg Model (arXiv)
+
+1. **[2308.16243](http://arxiv.org/abs/2308.16243)** Local noise spectroscopy of Wigner crystals in two-dimensional materials (arXiv)
+
+1. **[2308.16662](http://arxiv.org/abs/2308.16662)** Supercell Altermagnets (arXiv)
+
 
 
 
