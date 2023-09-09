@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Sep 2023 10:49:40 +0900</pubDate>
-    <lastBuildDate>Fri, 08 Sep 2023 10:49:40 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 09 Sep 2023 11:39:48 +0900</pubDate>
+    <lastBuildDate>Sat, 09 Sep 2023 11:39:48 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Sep 2 week 2023)</title>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.100202&quot;&gt;PhysRevLett.131.100202&lt;/a&gt;&lt;/strong&gt; Speeding Up Entanglement Generation by Proximity to Higher-Order Exceptional Points (Entanglement, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.106801&quot;&gt;PhysRevLett.131.106801&lt;/a&gt;&lt;/strong&gt; Fractionalization in Fractional Correlated Insulating States at n \pm 1/3 Filled Twisted Bilayer Graphene (EAKim, PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06312-0&quot;&gt;s41586-023-06312-0&lt;/a&gt;&lt;/strong&gt; Proximity superconductivity in atom-by-atom crafted quantum dots (Nature)&lt;/p&gt;
   &lt;/li&gt;
