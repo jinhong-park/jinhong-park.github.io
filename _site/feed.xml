@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Sep 2023 14:50:55 +0900</pubDate>
-    <lastBuildDate>Tue, 12 Sep 2023 14:50:55 +0900</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 11:25:16 +0900</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 11:25:16 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,54 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031027&quot;&gt;PhysRevX.13.031027&lt;/a&gt;&lt;/strong&gt; Criticality in the Crossed Andreev Reflection of a Quantum Hall Edge (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116201&quot;&gt;PhysRevLett.131.116201&lt;/a&gt;&lt;/strong&gt; Paramagnetic Singularities of the Orbital Magnetism in Graphene with a Moir\‘e Potential (&lt;strong&gt;graphene magnetism&lt;/strong&gt;, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.06303&quot;&gt;2309.06303&lt;/a&gt;&lt;/strong&gt; Transfer learning from Hermitian to non-Hermitian quantum many-body physics (Lado, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.06069&quot;&gt;2309.06069&lt;/a&gt;&lt;/strong&gt; Time-dependent Gutzwiller simulation of Floquet topological superconductivity (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05984&quot;&gt;2309.05984&lt;/a&gt;&lt;/strong&gt; Temperature-driven change in band structure reflecting spin-charge separation of Mott and Kondo insulators (Mott Kondo, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05983&quot;&gt;2309.05983&lt;/a&gt;&lt;/strong&gt; Characteristics of the Mott transition and electronic states of high-temperature cuprate superconductors from the perspective of the Hubbard model (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05726&quot;&gt;2309.05726&lt;/a&gt;&lt;/strong&gt; Strong Pairing Originated from an Emergent $\mathbb{Z}_2$ Berry Phase in $\mathbf{La}_3 \mathbf{Ni}_2 \mathbf{O}_7$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05711&quot;&gt;2309.05711&lt;/a&gt;&lt;/strong&gt; Thermal Hall Effect and Neutral Spinons in a Doped Mott Insulator (spinon, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.06405&quot;&gt;2309.06405&lt;/a&gt;&lt;/strong&gt; 4$f$ electron temperature driven ultrafast electron localization (4f, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.06399&quot;&gt;2309.06399&lt;/a&gt;&lt;/strong&gt; Orbital-selective effect of spin reorientation on the Dirac fermions in a three-dimensional kagome ferromagnet Fe$_3$Ge (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05741&quot;&gt;2309.05741&lt;/a&gt;&lt;/strong&gt; Conductance and thermopower fluctuations in interacting quantum dots (PKim Sachdev, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.06416&quot;&gt;2309.06416&lt;/a&gt;&lt;/strong&gt; Kubo formula for dc conductivity in the presence of spin-orbit coupling: a revision (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.06412&quot;&gt;2309.06412&lt;/a&gt;&lt;/strong&gt; Quantum transport in a multi-path graphene Aharonov-Bohm inteferometer (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05982&quot;&gt;2309.05982&lt;/a&gt;&lt;/strong&gt; Anisotropy-assisted magnon condensation in ferromagnetic thin films (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05723&quot;&gt;2309.05723&lt;/a&gt;&lt;/strong&gt; Spin-Hall effect due to the bulk states of topological insulators: Extrinsic contribution to the conserved spin current (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05907&quot;&gt;2309.05907&lt;/a&gt;&lt;/strong&gt; High-chirality Weyl nodes in hexagonal ReO$_3$ (Weyl, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.05664&quot;&gt;2309.05664&lt;/a&gt;&lt;/strong&gt; Superconductivity-induced improper orders (arXiv)&lt;/p&gt;
   &lt;/li&gt;
