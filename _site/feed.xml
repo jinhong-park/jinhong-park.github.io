@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Sep 2023 12:02:23 +0900</pubDate>
-    <lastBuildDate>Thu, 14 Sep 2023 12:02:23 +0900</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2023 16:54:13 +0900</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2023 16:54:13 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06330-y&quot;&gt;s41586-023-06330-y&lt;/a&gt;&lt;/strong&gt; Quantum oscillations of the quasiparticle lifetime in a metal (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.06984&quot;&gt;2309.06984&lt;/a&gt;&lt;/strong&gt; Ab initio transport calculations: from normal to superconducting current (arXiv)&lt;/p&gt;
   &lt;/li&gt;
