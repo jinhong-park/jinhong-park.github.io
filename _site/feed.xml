@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Sep 2023 16:54:13 +0900</pubDate>
-    <lastBuildDate>Thu, 14 Sep 2023 16:54:13 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 16 Sep 2023 11:16:39 +0900</pubDate>
+    <lastBuildDate>Sat, 16 Sep 2023 11:16:39 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Sep 3 week 2023)</title>
@@ -20,6 +20,78 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031030&quot;&gt;PhysRevX.13.031030&lt;/a&gt;&lt;/strong&gt; Small Fermi Pockets Intertwined with Charge Stripes and Pair Density Wave Order in a Kagome Superconductor (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s135&quot;&gt;s135&lt;/a&gt;&lt;/strong&gt; Experiments Support Theory for Exotic Kagome States (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031031&quot;&gt;PhysRevX.13.031031&lt;/a&gt;&lt;/strong&gt; Tunable Crossed Andreev Reflection and Elastic Cotunneling in Hybrid Nanowires (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s124&quot;&gt;s124&lt;/a&gt;&lt;/strong&gt; Striking a Balance for Quantum Bits (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116501&quot;&gt;PhysRevLett.131.116501&lt;/a&gt;&lt;/strong&gt; Probing Hidden Mott Gap and Incommensurate Charge Modulation on the Polar Surfaces of ${\mathrm{PdCrO}}_{2}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116801&quot;&gt;PhysRevLett.131.116801&lt;/a&gt;&lt;/strong&gt; Tuning the Multiferroic Properties of ${\mathrm{BiFeO}}_{3}$ under Uniaxial Strain (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116002&quot;&gt;PhysRevLett.131.116002&lt;/a&gt;&lt;/strong&gt; Prevailing Charge Order in Overdoped ${\mathrm{La}}&lt;em&gt;{2\ensuremath{-}x}{\mathrm{Sr}}&lt;/em&gt;{x}{\mathrm{CuO}}_{4}$ beyond the Superconducting Dome (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116603&quot;&gt;PhysRevLett.131.116603&lt;/a&gt;&lt;/strong&gt; Topological Circular Dichroism in Chiral Multifold Semimetals (JAhn, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.110401&quot;&gt;PhysRevLett.131.110401&lt;/a&gt;&lt;/strong&gt; Embedding Semiclassical Periodic Orbits into Chaotic Many-Body Hamiltonians (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116602&quot;&gt;PhysRevLett.131.116602&lt;/a&gt;&lt;/strong&gt; Direct Observation of Topological Phonons in Graphene (topological phonon, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s126&quot;&gt;s126&lt;/a&gt;&lt;/strong&gt; Graphene Has Topological Phonons (topological phonon, Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116702&quot;&gt;PhysRevLett.131.116702&lt;/a&gt;&lt;/strong&gt; Plaquette Singlet Transition, Magnetic Barocaloric Effect, and Spin Supersolidity in the Shastry-Sutherland Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.116902&quot;&gt;PhysRevLett.131.116902&lt;/a&gt;&lt;/strong&gt; Optically Active Spin Defects in Few-Layer Thick Hexagonal Boron Nitride (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07827&quot;&gt;2309.07827&lt;/a&gt;&lt;/strong&gt; Microscopic study of the impurity effect in the kagome superconductor La(Ru$&lt;em&gt;{1-x}$Fe$&lt;/em&gt;{x}$)$&lt;em&gt;{3}$Si$&lt;/em&gt;{2}$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07211&quot;&gt;2309.07211&lt;/a&gt;&lt;/strong&gt; Topological superconductivity mediated by magnons of helical magnetic states (Sudbo, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07894&quot;&gt;2309.07894&lt;/a&gt;&lt;/strong&gt; Collective non-Hermitian skin effect: Point-gap topology and the doublon-holon excitations in non-reciprocal many-body systems (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07916&quot;&gt;2309.07916&lt;/a&gt;&lt;/strong&gt; Quantum Electrodynamics of Non-Hermitian Dirac Fermions (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07876&quot;&gt;2309.07876&lt;/a&gt;&lt;/strong&gt; Particle-hole asymmetric ferromagnetism and spin textures in the triangular Hubbard-Hofstadter model (BHKim MJPark, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07737&quot;&gt;2309.07737&lt;/a&gt;&lt;/strong&gt; Eleven Competing Phases in the Heisenberg-Gamma (J$\Gamma$) Ladder (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07706&quot;&gt;2309.07706&lt;/a&gt;&lt;/strong&gt; Enhanced Non-linear Response by Manipulating the Dirac Point in the (111) LaTiO$_3$/SrTiO$_3$ Interface (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07451&quot;&gt;2309.07451&lt;/a&gt;&lt;/strong&gt; Phase control of magnons in the van der Waals antiferromagnet NiPS$_3$ (magnon, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07222&quot;&gt;2309.07222&lt;/a&gt;&lt;/strong&gt; Time-Reversal Invariant Topological Moir\‘e Flatband: A Platform for the Fractional Quantum Spin Hall Effect (flatband Moire, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07784&quot;&gt;2309.07784&lt;/a&gt;&lt;/strong&gt; Klein-bottle quadrupole insulators and Dirac semimetals (qaudrupole insulator, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.07260&quot;&gt;2309.07260&lt;/a&gt;&lt;/strong&gt; Self-duality properties and localization centers of the electronic wave functions at high magic angles in twisted bilayer graphene (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06330-y&quot;&gt;s41586-023-06330-y&lt;/a&gt;&lt;/strong&gt; Quantum oscillations of the quasiparticle lifetime in a metal (Nature)&lt;/p&gt;
   &lt;/li&gt;
