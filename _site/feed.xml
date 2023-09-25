@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Sep 2023 10:44:19 +0900</pubDate>
-    <lastBuildDate>Mon, 25 Sep 2023 10:44:19 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Mon, 25 Sep 2023 21:41:43 +0900</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2023 21:41:43 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Sep 5 week 2023)</title>
@@ -27,7 +27,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.12836&quot;&gt;2309.12836&lt;/a&gt;&lt;/strong&gt; Using superconductivity to control magnetism: a facet of superconducting spintronics (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.12648&quot;&gt;2309.12648&lt;/a&gt;&lt;/strong&gt; Fingerprints for anisotropic Kondo lattice behavior in the quasiparticle dynamics of the kagome metal Ni$_3$In (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.12648&quot;&gt;2309.12648&lt;/a&gt;&lt;/strong&gt; Fingerprints for anisotropic Kondo lattice behavior in the quasiparticle dynamics of the kagome metal Ni$_3$In (Kondo, arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.12511&quot;&gt;2309.12511&lt;/a&gt;&lt;/strong&gt; MatsubaraFunctions.jl: An equilibrium Green’s function library in the Julia programming language (python, arXiv)&lt;/p&gt;
