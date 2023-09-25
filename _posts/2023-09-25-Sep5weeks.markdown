@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "weekly picks (Sep 5 week 2023)"
+date:   2023-09-25 00:16:27
+categories: 2023sep
+---
+
+
+{% include image.html url="/images/2023sep5weeks.png" caption="A WordCloud of 2023 Sep 5th week collection" width=300 align="center" %}
+
+
+
+1. **[2309.12840](http://arxiv.org/abs/2309.12840)** Nature of the magnetic coupling in infinite-layer nickelates versus cuprates (arXiv)
+
+1. **[2309.12836](http://arxiv.org/abs/2309.12836)** Using superconductivity to control magnetism: a facet of superconducting spintronics (arXiv)
+
+1. **[2309.12648](http://arxiv.org/abs/2309.12648)** Fingerprints for anisotropic Kondo lattice behavior in the quasiparticle dynamics of the kagome metal Ni$_3$In (arXiv)
+
+1. **[2309.12511](http://arxiv.org/abs/2309.12511)** MatsubaraFunctions.jl: An equilibrium Green's function library in the Julia programming language (python, arXiv)
+
+1. **[2309.12497](http://arxiv.org/abs/2309.12497)** Ferromagnetic quantum critical point in a locally noncentrosymmetric and nonsymmorphic Kondo metal (SHShin, arXiv)
+
+1. **[2309.12812](http://arxiv.org/abs/2309.12812)** Electric field induced thermal Hall effect of triplons in the quantum dimer magnets $X$CuCl$_{3}$ ($X =$ Tl, K) (arXiv)
+
+1. **[2309.12776](http://arxiv.org/abs/2309.12776)** Electric control of optically-induced magnetization dynamics in a van der Waals ferromagnetic semiconductor (arXiv)
