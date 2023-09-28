@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Sep 2023 11:02:54 +0900</pubDate>
-    <lastBuildDate>Wed, 27 Sep 2023 11:02:54 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Thu, 28 Sep 2023 12:00:14 +0900</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2023 12:00:14 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Sep 5 week 2023)</title>
@@ -20,6 +20,51 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15567&quot;&gt;2309.15567&lt;/a&gt;&lt;/strong&gt; Enhancing the Josephson diode effect with Majorana bound states (Jorge Nagaosa, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15594&quot;&gt;2309.15594&lt;/a&gt;&lt;/strong&gt; Rich Magnetic Phase Diagram of Putative Helimagnet Sr$_3$Fe$_2$O$_7$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15392&quot;&gt;2309.15392&lt;/a&gt;&lt;/strong&gt; Clean realization of the Hund physics near the Mott transition: $\mathrm{NiS_2}$ under pressure (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15299&quot;&gt;2309.15299&lt;/a&gt;&lt;/strong&gt; Spin-orbit excitons in a correlated metal: Raman scattering study of Sr2RhO4 (Rh, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15371&quot;&gt;2309.15371&lt;/a&gt;&lt;/strong&gt; From Stoner to Local Moment Magnetism in Atomically Thin Cr2Te3 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15679&quot;&gt;2309.15679&lt;/a&gt;&lt;/strong&gt; Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15513&quot;&gt;2309.15513&lt;/a&gt;&lt;/strong&gt; Investigation of magnetic properties of $4f$-adatoms on graphene (4f graphene, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15457&quot;&gt;2309.15457&lt;/a&gt;&lt;/strong&gt; Engineering the in-plane anomalous hall effect in Cd$_3$As$_2$ thin films (in-plane field, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15403&quot;&gt;2309.15403&lt;/a&gt;&lt;/strong&gt; 180$^\circ$-twisted bilayer ReSe$_2$ as an artificial noncentrosymmetric semiconductor (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031037&quot;&gt;PhysRevX.13.031037&lt;/a&gt;&lt;/strong&gt; Observation of Integer and Fractional Quantum Anomalous Hall Effects in Twisted Bilayer ${\mathrm{MoTe}}_{2}$ (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.133002&quot;&gt;PhysRevLett.131.133002&lt;/a&gt;&lt;/strong&gt; Deep-Learning Approach for the Atomic Configuration Interaction Problem on Large Basis Sets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.136501&quot;&gt;PhysRevLett.131.136501&lt;/a&gt;&lt;/strong&gt; Zero-Field Composite Fermi Liquid in Twisted Semiconductor Bilayers (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.136502&quot;&gt;PhysRevLett.131.136502&lt;/a&gt;&lt;/strong&gt; Composite Fermi Liquid at Zero Magnetic Field in Twisted ${\mathrm{MoTe}}_{2}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/163&quot;&gt;163&lt;/a&gt;&lt;/strong&gt; In a Twist, Composite Fermions Form and Flow without a Magnetic Field (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s139&quot;&gt;s139&lt;/a&gt;&lt;/strong&gt; A Fine Probe of Layer Stacking (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031036&quot;&gt;PhysRevX.13.031036&lt;/a&gt;&lt;/strong&gt; Bose Polaron Interactions in a Cavity-Coupled Monolayer Semiconductor (PRX)&lt;/p&gt;
   &lt;/li&gt;
