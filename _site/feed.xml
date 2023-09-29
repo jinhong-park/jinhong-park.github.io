@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Sep 2023 10:33:53 +0900</pubDate>
-    <lastBuildDate>Fri, 29 Sep 2023 10:33:53 +0900</lastBuildDate>
+    <pubDate>Fri, 29 Sep 2023 18:30:46 +0900</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2023 18:30:46 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -45,15 +45,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.16325&quot;&gt;2309.16325&lt;/a&gt;&lt;/strong&gt; Valley-polarization and stable triplet exciton formation in 2D lateral heterostrcuture of hBN-kagome and graphene (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15987&quot;&gt;2309.15987&lt;/a&gt;&lt;/strong&gt; Quantifying orbital Rashba effect via harmonic Hall torque measurements in transition-metal&lt;/td&gt;
-          &lt;td&gt;Cu&lt;/td&gt;
-          &lt;td&gt;Oxide structures (arXiv)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.15987&quot;&gt;2309.15987&lt;/a&gt;&lt;/strong&gt; Quantifying orbital Rashba effect via harmonic Hall torque measurements in transition-metal/Cu/Oxide structures (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.031038&quot;&gt;PhysRevX.13.031038&lt;/a&gt;&lt;/strong&gt; Bulk-Boundary Correspondence for Interacting Floquet Systems in Two Dimensions (PRX)&lt;/p&gt;
@@ -208,7 +200,9 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.12812&quot;&gt;2309.12812&lt;/a&gt;&lt;/strong&gt; Electric field induced thermal Hall effect of triplons in the quantum dimer magnets $X$CuCl$_{3}$ ($X =$ Tl, K) (arXiv)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.12776&quot;&gt;2309.12776&lt;/a&gt;&lt;/strong&gt; Electric control of optically-induced magnetization dynamics in a van der Waals ferromagnetic semiconductor (arXiv)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2309.12776&quot;&gt;2309.12776&lt;/a&gt;&lt;/strong&gt; Electric control of optically-induced magnetization dynamics in a van der Waals ferromagnetic semiconductor (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 25 Sep 2023 09:16:27 +0900</pubDate>
