@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "weekly picks (Oct 1 week 2023)"
+date:   2023-10-02 00:16:27
+categories: 2023oct
+---
+
+
+{% include image.html url="/images/2023oct1weeks.png" caption="A WordCloud of 2023 Oct 1st week collection" width=300 align="center" %}
+
