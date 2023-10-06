@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Oct 2023 10:35:44 +0900</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2023 10:35:44 +0900</lastBuildDate>
+    <pubDate>Fri, 06 Oct 2023 11:06:48 +0900</pubDate>
+    <lastBuildDate>Fri, 06 Oct 2023 11:06:48 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,48 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adf2040&quot;&gt;science.adf2040&lt;/a&gt;&lt;/strong&gt; A quantum ruler for orbital magnetism in moire quantum matter (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06289-w&quot;&gt;s41586-023-06289-w&lt;/a&gt;&lt;/strong&gt; Signatures of fractional quantum anomalous Hall states in twisted MoTe2 (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06452-3&quot;&gt;s41586-023-06452-3&lt;/a&gt;&lt;/strong&gt; Thermodynamic evidence of fractional Chern insulator in moire MoTe2 (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06536-0&quot;&gt;s41586-023-06536-0&lt;/a&gt;&lt;/strong&gt; Observation of fractionally quantized anomalous Hall effect (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.03609&quot;&gt;2310.03609&lt;/a&gt;&lt;/strong&gt; Unconventional superconductivity in Sc$&lt;em&gt;2$Ir$&lt;/em&gt;{4-x}$Si$_x$ by spin-orbit coupling driven flat band (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.03082&quot;&gt;2310.03082&lt;/a&gt;&lt;/strong&gt; Exceeding the Chandrasekhar-Clogston limit in flat-band superconductors: A multiband strong-coupling approach (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.03576&quot;&gt;2310.03576&lt;/a&gt;&lt;/strong&gt; Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.03209&quot;&gt;2310.03209&lt;/a&gt;&lt;/strong&gt; Planar Hall effect in Weyl semimetals induced by pseudoelectromagnetic fields (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.03737&quot;&gt;2310.03737&lt;/a&gt;&lt;/strong&gt; Topological Density Correlations in a Fermi Gas (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041004&quot;&gt;PhysRevX.13.041004&lt;/a&gt;&lt;/strong&gt; Effective Dynamics of Generative Adversarial Networks (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.146702&quot;&gt;PhysRevLett.131.146702&lt;/a&gt;&lt;/strong&gt; Triple-q Order in ${\mathrm{Na}}&lt;em&gt;{2}{\mathrm{Co}}&lt;/em&gt;{2}{\mathrm{TeO}}_{6}$ from Proximity to Hidden-SU(2)-Symmetric Point (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.146601&quot;&gt;PhysRevLett.131.146601&lt;/a&gt;&lt;/strong&gt; Gate-Defined Topological Josephson Junctions in Bernal Bilayer Graphene (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.141801&quot;&gt;PhysRevLett.131.141801&lt;/a&gt;&lt;/strong&gt; Dark Matter Constraints from Isomeric $^{178m}\mathrm{Hf}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/s144&quot;&gt;s144&lt;/a&gt;&lt;/strong&gt; Crazy Ants Behave like Active Swimmers (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.02910&quot;&gt;2310.02910&lt;/a&gt;&lt;/strong&gt; Implementing Landauer-Buttiker approach in hybrid quantum Hall-superconducting devices (arXiv)&lt;/p&gt;
   &lt;/li&gt;
