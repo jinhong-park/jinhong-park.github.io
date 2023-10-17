@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Oct 2023 10:27:13 +0900</pubDate>
-    <lastBuildDate>Tue, 17 Oct 2023 10:27:13 +0900</lastBuildDate>
+    <pubDate>Tue, 17 Oct 2023 11:28:18 +0900</pubDate>
+    <lastBuildDate>Tue, 17 Oct 2023 11:28:18 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -21,7 +21,43 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.166704&quot;&gt;PhysRevLett.131.166704&lt;/a&gt;&lt;/strong&gt; Nonlinear Topological Magnon Spin Hall Effect (PRL)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.166704&quot;&gt;PhysRevLett.131.166704&lt;/a&gt;&lt;/strong&gt; Nonlinear Topological Magnon Spin Hall Effect (magnon, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.10337&quot;&gt;2310.10337&lt;/a&gt;&lt;/strong&gt; Flux-pinning mediated superconducting diode effect in the NbSe$_2$/CrGeTe$_3$ heterostructure (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.10201&quot;&gt;2310.10201&lt;/a&gt;&lt;/strong&gt; A proposal for realizing Majorana fermions without magnetic field in strongly correlated nanowires (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.09305&quot;&gt;2310.09305&lt;/a&gt;&lt;/strong&gt; The interplay between exciton- and phonon-induced superconductivity might explain the phenomena observed in LK-99 (LK99, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.10466&quot;&gt;2310.10466&lt;/a&gt;&lt;/strong&gt; Hall response of locally-correlated two-dimensional electrons at low density (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.10230&quot;&gt;2310.10230&lt;/a&gt;&lt;/strong&gt; Majorana Fermion Mean-Field Theories of Kitaev Quantum Spin Liquids (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.10069&quot;&gt;2310.10069&lt;/a&gt;&lt;/strong&gt; Emergent spin-gapped magnetization plateaus in a spin-1/2 perfect kagome antiferromagnet (YMatsuda, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.09326&quot;&gt;2310.09326&lt;/a&gt;&lt;/strong&gt; Accurate Kondo temperature determination of spin-1/2 magnetic impurities (Kondo, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.09364&quot;&gt;2310.09364&lt;/a&gt;&lt;/strong&gt; Anomalous Hall effect in the antiferromagnetic Weyl semimetal SmAlSi (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.09310&quot;&gt;2310.09310&lt;/a&gt;&lt;/strong&gt; Weyl points and spin-orbit coupling in copper-substituted lead phosphate apatite (LK99, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.09300&quot;&gt;2310.09300&lt;/a&gt;&lt;/strong&gt; Floquet-engineering the exceptional points in parity-time-symmetric magnonics (magnon, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.10473&quot;&gt;2310.10473&lt;/a&gt;&lt;/strong&gt; Spin Splitting and Disorder in HgTe-Based Massless Dirac Fermion Landau Levels (LL, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.10403&quot;&gt;2310.10403&lt;/a&gt;&lt;/strong&gt; A mono-atomic orbital-based 1D topological crystalline insulator (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.08642&quot;&gt;2310.08642&lt;/a&gt;&lt;/strong&gt; New mechanisms to engineer magnetic skyrmions and topological superconductors (arXiv)&lt;/p&gt;
