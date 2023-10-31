@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Oct 2023 10:51:43 +0900</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2023 10:51:43 +0900</lastBuildDate>
+    <pubDate>Tue, 31 Oct 2023 11:58:34 +0900</pubDate>
+    <lastBuildDate>Tue, 31 Oct 2023 11:58:34 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,18 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041020&quot;&gt;PhysRevX.13.041020&lt;/a&gt;&lt;/strong&gt; Tackling Sampling Noise in Physical Systems for Machine Learning Applications: Fundamental Limits and Eigentasks (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.186701&quot;&gt;PhysRevLett.131.186701&lt;/a&gt;&lt;/strong&gt; Discovery of Charge Order in the Transition Metal Dichalcogenide ${\mathrm{Fe}}&lt;em&gt;{x}{\mathrm{NbS}}&lt;/em&gt;{2}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.186901&quot;&gt;PhysRevLett.131.186901&lt;/a&gt;&lt;/strong&gt; Bright and Dark Quadrupolar Excitons in the ${\mathrm{WSe}}&lt;em&gt;{2}/{\mathrm{MoSe}}&lt;/em&gt;{2}/{\mathrm{WSe}}_{2}$ Heterotrilayer (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.188101&quot;&gt;PhysRevLett.131.188101&lt;/a&gt;&lt;/strong&gt; Minimal Model of Solitons in Nematic Liquid Crystals (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2310.18302&quot;&gt;2310.18302&lt;/a&gt;&lt;/strong&gt; Searching for the signature of a pair density wave in YBa$&lt;em&gt;2$Cu$_3$O$&lt;/em&gt;{6.67}$ using high energy X-ray diffraction (arXiv)&lt;/p&gt;
   &lt;/li&gt;
