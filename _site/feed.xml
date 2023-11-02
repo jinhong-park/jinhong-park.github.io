@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Nov 2023 10:33:07 +0900</pubDate>
-    <lastBuildDate>Thu, 02 Nov 2023 10:33:07 +0900</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 13:50:27 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 13:50:27 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06572-w&quot;&gt;s41586-023-06572-w&lt;/a&gt;&lt;/strong&gt; Orbital multiferroicity in pentalayer rhombohedral graphene (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.186302&quot;&gt;PhysRevLett.131.186302&lt;/a&gt;&lt;/strong&gt; Gate-Tunable Berry Curvature Dipole Polarizability in Dirac Semimetal ${\mathrm{Cd}}&lt;em&gt;{3}{\mathrm{As}}&lt;/em&gt;{2}$ (PRL)&lt;/p&gt;
   &lt;/li&gt;
