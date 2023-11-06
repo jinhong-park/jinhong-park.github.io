@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "weekly picks (Nov 1 week 2023)"
+date:   2023-11-06 00:16:27
+categories: 2023nov
+---
+
+
+{% include image.html url="/images/2023nov1weeks.png" caption="A WordCloud of 2023 Nov 1st week collection" width=300 align="center" %}
+
+
+
+
+1. **[2311.02005v1](https://arxiv.org/abs/2311.02005v1)** Local condensation of charge-$4e$ superconductivity at a nematic domain wall (nematic, arXiv)
+
+1. **[2311.01858v1](https://arxiv.org/abs/2311.01858v1)** Magnetic properties and spin dynamics in a spin-orbit driven Jeff= 1/2 triangular lattice antiferromagnet (effective Jhalf, arXiv)
+
+1. **[2311.01735v1](https://arxiv.org/abs/2311.01735v1)** Robust room temperature ferromagnetism in an itinerant van der Waals antiferromagnet (arXiv)
