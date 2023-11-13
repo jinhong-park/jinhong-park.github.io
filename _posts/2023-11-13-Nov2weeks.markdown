@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "weekly picks (Nov 2 week 2023)"
+date:   2023-11-13 00:16:27
+categories: 2023nov
+---
+
+
+{% include image.html url="/images/2023nov2weeks.png" caption="A WordCloud of 2023 Nov 2nd week collection" width=300 align="center" %}
+
+
+
+
+
+
+
+1. **[2311.05946v1](https://arxiv.org/abs/2311.05946v1)** AV$_3$Sb$_5$ Kagome Superconductors: Progress and Future Directions (kagome, arXiv)
+
+1. **[2311.05814v1](https://arxiv.org/abs/2311.05814v1)** Majorana corner modes and tunable patterns in an altermagnet heterostructure (arXiv)
+
+1. **[2311.06245v1](https://arxiv.org/abs/2311.06245v1)** Topological and magnetic phase transitions in the bilayer Kitaev-Ising model (arXiv)
+
+1. **[2311.05987v1](https://arxiv.org/abs/2311.05987v1)** Downfolding from Ab Initio to Interacting Model Hamiltonians: Comprehensive Analysis and Benchmarking (arXiv)
+
+1. **[2311.05865v1](https://arxiv.org/abs/2311.05865v1)** A study for the energy structure of the Mott system with a low-energy excitation, in terms of the pseudo-gap in HTSC (arXiv)
+
+1. **[2311.05959v1](https://arxiv.org/abs/2311.05959v1)** Observation by SANS and PNR of pure N\\'eel-type domain wall profiles and skyrmion suppression below room temperature in magnetic [Pt/CoFeB/Ru]$_{10}$ multilayers (skrymion in Neel DW, arXiv)
