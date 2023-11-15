@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Nov 2023 10:19:39 +0900</pubDate>
-    <lastBuildDate>Wed, 15 Nov 2023 10:19:39 +0900</lastBuildDate>
+    <pubDate>Wed, 15 Nov 2023 11:07:34 +0900</pubDate>
+    <lastBuildDate>Wed, 15 Nov 2023 11:07:34 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,15 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.206301&quot;&gt;PhysRevLett.131.206301&lt;/a&gt;&lt;/strong&gt; Superfluidity Meets the Solid State: Frictionless Mass Transport through a (5,5) Carbon Nanotube (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2311.07882v1&quot;&gt;2311.07882v1&lt;/a&gt;&lt;/strong&gt; Nonreciprocal transport in U(1) gauge theory of high-Tc cuprates (&lt;strong&gt;TOh&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2311.07667v1&quot;&gt;2311.07667v1&lt;/a&gt;&lt;/strong&gt; divERGe implements various Exact Renormalization Group examples (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.08064&quot;&gt;2311.08064&lt;/a&gt;&lt;/strong&gt; Charged vacancy in graphene: interplay between Landau levels and atomic collapse resonances (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.07405&quot;&gt;2311.07405&lt;/a&gt;&lt;/strong&gt; Superconductivity and spin density wave in AA stacked bilayer graphene (&lt;strong&gt;RPA&lt;/strong&gt;, arXiv)&lt;/p&gt;
