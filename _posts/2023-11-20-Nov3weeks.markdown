@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "weekly picks (Nov 3 week 2023)"
+date:   2023-11-20 00:16:27
+categories: 2023nov
+---
+
+
+{% include image.html url="/images/2023nov3weeks.png" caption="A WordCloud of 2023 Nov 3rd week collection" width=300 align="center" %}
+
+
+1. **[2311.10569](http://arxiv.org/abs/2311.10569)** Kondo effect in the isotropic Heisenberg spin chain (**kondo**, arXiv)
+
+1. **[2311.10146](http://arxiv.org/abs/2311.10146)** Itinerant Magnetism in the Triangular Lattice Hubbard Model at Half-doping: Application to Twisted Transition-Metal Dichalcogenides (arXiv)
+
+1. **[2311.10674](http://arxiv.org/abs/2311.10674)** Phononic dynamical axion in magnetic Dirac insulators (arXiv)
+
+1. **[2311.10622](http://arxiv.org/abs/2311.10622)** Magnon topological transition in skyrmion crystal (**skyrmion**, arXiv)
+
+1. **[2311.10606](http://arxiv.org/abs/2311.10606)** Revealing the Charge Density Wave Proximity Effect in Graphene on 1T-TaS$_2$ (arXiv)
+
+1. **[2311.10106](http://arxiv.org/abs/2311.10106)** Quantum Hall Effect on Dirac electrons in modulated graphene (arXiv)
