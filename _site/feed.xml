@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Nov 2023 11:28:44 +0900</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2023 11:28:44 +0900</lastBuildDate>
+    <pubDate>Tue, 21 Nov 2023 10:27:32 +0900</pubDate>
+    <lastBuildDate>Tue, 21 Nov 2023 10:27:32 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,18 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041033&quot;&gt;PhysRevX.13.041033&lt;/a&gt;&lt;/strong&gt; Learning Interacting Theories from Data (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.218401&quot;&gt;PhysRevLett.131.218401&lt;/a&gt;&lt;/strong&gt; AlphaFold2 Can Predict Single-Mutation Effects (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/195&quot;&gt;195&lt;/a&gt;&lt;/strong&gt; Seeking a Quantum Hall Effect for Light (QHE light, Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.108.205142&quot;&gt;PhysRevB.108.205142&lt;/a&gt;&lt;/strong&gt; Shaking photons out of a topological material (QHE light, PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.10569&quot;&gt;2311.10569&lt;/a&gt;&lt;/strong&gt; Kondo effect in the isotropic Heisenberg spin chain (&lt;strong&gt;kondo&lt;/strong&gt;, arXiv)&lt;/p&gt;
   &lt;/li&gt;
