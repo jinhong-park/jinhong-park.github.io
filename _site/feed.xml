@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Nov 2023 12:02:32 +0900</pubDate>
-    <lastBuildDate>Tue, 21 Nov 2023 12:02:32 +0900</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 15:35:38 +0900</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 15:35:38 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,72 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.213001&quot;&gt;PhysRevLett.131.213001&lt;/a&gt;&lt;/strong&gt; Spin Dynamics Dominated by Resonant Tunneling into Molecular States (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.216401&quot;&gt;PhysRevLett.131.216401&lt;/a&gt;&lt;/strong&gt; Multichannel Dyson Equation: Coupling Many-Body Green’s Functions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/198&quot;&gt;198&lt;/a&gt;&lt;/strong&gt; Electrons Lead Their Lattice by the Nose (Sr2RuO4, Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12797&quot;&gt;2311.12797&lt;/a&gt;&lt;/strong&gt; Tilted Dirac superconductor at quantum criticality: Restoration of Lorentz symmetry (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12222&quot;&gt;2311.12222&lt;/a&gt;&lt;/strong&gt; Electron irradiation reveals robust fully gapped superconductivity in LaNiGa$_{2}$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12116&quot;&gt;2311.12116&lt;/a&gt;&lt;/strong&gt; Interface probe for antiferromagnets using geometric curvature (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12769&quot;&gt;2311.12769&lt;/a&gt;&lt;/strong&gt; Roles of Hund’s Rule and Hybridization in the Two-orbital Model for High-$T_c$ Superconductivity in the Bilayer Nickelate (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12740&quot;&gt;2311.12740&lt;/a&gt;&lt;/strong&gt; Atomistic theory of moir\‘e Hofstadter’s butterfly in magic-angle graphene (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12563&quot;&gt;2311.12563&lt;/a&gt;&lt;/strong&gt; Thermal Hall conductivity of a valence bond solid phase in the square lattice $J_1$-$J_2$ antiferromagnet Heisenberg model with a Dzyaloshinskii-Moriya interaction (&lt;strong&gt;Thermal Hall&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12339&quot;&gt;2311.12339&lt;/a&gt;&lt;/strong&gt; Emergence of 2000-times higher-mobility carriers through photocarrier screening in correlated kagome magnet Mn$_3$Sn (&lt;strong&gt;Mn3Sn&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12221&quot;&gt;2311.12221&lt;/a&gt;&lt;/strong&gt; Spinon heat transport in the three-dimensional quantum magnet PbCuTe$_2$O$_6$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12103&quot;&gt;2311.12103&lt;/a&gt;&lt;/strong&gt; A tensor network view of multiconfiguration time-dependent Hartree methods (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12094&quot;&gt;2311.12094&lt;/a&gt;&lt;/strong&gt; Monte Carlo solver and renormalization of Migdal-Eliashberg spin chain (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12729&quot;&gt;2311.12729&lt;/a&gt;&lt;/strong&gt; Adiabatic observables and Berry curvatures in insulators and metals (Resta, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12508&quot;&gt;2311.12508&lt;/a&gt;&lt;/strong&gt; Kondo effect in electrostatically defined ZnO quantum dots (&lt;strong&gt;Tomo&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12505&quot;&gt;2311.12505&lt;/a&gt;&lt;/strong&gt; Laser-induced Demagnetization in van der Waals $XY$- and Ising-like Antiferromagnets NiPS3 and FePS3 (&lt;strong&gt;NiPS3&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12463&quot;&gt;2311.12463&lt;/a&gt;&lt;/strong&gt; Proximity-enabled control of spin-orbit coupling in phosphorene symmetrically and asymmetrically encapsulated by WSe$_2$ monolayers (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12441&quot;&gt;2311.12441&lt;/a&gt;&lt;/strong&gt; Layer-Locked Anomalous Valley Hall Effect in Two-Dimensional A-Type Tetragonal Antiferromagnetic Insulator (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12377&quot;&gt;2311.12377&lt;/a&gt;&lt;/strong&gt; Spin-valley Hall effects and pseudospin-1 system in transition-metal dichalcogenides: three band model approach (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12776&quot;&gt;2311.12776&lt;/a&gt;&lt;/strong&gt; Polarization-driven band topology evolution in twisted MoTe$_2$ and WSe$_2$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12212&quot;&gt;2311.12212&lt;/a&gt;&lt;/strong&gt; Bulk photovoltaic effect in antiferromagnet: Role of collective spin dynamics (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2311.12201&quot;&gt;2311.12201&lt;/a&gt;&lt;/strong&gt; Revealing the three-state nematicity in atomically-thin antiferromagnetic NiPS3 via magneto-optical effect (&lt;strong&gt;NiPS3&lt;/strong&gt;, arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041033&quot;&gt;PhysRevX.13.041033&lt;/a&gt;&lt;/strong&gt; Learning Interacting Theories from Data (PRX)&lt;/p&gt;
   &lt;/li&gt;
