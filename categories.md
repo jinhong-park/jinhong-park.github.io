@@ -17,7 +17,7 @@ permalink: /categories/
     
 
 <!-- 
-  
+  -->
   <tr>
      <th> <a href="../blog/2023/12/Dec1weeks">Dec1w</a> </th>
      <th> <a href="../blog/2023/12/Dec2weeks">Dec2w</a>  </th>
@@ -27,7 +27,7 @@ permalink: /categories/
 </tr>
 
 
--->
+
 
 
 
