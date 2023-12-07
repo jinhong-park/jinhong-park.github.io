@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Dec 2023 11:55:23 +0900</pubDate>
-    <lastBuildDate>Thu, 07 Dec 2023 11:55:23 +0900</lastBuildDate>
+    <pubDate>Thu, 07 Dec 2023 16:22:40 +0900</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2023 16:22:40 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-023-43814-x&quot;&gt;s41467-023-43814-x&lt;/a&gt;&lt;/strong&gt; Transition between distinct hybrid skyrmion textures through their hexagonal-to-square crystal transformation in a polar magnet (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.236903&quot;&gt;PhysRevLett.131.236903&lt;/a&gt;&lt;/strong&gt; Optical Transitions of a Single Nodal Ring in ${\mathrm{SrAs}}_{3}$: Radially and Axially Resolved Characterization (PRL)&lt;/p&gt;
   &lt;/li&gt;
