@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Dec 2023 20:22:22 +0900</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2023 20:22:22 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 09 Dec 2023 12:42:03 +0900</pubDate>
+    <lastBuildDate>Sat, 09 Dec 2023 12:42:03 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Dec 1 week 2023)</title>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.236203&quot;&gt;PhysRevLett.131.236203&lt;/a&gt;&lt;/strong&gt; In-Plane Flexoelectricity in Two-Dimensional D3d Crystals (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.236904&quot;&gt;PhysRevLett.131.236904&lt;/a&gt;&lt;/strong&gt; Excitonic Interactions and Mechanism for Ultrafast Interlayer Photoexcited Response in van der Waals Heterostructures (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.04401&quot;&gt;2312.04401&lt;/a&gt;&lt;/strong&gt; Competing d$&lt;em&gt;{xy}$ and s$&lt;/em&gt;{\pm }$ Pairing Symmetries in Superconducting La$&lt;em&gt;{3}$Ni$&lt;/em&gt;{2}$O$_{7}$ emerge from LDA+FLEX Calculations (arXiv)&lt;/p&gt;
   &lt;/li&gt;
