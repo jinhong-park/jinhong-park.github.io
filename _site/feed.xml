@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Dec 2023 10:14:31 +0900</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2023 10:14:31 +0900</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2023 10:21:34 +0900</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 10:21:34 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,7 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041046&quot;&gt;PhysRevX.13.041046&lt;/a&gt;&lt;/strong&gt; Theory of Free Fermions under Random Projective Measurements (PRX)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041046&quot;&gt;PhysRevX.13.041046&lt;/a&gt;&lt;/strong&gt; Theory of Free Fermions under Random Projective Measurements (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevResearch.5.L042036&quot;&gt;PhysRevResearch.5.L042036&lt;/a&gt;&lt;/strong&gt; Exploring new states of matter with a photonic emulator (&lt;strong&gt;iridate citing paper&lt;/strong&gt;, Physical Review Research)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 11 Dec 2023 09:16:27 +0900</pubDate>
