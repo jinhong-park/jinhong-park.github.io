@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Dec 2023 15:45:43 +0900</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2023 15:45:43 +0900</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2023 10:22:58 +0900</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2023 10:22:58 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041049&quot;&gt;PhysRevX.13.041049&lt;/a&gt;&lt;/strong&gt; Discovery of a Single-Band Mott Insulator in a van der Waals Flat-Band Compound (PRX)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.246701&quot;&gt;PhysRevLett.131.246701&lt;/a&gt;&lt;/strong&gt; Emergent Mechanics of Magnetic Skyrmions Deformed by Defects (&lt;strong&gt;skyrmion&lt;/strong&gt;, PRL)&lt;/p&gt;
   &lt;/li&gt;
