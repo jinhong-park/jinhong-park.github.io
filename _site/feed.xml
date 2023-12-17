@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Dec 2023 19:25:49 +0900</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2023 19:25:49 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sun, 17 Dec 2023 17:39:48 +0900</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 17:39:48 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Dec 2 week 2023)</title>
@@ -22,6 +22,45 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06763-5&quot;&gt;s41586-023-06763-5&lt;/a&gt;&lt;/strong&gt; Imaging quantum oscillations and millitesla pseudomagnetic fields in graphene (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.246302&quot;&gt;PhysRevLett.131.246302&lt;/a&gt;&lt;/strong&gt; Onsager Reciprocal Relation between Anomalous Transverse Coefficients of an Anisotropic Antiferromagnet (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.242503&quot;&gt;PhysRevLett.131.242503&lt;/a&gt;&lt;/strong&gt; Floating Block Method for Quantum Monte Carlo Simulations (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.246301&quot;&gt;PhysRevLett.131.246301&lt;/a&gt;&lt;/strong&gt; Tunneling Valley Hall Effect Driven by Tilted Dirac Fermions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.246501&quot;&gt;PhysRevLett.131.246501&lt;/a&gt;&lt;/strong&gt; Artificial Atoms, Wigner Molecules, and an Emergent Kagome Lattice in Semiconductor Moir\‘e Superlattices (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.246601&quot;&gt;PhysRevLett.131.246601&lt;/a&gt;&lt;/strong&gt; Phonon Topology and Winding of Spectral Weight in Graphite (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.09124&quot;&gt;2312.09124&lt;/a&gt;&lt;/strong&gt; Efficient momentum space approach to superconductivity in quasiperiodic systems (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.09017&quot;&gt;2312.09017&lt;/a&gt;&lt;/strong&gt; High-$T_c$ Berezinskii-Kosterlitz-Thouless transition in 2D superconducting systems with coupled deep and quasi-flat electronic bands with van Hove singularities (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.08638&quot;&gt;2312.08638&lt;/a&gt;&lt;/strong&gt; Nonlinear optical responses in multi-orbital topological superconductors (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.08986&quot;&gt;2312.08986&lt;/a&gt;&lt;/strong&gt; Melting of unidirectional charge density waves across twin domain boundaries in GdTe$_{3}$ (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.08626&quot;&gt;2312.08626&lt;/a&gt;&lt;/strong&gt; Access Single Mode Approximation via Quantum Monte Carlo (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.09240&quot;&gt;2312.09240&lt;/a&gt;&lt;/strong&gt; Fractional corner charges induced by fragile topology in threefold symmetric two-dimensional materials (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.09169&quot;&gt;2312.09169&lt;/a&gt;&lt;/strong&gt; Giant chirality-induced spin polarization in twisted transition metal dichalcogenides (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2312.08574&quot;&gt;2312.08574&lt;/a&gt;&lt;/strong&gt; Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041049&quot;&gt;PhysRevX.13.041049&lt;/a&gt;&lt;/strong&gt; Discovery of a Single-Band Mott Insulator in a van der Waals Flat-Band Compound (PRX)&lt;/p&gt;
