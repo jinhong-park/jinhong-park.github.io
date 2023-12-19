@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Dec 2023 16:54:44 +0900</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 16:54:44 +0900</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 10:45:47 +0900</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 10:45:47 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,24 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041052&quot;&gt;PhysRevX.13.041052&lt;/a&gt;&lt;/strong&gt; A Race-Track Trapped-Ion Quantum Processor (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v16/209&quot;&gt;209&lt;/a&gt;&lt;/strong&gt; Scaling Up a Trapped-Ion Quantum Computer (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.256501&quot;&gt;PhysRevLett.131.256501&lt;/a&gt;&lt;/strong&gt; Controlled Frustration Release on the Kagome Lattice by Uniaxial-Strain Tuning (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.256201&quot;&gt;PhysRevLett.131.256201&lt;/a&gt;&lt;/strong&gt; Giant Correlated Gap and Possible Room-Temperature Correlated States in Twisted Bilayer ${\mathrm{MoS}}_{2}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.256601&quot;&gt;PhysRevLett.131.256601&lt;/a&gt;&lt;/strong&gt; Edge-Selective Extremal Damping from Topological Heritage of Dissipative Chern Insulators (TMeng, PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.256701&quot;&gt;PhysRevLett.131.256701&lt;/a&gt;&lt;/strong&gt; Spinon Heat Transport in the Three-Dimensional Quantum Magnet PbCuTe2O6 (PbCuTe2O6, PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-023-43853-4&quot;&gt;s41467-023-43853-4&lt;/a&gt;&lt;/strong&gt; Tetrahedral triple-Q magnetic ordering and large spontaneous Hall conductivity in the metallic triangular antiferromagnet Co1/3TaS2 (JGPark, Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
