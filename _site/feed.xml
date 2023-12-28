@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Dec 2023 12:57:42 +0900</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2023 12:57:42 +0900</lastBuildDate>
+    <pubDate>Thu, 28 Dec 2023 10:00:09 +0900</pubDate>
+    <lastBuildDate>Thu, 28 Dec 2023 10:00:09 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.260401&quot;&gt;PhysRevLett.131.260401&lt;/a&gt;&lt;/strong&gt; Experimental Analysis of Energy Transfers between a Quantum Emitter and Light Fields (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.131.263001&quot;&gt;PhysRevLett.131.263001&lt;/a&gt;&lt;/strong&gt; Higher-Order Topological Peierls Insulator in a Two-Dimensional Atom-Cavity System (&lt;strong&gt;2DPeierls&lt;/strong&gt;, PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.13.041058&quot;&gt;PhysRevX.13.041058&lt;/a&gt;&lt;/strong&gt; Bogoliubov Excitations Driven by Thermal Lattice Phonons in a Quantum Fluid of Light (PRX)&lt;/p&gt;
   &lt;/li&gt;
