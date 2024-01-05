@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2024 12:34:30 +0900</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2024 12:34:30 +0900</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2024 15:14:42 +0900</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2024 15:14:42 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06811-0&quot;&gt;s41586-023-06811-0&lt;/a&gt;&lt;/strong&gt; Ultrahigh-mobility semiconducting epitaxial graphene on silicon carbide (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-023-03991-7&quot;&gt;d41586-023-03991-7&lt;/a&gt;&lt;/strong&gt; Tailoring graphene for electronics beyond silicon (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011001&quot;&gt;PhysRevX.14.011001&lt;/a&gt;&lt;/strong&gt; Bridging the Reality Gap in Quantum Devices with Physics-Aware Machine Learning (PRX)&lt;/p&gt;
   &lt;/li&gt;
