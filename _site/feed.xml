@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2024 15:14:42 +0900</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2024 15:14:42 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 06 Jan 2024 15:15:42 +0900</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2024 15:15:42 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 1 week 2023)</title>
@@ -25,6 +25,21 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-023-03991-7&quot;&gt;d41586-023-03991-7&lt;/a&gt;&lt;/strong&gt; Tailoring graphene for electronics beyond silicon (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.010602&quot;&gt;PhysRevLett.132.010602&lt;/a&gt;&lt;/strong&gt; Randomness-Enhanced Expressivity of Quantum Neural Networks (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.016604&quot;&gt;PhysRevLett.132.016604&lt;/a&gt;&lt;/strong&gt; Fracton Self-Statistics (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.017002&quot;&gt;PhysRevLett.132.017002&lt;/a&gt;&lt;/strong&gt; $d$-Mon: A Transmon with Strong Anharmonicity Based on Planar $c$-Axis Tunneling Junction between $d$-Wave and $s$-Wave Superconductors (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.017003&quot;&gt;PhysRevLett.132.017003&lt;/a&gt;&lt;/strong&gt; Superconducting Qubit Based on Twisted Cuprate Van der Waals Heterostructures (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/2&quot;&gt;2&lt;/a&gt;&lt;/strong&gt; Water Reduces Ground Coffee’s Charge (Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011001&quot;&gt;PhysRevX.14.011001&lt;/a&gt;&lt;/strong&gt; Bridging the Reality Gap in Quantum Devices with Physics-Aware Machine Learning (PRX)&lt;/p&gt;
