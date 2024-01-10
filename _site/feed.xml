@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jan 2024 12:16:07 +0900</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2024 12:16:07 +0900</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2024 11:16:24 +0900</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2024 11:16:24 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.026701&quot;&gt;PhysRevLett.132.026701&lt;/a&gt;&lt;/strong&gt; Evidence of Strong Orbital-Selective Spin-Orbital-Phonon Coupling in CrVO4 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.026501&quot;&gt;PhysRevLett.132.026501&lt;/a&gt;&lt;/strong&gt; Long-Lived Higgs Modes in Strongly Correlated Condensates (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011003&quot;&gt;PhysRevX.14.011003&lt;/a&gt;&lt;/strong&gt; Measuring Nonlocal Brane Order with Error-Corrected Quantum Gas Microscopes (PRX)&lt;/p&gt;
   &lt;/li&gt;
