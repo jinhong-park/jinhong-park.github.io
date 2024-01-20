@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jan 2024 12:00:28 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2024 12:00:28 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 20 Jan 2024 09:20:04 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2024 09:20:04 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 3 week 2023)</title>
@@ -20,6 +20,21 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06924-6&quot;&gt;s41586-023-06924-6&lt;/a&gt;&lt;/strong&gt; Mathematical discoveries from program search with large language models (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06868-x&quot;&gt;s41586-023-06868-x&lt;/a&gt;&lt;/strong&gt; Two-dimensional heavy fermions in the van der Waals metal CeSiI (CeSiI, Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06858-z&quot;&gt;s41586-023-06858-z&lt;/a&gt;&lt;/strong&gt; Heat conductance of the quantum Hall bulk (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06904-w&quot;&gt;s41586-023-06904-w&lt;/a&gt;&lt;/strong&gt; Tuning commensurability in twisted van der Waals bilayers (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.036502&quot;&gt;PhysRevLett.132.036502&lt;/a&gt;&lt;/strong&gt; Bilayer t-J-J_\perp Model and Magnetically Mediated Pairing in the Pressurized Nickelate La3Ni2O7 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.036001&quot;&gt;PhysRevLett.132.036001&lt;/a&gt;&lt;/strong&gt; Spin-Triplet Superconductivity from Quantum-Geometry-Induced Ferromagnetic Fluctuation (PRL)&lt;/p&gt;
   &lt;/li&gt;
@@ -49,18 +64,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2401.09485v1&quot;&gt;2401.09485v1&lt;/a&gt;&lt;/strong&gt; Quantum Phase Transitions and Dynamics in Perturbed Flatbands (flatband, arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06924-6&quot;&gt;s41586-023-06924-6&lt;/a&gt;&lt;/strong&gt; Mathematical discoveries from program search with large language models (Nature)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06868-x&quot;&gt;s41586-023-06868-x&lt;/a&gt;&lt;/strong&gt; Two-dimensional heavy fermions in the van der Waals metal CeSiI (CeSiI, Nature)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06858-z&quot;&gt;s41586-023-06858-z&lt;/a&gt;&lt;/strong&gt; Heat conductance of the quantum Hall bulk (Nature)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06904-w&quot;&gt;s41586-023-06904-w&lt;/a&gt;&lt;/strong&gt; Tuning commensurability in twisted van der Waals bilayers (Nature)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.036501&quot;&gt;PhysRevLett.132.036501&lt;/a&gt;&lt;/strong&gt; Fractional Chern Insulator in Twisted Bilayer MoTe2 (PRL)&lt;/p&gt;
