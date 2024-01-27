@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2024 11:29:56 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2024 11:29:56 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 27 Jan 2024 12:15:32 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2024 12:15:32 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 4 week 2023)</title>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.046603&quot;&gt;PhysRevLett.132.046603&lt;/a&gt;&lt;/strong&gt; Energy Gap of the Even-Denominator Fractional Quantum Hall State in Bilayer Graphene (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.046501&quot;&gt;PhysRevLett.132.046501&lt;/a&gt;&lt;/strong&gt; Spin Polarons and Ferromagnetism in Doped Dilute Moire-Mott Insulators (LBalents, PRL)&lt;/p&gt;
   &lt;/li&gt;
