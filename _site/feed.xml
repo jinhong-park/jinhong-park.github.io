@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jan 2024 11:24:31 +0900</pubDate>
-    <lastBuildDate>Tue, 30 Jan 2024 11:24:31 +0900</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2024 10:29:31 +0900</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2024 10:29:31 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,24 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.050401&quot;&gt;PhysRevLett.132.050401&lt;/a&gt;&lt;/strong&gt; Fractal States of the Schwinger Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.056202&quot;&gt;PhysRevLett.132.056202&lt;/a&gt;&lt;/strong&gt; Experimental Characterization of Defect-Induced Phonon Lifetime Shortening (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.056302&quot;&gt;PhysRevLett.132.056302&lt;/a&gt;&lt;/strong&gt; Chirality-Induced Selectivity of Phonon Angular Momenta in Chiral Quartz Crystals (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.050202&quot;&gt;PhysRevLett.132.050202&lt;/a&gt;&lt;/strong&gt; Linear Program for Testing Nonclassicality and an Open-Source Implementation (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.056303&quot;&gt;PhysRevLett.132.056303&lt;/a&gt;&lt;/strong&gt; Transport Study of Charge-Carrier Scattering in Monolayer WSe2 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/s12&quot;&gt;s12&lt;/a&gt;&lt;/strong&gt; Surface Defects Affect Heat Transport (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.053801&quot;&gt;PhysRevLett.132.053801&lt;/a&gt;&lt;/strong&gt; Observation of Period-Doubling Bloch Oscillations (PRL)&lt;/p&gt;
   &lt;/li&gt;
