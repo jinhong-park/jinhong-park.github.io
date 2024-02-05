@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "weekly picks (Feb 1 week 2023)"
+date:   2024-02-05 00:16:27
+categories: 2024feb
+---
+
+
+{% include image.html url="/images/2024feb1weeks.png" caption="A WordCloud of 2024 Feb 1st week collection" width=300 align="center" %}
+
+
+
+
+
+
+1. **[2402.01347](http://arxiv.org/abs/2402.01347)** Quantum Griffiths singularity in three-dimensional MoTiN superconducting films (arXiv)
+
+1. **[2402.01280](http://arxiv.org/abs/2402.01280)** In-gap states induced by magnetic impurities on wide-band s-wave superconductors: self-consistent calculations (arXiv)
+
+1. **[2402.01531](http://arxiv.org/abs/2402.01531)** Coexistence of Ferromagnetism and Antiferromagnetic Dimers in Topological Insulators (arXiv)
+
+1. **[2402.01266](http://arxiv.org/abs/2402.01266)** Decoupled few-femtosecond phase transitions in vanadium dioxide (arXiv)
+
+1. **[2402.01247](http://arxiv.org/abs/2402.01247)** Light-induced phase transitions in vanadium dioxide: a tensor network study (arXiv)
+
+1. **[2402.01236](http://arxiv.org/abs/2402.01236)** Topological Solitons in Su-Schrieffer-Heeger Chain with periodic hopping modulation, domain walls and disorder (arXiv)
+
+1. **[2402.01273](http://arxiv.org/abs/2402.01273)** Nonconventional screening of Coulomb interaction in two-dimensional semiconductors and metals: A comprehensive cRPA study of MX2 (M=Mo, W, Nb, Ta; X=S, Se, Te) (arXiv)
+
+1. **[2402.01470](http://arxiv.org/abs/2402.01470)** Intrinsic orbital fourfold anisotropic magnetoresistance in Dirac materials (arXiv)
+
+1. **[2402.01193](http://arxiv.org/abs/2402.01193)** Symmetry breaking and spin-orbit coupling for individual vacancy-induced in-gap states in MoS2 monolayers (arXiv)
+
+1. **[2402.00885](http://arxiv.org/abs/2402.00885)** TopologicalNumbers.jl: A Julia package for topological number computation (arXiv)
+
+1. **[2402.01328](http://arxiv.org/abs/2402.01328)** Emerging topological states in EuMn2Bi2: A first principles prediction (arXiv)
