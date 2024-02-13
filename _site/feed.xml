@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Feb 2024 22:48:54 +0900</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 22:48:54 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Tue, 13 Feb 2024 10:46:41 +0900</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 10:46:41 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (Feb 2 week 2023)</title>
@@ -22,6 +22,21 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-07033-8&quot;&gt;s41586-024-07033-8&lt;/a&gt;&lt;/strong&gt; Signatures of a surface spin-orbital chiral metal (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.109.075118&quot;&gt;PhysRevB.109.075118&lt;/a&gt;&lt;/strong&gt; Topological states and flat bands on the maple leaf lattice (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011015&quot;&gt;PhysRevX.14.011015&lt;/a&gt;&lt;/strong&gt; Laser-Induced Electron Diffraction in Chiral Molecules (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.076301&quot;&gt;PhysRevLett.132.076301&lt;/a&gt;&lt;/strong&gt; Anomalous Aharonov-Bohm Interference in the Presence of Edge Reconstruction (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.076501&quot;&gt;PhysRevLett.132.076501&lt;/a&gt;&lt;/strong&gt; Probing Quantum Phases in Ultra-High-Mobility Two-Dimensional Electron Systems Using Surface Acoustic Waves (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/24&quot;&gt;24&lt;/a&gt;&lt;/strong&gt; Constraining Many-Body Localization (Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04872a&quot;&gt;d3cp04872a&lt;/a&gt;&lt;/strong&gt; Observation of the out-of-plane orbital antidamping-like torque (Physical Chemistry Chemical Physics)&lt;/p&gt;
