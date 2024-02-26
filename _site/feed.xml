@@ -6,9 +6,42 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Feb 2024 19:31:36 +0900</pubDate>
-    <lastBuildDate>Sat, 24 Feb 2024 19:31:36 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Mon, 26 Feb 2024 11:32:20 +0900</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2024 11:32:20 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>weekly picks (Feb 4 week 2023)</title>
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2024feb4weeks.png&quot; alt=&quot;A WordCloud of 2024 Feb 4th week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2024 Feb 4th week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.15459&quot;&gt;2402.15459&lt;/a&gt;&lt;/strong&gt; Magnetoelectric effect in superconductors with d-wave magnetization (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.15251&quot;&gt;2402.15251&lt;/a&gt;&lt;/strong&gt; Magnons and fundamental magnetic interactions in a ferromagnetic monolayer: The case of Ni monolayer (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.15209&quot;&gt;2402.15209&lt;/a&gt;&lt;/strong&gt; (Almost) Everything is a Dicke model – Mapping correlated light-matter systems to the exactly solvable Dicke model (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.14870&quot;&gt;2402.14870&lt;/a&gt;&lt;/strong&gt; Phonon hydrodynamics in bulk insulators and semi-metals (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 26 Feb 2024 09:16:27 +0900</pubDate>
+        <link>http://jinhong-park.github.io/blog/2024/02/Feb4weeks</link>
+        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2024/02/Feb4weeks</guid>
+        
+        
+        <category>2024feb</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Feb 3 week 2023)</title>
@@ -1864,32 +1897,6 @@
         
         
         <category>2024jan</category>
-        
-      </item>
-    
-      <item>
-        <title>2023 wordcloud</title>
-        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2023total.png&quot; alt=&quot;A WordCloud of 2022 collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;A WordCloud of 2022 collection&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 800px&quot;&gt;
-
-&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2023total_count.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
-
-&lt;dd&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-</description>
-        <pubDate>Sun, 31 Dec 2023 09:16:27 +0900</pubDate>
-        <link>http://jinhong-park.github.io/blog/2023/12/Dec5weeks</link>
-        <guid isPermaLink="true">http://jinhong-park.github.io/blog/2023/12/Dec5weeks</guid>
-        
-        
-        <category>2023dec</category>
         
       </item>
     
