@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Feb 2024 11:32:20 +0900</pubDate>
-    <lastBuildDate>Mon, 26 Feb 2024 11:32:20 +0900</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2024 16:56:45 +0900</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2024 16:56:45 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://doi.org/10.1021/acs.nanolett.3c04409&quot;&gt;acs.nanolett.3c04409&lt;/a&gt;&lt;/strong&gt; Quantification of Hybrid Topological Spin Textures and Their Nanoscale Fluctuations in Ferrimagnets (Nano Letters)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.15459&quot;&gt;2402.15459&lt;/a&gt;&lt;/strong&gt; Magnetoelectric effect in superconductors with d-wave magnetization (arXiv)&lt;/p&gt;
   &lt;/li&gt;
