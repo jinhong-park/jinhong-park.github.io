@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Feb 2024 16:45:59 +0900</pubDate>
-    <lastBuildDate>Tue, 27 Feb 2024 16:45:59 +0900</lastBuildDate>
+    <pubDate>Wed, 28 Feb 2024 10:12:08 +0900</pubDate>
+    <lastBuildDate>Wed, 28 Feb 2024 10:12:08 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,15 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011030&quot;&gt;PhysRevX.14.011030&lt;/a&gt;&lt;/strong&gt; Anisotropic Quantum Hall Droplets (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.099601&quot;&gt;PhysRevLett.132.099601&lt;/a&gt;&lt;/strong&gt; Comment on ``Trivial Andreev Band Mimicking Topological Bulk Gap Reopening in the Nonlocal Conductance of Long Rashba Nanowires’’ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.099602&quot;&gt;PhysRevLett.132.099602&lt;/a&gt;&lt;/strong&gt; Hess et al. Reply: (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011029&quot;&gt;PhysRevX.14.011029&lt;/a&gt;&lt;/strong&gt; Nonreciprocal Frustration: Time Crystalline Order-by-Disorder Phenomenon and a Spin-Glass-like State (PRX)&lt;/p&gt;
   &lt;/li&gt;
