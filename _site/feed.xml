@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Feb 2024 14:12:14 +0900</pubDate>
-    <lastBuildDate>Thu, 29 Feb 2024 14:12:14 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Fri, 01 Mar 2024 16:00:40 +0900</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2024 16:00:40 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Feb 4 week 2023)</title>
@@ -20,6 +20,51 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011033&quot;&gt;PhysRevX.14.011033&lt;/a&gt;&lt;/strong&gt; Correlation Spectroscopy with Multiqubit-Enhanced Phase Estimation (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.096101&quot;&gt;PhysRevLett.132.096101&lt;/a&gt;&lt;/strong&gt; Atomistic Origin of Diverse Charge Density Wave States in CsV3b5 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.19478&quot;&gt;2402.19478&lt;/a&gt;&lt;/strong&gt; Topological flat bands, valley polarization, and interband superconductivity in magic-angle twisted bilayer graphene with proximitized spin-orbit couplings (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.19454&quot;&gt;2402.19454&lt;/a&gt;&lt;/strong&gt; Controllable suppression of the unconventional superconductivity in bulk and thin-film Sr2RuO4 via high-energy electron irradiation (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.19382&quot;&gt;2402.19382&lt;/a&gt;&lt;/strong&gt; Signatures of Majorana protection in a three-site Kitaev chain (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.18735&quot;&gt;2402.18735&lt;/a&gt;&lt;/strong&gt; Symmetry-breaking normal state response and surface superconductivity in topological semimetal YPtBi (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.18627&quot;&gt;2402.18627&lt;/a&gt;&lt;/strong&gt; Topologically protected emergent Fermi surface in an Abrikosov vortex lattice (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.18626&quot;&gt;2402.18626&lt;/a&gt;&lt;/strong&gt; Strange metal in the doped Hubbard model via percolation (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.18588&quot;&gt;2402.18588&lt;/a&gt;&lt;/strong&gt; Emergence of Weyl Points due to Spin Orbit Coupling in LK-99 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.19433&quot;&gt;2402.19433&lt;/a&gt;&lt;/strong&gt; Magnon spectrum of altermagnets: Time-dependent matrix product states vs. linearized Holstein-Primakoff calculations unravelling spontaneous magnon decay (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.18820&quot;&gt;2402.18820&lt;/a&gt;&lt;/strong&gt; Surface Luttinger surfaces and Luttinger-Lifshitz transitions in topological band structures (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.18783&quot;&gt;2402.18783&lt;/a&gt;&lt;/strong&gt; J=1/2 Pseudospins and d-p Hybridization in the Kitaev Spin Liquid Candidates RuX3 (X = Cl, Br, I) (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.18629&quot;&gt;2402.18629&lt;/a&gt;&lt;/strong&gt; SU(3) altermagnetism: Lattice models, chiral magnons, and flavor-split bands (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.19246&quot;&gt;2402.19246&lt;/a&gt;&lt;/strong&gt; Chiral-induced unidirectional spin-to-charge conversion (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2402.19039&quot;&gt;2402.19039&lt;/a&gt;&lt;/strong&gt; Triplet fermions in MXenes: The Applications for spintronic-based devices (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.096002&quot;&gt;PhysRevLett.132.096002&lt;/a&gt;&lt;/strong&gt; Dissipationless Counterflow Currents above Tc in Bilayer Superconductors (PRL)&lt;/p&gt;
   &lt;/li&gt;
