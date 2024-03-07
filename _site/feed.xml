@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2024 13:38:02 +0900</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2024 13:38:02 +0900</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2024 10:20:37 +0900</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2024 10:20:37 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,18 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011038&quot;&gt;PhysRevX.14.011038&lt;/a&gt;&lt;/strong&gt; Modeling and Predicting Second-Harmonic Generation from Protein Molecular Structure (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.106501&quot;&gt;PhysRevLett.132.106501&lt;/a&gt;&lt;/strong&gt; Fractional Quantum Hall States of the A Phase in the Second Landau Level (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.106601&quot;&gt;PhysRevLett.132.106601&lt;/a&gt;&lt;/strong&gt; Orbital Magneto-Nonlinear Anomalous Hall Effect in Kagome Magnet Fe3Sn2 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/38&quot;&gt;38&lt;/a&gt;&lt;/strong&gt; A New Hall Effect from Quantum Geometry (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.010001&quot;&gt;PhysRevX.14.010001&lt;/a&gt;&lt;/strong&gt; Editorial: PRX Embraces the Vibrant Field of 2D Materials (PRX)&lt;/p&gt;
   &lt;/li&gt;
