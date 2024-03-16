@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Arxiv
+permalink: /arxiv/
 ---
  
   <a href="../../fulllist"><b>   Full list</b></a> 
   
-  <a href="../blog/recent"><b>   recent </b></a> 
+  <a href="../arxiv/recent"><b>   recent </b></a> 
   
   <a href="https://jinhong-park.github.io/t_me"><b> Daily t.me </b></a> 
    

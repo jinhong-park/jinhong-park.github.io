@@ -1,7 +1,7 @@
 ---
 layout: page
 title: recent
-permalink: /blog/recent
+permalink: /arxiv/recent
 ---
  
  <ul class="listing">
