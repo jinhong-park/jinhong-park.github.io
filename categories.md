@@ -12,7 +12,7 @@ permalink: /categories/
  <table>
        <caption>  </caption>
    <thead>
-         <tr> <th><p>2023</p></th> </tr>
+         <tr> <th><p>2024</p></th> </tr>
    </thead>
    <tbody>
     
