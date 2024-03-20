@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Mar 2024 09:58:13 +0900</pubDate>
-    <lastBuildDate>Wed, 20 Mar 2024 09:58:13 +0900</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2024 11:11:24 +0900</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2024 11:11:24 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -34,6 +34,48 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/s29&quot;&gt;s29&lt;/a&gt;&lt;/strong&gt; Magnetic Vortex Rings on Demand (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12889&quot;&gt;2403.12889&lt;/a&gt;&lt;/strong&gt; P-wave pairing near a spin-split Josephson junction (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12656&quot;&gt;2403.12656&lt;/a&gt;&lt;/strong&gt; ac Hall Effect and Photon Drag of Superconducting Condensate (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12831&quot;&gt;2403.12831&lt;/a&gt;&lt;/strong&gt; Electronic instability, layer selectivity and Fermi arcs in La3Ni2O7 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12597&quot;&gt;2403.12597&lt;/a&gt;&lt;/strong&gt; Effects of forward disorder on quasi-1D superconductors (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12779&quot;&gt;2403.12779&lt;/a&gt;&lt;/strong&gt; Quantum Fischer information in a strange metal (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2403.12612v1&quot;&gt;2403.12612v1&lt;/a&gt;&lt;/strong&gt; Large Rashba spin-orbit coupling in metallic SrTaO3 thin films (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12141&quot;&gt;2403.12141&lt;/a&gt;&lt;/strong&gt; Fractionalization Signatures in the Dynamics of Quantum Spin Liquids (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12126&quot;&gt;2403.12126&lt;/a&gt;&lt;/strong&gt; Non-Abelian and Abelian descendants of vortex spin liquid: fractional quantum spin Hall effect in twisted MoTe2 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2403.12185v1&quot;&gt;2403.12185v1&lt;/a&gt;&lt;/strong&gt; Halperin States of Particles and Holes in Ideal Time Reversal Invariant Pairs of Chern Bands and The Fractional Quantum Spin Hall Effect in Moire MoTe2 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12921&quot;&gt;2403.12921&lt;/a&gt;&lt;/strong&gt; Probing the Fermi surface with Quantum Oscillation Measurements in the Dirac semimetal TaNiTe5 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12701&quot;&gt;2403.12701&lt;/a&gt;&lt;/strong&gt; Unraveling the dynamics of magnetization in topological insulator-ferromagnet heterostructures via spin-orbit torque (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12929&quot;&gt;2403.12929&lt;/a&gt;&lt;/strong&gt; Observation of the anomalous Nernst effect in altermagnetic candidate Mn5Si3 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12642&quot;&gt;2403.12642&lt;/a&gt;&lt;/strong&gt; Interlayer Dzyaloshinskii-Moriya interaction in synthetic ferrimagnets (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.12287&quot;&gt;2403.12287&lt;/a&gt;&lt;/strong&gt; Interfacing Quantum Spin Hall and Quantum Anomalous Hall insulators: Bi bilayer on MnBi2Te4-family materials (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011050&quot;&gt;PhysRevX.14.011050&lt;/a&gt;&lt;/strong&gt; Revealing Higher-Order Interactions in High-Dimensional Complex Systems: A Data-Driven Approach (PRX)&lt;/p&gt;
@@ -81,13 +123,13 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.11588&quot;&gt;2403.11588&lt;/a&gt;&lt;/strong&gt; Numerical observation of SU(N) Nagaoka ferromagnetism (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.11478&quot;&gt;2403.11478&lt;/a&gt;&lt;/strong&gt; Moore-Read state in Half-filled Moir\‘e Chern band from three-body Pseudo-potential (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.11478&quot;&gt;2403.11478&lt;/a&gt;&lt;/strong&gt; Moore-Read state in Half-filled Moire Chern band from three-body Pseudo-potential (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.11382&quot;&gt;2403.11382&lt;/a&gt;&lt;/strong&gt; Exclusive interplay between topological quasiparticles and strongly correlated fermions (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.11232&quot;&gt;2403.11232&lt;/a&gt;&lt;/strong&gt; Observation of unconventional charge order during the transition from Mott-insulator to charge-transfer-insulator in $\alpha$-RuCl$_3$ (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.11232&quot;&gt;2403.11232&lt;/a&gt;&lt;/strong&gt; Observation of unconventional charge order during the transition from Mott-insulator to charge-transfer-insulator in \alpha-RuCl3 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.11195&quot;&gt;2403.11195&lt;/a&gt;&lt;/strong&gt; Merons and magnetoelectric switching in centrosymmetric spiral magnets (arXiv)&lt;/p&gt;
