@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Mar 2024 10:58:16 +0900</pubDate>
-    <lastBuildDate>Mon, 25 Mar 2024 10:58:16 +0900</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2024 10:21:17 +0900</pubDate>
+    <lastBuildDate>Tue, 26 Mar 2024 10:21:17 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,12 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.136701&quot;&gt;PhysRevLett.132.136701&lt;/a&gt;&lt;/strong&gt; Lossless Spin-Orbit Torque in Antiferromagnetic Topological Insulator MnBi2Te4 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.136801&quot;&gt;PhysRevLett.132.136801&lt;/a&gt;&lt;/strong&gt; Brownian Electric Bubble Quasiparticles (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.14851&quot;&gt;2403.14851&lt;/a&gt;&lt;/strong&gt; Edge currents as probe of topology in twisted cuprate bilayers (arXiv)&lt;/p&gt;
   &lt;/li&gt;
