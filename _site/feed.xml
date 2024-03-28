@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Mar 2024 11:04:25 +0900</pubDate>
-    <lastBuildDate>Wed, 27 Mar 2024 11:04:25 +0900</lastBuildDate>
+    <pubDate>Thu, 28 Mar 2024 10:28:43 +0900</pubDate>
+    <lastBuildDate>Thu, 28 Mar 2024 10:28:43 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,15 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011057&quot;&gt;PhysRevX.14.011057&lt;/a&gt;&lt;/strong&gt; Fragility of Surface States in Non-Wigner-Dyson Topological Insulators (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.011058&quot;&gt;PhysRevX.14.011058&lt;/a&gt;&lt;/strong&gt; Charge Conservation beyond Uniformity: Spatially Inhomogeneous Electromagnetic Response in Periodic Solids (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.136502&quot;&gt;PhysRevLett.132.136502&lt;/a&gt;&lt;/strong&gt; Full Classification of Transport on an Equilibrated 5/2 Edge via Shot Noise (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.136001&quot;&gt;PhysRevLett.132.136001&lt;/a&gt;&lt;/strong&gt; Quantum-Geometry-Induced Anomalous Hall Effect in Nonunitary Superconductors and Application to Sr2RuO4 (PRL)&lt;/p&gt;
   &lt;/li&gt;
