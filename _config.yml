@@ -14,7 +14,6 @@ markdown: kramdown
 
 # Other options
 permalink: arxiv/:year/:month/:title
-permalink: blog/:year/:month/:title
 job.title: "Postdoctoral researcher"
 excerpt_separator: "<!--more-->"
 
