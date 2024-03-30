@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Mar 2024 18:51:46 +0900</pubDate>
-    <lastBuildDate>Sat, 30 Mar 2024 18:51:46 +0900</lastBuildDate>
+    <pubDate>Sat, 30 Mar 2024 19:05:07 +0900</pubDate>
+    <lastBuildDate>Sat, 30 Mar 2024 19:05:07 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -18,6 +18,29 @@
 
 &lt;dd&gt;A WordCloud of 2024 Mar 4th week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&amp;lt;&lt;/td&gt;
+      &lt;td&gt;spin-&amp;gt;2926,topological-&amp;gt;2213,quantum-&amp;gt;1902,magnetic-&amp;gt;1763,superconductivity-&amp;gt;1176,effect-&amp;gt;1143,lattice-&amp;gt;1108,kagome-&amp;gt;1071,model-&amp;gt;1062,graphene-&amp;gt;1054,dimensional-&amp;gt;1031,phase-&amp;gt;1016,hall-&amp;gt;1006,states-&amp;gt;959,two-&amp;gt;916,induced-&amp;gt;912,charge-&amp;gt;822,physics-&amp;gt;818,transition-&amp;gt;798,nature-&amp;gt;759,field-&amp;gt;733,metal-&amp;gt;732,insulator-&amp;gt;730,wave-&amp;gt;677,skyrmion-&amp;gt;674,bilayer-&amp;gt;661,chiral-&amp;gt;643,superconductor-&amp;gt;630,density-&amp;gt;615,superconducting-&amp;gt;587,weyl-&amp;gt;586,superconductors-&amp;gt;585,state-&amp;gt;584,twisted-&amp;gt;573,band-&amp;gt;562,symmetry-&amp;gt;532,electronic-&amp;gt;522,electron-&amp;gt;514,majorana-&amp;gt;512,dirac-&amp;gt;500,coupling-&amp;gt;499,theory-&amp;gt;494,transport-&amp;gt;479,insulators-&amp;gt;475,kondo-&amp;gt;472,phonon-&amp;gt;472,orbital-&amp;gt;467,high-&amp;gt;456,anomalous-&amp;gt;454,liquid-&amp;gt;444&lt;/td&gt;
+      &lt;td&gt;&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;=== This week’s pick ===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 8285&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.18485&quot;&gt;2403.18485&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Rashba spin splitting-induced topological Hall effect in a Dirac semimetal-ferromagnetic semiconductor heterostructure (arXiv)&lt;/strong&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -100,9 +123,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.18046&quot;&gt;2403.18046&lt;/a&gt;&lt;/strong&gt; Strain-induced enhancement of the charge-density-wave in the kagome metal ScV6Sn6 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.18485&quot;&gt;2403.18485&lt;/a&gt;&lt;/strong&gt; Rashba spin splitting-induced topological Hall effect in a Dirac semimetal-ferromagnetic semiconductor heterostructure (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.18470&quot;&gt;2403.18470&lt;/a&gt;&lt;/strong&gt; Generalized bulk-boundary correspondence in periodically driven non-Hermitian systems (arXiv)&lt;/p&gt;
