@@ -1,7 +1,7 @@
 ---
 layout: page
-title: fulllist
-permalink: /fulllist/
+title: entire-collection
+permalink: /entire-collection/
 ---
 
 

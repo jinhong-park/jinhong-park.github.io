@@ -4,7 +4,7 @@ title: Arxiv
 permalink: /arxiv/
 ---
  
-  <a href="../../fulllist"><b>   Full list</b></a> 
+  <a href="../../entire-collection"><b>   Entire collection  </b></a> 
   
   <a href="../arxiv/recent"><b>   recent </b></a> 
   
