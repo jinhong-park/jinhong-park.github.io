@@ -6,9 +6,64 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Mar 2024 18:28:06 +0900</pubDate>
-    <lastBuildDate>Sun, 31 Mar 2024 18:28:06 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Mon, 01 Apr 2024 10:54:55 +0900</pubDate>
+    <lastBuildDate>Mon, 01 Apr 2024 10:54:55 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>weekly picks (Apr 1 week 2024)</title>
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2024apr1weeks.png&quot; alt=&quot;A WordCloud of 2024 Apr 1st week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2024 Apr 1st week collection&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;spin : 2926,topological : 2213,quantum : 1902,magnetic : 1763,superconductivity : 1176,effect : 1143,lattice : 1108,kagome : 1071,model : 1062,graphene : 1054,dimensional : 1031,phase : 1016,hall : 1006,states : 959,two : 916,induced : 912,charge : 822,physics : 818,transition : 798,nature : 759,field : 733,metal : 732,insulator : 730,wave : 677,skyrmion : 674,bilayer : 661,chiral : 643,superconductor : 630,density : 615,superconducting : 587,weyl : 586,superconductors : 585,state : 584,twisted : 573,band : 562,symmetry : 532,electronic : 522,electron : 514,majorana : 512,dirac : 500,coupling : 499,theory : 494,transport : 479,insulators : 475,kondo : 472,phonon : 472,orbital : 467,high : 456,anomalous : 454,liquid : 444&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;=== This week’s pick ===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 8285&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.18485&quot;&gt;2403.18485&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Rashba spin splitting-induced topological Hall effect in a Dirac semimetal-ferromagnetic semiconductor heterostructure (arXiv)&lt;/strong&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.20189&quot;&gt;2403.20189&lt;/a&gt;&lt;/strong&gt; Field tuning Kitaev systems for spin fractionalization and topological order (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.20036&quot;&gt;2403.20036&lt;/a&gt;&lt;/strong&gt; Local magnetic moment formation and Kondo screening in the presence of Hund exchange: the two-band Hubbard model analysis (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.19791&quot;&gt;2403.19791&lt;/a&gt;&lt;/strong&gt; Spinon Kondo lattice in quantum spin liquids (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.20110&quot;&gt;2403.20110&lt;/a&gt;&lt;/strong&gt; Theory of the inverse Faraday effect in dissipative Rashba electron systems: Floquet engineering perspective (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.19890&quot;&gt;2403.19890&lt;/a&gt;&lt;/strong&gt; On the Hartree-Fock Ground State Manifold in Magic Angle Twisted Graphene Systems (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2403.19767&quot;&gt;2403.19767&lt;/a&gt;&lt;/strong&gt; Visualizing orbital angular momentum induced single wavefront dislocation in graphene (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Mon, 01 Apr 2024 09:16:27 +0900</pubDate>
+        <link>http://jinhong-park.github.io/arxiv/2024/04/Apr1weeks</link>
+        <guid isPermaLink="true">http://jinhong-park.github.io/arxiv/2024/04/Apr1weeks</guid>
+        
+        
+        <category>2024apr</category>
+        
+      </item>
     
       <item>
         <title>weekly picks (Mar 4 week 2024)</title>
@@ -2338,50 +2393,6 @@
         <pubDate>Mon, 29 Jan 2024 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2024/01/Jan5weeks</link>
         <guid isPermaLink="true">http://jinhong-park.github.io/arxiv/2024/01/Jan5weeks</guid>
-        
-        
-        <category>2024jan</category>
-        
-      </item>
-    
-      <item>
-        <title>Most-downloaded PRB papers in 2023</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.245423&quot;&gt;PhysRevB.107.245423&lt;/a&gt;&lt;/strong&gt; InAs-Al hybrid devices passing the topological gap protocol (PRB) &lt;a href=&quot;https://arxiv.org/abs/2207.02472&quot;&gt;2207.02472&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.L100418&quot;&gt;PhysRevB.107.L100418&lt;/a&gt;&lt;/strong&gt; Altermagnetism in MnTe: Origin, predicted manifestations, and routes to detwinning (PRB) &lt;a href=&quot;https://arxiv.org/abs/2301.08573&quot;&gt;2301.08573&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.L060408&quot;&gt;PhysRevB.107.L060408&lt;/a&gt;&lt;/strong&gt; Magnetotransport induced by anomalous Hall effect (PRB) &lt;a href=&quot;https://arxiv.org/abs/2211.10222&quot;&gt;2211.10222&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.224304&quot;&gt;PhysRevB.107.224304&lt;/a&gt;&lt;/strong&gt; Ab initio Green-Kubo simulations of heat transport in solids: Method and implementation (PRB) &lt;a href=&quot;https://arxiv.org/abs/2209.01139&quot;&gt;2209.01139&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.054103&quot;&gt;PhysRevB.107.054103&lt;/a&gt;&lt;/strong&gt; Universality of grain boundary phases in fcc metals: Case study on high-angle [111] symmetric tilt grain boundaries (PRB) &lt;a href=&quot;https://arxiv.org/abs/2211.14170&quot;&gt;2211.14170&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.125151&quot;&gt;PhysRevB.107.125151&lt;/a&gt;&lt;/strong&gt; Berry-dipole photovoltaic demon and the thermodynamics of photocurrent generation within the optical gap of metals (PRB) &lt;a href=&quot;https://arxiv.org/abs/2207.03496&quot;&gt;2207.03496&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.L241101&quot;&gt;PhysRevB.107.L241101&lt;/a&gt;&lt;/strong&gt; Evidence for three-dimensional Dirac conical bands in TlBiSSe by optical and magneto-optical spectroscopy (PRB) &lt;a href=&quot;https://arxiv.org/abs/2301.06389&quot;&gt;2301.06389&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.115142&quot;&gt;PhysRevB.107.115142&lt;/a&gt;&lt;/strong&gt; Higher-order nonlinear anomalous Hall effects induced by Berry curvature multipoles (PRB) &lt;a href=&quot;https://arxiv.org/abs/2012.15628&quot;&gt;2012.15628&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.024401&quot;&gt;PhysRevB.107.024401&lt;/a&gt;&lt;/strong&gt; Orbital and magnetic ordering in single-layer FePS3: A DFT+U study (PRB) &lt;a href=&quot;https://arxiv.org/abs/2207.11283&quot;&gt;2207.11283&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.107.085102&quot;&gt;PhysRevB.107.085102&lt;/a&gt;&lt;/strong&gt; Sign change of anomalous Hall effect and anomalous Nernst effect in the Weyl semimetal CeAlSi (PRB) &lt;a href=&quot;https://arxiv.org/abs/2210.09764&quot;&gt;2210.09764&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 27 Jan 2024 09:16:27 +0900</pubDate>
-        <link>http://jinhong-park.github.io/arxiv/2024/01/PRB-most-downloaded-2023</link>
-        <guid isPermaLink="true">http://jinhong-park.github.io/arxiv/2024/01/PRB-most-downloaded-2023</guid>
         
         
         <category>2024jan</category>
