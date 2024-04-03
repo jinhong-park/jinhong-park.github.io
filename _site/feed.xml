@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Apr 2024 14:13:03 +0900</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2024 14:13:03 +0900</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2024 10:34:53 +0900</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2024 10:34:53 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -35,6 +35,24 @@
 &lt;hr /&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.146601&quot;&gt;PhysRevLett.132.146601&lt;/a&gt;&lt;/strong&gt; Exchange-Driven Chern States in High-Mobility Intrinsic Magnetic Topological Insulators (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.146501&quot;&gt;PhysRevLett.132.146501&lt;/a&gt;&lt;/strong&gt; Intertwined Van Hove Singularities as a Mechanism for Loop Current Order in Kagome Metals (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.141603&quot;&gt;PhysRevLett.132.141603&lt;/a&gt;&lt;/strong&gt; Chiral Gauge Theory at the Boundary between Topological Phases (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.141604&quot;&gt;PhysRevLett.132.141604&lt;/a&gt;&lt;/strong&gt; Weyl Fermions on a Finite Lattice (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/54&quot;&gt;54&lt;/a&gt;&lt;/strong&gt; Making Sense of Handedness on a Lattice (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.146302&quot;&gt;PhysRevLett.132.146302&lt;/a&gt;&lt;/strong&gt; Direct Evidence of Klein and Anti-Klein Tunneling of Graphitic Electrons in a Corbino Geometry (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/50&quot;&gt;50&lt;/a&gt;&lt;/strong&gt; The Neuron vs the Synapse: Which One Is in the Driving Seat? (Physics)&lt;/p&gt;
   &lt;/li&gt;
