@@ -8,17 +8,9 @@ categories: 2024apr
 
 {% include image.html url="/images/2024apr1weeks.png" caption="A WordCloud of 2024 Apr 1st week collection" width=300 align="center" %}
 
+1. **[PhysRevLett.132.146002](https://link.aps.org/doi/10.1103/PhysRevLett.132.146002)** Interlayer-Coupling-Driven High-Temperature Superconductivity in La3Ni2O7 under Pressure (PRL)
 
-spin : 2926,topological : 2213,quantum : 1902,magnetic : 1763,superconductivity : 1176,effect : 1143,lattice : 1108,kagome : 1071,model : 1062,graphene : 1054,dimensional : 1031,phase : 1016,hall : 1006,states : 959,two : 916,induced : 912,charge : 822,physics : 818,transition : 798,nature : 759,field : 733,metal : 732,insulator : 730,wave : 677,skyrmion : 674,bilayer : 661,chiral : 643,superconductor : 630,density : 615,superconducting : 587,weyl : 586,superconductors : 585,state : 584,twisted : 573,band : 562,symmetry : 532,electronic : 522,electron : 514,majorana : 512,dirac : 500,coupling : 499,theory : 494,transport : 479,insulators : 475,kondo : 472,phonon : 472,orbital : 467,high : 456,anomalous : 454,liquid : 444
 
----
-=== This week's pick ===  
->
-Score : 8285
->
-1. **[2403.18485](http://arxiv.org/abs/2403.18485)** **Rashba spin splitting-induced topological Hall effect in a Dirac semimetal-ferromagnetic semiconductor heterostructure (arXiv)**
-
----
 
 1. **[2404.01912](http://arxiv.org/abs/2404.01912)** Electrically tunable High-Chern-number quasiflat bands in twisted antiferromagnetic topological insulators (arXiv)
 
