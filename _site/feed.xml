@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Apr 2024 10:09:41 +0900</pubDate>
-    <lastBuildDate>Mon, 08 Apr 2024 10:09:41 +0900</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 10:12:41 +0900</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 10:12:41 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024apr2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02465-5&quot;&gt;s41567-024-02465-5&lt;/a&gt;&lt;/strong&gt; Topological Kerr effects in two-dimensional magnets with broken inversion symmetry (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.04207&quot;&gt;2404.04207&lt;/a&gt;&lt;/strong&gt; Emergent photons and fractionalized excitations in a quantum spin liquid (arXiv)&lt;/p&gt;
   &lt;/li&gt;
