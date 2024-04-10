@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Apr 2024 14:21:53 +0900</pubDate>
-    <lastBuildDate>Wed, 10 Apr 2024 14:21:53 +0900</lastBuildDate>
+    <pubDate>Wed, 10 Apr 2024 16:12:10 +0900</pubDate>
+    <lastBuildDate>Wed, 10 Apr 2024 16:12:10 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -47,15 +47,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.06048&quot;&gt;2404.06048&lt;/a&gt;&lt;/strong&gt; Quantum computing topological invariants of two-dimensional quantum matter (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.06355&quot;&gt;2404.06355&lt;/a&gt;&lt;/strong&gt; Magnon transmission across nu=1&lt;/td&gt;
-          &lt;td&gt;-1&lt;/td&gt;
-          &lt;td&gt;1 mono-layer graphene junction as a probe of electronic structure (arXiv)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.06355&quot;&gt;2404.06355&lt;/a&gt;&lt;/strong&gt; Magnon transmission across nu=1/-1/1 mono-layer graphene junction as a probe of electronic structure (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.06176&quot;&gt;2404.06176&lt;/a&gt;&lt;/strong&gt; Higher order topological defects in a moire lattice (arXiv)&lt;/p&gt;
@@ -135,7 +127,9 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.03949&quot;&gt;2404.03949&lt;/a&gt;&lt;/strong&gt; Topological moire polaritons (arXiv)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.03728&quot;&gt;2404.03728&lt;/a&gt;&lt;/strong&gt; Pymablock: an algorithm and a package for quasi-degenerate perturbation theory (arXiv)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.03728&quot;&gt;2404.03728&lt;/a&gt;&lt;/strong&gt; Pymablock: an algorithm and a package for quasi-degenerate perturbation theory (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 </description>
