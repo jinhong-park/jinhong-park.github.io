@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Apr 2024 11:39:55 +0900</pubDate>
-    <lastBuildDate>Fri, 12 Apr 2024 11:39:55 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 13 Apr 2024 08:50:26 +0900</pubDate>
+    <lastBuildDate>Sat, 13 Apr 2024 08:50:26 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Apr 2 week 2024)</title>
@@ -21,9 +21,27 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024apr2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 2969,topological : 2243,quantum : 1931,magnetic : 1775,superconductivity : 1181,effect : 1164,lattice : 1128,kagome : 1082,model : 1075,graphene : 1068,dimensional : 1040,hall : 1026,phase : 1022,states : 974,induced : 926,two : 923,physics : 836,charge : 835,transition : 808,nature : 763,field : 744,metal : 742,insulator : 739,wave : 683,skyrmion : 677,bilayer : 668,chiral : 652,superconductor : 634,density : 623,weyl : 594,state : 592,superconducting : 591,superconductors : 590,twisted : 583,band : 566,symmetry : 538,electronic : 527,electron : 517,majorana : 512,dirac : 508,coupling : 507,theory : 499,transport : 486,insulators : 483,orbital : 477,kondo : 475,phonon : 473,high : 463,anomalous : 460,liquid : 449&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 9122&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2404.05685v1&quot;&gt;2404.05685v1&lt;/a&gt;&lt;/strong&gt; Global phase diagram of doped quantum spin liquid on the Kagome lattice (arXiv)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adf8459&quot;&gt;science.adf8459&lt;/a&gt;&lt;/strong&gt; Realization of an atomic quantum Hall system in four dimensions (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.156301&quot;&gt;PhysRevLett.132.156301&lt;/a&gt;&lt;/strong&gt; Non-Hermitian Moire Valley Filter (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.scipost.org/SciPostPhysCore.7.2.018&quot;&gt;SciPostPhysCore.7.2.018&lt;/a&gt;&lt;/strong&gt; Hidden symmetry of Bogoliubov de Gennes quasi-particle eigenstates and universal relations in flat band superconducting bipartite lattices (SciPost Physics Core)&lt;/p&gt;
