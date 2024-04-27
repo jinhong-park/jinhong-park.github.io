@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Apr 2024 11:45:56 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 11:45:56 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 27 Apr 2024 12:35:42 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Apr 2024 12:35:42 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Apr 4 week 2024)</title>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024apr4weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3006,topological : 2263,quantum : 1967,magnetic : 1786,superconductivity : 1190,effect : 1177,lattice : 1133,kagome : 1089,model : 1084,graphene : 1084,dimensional : 1049,hall : 1038,phase : 1032,states : 986,induced : 931,two : 929,physics : 851,charge : 840,transition : 816,nature : 770,metal : 748,field : 747,insulator : 745,skyrmion : 689,wave : 688,bilayer : 675,chiral : 659,superconductor : 638,density : 628,state : 602,superconducting : 598,weyl : 597,superconductors : 593,twisted : 588,band : 574,symmetry : 543,electronic : 533,electron : 526,majorana : 520,coupling : 516,dirac : 515,theory : 503,transport : 494,insulators : 488,orbital : 481,kondo : 478,phonon : 475,high : 471,anomalous : 465,liquid : 456&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 8664&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.12637&quot;&gt;2404.12637&lt;/a&gt;&lt;/strong&gt; Topological magnon in exchange frustration driven incommensurate spin spiral of a kagome lattice YMn6Sn6 (arXiv)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.12637&quot;&gt;2404.12637&lt;/a&gt;&lt;/strong&gt; Topological magnon in exchange frustration driven incommensurate spin spiral of a kagome lattice YMn6Sn6 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202401048&quot;&gt;advs.202401048&lt;/a&gt;&lt;/strong&gt; Alloying Driven Antiferromagnetic Skyrmions on NiPS3 Monolayer: A First-Principles Calculation (Advanced Science)&lt;/p&gt;
   &lt;/li&gt;
@@ -285,9 +304,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.12449&quot;&gt;2404.12449&lt;/a&gt;&lt;/strong&gt; Singlet polaron theory of low-energy optical excitations in NiPS3 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.12637&quot;&gt;2404.12637&lt;/a&gt;&lt;/strong&gt; Topological magnon in exchange frustration driven incommensurate spin spiral of a kagome lattice YMn6Sn6 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.12898&quot;&gt;2404.12898&lt;/a&gt;&lt;/strong&gt; Hall mass and transverse Noether spin currents in noncollinear antiferromagnets (arXiv)&lt;/p&gt;
