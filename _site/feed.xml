@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Apr 2024 10:42:22 +0900</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2024 10:42:22 +0900</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2024 10:45:44 +0900</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2024 10:45:44 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024apr5weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevB.109.144417&quot;&gt;PhysRevB.109.144417&lt;/a&gt;&lt;/strong&gt; Dzyaloshinskii-Moriya interaction from unquenched orbital angular momentum (PRB)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2404.17363v1&quot;&gt;2404.17363v1&lt;/a&gt;&lt;/strong&gt; Superconductivity with high upper critical field in an equiatomic high entropy alloy Sc-V-Ti-Hf-Nb (arXiv)&lt;/p&gt;
   &lt;/li&gt;
