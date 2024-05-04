@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 May 2024 10:59:48 +0900</pubDate>
-    <lastBuildDate>Fri, 03 May 2024 10:59:48 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 04 May 2024 09:45:18 +0900</pubDate>
+    <lastBuildDate>Sat, 04 May 2024 09:45:18 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Apr 5 week 2024)</title>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024apr5weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3021,topological : 2278,quantum : 1977,magnetic : 1797,superconductivity : 1192,effect : 1183,lattice : 1137,graphene : 1096,kagome : 1093,model : 1088,dimensional : 1052,hall : 1044,phase : 1037,states : 992,induced : 937,two : 934,physics : 858,charge : 845,transition : 819,nature : 778,metal : 755,field : 752,insulator : 748,skyrmion : 694,wave : 693,bilayer : 682,chiral : 664,superconductor : 641,density : 633,state : 606,superconducting : 601,weyl : 599,superconductors : 597,twisted : 592,band : 579,symmetry : 545,electronic : 534,electron : 533,majorana : 523,coupling : 518,dirac : 517,theory : 510,transport : 497,insulators : 491,orbital : 487,phonon : 479,kondo : 478,high : 475,anomalous : 471,liquid : 457&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 7169&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.18073&quot;&gt;2404.18073&lt;/a&gt;&lt;/strong&gt; Charge and spin density wave orders in field-biased Bernal bilayer graphene (arXiv)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.18073&quot;&gt;2404.18073&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Charge and spin density wave orders in field-biased Bernal bilayer graphene (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.183803&quot;&gt;PhysRevLett.132.183803&lt;/a&gt;&lt;/strong&gt; Time Crystal in a Single-Mode Nonlinear Cavity (PRL)&lt;/p&gt;
   &lt;/li&gt;
@@ -33,6 +52,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.186902&quot;&gt;PhysRevLett.132.186902&lt;/a&gt;&lt;/strong&gt; Lasing in Non-Hermitian Flat Bands: Quantum Geometry, Coherence, and the Fate of Kardar-Parisi-Zhang Physics (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.186303&quot;&gt;PhysRevLett.132.186303&lt;/a&gt;&lt;/strong&gt; Quantum-Acoustical Drude Peak Shift (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2405.01455&quot;&gt;2405.01455&lt;/a&gt;&lt;/strong&gt; Anomalous phonon Gruneisen parameters in semiconductor Ta2NiS5 (arXiv)&lt;/p&gt;
@@ -207,9 +229,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.18179&quot;&gt;2404.18179&lt;/a&gt;&lt;/strong&gt; Magnetic phase diagram of EuPdSn2 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.18073&quot;&gt;2404.18073&lt;/a&gt;&lt;/strong&gt; Charge and spin density wave orders in field-biased Bernal bilayer graphene (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2404.17638&quot;&gt;2404.17638&lt;/a&gt;&lt;/strong&gt; A self-consistent Hartree theory for lattice-relaxed magic-angle twisted bilayer graphene (arXiv)&lt;/p&gt;
