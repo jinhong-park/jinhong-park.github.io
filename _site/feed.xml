@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 May 2024 13:40:13 +0900</pubDate>
-    <lastBuildDate>Tue, 14 May 2024 13:40:13 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Wed, 15 May 2024 12:58:05 +0900</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 12:58:05 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (May 2 week 2024)</title>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024may2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.206601&quot;&gt;PhysRevLett.132.206601&lt;/a&gt;&lt;/strong&gt; Hyperbolic Non-Abelian Semimetal (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevX.14.021025&quot;&gt;PhysRevX.14.021025&lt;/a&gt;&lt;/strong&gt; Charge-4e and Charge-6e Flux Quantization and Higher Charge Superconductivity in Kagome Superconductor Ring Devices (PRX)&lt;/p&gt;
   &lt;/li&gt;
