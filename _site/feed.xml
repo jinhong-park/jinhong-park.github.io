@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 May 2024 11:22:13 +0900</pubDate>
-    <lastBuildDate>Mon, 20 May 2024 11:22:13 +0900</lastBuildDate>
+    <pubDate>Tue, 21 May 2024 10:20:33 +0900</pubDate>
+    <lastBuildDate>Tue, 21 May 2024 10:20:33 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,12 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024may3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.210401&quot;&gt;PhysRevLett.132.210401&lt;/a&gt;&lt;/strong&gt; Robust Spectral \pi Pairing in the Random-Field Floquet Quantum Ising Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://physics.aps.org/articles/v17/82&quot;&gt;82&lt;/a&gt;&lt;/strong&gt; Informing Potential Remedies for Quasiparticle Poisoning (Physics)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2405.10656&quot;&gt;2405.10656&lt;/a&gt;&lt;/strong&gt; \phi Josephson junction induced by altermagnetism (arXiv)&lt;/p&gt;
   &lt;/li&gt;
