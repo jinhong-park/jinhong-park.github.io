@@ -13,7 +13,7 @@ permalink: /arxiv/recent
 <br>
 <a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
 <br>
-<a href="#" onclick="window.open('https://typeset.io', '_blank', 'width=1000,height=600');"> google scholar </a>
+<a href="#" onclick="window.open('https://typeset.io', '_blank', 'width=1000,height=600');"> typeset.io </a>
 
 
  {% for post in site.posts %}
