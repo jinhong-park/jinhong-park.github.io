@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2024 09:14:51 +0900</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 09:14:51 +0900</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 09:19:59 +0900</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 09:19:59 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024may3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3072,topological : 2314,quantum : 2010,magnetic : 1827,superconductivity : 1214,effect : 1203,lattice : 1148,graphene : 1116,kagome : 1106,model : 1099,dimensional : 1071,hall : 1062,phase : 1055,states : 1007,induced : 951,two : 944,physics : 880,charge : 858,transition : 832,nature : 792,metal : 767,field : 763,insulator : 755,wave : 707,skyrmion : 705,bilayer : 690,chiral : 674,superconductor : 648,density : 645,superconducting : 610,state : 608,weyl : 605,superconductors : 604,twisted : 602,band : 590,symmetry : 551,electron : 541,electronic : 539,majorana : 528,coupling : 526,dirac : 522,theory : 519,transport : 500,insulators : 498,orbital : 498,phonon : 485,kondo : 481,anomalous : 481,high : 478,liquid : 460&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 9136&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2405.13935&quot;&gt;2405.13935&lt;/a&gt;&lt;/strong&gt; Out-of-plane magnetic phase diagram of Kitaev quantum spin liquid candidate Na2Co2TeO6 (arXiv)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2405.13935&quot;&gt;2405.13935&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Out-of-plane magnetic phase diagram of Kitaev quantum spin liquid candidate Na2Co2TeO6 (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s43246-024-00512-5&quot;&gt;s43246-024-00512-5&lt;/a&gt;&lt;/strong&gt; 3D skyrmion strings and their melting dynamics revealed via scalar-field electron tomography (Communications Materials)&lt;/p&gt;
   &lt;/li&gt;
@@ -78,9 +97,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2405.14541&quot;&gt;2405.14541&lt;/a&gt;&lt;/strong&gt; Concurrence of directional Kondo transport and incommensurate magnetic order in the layered material AgCrSe2 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2405.13935&quot;&gt;2405.13935&lt;/a&gt;&lt;/strong&gt; Out-of-plane magnetic phase diagram of Kitaev quantum spin liquid candidate Na2Co2TeO6 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/2405.13908&quot;&gt;2405.13908&lt;/a&gt;&lt;/strong&gt; Spin-Peierls transition in the frustrated spinels ZnCr2O4 and MgCr2O4 (arXiv)&lt;/p&gt;
