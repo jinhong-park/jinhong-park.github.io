@@ -4,12 +4,18 @@ title: Arxiv
 permalink: /arxiv/
 ---
  
-  <a href="../../entire-collection"><b>   Entire collection  </b></a> 
-  
-  <a href="../arxiv/recent"><b>   recent </b></a> 
-  
-  <a href="https://jinhong-park.github.io/t_me"><b> Daily t.me </b></a> 
-   
+  <a href="../../entire-collection"><b>   Entire collection  </b></a>
+  <br>
+  <a href="../arxiv/recent"><b>   recent </b></a>
+  <br>
+  <a href="https://jinhong-park.github.io/t_me"><b> Daily t.me </b></a>
+  <br>
+  <a href="#" onclick="window.open('https://ui.adsabs.harvard.edu', '_blank', 'width=1000,height=600');"> Good Luck Search using Adsabs </a>
+  <br>
+  <a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
+  <br>
+  <a href="#" onclick="window.open('https://typeset.io', '_blank', 'width=1000,height=600');"> typeset.io </a>
+
    
 
    
