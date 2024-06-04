@@ -10,7 +10,22 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-<p><span style=" font: bold ; font-size: medium; font-family: arial ;"> I have 18 publications including 1 in Nature and 4 in Physical Review Letters with +2100 citations. (web of science at April 2021). </span></p>
+<p><span style=" font: bold ; font-size: medium; font-family: arial ;"> I have 20 publications including 1 in Nature and 4 in Physical Review Letters, 2 in Advanced Science with +2100 citations. (web of science at April 2021). </span></p>
+
+
+
+
+
+1. Joonyoung Choi,  __Jin-Hong Park__,  Wonshik Kyung,  Younsik Kim,  Mi Kyung Kim,  Junyoung Kwon,  Changyoung Kim,  Jun-Won Rhim,  Se Young Park,  Younjung Jo \\
+[Tunable Colossal Anomalous Hall Conductivity in Half-Metallic Material Induced by d-Wave-Like Spin-Orbit Gap](https://onlinelibrary.wiley.com/doi/10.1002/advs.202307288)\\
+Adv. Sci. Volume __11__,  Issue20, 2307288  advs.202307288 (21 March 2024) __Open Access__ 
+
+
+1. Soon-Gil Jung,  Harim Jang,  Jihyun Kim,  __Jin-Hong Park__,  Sangyun Lee,  Soonbeom Seo,  Eric D. Bauer,  Tuson Park \\
+[A Quenched Disorder in the Quantum-Critical Superconductor CeCoIn5](https://onlinelibrary.wiley.com/doi/10.1002/advs.202304837)\\
+Adv. Sci. Volume __11__,  Issue1, 2304837  advs.202304837 (20 November 2023) __Open Access__ 
+
+
 
 1. Soohyun Cho, __Jin-Hong Park__, Soonsang Huh, Jisook Hong, Wonshik Kyung, Byeong-Gyu Park, J. D. Denlinger, Ji Hoon Shim, Changyoung Kim,  Seung Ryong Park \\
 [Studying local Berry curvature in 2H-WSe2 by circular dichroism photoemission utilizing crystal mirror plane](https://www.nature.com/articles/s41598-020-79672-6)\\
