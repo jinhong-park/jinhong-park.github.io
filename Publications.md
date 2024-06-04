@@ -10,7 +10,7 @@ permalink: /Publications/
 * __[Researchgate](https://www.researchgate.net/profile/Jin_Hong_Park6/publications)__
 
 
-<p><span style=" font: bold ; font-size: medium; font-family: arial ;"> I have 20 publications including 1 in Nature and 4 in Physical Review Letters, 2 in Advanced Science with +2100 citations. (web of science at April 2021). </span></p>
+<p><span style=" font: bold ; font-size: medium; font-family: arial ;"> I have 20 publications including 1 in Nature and 4 in Physical Review Letters, 2 in Advanced Science with +2700 citations. (web of science at Jun 2024). </span></p>
 
 
 
