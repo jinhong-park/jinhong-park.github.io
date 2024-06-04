@@ -84,6 +84,11 @@
     </li>
     
     
+     <li><a href="/arxiv/" class="page-link">arxiv</a>
+    
+    </li>
+    
+    
      <li><a href="/cv/" class="page-link">CV</a>
     
     </li>
@@ -158,14 +163,14 @@
   <article class="post-content">
     <p>jupyter notebook file Click to <a href="/memos/FFT.ipynb">Download</a></p>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
-<span class="kn">import</span> <span class="n">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
 
 <span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
 
 <span class="c1">#plt.style.use('seaborn-v0_8-whitegrid')
-</span><span class="n">plt</span><span class="p">.</span><span class="nf">rc</span><span class="p">(</span><span class="s">'text'</span><span class="p">,</span> <span class="n">usetex</span> <span class="o">=</span> <span class="bp">True</span><span class="p">)</span>     <span class="c1"># rc : runtime configuration
-</span><span class="n">plt</span><span class="p">.</span><span class="nf">rc</span><span class="p">(</span><span class="s">'font'</span><span class="p">,</span> <span class="n">family</span><span class="o">=</span><span class="s">'times'</span><span class="p">)</span>
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rc</span><span class="p">(</span><span class="s">'text'</span><span class="p">,</span> <span class="n">usetex</span> <span class="o">=</span> <span class="bp">True</span><span class="p">)</span>     <span class="c1"># rc : runtime configuration
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rc</span><span class="p">(</span><span class="s">'font'</span><span class="p">,</span> <span class="n">family</span><span class="o">=</span><span class="s">'times'</span><span class="p">)</span>
 
 
 <span class="c1"># sampling rate
@@ -173,57 +178,57 @@
 
 <span class="c1"># sampling interval
 </span><span class="n">ts</span> <span class="o">=</span> <span class="mf">1.0</span><span class="o">/</span><span class="n">sr</span>
-<span class="n">t</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="n">ts</span><span class="p">)</span>
+<span class="n">t</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="n">ts</span><span class="p">)</span>
 
 <span class="n">freq</span> <span class="o">=</span> <span class="mf">1.</span>
-<span class="n">x</span> <span class="o">=</span> <span class="mi">3</span><span class="o">*</span><span class="n">np</span><span class="p">.</span><span class="nf">sin</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="n">pi</span> <span class="o">*</span> <span class="n">freq</span> <span class="o">*</span> <span class="n">t</span><span class="p">)</span>
+<span class="n">x</span> <span class="o">=</span> <span class="mi">3</span><span class="o">*</span><span class="n">np</span><span class="p">.</span><span class="n">sin</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="n">pi</span> <span class="o">*</span> <span class="n">freq</span> <span class="o">*</span> <span class="n">t</span><span class="p">)</span>
 
 <span class="n">freq</span> <span class="o">=</span> <span class="mi">4</span>
-<span class="n">x</span> <span class="o">+=</span> <span class="n">np</span><span class="p">.</span><span class="nf">sin</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">np</span><span class="p">.</span><span class="n">pi</span> <span class="o">*</span> <span class="n">freq</span> <span class="o">*</span> <span class="n">t</span><span class="p">)</span>
+<span class="n">x</span> <span class="o">+=</span> <span class="n">np</span><span class="p">.</span><span class="n">sin</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">np</span><span class="p">.</span><span class="n">pi</span> <span class="o">*</span> <span class="n">freq</span> <span class="o">*</span> <span class="n">t</span><span class="p">)</span>
 
 <span class="n">freq</span> <span class="o">=</span> <span class="mi">7</span>
-<span class="n">x</span> <span class="o">+=</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="nf">sin</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">np</span><span class="p">.</span><span class="n">pi</span><span class="o">*</span><span class="n">freq</span><span class="o">*</span><span class="n">t</span><span class="p">)</span>
+<span class="n">x</span> <span class="o">+=</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="n">sin</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">np</span><span class="p">.</span><span class="n">pi</span><span class="o">*</span><span class="n">freq</span><span class="o">*</span><span class="n">t</span><span class="p">)</span>
 
-<span class="n">plt</span><span class="p">.</span><span class="nf">figure</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">8</span><span class="p">,</span><span class="mi">6</span><span class="p">),</span> <span class="n">dpi</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">plot</span><span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="s">'r'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">ylabel</span><span class="p">(</span><span class="s">'Amplitude'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">xlabel</span><span class="p">(</span><span class="sa">r</span><span class="s">'Time($t$)'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">yticks</span><span class="p">(</span><span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">xticks</span><span class="p">(</span><span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">grid</span><span class="p">(</span><span class="n">linestyle</span><span class="o">=</span><span class="s">'dashed'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">savefig</span><span class="p">(</span><span class="s">"FFT1.png"</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">8</span><span class="p">,</span><span class="mi">6</span><span class="p">),</span> <span class="n">dpi</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="s">'r'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'Amplitude'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlabel</span><span class="p">(</span><span class="sa">r</span><span class="s">'Time($t$)'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">yticks</span><span class="p">(</span><span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xticks</span><span class="p">(</span><span class="n">fontsize</span><span class="o">=</span><span class="mi">14</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">grid</span><span class="p">(</span><span class="n">linestyle</span><span class="o">=</span><span class="s">'dashed'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">savefig</span><span class="p">(</span><span class="s">"FFT1.png"</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
 
 </code></pre></div></div>
 
 <p><img src="https://jinhong-park.github.io/memos/FFT1.png" width="500" /></p>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="n">scipy.fftpack</span> <span class="kn">import</span> <span class="n">fft</span><span class="p">,</span> <span class="n">ifft</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">scipy.fftpack</span> <span class="kn">import</span> <span class="n">fft</span><span class="p">,</span> <span class="n">ifft</span>
 
-<span class="n">X</span> <span class="o">=</span> <span class="nf">fft</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
-<span class="n">N</span> <span class="o">=</span> <span class="nf">len</span><span class="p">(</span><span class="n">X</span><span class="p">)</span>
-<span class="n">n</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">arange</span><span class="p">(</span><span class="n">N</span><span class="p">)</span>
+<span class="n">X</span> <span class="o">=</span> <span class="n">fft</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+<span class="n">N</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">X</span><span class="p">)</span>
+<span class="n">n</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">arange</span><span class="p">(</span><span class="n">N</span><span class="p">)</span>
 <span class="n">T</span> <span class="o">=</span> <span class="n">N</span><span class="o">/</span><span class="n">sr</span>
 <span class="n">freq</span> <span class="o">=</span> <span class="n">n</span><span class="o">/</span><span class="n">T</span>
 
-<span class="n">plt</span><span class="p">.</span><span class="nf">figure</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">6</span><span class="p">),</span> <span class="n">dpi</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">subplot</span><span class="p">(</span><span class="mi">121</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">6</span><span class="p">),</span> <span class="n">dpi</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">subplot</span><span class="p">(</span><span class="mi">121</span><span class="p">)</span>
 
-<span class="n">plt</span><span class="p">.</span><span class="nf">stem</span><span class="p">(</span><span class="n">freq</span><span class="p">,</span> <span class="n">np</span><span class="p">.</span><span class="nf">abs</span><span class="p">(</span><span class="n">X</span><span class="p">),</span> <span class="s">'b'</span><span class="p">,</span> <span class="n">markerfmt</span> <span class="o">=</span><span class="s">" "</span><span class="p">,</span> <span class="n">basefmt</span><span class="o">=</span><span class="s">"-b"</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">xlabel</span><span class="p">(</span><span class="s">'Freq (Hz)'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">ylabel</span><span class="p">(</span><span class="s">'FFT Amplitude $\|X(freq)\|$'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">grid</span><span class="p">(</span><span class="n">linestyle</span><span class="o">=</span><span class="s">'dashed'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">stem</span><span class="p">(</span><span class="n">freq</span><span class="p">,</span> <span class="n">np</span><span class="p">.</span><span class="nb">abs</span><span class="p">(</span><span class="n">X</span><span class="p">),</span> <span class="s">'b'</span><span class="p">,</span> <span class="n">markerfmt</span> <span class="o">=</span><span class="s">" "</span><span class="p">,</span> <span class="n">basefmt</span><span class="o">=</span><span class="s">"-b"</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s">'Freq (Hz)'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'FFT Amplitude $\|X(freq)\|$'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">grid</span><span class="p">(</span><span class="n">linestyle</span><span class="o">=</span><span class="s">'dashed'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
 
-<span class="n">plt</span><span class="p">.</span><span class="nf">subplot</span><span class="p">(</span><span class="mi">122</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">plot</span><span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="nf">ifft</span><span class="p">(</span><span class="n">X</span><span class="p">),</span> <span class="s">'r'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">xlabel</span><span class="p">(</span><span class="s">'Time (s)'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">ylabel</span><span class="p">(</span><span class="s">'Amplitude'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">grid</span><span class="p">(</span><span class="n">linestyle</span><span class="o">=</span><span class="s">'dashed'</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">tight_layout</span><span class="p">()</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">savefig</span><span class="p">(</span><span class="s">"FFT2.png"</span><span class="p">)</span>
-<span class="n">plt</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">subplot</span><span class="p">(</span><span class="mi">122</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="n">ifft</span><span class="p">(</span><span class="n">X</span><span class="p">),</span> <span class="s">'r'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s">'Time (s)'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'Amplitude'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">grid</span><span class="p">(</span><span class="n">linestyle</span><span class="o">=</span><span class="s">'dashed'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">tight_layout</span><span class="p">()</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">savefig</span><span class="p">(</span><span class="s">"FFT2.png"</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
 </code></pre></div></div>
 
 <p><img src="https://jinhong-park.github.io/memos/FFT2.png" width="500" /></p>
