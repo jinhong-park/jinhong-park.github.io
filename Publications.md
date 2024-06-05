@@ -18,7 +18,7 @@ permalink: /Publications/
 
 1. __Jin-Hong Park__,  Jun-Won Rhim \\
 [Quasi-localization and Wannier obstruction in partially flat bands](https://www.nature.com/articles/s42005-024-01679-6)\\
-Communications Physics __7__, 179  (6 June 2024) __Open Access__ 
+Communications Physics __7__, 179  (4 June 2024) __Open Access__ 
 
 
 
