@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2024 10:25:31 +0900</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2024 10:25:31 +0900</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 10:43:26 +0900</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 10:43:26 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,18 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024jun1weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.236001&quot;&gt;PhysRevLett.132.236001&lt;/a&gt;&lt;/strong&gt; Geometric Stiffness in Interlayer Exciton Condensates (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.236401&quot;&gt;PhysRevLett.132.236401&lt;/a&gt;&lt;/strong&gt; Non-Abelian Braiding of Topological Edge Bands (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.233801&quot;&gt;PhysRevLett.132.233801&lt;/a&gt;&lt;/strong&gt; Near-Field Spin Chern Number Quantized by Real-Space Topology of Optical Structures (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.aps.org/doi/10.1103/PhysRevLett.132.236701&quot;&gt;PhysRevLett.132.236701&lt;/a&gt;&lt;/strong&gt; Spontaneous Formation of Altermagnetism from Orbital Ordering (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2406.00042&quot;&gt;2406.00042v1&lt;/a&gt;&lt;/strong&gt; Rise and Fall of Anderson Localization By Lattice Vibrations: A Time-Dependent Machine Learning Approach (arXiv)&lt;/p&gt;
   &lt;/li&gt;
