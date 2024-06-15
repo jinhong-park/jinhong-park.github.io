@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2024 13:08:54 +0900</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2024 13:08:54 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 15 Jun 2024 09:15:14 +0900</pubDate>
+    <lastBuildDate>Sat, 15 Jun 2024 09:15:14 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jun 2 week 2024)</title>
@@ -21,7 +21,27 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024jun2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3144,topological : 2375,quantum : 2074,magnetic : 1876,effect : 1233,superconductivity : 1233,lattice : 1175,graphene : 1154,model : 1129,kagome : 1116,dimensional : 1097,hall : 1085,phase : 1083,states : 1039,induced : 973,two : 969,physics : 901,charge : 879,transition : 858,nature : 822,field : 791,metal : 790,insulator : 782,wave : 726,skyrmion : 714,bilayer : 707,chiral : 685,density : 662,superconductor : 662,twisted : 624,superconducting : 622,superconductors : 618,state : 617,weyl : 608,band : 599,symmetry : 568,electronic : 556,electron : 553,theory : 536,coupling : 536,majorana : 531,dirac : 527,transport : 516,insulators : 511,orbital : 511,high : 493,phonon : 492,anomalous : 490,kondo : 486,flat : 468&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 9598&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2406.04931&quot;&gt;2406.04931v1&lt;/a&gt;&lt;/strong&gt; Quantifying the quantum nature of high spin YSR excitations in transverse magnetic field (arXiv)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2406.04931&quot;&gt;2406.04931v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Quantifying the quantum nature of high spin YSR excitations in transverse magnetic field (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-48440-9&quot;&gt;s41467-024-48440-9&lt;/a&gt;&lt;/strong&gt; Current-driven fast magnetic octupole domain-wall motion in noncollinear antiferromagnets (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
@@ -54,6 +74,27 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-01927-8&quot;&gt;s41563-024-01927-8&lt;/a&gt;&lt;/strong&gt; Resolving length-scale-dependent transient disorder through an ultrafast phase transition (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.243802&quot;&gt;PhysRevLett.132.243802&lt;/a&gt;&lt;/strong&gt; Dynamically Encircling Exceptional Points in Different Riemann Sheets for Orbital Angular Momentum Topological Charge Conversion (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.246402&quot;&gt;PhysRevLett.132.246402&lt;/a&gt;&lt;/strong&gt; Directional Localization from a Magnetic Field in Moiré Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.246503&quot;&gt;PhysRevLett.132.246503&lt;/a&gt;&lt;/strong&gt; Phases of 2+1D SO(5) Nonlinear Sigma Model with a Topological Term on a Sphere: Multicritical Point and Disorder Phase (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.246504&quot;&gt;PhysRevLett.132.246504&lt;/a&gt;&lt;/strong&gt; Local Noise Spectroscopy of Wigner Crystals in Two-Dimensional Materials (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.246505&quot;&gt;PhysRevLett.132.246505&lt;/a&gt;&lt;/strong&gt; Symmetry-Broken Perturbation Theory to Large Orders in Antiferromagnetic Phases (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.246702&quot;&gt;PhysRevLett.132.246702&lt;/a&gt;&lt;/strong&gt; Signatures of Kitaev Interactions in the van der Waals Ferromagnet VI3 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.246902&quot;&gt;PhysRevLett.132.246902&lt;/a&gt;&lt;/strong&gt; Exciton-Enhanced Spontaneous Parametric Down-Conversion in Two-Dimensional Crystals (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.132.240602&quot;&gt;PhysRevLett.132.240602&lt;/a&gt;&lt;/strong&gt; Efficient Quantum Algorithms for Stabilizer Entropies (PRL)&lt;/p&gt;
@@ -489,9 +530,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2406.04919&quot;&gt;2406.04919v1&lt;/a&gt;&lt;/strong&gt; Anomaly inflow for dipole symmetry and higher form foliated field theories (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2406.04931&quot;&gt;2406.04931v1&lt;/a&gt;&lt;/strong&gt; Quantifying the quantum nature of high spin YSR excitations in transverse magnetic field (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2406.05009&quot;&gt;2406.05009v1&lt;/a&gt;&lt;/strong&gt; Nonlinear effects on charge fractionalization in critical chains (arXiv)&lt;/p&gt;
