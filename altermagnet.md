@@ -12,12 +12,11 @@ permalink: /altermagnet
 <br>
 <a href="#" onclick="window.open('https://typeset.io', '_blank', 'width=1000,height=600');">Typeset.io</a>
 
-<ul class="listing">
-    {% assign keyword = "alter" %}
+{% assign keyword = "altermagnet" %}
+
+<ul>
     {% for post in site.posts %}
-        <li class="listing-seperator">
-            <p>{{ post.title }}</p>
-        </li>
+        <li class="listing-seperator"><p>{{ post.title }}</p></li>
         <li class="listing-item">
             {% assign lines = post.content | split: '\n' %}
             {% for line in lines %}
