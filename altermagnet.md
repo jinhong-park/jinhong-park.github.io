@@ -26,15 +26,23 @@ permalink: /altermagnet
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         var keyword = "alter";
-        var excludeKeyword = "alternating";
+        var excludeKeywords = ["alternative", "alternating"];
         var posts = document.querySelectorAll(".listing-item");
         posts.forEach(function(post, index) {
             var lines = post.textContent.split('\n');
-            var matchingLines = lines.filter(function(line) {
-                return line.includes(keyword) && !line.includes(excludeKeyword);
+            var includePost = false;
+            lines.forEach(function(line) {
+                if (line.includes(keyword)) {
+                    var excludeFound = excludeKeywords.some(function(excludeKeyword) {
+                        return line.includes(excludeKeyword);
+                    });
+                    if (!excludeFound) {
+                        includePost = true;
+                    }
+                }
             });
-            if (matchingLines.length > 0) {
-                post.innerHTML = matchingLines.join('<br>');
+            if (includePost) {
+                post.innerHTML = lines.join('<br>');
                 post.style.display = "block";
                 var title = document.getElementById('title-' + (index + 1));
                 if (title) {
