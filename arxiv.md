@@ -6,6 +6,10 @@ permalink: /arxiv/
  
   <a href="../../entire-collection"><b>   Entire collection  </b></a>
   <br>
+  <b>  Sub-collection </b>
+  <br>
+  <a href="../arxiv/altermagnet">   Altermagnets  </a> &nbsp;<a href="../arxiv/spin">   Spin  </a> &nbsp;<a href="../arxiv/magnon">   Magnon  </a>
+  <br>
   <a href="../arxiv/recent"><b>   recent </b></a>
   <br>
   <a href="https://jinhong-park.github.io/t_me"><b> Daily t.me </b></a>
