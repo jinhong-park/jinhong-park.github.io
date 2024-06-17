@@ -15,10 +15,9 @@ permalink: /altermagnet
 <ul class="listing">
     {% assign keyword = "alter" %}
     {% for post in site.posts %}
-        
+        <li class="listing-seperator"><p>{{ post.title }}</p></li>
         <li class="listing-item" id="post-{{ forloop.index }}">
-          <p>{{ post.title }}</p>
-            {{ post.content }}
+            {{ post.content | escape }}
         </li>
     {% endfor %}
 </ul>
@@ -26,11 +25,12 @@ permalink: /altermagnet
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         var keyword = "alter";
+        var excludeKeyword = "alternating";
         var posts = document.querySelectorAll(".listing-item");
         posts.forEach(function(post) {
-            var lines = post.innerHTML.split('\n');
+            var lines = post.textContent.split('\n');
             var matchingLines = lines.filter(function(line) {
-                return line.includes(keyword);
+                return line.includes(keyword) && !line.includes(excludeKeyword);
             });
             post.innerHTML = matchingLines.join('<br>');
         });
