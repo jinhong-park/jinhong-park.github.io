@@ -8,7 +8,7 @@ permalink: /arxiv/
   <br>
   <b>  Sub-collection </b>
   <br>
-  <a href="../arxiv/altermagnet">   Altermagnets  </a> &nbsp;<a href="../arxiv/spin">   Spin  </a> &nbsp;<a href="../arxiv/magnon">   Magnon  </a>
+  <a href="../arxiv/altermagnet">   Altermagnets  </a> &nbsp;<a href="../arxiv/spin">   Spin  </a> &nbsp;<a href="../arxiv/magnon">   Magnon  </a> &nbsp;<a href="../arxiv/skyrmion">   Skyrmion  </a> &nbsp;<a href="../arxiv/hedgehog">   Hedgehog  </a>
   <br>
   <a href="../arxiv/recent"><b>   recent </b></a>
   <br>
