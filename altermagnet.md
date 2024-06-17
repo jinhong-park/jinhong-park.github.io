@@ -1,7 +1,7 @@
 ---
 layout: page
 title: altermagnet
-permalink: /altermagnet
+permalink: /arxiv/altermagnet
 ---
  
 <a href="https://jinhong-park.github.io/t_me">Daily t.me</a>
