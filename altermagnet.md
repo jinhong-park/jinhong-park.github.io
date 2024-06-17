@@ -12,11 +12,12 @@ permalink: /altermagnet
 <br>
 <a href="#" onclick="window.open('https://typeset.io', '_blank', 'width=1000,height=600');">Typeset.io</a>
 
-<ul class="listing">
-    {% assign keyword = "alter" %}
+<ul class="listing" id="posts-listing">
     {% for post in site.posts %}
-        <li class="listing-seperator"><p>{{ post.title }}</p></li>
-        <li class="listing-item" id="post-{{ forloop.index }}">
+        <li class="listing-seperator" id="title-{{ forloop.index }}" style="display: none;">
+            <p>{{ post.title }}</p>
+        </li>
+        <li class="listing-item" id="post-{{ forloop.index }}" style="display: none;">
             {{ post.content | escape }}
         </li>
     {% endfor %}
@@ -27,12 +28,19 @@ permalink: /altermagnet
         var keyword = "alter";
         var excludeKeyword = "alternating";
         var posts = document.querySelectorAll(".listing-item");
-        posts.forEach(function(post) {
+        posts.forEach(function(post, index) {
             var lines = post.textContent.split('\n');
             var matchingLines = lines.filter(function(line) {
                 return line.includes(keyword) && !line.includes(excludeKeyword);
             });
-            post.innerHTML = matchingLines.join('<br>');
+            if (matchingLines.length > 0) {
+                post.innerHTML = matchingLines.join('<br>');
+                post.style.display = "block";
+                var title = document.getElementById('title-' + (index + 1));
+                if (title) {
+                    title.style.display = "block";
+                }
+            }
         });
     });
 </script>
