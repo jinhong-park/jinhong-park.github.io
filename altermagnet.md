@@ -15,7 +15,7 @@ permalink: /altermagnet
 <ul class="listing" id="posts-listing">
     {% for post in site.posts %}
         <li class="listing-seperator" id="title-{{ forloop.index }}" style="display: none;">
-            <p>{{ post.title }}</p>
+            <p><strong>{{ post.title }}</strong></p>
         </li>
         <li class="listing-item" id="post-{{ forloop.index }}" style="display: none;">
             {{ post.content | escape }}
