@@ -16,7 +16,6 @@ permalink: /altermagnet
     {% assign keyword = "alter" %}
     {% for post in site.posts %}
         <li class="listing-seperator">
-            <p>{{ post.title }}</p>
         </li>
         <li class="listing-item" id="post-{{ forloop.index }}">
             {{ post.content }}
