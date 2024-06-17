@@ -18,7 +18,7 @@ permalink: /altermagnet
     {% for post in site.posts %}
         <li class="listing-seperator"><p>{{ post.title }}</p></li>
         <li class="listing-item">
-            {% assign lines = post.content | split: '\n' %}
+            {% assign lines = post.content | split: '1.' %}
             {% for line in lines %}
                 {% if line contains keyword %}
                     <p>{{ line }}</p>
