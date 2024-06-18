@@ -7,8 +7,6 @@ permalink: /arxiv/
   <a href="../../entire-collection"><b>   Entire collection  </b></a>
   <br>
   <b>  Sub-collections </b>
-  <br>
-
   <table>
     <tr>
         <td><a href="../arxiv/altermagnet">Altermagnets</a></td>
