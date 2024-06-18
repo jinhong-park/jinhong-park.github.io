@@ -8,7 +8,7 @@ permalink: /arxiv/
   <br>
   <b>  Sub-collections </b>
   <br>
-  <a href="../arxiv/altermagnet">   Altermagnets  </a> &nbsp;<a href="../arxiv/spin">   Spin  </a> &nbsp;<a href="../arxiv/magnon">   Magnon  </a> &nbsp;<a href="../arxiv/skyrmion">   Skyrmion  </a> &nbsp;<a href="../arxiv/hedgehog">   Hedgehog  </a> &nbsp;<a href="../arxiv/flat">   Flat  </a>  &nbsp;<a href="../arxiv/majorana">   Majorana  </a>  &nbsp;<a href="../arxiv/kagome">   Kagome  </a> &nbsp;<a href="../arxiv/kondo">   Kondo  </a>
+  <a href="../arxiv/altermagnet">   Altermagnets  </a> &nbsp;<a href="../arxiv/flat">   Flat  </a>   &nbsp;<a href="../arxiv/hedgehog">   Hedgehog  </a>   &nbsp;<a href="../arxiv/kagome">   Kagome  </a> &nbsp;<a href="../arxiv/kondo">   Kondo  </a> &nbsp;<a href="../arxiv/magnon">   Magnon  </a> &nbsp;<a href="../arxiv/majorana">   Majorana  </a>  &nbsp;<a href="../arxiv/skyrmion">   Skyrmion  </a> &nbsp;<a href="../arxiv/spin">   Spin  </a> &nbsp;<a href="../arxiv/theory">   Theory  </a>
   <br>
   <a href="../arxiv/recent"><b>   recent </b></a>
   <br>
