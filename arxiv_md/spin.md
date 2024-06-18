@@ -31,7 +31,8 @@ permalink: /arxiv/spin
         posts.forEach(function(post, index) {
             var lines = post.textContent.split('\n');
             var matchingLines = lines.filter(function(line) {
-                return line.includes(keyword) && !line.includes(excludeKeyword);
+                var lowerCaseLine = line.toLowerCase();
+                return lowerCaseLine.includes(keyword) && !lowerCaseLine.includes(excludeKeyword);
             });
             if (matchingLines.length > 0) {
                 post.innerHTML = matchingLines.join('<br>');

@@ -28,12 +28,13 @@ permalink: /arxiv/altermagnet
         var keyword = "alter";
         var excludeKeyword = "alternating";
         var excludeKeyword2 = "alternative";
+        var excludeKeyword3 = "alternation";
         var posts = document.querySelectorAll(".listing-item");
         posts.forEach(function(post, index) {
             var lines = post.textContent.split('\n');
             var matchingLines = lines.filter(function(line) {
                 var lowerCaseLine = line.toLowerCase();
-                return lowerCaseLine.includes(keyword) && !lowerCaseLine.includes(excludeKeyword) && !lowerCaseLine.includes(excludeKeyword2);
+                return lowerCaseLine.includes(keyword) && !lowerCaseLine.includes(excludeKeyword) && !lowerCaseLine.includes(excludeKeyword2) && !lowerCaseLine.includes(excludeKeyword3);
             });
             if (matchingLines.length > 0) {
                 post.innerHTML = matchingLines.join('<br>');
