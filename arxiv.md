@@ -11,28 +11,12 @@ permalink: /arxiv/
 
   <table>
     <tr>
-        <th>Altermagnets</th>
-        <th>Flat</th>
-        <th>Hedgehog</th>
-        <th>Kagome</th>
-        <th>Kondo</th>
-        <th>Magnon</th>
-    </tr>
-    <tr>
         <td><a href="../arxiv/altermagnet">Altermagnets</a></td>
         <td><a href="../arxiv/flat">Flat</a></td>
         <td><a href="../arxiv/hedgehog">Hedgehog</a></td>
         <td><a href="../arxiv/kagome">Kagome</a></td>
         <td><a href="../arxiv/kondo">Kondo</a></td>
         <td><a href="../arxiv/magnon">Magnon</a></td>
-    </tr>
-    <tr>
-        <th>Majorana</th>
-        <th>Skyrmion</th>
-        <th>Spin</th>
-        <th>Theory</th>
-        <th>Wave</th>
-        <th></th>
     </tr>
     <tr>
         <td><a href="../arxiv/majorana">Majorana</a></td>
