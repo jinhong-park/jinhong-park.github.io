@@ -29,12 +29,15 @@ permalink: /arxiv/altermagnet
         var excludeKeyword = "alternating";
         var excludeKeyword2 = "alternative";
         var excludeKeyword3 = "alternation";
+        var excludeKeyword4 = "altering";
+        var excludeKeyword5 = "alternate";
+        var excludeKeyword6 = "alteration";
         var posts = document.querySelectorAll(".listing-item");
         posts.forEach(function(post, index) {
             var lines = post.textContent.split('\n');
             var matchingLines = lines.filter(function(line) {
                 var lowerCaseLine = line.toLowerCase();
-                return lowerCaseLine.includes(keyword) && !lowerCaseLine.includes(excludeKeyword) && !lowerCaseLine.includes(excludeKeyword2) && !lowerCaseLine.includes(excludeKeyword3);
+                return lowerCaseLine.includes(keyword) && !lowerCaseLine.includes(excludeKeyword) && !lowerCaseLine.includes(excludeKeyword2) && !lowerCaseLine.includes(excludeKeyword3) && !lowerCaseLine.includes(excludeKeyword4) && !lowerCaseLine.includes(excludeKeyword5)  && !lowerCaseLine.includes(excludeKeyword6);
             });
             if (matchingLines.length > 0) {
                 post.innerHTML = matchingLines.join('<br>');
