@@ -9,20 +9,20 @@ permalink: /arxiv/
   <b>  Sub-collections </b>
   <table>
     <tr>
-        <td><a href="../arxiv/altermagnet">Altermagnets</a></td>
-        <td><a href="../arxiv/flat">Flat</a></td>
-        <td><a href="../arxiv/hedgehog">Hedgehog</a></td>
-        <td><a href="../arxiv/kagome">Kagome</a></td>
-        <td><a href="../arxiv/kondo">Kondo</a></td>
-        <td><a href="../arxiv/magnon">Magnon</a></td>
+        <th><a href="../arxiv/altermagnet">Altermagnets</a></th>
+        <th><a href="../arxiv/flat">Flat</a></th>
+        <th><a href="../arxiv/hedgehog">Hedgehog</a></th>
+        <th><a href="../arxiv/kagome">Kagome</a></th>
+        <th><a href="../arxiv/kondo">Kondo</a></th>
+        <th><a href="../arxiv/magnon">Magnon</a></th>
     </tr>
     <tr>
-        <td><a href="../arxiv/majorana">Majorana</a></td>
-        <td><a href="../arxiv/skyrmion">Skyrmion</a></td>
-        <td><a href="../arxiv/spin">Spin</a></td>
-        <td><a href="../arxiv/theory">Theory</a></td>
-        <td><a href="../arxiv/wave">Wave</a></td>
-        <td></td>
+        <th><a href="../arxiv/majorana">Majorana</a></th>
+        <th><a href="../arxiv/skyrmion">Skyrmion</a></th>
+        <th><a href="../arxiv/spin">Spin</a></th>
+        <th><a href="../arxiv/theory">Theory</a></th>
+        <th><a href="../arxiv/wave">Wave</a></th>
+        <th></th>
     </tr>
 </table>
   <br>
