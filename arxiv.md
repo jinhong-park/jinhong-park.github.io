@@ -17,7 +17,7 @@ permalink: /arxiv/
     </tr>
     <tr>
         <th><a href="../arxiv/altermagnet">Altermagnets</a></th>
-        <th><a href="../arxiv/flat">Flat</a></th>
+        <th><a href="../arxiv/flat">Flatband</a></th>
         <th><a href="../arxiv/hedgehog">Hedgehog</a></th>
         <th><a href="../arxiv/kagome">Kagome</a></th>
         <th><a href="../arxiv/kondo">Kondo</a></th>
