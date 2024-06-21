@@ -36,12 +36,12 @@ layout: default
         const today = new Date();
         const date = today.getDate();
 
-        if (date % 2 === 0) {
-            // 짝수일
+        if (date % 2 === 1) {
+            // 홀수일
             image1.style.display = 'none';
             image2.style.display = 'block';
         } else {
-            // 홀수일
+            // 짝수일
             image1.style.display = 'block';
             image2.style.display = 'none';
         }
