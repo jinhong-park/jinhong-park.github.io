@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jul 2024 11:28:37 +0900</pubDate>
-    <lastBuildDate>Wed, 03 Jul 2024 11:28:37 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Wed, 03 Jul 2024 21:37:38 +0900</pubDate>
+    <lastBuildDate>Wed, 03 Jul 2024 21:37:38 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jul 1 week 2024)</title>
@@ -48,6 +48,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-01932-x&quot;&gt;s41563-024-01932-x&lt;/a&gt;&lt;/strong&gt; Programming topological photonics (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202312935&quot;&gt;adma.202312935&lt;/a&gt;&lt;/strong&gt; Topological Spin Textures: Basic Physics and Devices (Advanced Materials)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.016401&quot;&gt;PhysRevLett.133.016401&lt;/a&gt;&lt;/strong&gt; Fermi Surface Nesting Driving the RKKY Interaction in the Centrosymmetric Skyrmion Magnet Gd2PdSi3 (PRL)&lt;/p&gt;
