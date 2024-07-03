@@ -27,14 +27,14 @@ permalink: /arxiv/
         <th><a href="../arxiv/kondo">Kondo</a></th>
         <th><a href="../arxiv/magnon">Magnon</a></th>
         <th><a href="../arxiv/majorana">Majorana</a></th>
-        <th><a href="../arxiv/nickelate">Nickelate</a></th>
+        <th><a href="../arxiv/nematic">Nematic</a></th>
     </tr>
     <tr>
+       <th><a href="../arxiv/nickelate">Nickelate</a></th>
        <th><a href="../arxiv/skyrmion">Skyrmion</a></th>
         <th><a href="../arxiv/spin">Spin</a></th>
        <th><a href="../arxiv/theory">Theory</a></th>
        <th><a href="../arxiv/wave">Wave</a></th>
-        <th></th>
     </tr>
 </table>
   <br>
