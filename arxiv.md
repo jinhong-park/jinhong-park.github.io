@@ -47,9 +47,11 @@ permalink: /arxiv/
   <a href="#" onclick="window.open('https://scholar.google.com', '_blank', 'width=1000,height=600');"> google scholar </a>
   <br>
   <a href="#" onclick="window.open('https://typeset.io', '_blank', 'width=1000,height=600');"> typeset.io </a>
-
-   
-
+  <br>
+  <a href="#" onclick="window.open('https://claude.ai', '_blank', 'width=1000,height=600');"> claude.ai </a>
+  <br>
+  <a href="#" onclick="window.open('https://chatgpt.com', '_blank', 'width=1000,height=600');"> chatgpt.com </a>
+  <br>
    
 <ul class="listing">
 {% for post in site.posts %}
