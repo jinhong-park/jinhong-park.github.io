@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jul 2024 13:09:25 +0900</pubDate>
-    <lastBuildDate>Mon, 08 Jul 2024 13:09:25 +0900</lastBuildDate>
+    <pubDate>Tue, 09 Jul 2024 09:59:25 +0900</pubDate>
+    <lastBuildDate>Tue, 09 Jul 2024 09:59:25 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,27 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024jul2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-49942-2&quot;&gt;s41467-024-49942-2&lt;/a&gt;&lt;/strong&gt; Observation of stacking engineered magnetic phase transitions within moiré supercells of twisted van der Waals magnets (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-07764-8&quot;&gt;s41586-024-07764-8&lt;/a&gt;&lt;/strong&gt; Two-dimensional Perovskitoids Enhance Stability in Perovskite Solar Cells (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033027&quot;&gt;PhysRevResearch.6.033027&lt;/a&gt;&lt;/strong&gt; SrCuOH3Cl, an isolated equilateral triangle spin S=1/2 model system (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033031&quot;&gt;PhysRevResearch.6.033031&lt;/a&gt;&lt;/strong&gt; Quantum spin supersolid as a precursory Dirac spin liquid in a triangular lattice antiferromagnet (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033032&quot;&gt;PhysRevResearch.6.033032&lt;/a&gt;&lt;/strong&gt; Magnetotransport of fluxoids in intermediate-phase type-II superconducting NbN thin films around ${T}_{c}$ (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033034&quot;&gt;PhysRevResearch.6.033034&lt;/a&gt;&lt;/strong&gt; Efficient factored gradient descent algorithm for quantum state tomography (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033035&quot;&gt;PhysRevResearch.6.033035&lt;/a&gt;&lt;/strong&gt; Exponentially improved efficient machine learning for quantum many-body states with provable guarantees (PRR)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.03364&quot;&gt;2407.03364v1&lt;/a&gt;&lt;/strong&gt; Comment on “Charge pumping with strong spin-orbit coupling: Fermi surface breathing, Berry curvature, and higher harmonic generation” (arXiv)&lt;/p&gt;
   &lt;/li&gt;
