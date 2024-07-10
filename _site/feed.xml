@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jul 2024 14:04:39 +0900</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2024 14:04:39 +0900</lastBuildDate>
+    <pubDate>Wed, 10 Jul 2024 14:28:20 +0900</pubDate>
+    <lastBuildDate>Wed, 10 Jul 2024 14:28:20 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -65,14 +65,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.06993&quot;&gt;2407.06993v1&lt;/a&gt;&lt;/strong&gt; Superconducting states in metals with toroidal ordering (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.07022&quot;&gt;2407.07022v1&lt;/a&gt;&lt;/strong&gt; Treatment of the strongly correlated topological superconductors through the $su(2&lt;/td&gt;
-          &lt;td&gt;1)$ path-integral technique (arXiv)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.07022&quot;&gt;2407.07022v1&lt;/a&gt;&lt;/strong&gt; Treatment of the strongly correlated topological superconductors through the su(2/1) path-integral technique (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.07027&quot;&gt;2407.07027v1&lt;/a&gt;&lt;/strong&gt; Coulomb drag by motion of a monolayer polar crystal through graphene nano-constriction (arXiv)&lt;/p&gt;
@@ -323,7 +316,9 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.04639&quot;&gt;2407.04639v1&lt;/a&gt;&lt;/strong&gt; Quantized circular dichroism on the edge of quantum Hall systems: The many-body Chern number as seen from the edge (arXiv)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.04673&quot;&gt;2407.04673v1&lt;/a&gt;&lt;/strong&gt; Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements (arXiv)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.04673&quot;&gt;2407.04673v1&lt;/a&gt;&lt;/strong&gt; Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 </description>
