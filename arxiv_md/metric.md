@@ -1,7 +1,7 @@
 ---
 layout: page
-title: kondo
-permalink: /arxiv/kondo
+title: metric
+permalink: /arxiv/metric
 ---
  
 <a href="https://jinhong-park.github.io/t_me">Daily t.me</a>
@@ -25,8 +25,8 @@ permalink: /arxiv/kondo
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        var keyword = "kondo";
-        var excludeKeyword = "kondoxxx";
+        var keyword = "quantum metric";
+        var excludeKeyword = "quantum metricxxx";
         var posts = document.querySelectorAll(".listing-item");
         posts.forEach(function(post, index) {
             var lines = post.textContent.split('\n');
