@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "weekly picks (Jul 5 week 2024)"
+date:   2024-07-29 00:16:27
+categories: 2024jul
+---
+
+
+{% include image.html url="/images/2024jul5weeks.png" caption="A WordCloud of 2024 Jul 5th week collection" width=300 align="center" %}
+
+<img src="/images/2024jul5weeks-pick.png">
+
+1. **[s41467-024-50653-x](https://www.nature.com/articles/s41467-024-50653-x)** Confinement of excited states in two-dimensional, in-plane, quantum heterostructures (Nature Communications)
