@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Aug 2024 19:08:18 +0900</pubDate>
-    <lastBuildDate>Thu, 01 Aug 2024 19:08:18 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Fri, 02 Aug 2024 11:19:32 +0900</pubDate>
+    <lastBuildDate>Fri, 02 Aug 2024 11:19:32 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (Jul 5 week 2024)</title>
@@ -42,6 +42,15 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-024-66702-w&quot;&gt;s41598-024-66702-w&lt;/a&gt;&lt;/strong&gt; Explainable machine-learning-based prediction of equivalent circulating density using surface-based drilling data (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adn2777&quot;&gt;science.adn2777&lt;/a&gt;&lt;/strong&gt; PhAI: A deep-learning approach to solve the crystallographic phase problem (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.056401&quot;&gt;PhysRevLett.133.056401&lt;/a&gt;&lt;/strong&gt; Predictable Gate-Field Control of Spin in Altermagnets with Spin-Layer Coupling (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.031018&quot;&gt;PhysRevX.14.031018&lt;/a&gt;&lt;/strong&gt; Anomalous Landau Level Gaps Near Magnetic Transitions in Monolayer WSe2 (PRX)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.050203&quot;&gt;PhysRevLett.133.050203&lt;/a&gt;&lt;/strong&gt; Detecting Entanglement from Macroscopic Measurements of the Electric Field and its Fluctuations (PRL)&lt;/p&gt;
