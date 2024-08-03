@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Aug 2024 13:22:25 +0900</pubDate>
-    <lastBuildDate>Fri, 02 Aug 2024 13:22:25 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 03 Aug 2024 13:02:18 +0900</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2024 13:02:18 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jul 5 week 2024)</title>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024jul5weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3360,topological : 2495,quantum : 2331,magnetic : 1982,effect : 1303,superconductivity : 1293,lattice : 1229,graphene : 1228,model : 1178,dimensional : 1170,phase : 1163,kagome : 1148,hall : 1144,states : 1106,induced : 1032,two : 1031,physics : 957,charge : 935,nature : 929,transition : 916,metal : 836,field : 830,insulator : 817,wave : 769,bilayer : 747,skyrmion : 736,chiral : 727,superconductor : 705,density : 699,twisted : 671,state : 667,superconducting : 666,superconductors : 652,band : 636,weyl : 620,electron : 608,symmetry : 592,electronic : 589,coupling : 576,theory : 575,majorana : 561,dirac : 550,insulators : 550,transport : 549,orbital : 544,high : 528,anomalous : 516,phonon : 516,kondo : 503,flat : 503&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 9613&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.20533&quot;&gt;2407.20533v1&lt;/a&gt;&lt;/strong&gt; Spinon quantum spin Hall state in the kagome antiferromagnet with a Dzyaloshinskii-Moriya interaction (arXiv)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.20533&quot;&gt;2407.20533v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Spinon quantum spin Hall state in the kagome antiferromagnet with a Dzyaloshinskii-Moriya interaction (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02562-5&quot;&gt;s41567-024-02562-5&lt;/a&gt;&lt;/strong&gt; Scalable spin squeezing from finite-temperature easy-plane magnetism (Nature Physics)&lt;/p&gt;
   &lt;/li&gt;
@@ -45,6 +64,21 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adn2777&quot;&gt;science.adn2777&lt;/a&gt;&lt;/strong&gt; PhAI: A deep-learning approach to solve the crystallographic phase problem (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41535-024-00665-z&quot;&gt;s41535-024-00665-z&lt;/a&gt;&lt;/strong&gt; Multiferroic quantum material Ba2Cu1−xMnxGe2O7 (0 ≤ x ≤ 1) as a potential candidate for frustrated Heisenberg antiferromagnet (npj QMs)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02564-3&quot;&gt;s41567-024-02564-3&lt;/a&gt;&lt;/strong&gt; Carrier density crossover and quasiparticle mass enhancement in a doped 5d Mott insulator (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01747-x&quot;&gt;s42005-024-01747-x&lt;/a&gt;&lt;/strong&gt; Anomalous quantum transport in fractal lattices (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.053804&quot;&gt;PhysRevLett.133.053804&lt;/a&gt;&lt;/strong&gt; Strongly Anisotropic Vortices in Dipolar Quantum Droplets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.056602&quot;&gt;PhysRevLett.133.056602&lt;/a&gt;&lt;/strong&gt; Prevalence of Two-Dimensional Photonic Topology (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.056401&quot;&gt;PhysRevLett.133.056401&lt;/a&gt;&lt;/strong&gt; Predictable Gate-Field Control of Spin in Altermagnets with Spin-Layer Coupling (PRL)&lt;/p&gt;
@@ -288,9 +322,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.20504&quot;&gt;2407.20504v1&lt;/a&gt;&lt;/strong&gt; Superconducting Order Parameters in Spin Space Groups: Methodology and Application (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.20533&quot;&gt;2407.20533v1&lt;/a&gt;&lt;/strong&gt; Spinon quantum spin Hall state in the kagome antiferromagnet with a Dzyaloshinskii-Moriya interaction (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2407.20546&quot;&gt;2407.20546v1&lt;/a&gt;&lt;/strong&gt; Fermi Machine – Quantum Many-Body Solver Derived from Correspondence between Noninteracting and Strongly Correlated Fermions (arXiv)&lt;/p&gt;
