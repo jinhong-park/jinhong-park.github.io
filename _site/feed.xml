@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Aug 2024 10:29:10 +0900</pubDate>
-    <lastBuildDate>Wed, 14 Aug 2024 10:29:10 +0900</lastBuildDate>
+    <pubDate>Wed, 14 Aug 2024 17:39:06 +0900</pubDate>
+    <lastBuildDate>Wed, 14 Aug 2024 17:39:06 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -54,6 +54,72 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033168&quot;&gt;PhysRevResearch.6.033168&lt;/a&gt;&lt;/strong&gt; Spin-S Kitaev-Heisenberg model on the honeycomb lattice: A high-order treatment via the many-body coupled cluster method (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06409&quot;&gt;2408.06409v1&lt;/a&gt;&lt;/strong&gt; Coadjoint-orbit effective field theory of a Fermi surface in a weak magnetic field (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06420&quot;&gt;2408.06420v1&lt;/a&gt;&lt;/strong&gt; Cooper-pair splitters as circuit elements for realizing topological superconductors (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06424&quot;&gt;2408.06424v1&lt;/a&gt;&lt;/strong&gt; Multigap superconductivity with non-trivial topology in a Dirac semimetal PdTe (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06462&quot;&gt;2408.06462v1&lt;/a&gt;&lt;/strong&gt; Josephson tunnel junction arrays and Andreev weak links: linked by a single energy-phase relation (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06514&quot;&gt;2408.06514v1&lt;/a&gt;&lt;/strong&gt; Photo-induced charge, spin, and orbital order in the two-orbital extended Hubbard model (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06572&quot;&gt;2408.06572v1&lt;/a&gt;&lt;/strong&gt; Using k-means to sort spectra: electronic order mapping from scanning tunneling spectroscopy measurements (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06706&quot;&gt;2408.06706v1&lt;/a&gt;&lt;/strong&gt; Trions Stimulate Electronic Coupling in Colloidal Quantum Dot Molecules (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06749&quot;&gt;2408.06749v1&lt;/a&gt;&lt;/strong&gt; Multiscale Excitations in the Diluted Two-dimensional S = 1/2 Heisenberg Antiferromagnet (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06754&quot;&gt;2408.06754v1&lt;/a&gt;&lt;/strong&gt; DMRG Analysis of Magnetic Order in the Zigzag Edges of Hexagonal CrN Nanoribbons (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06774&quot;&gt;2408.06774v1&lt;/a&gt;&lt;/strong&gt; Interplay between electronic and lattice superstructures in La2-xCaxCuO4 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06813&quot;&gt;2408.06813v1&lt;/a&gt;&lt;/strong&gt; Superconductivity in ternary Mg4Pd7As6 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06866&quot;&gt;2408.06866v1&lt;/a&gt;&lt;/strong&gt; Stable magic angle in twisted Kane-Mele materials (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06953&quot;&gt;2408.06953v1&lt;/a&gt;&lt;/strong&gt; Nonequilibrium control of kagome metals (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06976&quot;&gt;2408.06976v1&lt;/a&gt;&lt;/strong&gt; Optical Control of Ultrafast Photocurrent in Graphene (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.07035&quot;&gt;2408.07035v1&lt;/a&gt;&lt;/strong&gt; Impact of evanescent scattering modes and finite dispersion in superconducting junctions (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06386&quot;&gt;2408.06386v1&lt;/a&gt;&lt;/strong&gt; Transport measurements of majorization order for wave coherence (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06590&quot;&gt;2408.06590v1&lt;/a&gt;&lt;/strong&gt; Adaptive variational quantum dynamics simulations with compressed circuits and fewer measurements (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06775&quot;&gt;2408.06775v1&lt;/a&gt;&lt;/strong&gt; Vibrational Squeezing via Spin Inversion Pulses (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06898&quot;&gt;2408.06898v1&lt;/a&gt;&lt;/strong&gt; Topological dynamics of continuum lattice structures (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06936&quot;&gt;2408.06936v1&lt;/a&gt;&lt;/strong&gt; Quantum State Transfer in a Magnetic Atoms Chain Using a Scanning Tunneling Microscope (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.06951&quot;&gt;2408.06951v1&lt;/a&gt;&lt;/strong&gt; Acoustic and Optical Phonon Frequencies and Acoustic Phonon Velocities in Silicon-Doped Aluminum Nitride Thin Films (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2408.07014&quot;&gt;2408.07014v1&lt;/a&gt;&lt;/strong&gt; Exploring the Coexistence of Spin States in [Fe-(tpy-ph)2]^2+ Complexes on Au(111) using DFT (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.070401&quot;&gt;PhysRevLett.133.070401&lt;/a&gt;&lt;/strong&gt; Power-Law Entanglement and Hilbert Space Fragmentation in Nonreciprocal Quantum Circuits (PRL)&lt;/p&gt;
