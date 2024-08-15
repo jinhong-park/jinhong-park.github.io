@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Aug 2024 17:39:06 +0900</pubDate>
-    <lastBuildDate>Wed, 14 Aug 2024 17:39:06 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Thu, 15 Aug 2024 11:48:06 +0900</pubDate>
+    <lastBuildDate>Thu, 15 Aug 2024 11:48:06 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Aug 2 week 2024)</title>
@@ -23,13 +23,40 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02613-x&quot;&gt;s41567-024-02613-x&lt;/a&gt;&lt;/strong&gt; Circuit quantum electrodynamics detection of induced two-fold anisotropic pairing in a hybrid superconductor–ferromagnet bilayer (Nature Physics)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02613-x&quot;&gt;s41567-024-02613-x&lt;/a&gt;&lt;/strong&gt; Circuit quantum electrodynamics detection of induced two-fold anisotropic pairing in a hybrid superconductor-ferromagnet bilayer (Nature Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02611-z&quot;&gt;s41567-024-02611-z&lt;/a&gt;&lt;/strong&gt; Emergence of fluctuating hydrodynamics in chaotic quantum systems (Nature Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-02623-y&quot;&gt;d41586-024-02623-y&lt;/a&gt;&lt;/strong&gt; Quantum hacking looms — but ultra-secure encryption is ready to deploy (Nature)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-02623-y&quot;&gt;d41586-024-02623-y&lt;/a&gt;&lt;/strong&gt; Quantum hacking looms - but ultra-secure encryption is ready to deploy (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01763-x&quot;&gt;s42005-024-01763-x&lt;/a&gt;&lt;/strong&gt; On the sample complexity of quantum Boltzmann machine learning (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01708-4&quot;&gt;s42005-024-01708-4&lt;/a&gt;&lt;/strong&gt; Correlated normal state fermiology and topological superconductivity in UTe&lt;sub&gt;2&lt;/sub&gt; (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01767-7&quot;&gt;s42005-024-01767-7&lt;/a&gt;&lt;/strong&gt; Topological properties of &lt;i&gt;C&lt;/i&gt;&lt;sub&gt;4&lt;i&gt;z&lt;/i&gt;&lt;/sub&gt;&lt;i&gt;T&lt;/i&gt;-symmetric semimetals (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.073802&quot;&gt;PhysRevLett.133.073802&lt;/a&gt;&lt;/strong&gt; Topological Structures of Energy Flow: Poynting Vector Skyrmions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.076502&quot;&gt;PhysRevLett.133.076502&lt;/a&gt;&lt;/strong&gt; Non-Hermitian Mott Skin Effect (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.078201&quot;&gt;PhysRevLett.133.078201&lt;/a&gt;&lt;/strong&gt; Discontinuous Transition in Electrolyte Flow through Charge-Patterned Nanochannels (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033170&quot;&gt;PhysRevResearch.6.033170&lt;/a&gt;&lt;/strong&gt; First-principles investigation of near-field energy transfer between localized quantum emitters in solids (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033171&quot;&gt;PhysRevResearch.6.033171&lt;/a&gt;&lt;/strong&gt; Cooper quartets in interacting hybrid superconducting systems (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033172&quot;&gt;PhysRevResearch.6.033172&lt;/a&gt;&lt;/strong&gt; Geometric and electronic structures of Cs2BB′X6 double perovskites: The importance of exact exchange (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.070402&quot;&gt;PhysRevLett.133.070402&lt;/a&gt;&lt;/strong&gt; Persistent Ballistic Entanglement Spreading with Optimal Control in Quantum Spin Chains (PRL)&lt;/p&gt;
