@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Aug 2024 16:03:56 +0900</pubDate>
-    <lastBuildDate>Tue, 20 Aug 2024 16:03:56 +0900</lastBuildDate>
+    <pubDate>Wed, 21 Aug 2024 10:35:13 +0900</pubDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:35:13 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -24,6 +24,21 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-51367-w&quot;&gt;s41467-024-51367-w&lt;/a&gt;&lt;/strong&gt; Spin-Peierls instability of the U(1) Dirac spin liquid (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02619-5&quot;&gt;s41567-024-02619-5&lt;/a&gt;&lt;/strong&gt; Quantum-enhanced metrology with large Fock states (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-024-70301-0&quot;&gt;s41598-024-70301-0&lt;/a&gt;&lt;/strong&gt; Polarized Raman mapping and phase-transition by CW excitation for fast purely optical characterization of VO&lt;sub&gt;2&lt;/sub&gt; thin films (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.086601&quot;&gt;PhysRevLett.133.086601&lt;/a&gt;&lt;/strong&gt; Gapped Boundaries of Fermionic Topological Orders and Higher Central Charges (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033193&quot;&gt;PhysRevResearch.6.033193&lt;/a&gt;&lt;/strong&gt; Dynamics of spin-momentum entanglement from superradiant phase transitions (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033195&quot;&gt;PhysRevResearch.6.033195&lt;/a&gt;&lt;/strong&gt; Topology of SmB6 revisited by means of topological quantum chemistry (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.080801&quot;&gt;PhysRevLett.133.080801&lt;/a&gt;&lt;/strong&gt; Quantum Sensing with Erasure Qubits (PRL)&lt;/p&gt;
