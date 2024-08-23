@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Aug 2024 10:44:51 +0900</pubDate>
-    <lastBuildDate>Fri, 23 Aug 2024 10:44:51 +0900</lastBuildDate>
+    <pubDate>Fri, 23 Aug 2024 11:27:31 +0900</pubDate>
+    <lastBuildDate>Fri, 23 Aug 2024 11:27:31 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024aug3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adn0137&quot;&gt;science.adn0137&lt;/a&gt;&lt;/strong&gt; Accurate computation of quantum excited states with neural networks (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-51367-w&quot;&gt;s41467-024-51367-w&lt;/a&gt;&lt;/strong&gt; Spin-Peierls instability of the U(1) Dirac spin liquid (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
