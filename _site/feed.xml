@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Sep 2024 10:40:36 +0900</pubDate>
-    <lastBuildDate>Thu, 05 Sep 2024 10:40:36 +0900</lastBuildDate>
+    <pubDate>Thu, 05 Sep 2024 13:55:17 +0900</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2024 13:55:17 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -63,6 +63,108 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033253&quot;&gt;PhysRevResearch.6.033253&lt;/a&gt;&lt;/strong&gt; Physical properties and electronic structure of the two-gap superconductor V2Ga5 (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02121&quot;&gt;2409.02121v1&lt;/a&gt;&lt;/strong&gt; Bounds on Tc in the Eliashberg theory of Superconductivity. III: Einstein phonons (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02177&quot;&gt;2409.02177v1&lt;/a&gt;&lt;/strong&gt; Efficiently preparing chiral states via fermionic cooling on bosonic quantum hardware (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02183&quot;&gt;2409.02183v1&lt;/a&gt;&lt;/strong&gt; Thermodynamic properties of the macroscopically degenerate tetramer-dimer phase of the spin-1/2 Heisenberg model on the diamond-decorated square lattice (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02190&quot;&gt;2409.02190v1&lt;/a&gt;&lt;/strong&gt; Z2 flux binding to higher-spin impurities in the Kitaev spin liquid: mechanisms and implications (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02236&quot;&gt;2409.02236v1&lt;/a&gt;&lt;/strong&gt; First-order transition into a charge-density wave phase (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02250&quot;&gt;2409.02250v1&lt;/a&gt;&lt;/strong&gt; Elastic screening of pseudo gauge fields in graphene (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02301&quot;&gt;2409.02301v1&lt;/a&gt;&lt;/strong&gt; Theory of charge stability diagrams in coupled quantum dot qubits (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02319&quot;&gt;2409.02319v1&lt;/a&gt;&lt;/strong&gt; Topological characterization of modified Kane-Mele-Rashba models via local spin Chern marker (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02373&quot;&gt;2409.02373v1&lt;/a&gt;&lt;/strong&gt; Multifractaility, topology and anomalous Hall conductivity on a 30 degrees twisted bilayer honeycomb lattice (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02380&quot;&gt;2409.02380v1&lt;/a&gt;&lt;/strong&gt; Nodeless superconductivity and topological nodal states in molybdenum carbide (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02412&quot;&gt;2409.02412v1&lt;/a&gt;&lt;/strong&gt; Anomalous Hall effects in magnetic weak topological insulator films (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02583&quot;&gt;2409.02583v1&lt;/a&gt;&lt;/strong&gt; Self-induced Floquet magnons in magnetic vortices (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02590&quot;&gt;2409.02590v1&lt;/a&gt;&lt;/strong&gt; Magnon spin transport in the van der Waals antiferromagnet CrPS4 for non-collinear and collinear magnetization (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02619&quot;&gt;2409.02619v1&lt;/a&gt;&lt;/strong&gt; Single photon detection up to 2 um in pair of parallel microstrips based on NbRe ultrathin films (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02621&quot;&gt;2409.02621v1&lt;/a&gt;&lt;/strong&gt; Gate control of magnon spin transport in unconventional magnon transistors based on the van der Waals antiferromagnet CrPS4 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02794&quot;&gt;2409.02794v1&lt;/a&gt;&lt;/strong&gt; Josephson diode effect in one-dimensional quantum wires connected to superconductors with mixed singlet-triplet pairing (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02799&quot;&gt;2409.02799v1&lt;/a&gt;&lt;/strong&gt; Electronic correlations and spin frustration in the molecular conductors kappa-(BEDT-TTF)2X probed by magnetic quantum oscillations (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02880&quot;&gt;2409.02880v1&lt;/a&gt;&lt;/strong&gt; Frustrated S = 1/2 Chains in One-Dimensional Correlated Metal Ti4MnBi2 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02898&quot;&gt;2409.02898v1&lt;/a&gt;&lt;/strong&gt; Classification of spin-1/2 fermionic quantum spin liquids on the trillium lattice (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02900&quot;&gt;2409.02900v1&lt;/a&gt;&lt;/strong&gt; The single ion of Vanadium in an individual Quantum Dot (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02159&quot;&gt;2409.02159v1&lt;/a&gt;&lt;/strong&gt; Generalized Tube Algebras, Symmetry-Resolved Partition Functions, and Twisted Boundary States (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02162&quot;&gt;2409.02162v1&lt;/a&gt;&lt;/strong&gt; Generalized Symmetry Resolution of Entanglement in CFT for Twisted and Anyonic sectors (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02186&quot;&gt;2409.02186v1&lt;/a&gt;&lt;/strong&gt; State Dependent Spread Complexity Dynamics in Many-Body Localization Transition (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02293&quot;&gt;2409.02293v1&lt;/a&gt;&lt;/strong&gt; Types of Size-Dependent Melting in Fe Nanoclusters: a Molecular Dynamics Study (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02315&quot;&gt;2409.02315v1&lt;/a&gt;&lt;/strong&gt; Revisiting the symmetry-resolved entanglement for non-invertible symmetries in 1+1d conformal field theories (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02325&quot;&gt;2409.02325v1&lt;/a&gt;&lt;/strong&gt; Defect Landscape Engineering to Tune Skyrmion-Antiskyrmion Systems in FeGe (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02407&quot;&gt;2409.02407v1&lt;/a&gt;&lt;/strong&gt; Multiferroicity, Magnetoelectricity, and Piezoelectricity in Two-Dimensional Janus VSBrI Monolayers (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02559&quot;&gt;2409.02559v1&lt;/a&gt;&lt;/strong&gt; Thermal density functional theory approach to quantum thermodynamics (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02577&quot;&gt;2409.02577v1&lt;/a&gt;&lt;/strong&gt; Interlayer coupling rotatable magnetic easy-axis in MnSe2 mono- and bi-layers (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02710&quot;&gt;2409.02710v1&lt;/a&gt;&lt;/strong&gt; Electrical control of topological 3Q state in an intercalated van der Waals antiferromagnet (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02726&quot;&gt;2409.02726v1&lt;/a&gt;&lt;/strong&gt; Molecular spin-probe sensing of H-mediated changes in Co nanomagnets (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02749&quot;&gt;2409.02749v1&lt;/a&gt;&lt;/strong&gt; Doping-Induced Enhancement of Hydrogen Evolution at MoS2 Electrodes (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02774&quot;&gt;2409.02774v1&lt;/a&gt;&lt;/strong&gt; Perspective: Floquet engineering topological states from effective models towards realistic materials (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.02806&quot;&gt;2409.02806v1&lt;/a&gt;&lt;/strong&gt; A Non-Invertible Symmetry-Resolved Affleck-Ludwig-Cardy Formula and Entanglement Entropy from the Boundary Tube Algebra (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.00212&quot;&gt;2409.00212v1&lt;/a&gt;&lt;/strong&gt; Theory of Lee-Naughton-Lebed’s Oscillations in Moderately Strong Electric Fields in Layered Quasi-One-Dimensional Conductors (arXiv)&lt;/p&gt;
