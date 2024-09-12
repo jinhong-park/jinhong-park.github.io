@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Sep 2024 16:24:13 +0900</pubDate>
-    <lastBuildDate>Wed, 11 Sep 2024 16:24:13 +0900</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2024 10:23:09 +0900</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2024 10:23:09 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -24,6 +24,42 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-52066-2&quot;&gt;s41467-024-52066-2&lt;/a&gt;&lt;/strong&gt; Robust poor man’s Majorana zero modes using Yu-Shiba-Rusinov states (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-52270-0&quot;&gt;s41467-024-52270-0&lt;/a&gt;&lt;/strong&gt; Coherent spin dynamics between electron and nucleus within a single atom (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-07883-2&quot;&gt;s41586-024-07883-2&lt;/a&gt;&lt;/strong&gt; Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-07875-2&quot;&gt;s41586-024-07875-2&lt;/a&gt;&lt;/strong&gt; Observing the two-dimensional Bose glass in an optical quasicrystal (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.110202&quot;&gt;PhysRevLett.133.110202&lt;/a&gt;&lt;/strong&gt; Causal Classification of Spatiotemporal Quantum Correlations (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.116303&quot;&gt;PhysRevLett.133.116303&lt;/a&gt;&lt;/strong&gt; Coupled Thermal and Power Transport of Optical Waveguide Arrays: Photonic Wiedemann-Franz Law and Rectification Effect (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.116304&quot;&gt;PhysRevLett.133.116304&lt;/a&gt;&lt;/strong&gt; Compact Topological Edge States in Flux-Dressed Graphenelike Photonic Lattices (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.031045&quot;&gt;PhysRevX.14.031045&lt;/a&gt;&lt;/strong&gt; Dynamical Correlations and Order in Magic-Angle Twisted Bilayer Graphene (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033280&quot;&gt;PhysRevResearch.6.033280&lt;/a&gt;&lt;/strong&gt; Efficient learning of continuous-variable quantum states (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033281&quot;&gt;PhysRevResearch.6.033281&lt;/a&gt;&lt;/strong&gt; From nonreciprocal to charge-4e supercurrent in Ge-based Josephson devices with tunable harmonic content (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033282&quot;&gt;PhysRevResearch.6.033282&lt;/a&gt;&lt;/strong&gt; Optimal control transport of neutral atoms in optical tweezers at finite temperature (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033283&quot;&gt;PhysRevResearch.6.033283&lt;/a&gt;&lt;/strong&gt; Strong coupling electron-photon dynamics: A real-time investigation of energy redistribution in molecular polaritons (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.L032062&quot;&gt;PhysRevResearch.6.L032062&lt;/a&gt;&lt;/strong&gt; Deterministic and multiuser quantum teleportation network of continuous-variable polarization states (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.110201&quot;&gt;PhysRevLett.133.110201&lt;/a&gt;&lt;/strong&gt; Quantum Delocalization on Correlation Landscape: The Key to Exponentially Fast Multipartite Entanglement Generation (PRL)&lt;/p&gt;
