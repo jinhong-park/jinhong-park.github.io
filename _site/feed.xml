@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Sep 2024 22:49:10 +0900</pubDate>
-    <lastBuildDate>Mon, 23 Sep 2024 22:49:10 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Tue, 24 Sep 2024 10:42:09 +0900</pubDate>
+    <lastBuildDate>Tue, 24 Sep 2024 10:42:09 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (Sep 4 week 2024)</title>
@@ -22,6 +22,21 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024sep4weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02637-3&quot;&gt;s41567-024-02637-3&lt;/a&gt;&lt;/strong&gt; Phase transition in magic with random quantum circuits (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.130401&quot;&gt;PhysRevLett.133.130401&lt;/a&gt;&lt;/strong&gt; Symmetry Shapes Thermodynamics of Macroscopic Quantum Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.136001&quot;&gt;PhysRevLett.133.136001&lt;/a&gt;&lt;/strong&gt; Prediction of s±-Wave Superconductivity Enhanced by Electronic Doping in Trilayer Nickelates La4Ni3O10 under Pressure (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.137101&quot;&gt;PhysRevLett.133.137101&lt;/a&gt;&lt;/strong&gt; Eigenstate Localization in a Many-Body Quantum System (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033325&quot;&gt;PhysRevResearch.6.033325&lt;/a&gt;&lt;/strong&gt; Simulating the quantum Fourier transform, Grover’s algorithm, and the quantum counting algorithm with limited entanglement using tensor networks (PRR)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.115432&quot;&gt;PhysRevB.110.115432&lt;/a&gt;&lt;/strong&gt; Identifying Klein tunneling signatures in bearded Su-Schrieffer-Heeger lattices from bent flat bands (PRB)&lt;/p&gt;
   &lt;/li&gt;
