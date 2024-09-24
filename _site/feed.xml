@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Sep 2024 13:04:38 +0900</pubDate>
-    <lastBuildDate>Tue, 24 Sep 2024 13:04:38 +0900</lastBuildDate>
+    <pubDate>Wed, 25 Sep 2024 08:15:12 +0900</pubDate>
+    <lastBuildDate>Wed, 25 Sep 2024 08:15:12 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -24,6 +24,9 @@
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02637-3&quot;&gt;s41567-024-02637-3&lt;/a&gt;&lt;/strong&gt; Phase transition in magic with random quantum circuits (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02629-3&quot;&gt;s41567-024-02629-3&lt;/a&gt;&lt;/strong&gt; Electronic response of a Mott insulator at a current-induced insulator-to-metal transition (Nature Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.130401&quot;&gt;PhysRevLett.133.130401&lt;/a&gt;&lt;/strong&gt; Symmetry Shapes Thermodynamics of Macroscopic Quantum Systems (PRL)&lt;/p&gt;
@@ -63,6 +66,42 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1402-4896/ad7919&quot;&gt;ad7919&lt;/a&gt;&lt;/strong&gt; Stability and evolution of skyrmionium and skyrmions in a spherical shell (Physica Scripta)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.130602&quot;&gt;PhysRevLett.133.130602&lt;/a&gt;&lt;/strong&gt; Variational Quantum Circuit Decoupling (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.133201&quot;&gt;PhysRevLett.133.133201&lt;/a&gt;&lt;/strong&gt; Persistent Ground-State Planar Alignment of Iodine Molecule through Resonant Excitation (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.135101&quot;&gt;PhysRevLett.133.135101&lt;/a&gt;&lt;/strong&gt; Early-Time Harmonic Generation from a Single-Mode Perturbation Driven by X-Ray Ablation (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.136002&quot;&gt;PhysRevLett.133.136002&lt;/a&gt;&lt;/strong&gt; Nematic Superconductivity and Its Critical Vestigial Phases in the Quasicrystal (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.136003&quot;&gt;PhysRevLett.133.136003&lt;/a&gt;&lt;/strong&gt; Anomalous Frequency and Temperature Dependent Scattering in the Dilute Metallic Phase in Lightly Doped SrTiO3 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.136201&quot;&gt;PhysRevLett.133.136201&lt;/a&gt;&lt;/strong&gt; Nonmonotonic Velocity Dependence of Atomic Friction Induced by Multiple Slips (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.136501&quot;&gt;PhysRevLett.133.136501&lt;/a&gt;&lt;/strong&gt; Superconductivity and Mott Physics in Organic Charge Transfer Materials (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.136701&quot;&gt;PhysRevLett.133.136701&lt;/a&gt;&lt;/strong&gt; Bath-Induced Spin Inertia (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.136702&quot;&gt;PhysRevLett.133.136702&lt;/a&gt;&lt;/strong&gt; Exotic Spin Excitations in a Polar Magnet VOSe2O5 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033330&quot;&gt;PhysRevResearch.6.033330&lt;/a&gt;&lt;/strong&gt; Mpemba effects in nonequilibrium open quantum systems (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033331&quot;&gt;PhysRevResearch.6.033331&lt;/a&gt;&lt;/strong&gt; Floquet engineering of binding in doped and photo-doped Mott insulators (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.033332&quot;&gt;PhysRevResearch.6.033332&lt;/a&gt;&lt;/strong&gt; High-fidelity macroscopic superposition states via shortcut to adiabaticity (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.13814&quot;&gt;2409.13814v1&lt;/a&gt;&lt;/strong&gt; Origin and stability of generalized Wigner crystallinity in triangular moire systems (arXiv)&lt;/p&gt;
