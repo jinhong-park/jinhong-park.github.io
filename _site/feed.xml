@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Oct 2024 13:38:38 +0900</pubDate>
-    <lastBuildDate>Fri, 04 Oct 2024 13:38:38 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 05 Oct 2024 11:48:01 +0900</pubDate>
+    <lastBuildDate>Sat, 05 Oct 2024 11:48:01 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Sep 5 week 2024)</title>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024sep5weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3644,quantum : 2743,topological : 2655,magnetic : 2113,effect : 1424,superconductivity : 1396,graphene : 1339,lattice : 1316,dimensional : 1288,model : 1276,phase : 1258,hall : 1240,kagome : 1203,states : 1193,two : 1143,induced : 1126,nature : 1063,physics : 1019,charge : 1014,transition : 984,field : 935,metal : 891,insulator : 849,wave : 837,bilayer : 805,chiral : 784,density : 760,skyrmion : 755,superconductor : 742,state : 737,superconducting : 727,twisted : 722,superconductors : 693,electron : 675,band : 672,weyl : 645,symmetry : 645,theory : 644,electronic : 637,coupling : 628,transport : 612,high : 604,orbital : 587,majorana : 586,insulators : 583,dirac : 577,systems : 562,anomalous : 557,phonon : 555,flat : 534&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 13044&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.146603&quot;&gt;PhysRevLett.133.146603&lt;/a&gt;&lt;/strong&gt; Nature of Topological Phase Transition of Kitaev Quantum Spin Liquids (PRL)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.146603&quot;&gt;PhysRevLett.133.146603&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Nature of Topological Phase Transition of Kitaev Quantum Spin Liquids (PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02655-1&quot;&gt;s41567-024-02655-1&lt;/a&gt;&lt;/strong&gt; Controllable orbital angular momentum monopoles in chiral topological semimetals (Nature Physics)&lt;/p&gt;
   &lt;/li&gt;
@@ -47,10 +66,76 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-024-74160-7&quot;&gt;s41598-024-74160-7&lt;/a&gt;&lt;/strong&gt; Device response principles and the impact on energy resolution of epitaxial quantum dot scintillators with monolithic photodetector integration (Scientific Reports)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.146602&quot;&gt;PhysRevLett.133.146602&lt;/a&gt;&lt;/strong&gt; Quasi-One-Dimensional Spin Transport in Altermagnetic Z3 Nodal Net Metals (PRL)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01800-9&quot;&gt;s42005-024-01800-9&lt;/a&gt;&lt;/strong&gt; Topological protection revealed by real-time longitudinal and transverse transport measurements (Communications Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.146603&quot;&gt;PhysRevLett.133.146603&lt;/a&gt;&lt;/strong&gt; Nature of Topological Phase Transition of Kitaev Quantum Spin Liquids (PRL)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01809-0&quot;&gt;s42005-024-01809-0&lt;/a&gt;&lt;/strong&gt; Kitaev honeycomb antiferromagnet in a field: quantum phase diagram for general spin (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.140404&quot;&gt;PhysRevLett.133.140404&lt;/a&gt;&lt;/strong&gt; Thermodynamics of the Quantum Mpemba Effect (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.140405&quot;&gt;PhysRevLett.133.140405&lt;/a&gt;&lt;/strong&gt; Symmetry Restoration and Quantum Mpemba Effect in Symmetric Random Circuits (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.142501&quot;&gt;PhysRevLett.133.142501&lt;/a&gt;&lt;/strong&gt; Distilling the Essential Elements of Nuclear Binding via Neural-Network Quantum States (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.143404&quot;&gt;PhysRevLett.133.143404&lt;/a&gt;&lt;/strong&gt; Three-Dimensional Magneto-Optical Trapping of Barium Monofluoride (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.143405&quot;&gt;PhysRevLett.133.143405&lt;/a&gt;&lt;/strong&gt; Pseudogap Effects in the Strongly Correlated Regime of the Two-Dimensional Fermi Gas (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.146002&quot;&gt;PhysRevLett.133.146002&lt;/a&gt;&lt;/strong&gt; Unconventional Crystal Structure of the High-Pressure Superconductor La3Ni2O7 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.146605&quot;&gt;PhysRevLett.133.146605&lt;/a&gt;&lt;/strong&gt; Ferroelectric Semimetals with α−BiSnSe van der Waals Heterostructures and Their Topological Currents (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041003&quot;&gt;PhysRevX.14.041003&lt;/a&gt;&lt;/strong&gt; Decomposing Thermodynamic Dissipation of Linear Langevin Systems via Oscillatory Modes and Its Application to Neural Dynamics (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041004&quot;&gt;PhysRevX.14.041004&lt;/a&gt;&lt;/strong&gt; “Quantum Geometric Nesting” and Solvable Model Flat-Band Systems (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043010&quot;&gt;PhysRevResearch.6.043010&lt;/a&gt;&lt;/strong&gt; Ultracold charged atom-dimer collisions: State-selective charge exchange and three-body recombination (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043011&quot;&gt;PhysRevResearch.6.043011&lt;/a&gt;&lt;/strong&gt; Magnetic interactions in the cooperative paramagnet Tb2Ti2O7 (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043012&quot;&gt;PhysRevResearch.6.043012&lt;/a&gt;&lt;/strong&gt; Energy landscape and flow dynamics measurements of driven-dissipative systems (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043013&quot;&gt;PhysRevResearch.6.043013&lt;/a&gt;&lt;/strong&gt; Optical induction of monopoles, knots, and skyrmions in quantum gases (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043014&quot;&gt;PhysRevResearch.6.043014&lt;/a&gt;&lt;/strong&gt; Randomized SearchRank: A semiclassical approach to a quantum search engine (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043015&quot;&gt;PhysRevResearch.6.043015&lt;/a&gt;&lt;/strong&gt; Interplay between short and long time scales in adapting, periodically driven elastic flow networks (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043016&quot;&gt;PhysRevResearch.6.043016&lt;/a&gt;&lt;/strong&gt; Nonequilibrium dynamics and atom-pair coherence in strongly interacting Bose-Fermi mixtures (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043017&quot;&gt;PhysRevResearch.6.043017&lt;/a&gt;&lt;/strong&gt; J-coupling NMR spectroscopy with nitrogen vacancy centers at high fields (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043018&quot;&gt;PhysRevResearch.6.043018&lt;/a&gt;&lt;/strong&gt; Anomaly inflow, dualities, and quantum simulation of Abelian lattice gauge theories induced by measurements (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043019&quot;&gt;PhysRevResearch.6.043019&lt;/a&gt;&lt;/strong&gt; Controlling 4f antiferromagnetic dynamics via itinerant electronic susceptibility (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043020&quot;&gt;PhysRevResearch.6.043020&lt;/a&gt;&lt;/strong&gt; Leveraging analog quantum computing with neutral atoms for solvent configuration prediction in drug discovery (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042004&quot;&gt;PhysRevResearch.6.L042004&lt;/a&gt;&lt;/strong&gt; Universal clusters in quasi-two-dimensional ultracold Fermi mixtures (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.146602&quot;&gt;PhysRevLett.133.146602&lt;/a&gt;&lt;/strong&gt; Quasi-One-Dimensional Spin Transport in Altermagnetic Z3 Nodal Net Metals (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.147101&quot;&gt;PhysRevLett.133.147101&lt;/a&gt;&lt;/strong&gt; Soluble Model of a Nonequilibrium Steady State: The Van Kampen Objection and Other Lessons (PRL)&lt;/p&gt;
