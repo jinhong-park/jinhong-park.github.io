@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Oct 2024 13:12:17 +0900</pubDate>
-    <lastBuildDate>Wed, 16 Oct 2024 13:12:17 +0900</lastBuildDate>
+    <pubDate>Thu, 17 Oct 2024 10:25:46 +0900</pubDate>
+    <lastBuildDate>Thu, 17 Oct 2024 10:25:46 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024oct2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08045-0&quot;&gt;s41586-024-08045-0&lt;/a&gt;&lt;/strong&gt; Electronic rotons and Wigner crystallites in a two-dimensional dipole liquid (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-52272-y&quot;&gt;s41467-024-52272-y&lt;/a&gt;&lt;/strong&gt; Imaging magnetic transition of magnetite to megabar pressures using quantum sensors in diamond anvil cell (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
@@ -45,6 +48,33 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01832-1&quot;&gt;s42005-024-01832-1&lt;/a&gt;&lt;/strong&gt; Physics informed data-driven near-wall modelling for lattice Boltzmann simulation of high Reynolds number turbulent flows (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.160601&quot;&gt;PhysRevLett.133.160601&lt;/a&gt;&lt;/strong&gt; Counterintuitive Yet Efficient Regimes for Measurement-Based Quantum Computation on Symmetry-Protected Spin Chains (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.163202&quot;&gt;PhysRevLett.133.163202&lt;/a&gt;&lt;/strong&gt; Hanle Effect for Lifetime Determinations in the Soft X-Ray Regime (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166301&quot;&gt;PhysRevLett.133.166301&lt;/a&gt;&lt;/strong&gt; Nonmonotonic Hall Effect of Weyl Semimetals under a Magnetic Field (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166501&quot;&gt;PhysRevLett.133.166501&lt;/a&gt;&lt;/strong&gt; Fermi and Luttinger Arcs: Two Concepts, Realized on One Surface (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166502&quot;&gt;PhysRevLett.133.166502&lt;/a&gt;&lt;/strong&gt; Localizing Transitions via Interaction-Induced Flat Bands (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166702&quot;&gt;PhysRevLett.133.166702&lt;/a&gt;&lt;/strong&gt; Entanglement Entropy and Deconfined Criticality: Emergent SO(5) Symmetry and Proper Lattice Bipartition (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.167101&quot;&gt;PhysRevLett.133.167101&lt;/a&gt;&lt;/strong&gt; Generalized Lotka-Volterra Systems with Time Correlated Stochastic Interactions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043039&quot;&gt;PhysRevResearch.6.043039&lt;/a&gt;&lt;/strong&gt; Harmonic flow-field representations of quantum bits and gates (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043042&quot;&gt;PhysRevResearch.6.043042&lt;/a&gt;&lt;/strong&gt; Engineering impurity Bell states through coupling with a quantum bath (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.163401&quot;&gt;PhysRevLett.133.163401&lt;/a&gt;&lt;/strong&gt; Three-Dimensional Moire Crystal in Ultracold Atomic Gases (PRL)&lt;/p&gt;
