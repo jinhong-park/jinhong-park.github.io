@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Oct 2024 14:21:42 +0900</pubDate>
-    <lastBuildDate>Thu, 17 Oct 2024 14:21:42 +0900</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2024 10:35:57 +0900</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2024 10:35:57 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,12 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024oct2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adg9774&quot;&gt;science.adg9774&lt;/a&gt;&lt;/strong&gt; Variational benchmarks for quantum many-body problems (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adp2444&quot;&gt;science.adp2444&lt;/a&gt;&lt;/strong&gt; The development and impact of tin selenide on thermoelectrics (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08045-0&quot;&gt;s41586-024-08045-0&lt;/a&gt;&lt;/strong&gt; Electronic rotons and Wigner crystallites in a two-dimensional dipole liquid (Nature)&lt;/p&gt;
   &lt;/li&gt;
@@ -48,6 +54,42 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01832-1&quot;&gt;s42005-024-01832-1&lt;/a&gt;&lt;/strong&gt; Physics informed data-driven near-wall modelling for lattice Boltzmann simulation of high Reynolds number turbulent flows (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.160602&quot;&gt;PhysRevLett.133.160602&lt;/a&gt;&lt;/strong&gt; Observation of Discrete Charge States of a Coherent Two-Level System in a Superconducting Qubit (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.160801&quot;&gt;PhysRevLett.133.160801&lt;/a&gt;&lt;/strong&gt; Experimental Sample-Efficient Quantum State Tomography via Parallel Measurements (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166503&quot;&gt;PhysRevLett.133.166503&lt;/a&gt;&lt;/strong&gt; Non-Abelian Fractionalization in Topological Minibands (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166601&quot;&gt;PhysRevLett.133.166601&lt;/a&gt;&lt;/strong&gt; Reconstruction of Surface Electron Spectrum and Cyclotron Motion in the Charge Density Wave Phase of Weyl Semimetals (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166704&quot;&gt;PhysRevLett.133.166704&lt;/a&gt;&lt;/strong&gt; Quantum Sensing of Spin Dynamics Using Boron-Vacancy Centers in Hexagonal Boron Nitride (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166705&quot;&gt;PhysRevLett.133.166705&lt;/a&gt;&lt;/strong&gt; Electrical Excitation and Detection of Chiral Magnons in a Compensated Ferrimagnetic Insulator (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.166706&quot;&gt;PhysRevLett.133.166706&lt;/a&gt;&lt;/strong&gt; Visualization of Skyrmion-Superconducting Vortex Pairs in a Chiral-Magnet-Superconductor Heterostructure (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.169601&quot;&gt;PhysRevLett.133.169601&lt;/a&gt;&lt;/strong&gt; Comment on “Octahedral Distortion and Displacement-Type Ferroelectricity with Switchable Photovoltaic Effect in a 3d^3-Electron Perovskite System” (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.s129&quot;&gt;Physics.17.s129&lt;/a&gt;&lt;/strong&gt; Quantum Computing with a Twist (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043044&quot;&gt;PhysRevResearch.6.043044&lt;/a&gt;&lt;/strong&gt; Unsupervised learning of effective quantum impurity models (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043045&quot;&gt;PhysRevResearch.6.043045&lt;/a&gt;&lt;/strong&gt; Method to discriminate between localized and chaotic quantum systems (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043046&quot;&gt;PhysRevResearch.6.043046&lt;/a&gt;&lt;/strong&gt; Modeling magnetically levitated superconducting ellipsoids, cylinders, and cuboids for quantum magnetomechanics (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.160601&quot;&gt;PhysRevLett.133.160601&lt;/a&gt;&lt;/strong&gt; Counterintuitive Yet Efficient Regimes for Measurement-Based Quantum Computation on Symmetry-Protected Spin Chains (PRL)&lt;/p&gt;
