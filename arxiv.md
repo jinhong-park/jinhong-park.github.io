@@ -33,13 +33,13 @@ permalink: /arxiv/
        <th><a href="../arxiv/nematic">Nematic</a></th>
        <th><a href="../arxiv/nickelate">Nickelate</a></th>
        <th><a href="../arxiv/skyrmion">Skyrmion</a></th>
-        <th><a href="../arxiv/spin">Spin</a></th>
-       <th><a href="../arxiv/theory">Theory</a></th>
+        <th><a href="../arxiv/shiftcurrent">Shift current</a></th>
+       <th></th>
     </tr>
     <tr>
+       <th><a href="../arxiv/spin">Spin</a></th>
+       <th><a href="../arxiv/theory">Theory</a></th>
        <th><a href="../arxiv/wave">Wave</a></th>
-       <th></th>
-       <th></th>
        <th></th>
        <th></th>
     </tr>
