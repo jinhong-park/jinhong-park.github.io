@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Oct 2024 14:09:55 +0900</pubDate>
-    <lastBuildDate>Mon, 28 Oct 2024 14:09:55 +0900</lastBuildDate>
+    <pubDate>Tue, 29 Oct 2024 10:13:59 +0900</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2024 10:13:59 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,75 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024oct4weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-53661-z&quot;&gt;s41467-024-53661-z&lt;/a&gt;&lt;/strong&gt; Giant enhancement and quick stabilization of capacitance in antiferroelectrics by phase transition engineering (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02677-9&quot;&gt;s41567-024-02677-9&lt;/a&gt;&lt;/strong&gt; Fast quantum gas formation via electromagnetically induced transparency cooling (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01825-0&quot;&gt;s42005-024-01825-0&lt;/a&gt;&lt;/strong&gt; Long-range phase coherence and tunable second order &lt;i&gt;φ&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt;-Josephson effect in a Dirac semimetal 1T-PtTe&lt;sub&gt;2&lt;/sub&gt; (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01842-z&quot;&gt;s42005-024-01842-z&lt;/a&gt;&lt;/strong&gt; Kekulé-modulated topological bulk cavity for intrinsic lateral beam shifting of high-purity linear-polarized light emission (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03111-z&quot;&gt;d41586-024-03111-z&lt;/a&gt;&lt;/strong&gt; My career path from chemist to spin-off co-founder to chief technology officer (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03473-4&quot;&gt;d41586-024-03473-4&lt;/a&gt;&lt;/strong&gt; Why quantum theory is just like magic (and Einstein deserves more credit in this field than he gets) (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.180401&quot;&gt;PhysRevLett.133.180401&lt;/a&gt;&lt;/strong&gt; Experimental Investigation of Coherent Ergotropy in a Single Spin System (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.182501&quot;&gt;PhysRevLett.133.182501&lt;/a&gt;&lt;/strong&gt; Extraction of Spectra in the Shell Model Monte Carlo Method Using Imaginary-Time Correlation Matrices (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.183801&quot;&gt;PhysRevLett.133.183801&lt;/a&gt;&lt;/strong&gt; Observation of Two-Dimensional Dam Break Flow and a Gaseous Phase of Solitons in a Photon Fluid (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.185301&quot;&gt;PhysRevLett.133.185301&lt;/a&gt;&lt;/strong&gt; Evidence of Different Charging Behavior of Conductive and Dielectric Materials in Low-Temperature Plasmas and a New Diagnostic for Low-Energy Electron Absorption (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.186301&quot;&gt;PhysRevLett.133.186301&lt;/a&gt;&lt;/strong&gt; Coulomb Drag in Graphene/h−BN/Graphene Moiré Heterostructures (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.186601&quot;&gt;PhysRevLett.133.186601&lt;/a&gt;&lt;/strong&gt; Quantized Integrated Shift Effect in Multigap Topological Phases (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.186602&quot;&gt;PhysRevLett.133.186602&lt;/a&gt;&lt;/strong&gt; Fractional Chern Insulators in Twisted Bilayer MoTe2: A Composite Fermion Perspective (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.186701&quot;&gt;PhysRevLett.133.186701&lt;/a&gt;&lt;/strong&gt; Spin Spiral State at a Ferromagnetic Gd Vacuum Interface (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.186702&quot;&gt;PhysRevLett.133.186702&lt;/a&gt;&lt;/strong&gt; Strong Enhancement of Magnetic Coercivity Induced by Uniaxial Stress (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.186801&quot;&gt;PhysRevLett.133.186801&lt;/a&gt;&lt;/strong&gt; Two-dimensional Topological Ferroelectric Metal with Giant Shift Current (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.188301&quot;&gt;PhysRevLett.133.188301&lt;/a&gt;&lt;/strong&gt; Motility-Induced Pinning in Flocking System with Discrete Symmetry (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.154&quot;&gt;Physics.17.154&lt;/a&gt;&lt;/strong&gt; Quantum Coherence Boosts Quantum Work (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043071&quot;&gt;PhysRevResearch.6.043071&lt;/a&gt;&lt;/strong&gt; Cooperative Nernst effect of multilayer systems: Parallel circuit model study (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043072&quot;&gt;PhysRevResearch.6.043072&lt;/a&gt;&lt;/strong&gt; Multicolor wavefront sensing using Talbot effect for high-order harmonic generation (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043073&quot;&gt;PhysRevResearch.6.043073&lt;/a&gt;&lt;/strong&gt; Time-resolved counterpropagating edge transport in the topological insulating phase (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043074&quot;&gt;PhysRevResearch.6.043074&lt;/a&gt;&lt;/strong&gt; Stable-to-unstable transition in quantum friction (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.L042601&quot;&gt;PhysRevE.110.L042601&lt;/a&gt;&lt;/strong&gt; Skyrmion flow in periodically modulated channels (PRE)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s44287-024-00118-6&quot;&gt;s44287-024-00118-6&lt;/a&gt;&lt;/strong&gt; 
 Three-dimensional characterization of skyrmions (Nature Reviews Electrical Engineering)&lt;/p&gt;
