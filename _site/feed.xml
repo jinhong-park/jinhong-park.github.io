@@ -6,13 +6,18 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Nov 2024 23:21:35 +0900</pubDate>
-    <lastBuildDate>Fri, 01 Nov 2024 23:21:35 +0900</lastBuildDate>
+    <pubDate>Fri, 01 Nov 2024 23:24:49 +0900</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2024 23:24:49 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Oct 4 week 2024)</title>
-        <description>&lt;p&gt;% include image.html url=”/images/2024oct4weeks.png” caption=”A WordCloud of 2024 Oct 4th week collection” width=300 align=”center” %&lt;/p&gt;
+        <description>&lt;dl class=&quot;wp-caption aligncenter&quot; style=&quot;max-width: 300px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/2024oct4weeks.png&quot; alt=&quot;A WordCloud of 2024 Oct 4th week collection&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;A WordCloud of 2024 Oct 4th week collection&lt;/dd&gt;
+&lt;/dl&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2024oct4weeks-pick.png&quot; /&gt;&lt;/p&gt;
 

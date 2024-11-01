@@ -5,8 +5,9 @@ date:   2024-10-28 00:16:27
 categories: 2024oct
 ---
 
+{% include image.html url="/images/2024oct4weeks.png" caption="A WordCloud of 2024 Oct 4th week collection" width=300 align="center" %}
 
-% include image.html url="/images/2024oct4weeks.png" caption="A WordCloud of 2024 Oct 4th week collection" width=300 align="center" %
+
 
 <img src="/images/2024oct4weeks-pick.png">
 
