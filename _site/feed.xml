@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Nov 2024 23:24:49 +0900</pubDate>
-    <lastBuildDate>Fri, 01 Nov 2024 23:24:49 +0900</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2024 17:11:44 +0900</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2024 17:11:44 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024oct4weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3771,quantum : 2964,topological : 2772,magnetic : 2194,effect : 1502,superconductivity : 1429,graphene : 1385,dimensional : 1345,lattice : 1344,model : 1318,phase : 1311,hall : 1293,states : 1248,kagome : 1226,two : 1192,induced : 1166,nature : 1151,physics : 1072,charge : 1053,transition : 1024,field : 982,metal : 930,insulator : 871,wave : 867,bilayer : 830,chiral : 807,density : 791,superconductor : 773,skyrmion : 772,state : 772,superconducting : 764,twisted : 742,superconductors : 715,electron : 713,band : 703,symmetry : 684,theory : 676,electronic : 672,weyl : 657,coupling : 657,high : 644,transport : 637,orbital : 613,systems : 611,majorana : 606,insulators : 604,dirac : 592,phonon : 575,anomalous : 574,flat : 560&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 10794&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2410.19287&quot;&gt;2410.19287v1&lt;/a&gt;&lt;/strong&gt; A mathematical theory of topological invariants of quantum spin systems (arXiv)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2410.19287&quot;&gt;2410.19287v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;A mathematical theory of topological invariants of quantum spin systems (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-53661-z&quot;&gt;s41467-024-53661-z&lt;/a&gt;&lt;/strong&gt; Giant enhancement and quick stabilization of capacitance in antiferroelectrics by phase transition engineering (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
@@ -72,6 +91,30 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-02045-1&quot;&gt;s41563-024-02045-1&lt;/a&gt;&lt;/strong&gt; Author Correction: Pentagonal two-dimensional lattices (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-53907-w&quot;&gt;s41467-024-53907-w&lt;/a&gt;&lt;/strong&gt; Single-crystalline High-κ GdOCl dielectric for two-dimensional field-effect transistors (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-53445-5&quot;&gt;s41467-024-53445-5&lt;/a&gt;&lt;/strong&gt; Long-distance decay-less spin transport in indirect excitons in a van der Waals heterostructure (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02674-y&quot;&gt;s41567-024-02674-y&lt;/a&gt;&lt;/strong&gt; No heat flow in charge-neutral graphene (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.186704&quot;&gt;PhysRevLett.133.186704&lt;/a&gt;&lt;/strong&gt; Continuum Excitations in a Spin Supersolid on a Triangular Lattice (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041028&quot;&gt;PhysRevX.14.041028&lt;/a&gt;&lt;/strong&gt; Scalable Multispecies Ion Transport in a Grid-Based Surface-Electrode Trap (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.159&quot;&gt;Physics.17.159&lt;/a&gt;&lt;/strong&gt; How to Move Multiple Ions in Two Dimensions (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043080&quot;&gt;PhysRevResearch.6.043080&lt;/a&gt;&lt;/strong&gt; Unifying finite-temperature dynamical and excited-state quantum phase transitions (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043082&quot;&gt;PhysRevResearch.6.043082&lt;/a&gt;&lt;/strong&gt; Prediction of chaotic dynamics and extreme events: A recurrence-free quantum reservoir computing approach (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.186701&quot;&gt;PhysRevLett.133.186701&lt;/a&gt;&lt;/strong&gt; Spin Spiral State at a Ferromagnetic Gd Vacuum Interface (PRL)&lt;/p&gt;
@@ -844,9 +887,6 @@ percolation in a landscape of topological domain walls (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2410.19227&quot;&gt;2410.19227v1&lt;/a&gt;&lt;/strong&gt; Bound States in the Continuum in a 2D Metal (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2410.19287&quot;&gt;2410.19287v1&lt;/a&gt;&lt;/strong&gt; A mathematical theory of topological invariants of quantum spin systems (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2410.19369&quot;&gt;2410.19369v1&lt;/a&gt;&lt;/strong&gt; Tunable topological edge states in black phosphorus-like Bi(110) (arXiv)&lt;/p&gt;
