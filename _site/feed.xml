@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Nov 2024 14:09:47 +0900</pubDate>
-    <lastBuildDate>Tue, 05 Nov 2024 14:09:47 +0900</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2024 09:50:27 +0900</pubDate>
+    <lastBuildDate>Wed, 06 Nov 2024 09:50:27 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,33 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024nov1weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.190401&quot;&gt;PhysRevLett.133.190401&lt;/a&gt;&lt;/strong&gt; Dual-Isometric Projected Entangled Pair States (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.193201&quot;&gt;PhysRevLett.133.193201&lt;/a&gt;&lt;/strong&gt; Weak-Field Coherent Control of Ultrafast Molecule Making (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041032&quot;&gt;PhysRevX.14.041032&lt;/a&gt;&lt;/strong&gt; Optical Time-Domain Quantum State Tomography on a Subcycle Scale (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.160&quot;&gt;Physics.17.160&lt;/a&gt;&lt;/strong&gt; Putting the Twist into Quantum Imaging (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043100&quot;&gt;PhysRevResearch.6.043100&lt;/a&gt;&lt;/strong&gt; Extracting doubly excited state lifetimes in helium directly in the time domain with attosecond noncollinear four-wave-mixing spectroscopy (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043103&quot;&gt;PhysRevResearch.6.043103&lt;/a&gt;&lt;/strong&gt; Damping of spin waves (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043104&quot;&gt;PhysRevResearch.6.043104&lt;/a&gt;&lt;/strong&gt; Closing in on possible scenarios for infinite-layer nickelates: Comparison of dynamical mean-field theory with angular-resolved photoemission spectroscopy (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.049002&quot;&gt;PhysRevResearch.6.049002&lt;/a&gt;&lt;/strong&gt; Erratum: Pseudofermion method for the exact description of fermionic environments: From single-molecule electronics to the Kondo resonance [Phys. Rev. Research &lt;b&gt;5&lt;/b&gt;, 033011 (2023)] (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042038&quot;&gt;PhysRevResearch.6.L042038&lt;/a&gt;&lt;/strong&gt; Mapping the topology-localization phase diagram with quasiperiodic disorder using a programmable superconducting simulator (PRR)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.191801&quot;&gt;PhysRevLett.133.191801&lt;/a&gt;&lt;/strong&gt; New Constraints on Axion-Mediated Spin Interactions Using Magnetic Amplification (PRL)&lt;/p&gt;
   &lt;/li&gt;
@@ -72,6 +99,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042036&quot;&gt;PhysRevResearch.6.L042036&lt;/a&gt;&lt;/strong&gt; Singlet, triplet, and mixed all-to-all pairing states emerging from incoherent fermions (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.00396&quot;&gt;2411.00396&lt;/a&gt;&lt;/strong&gt; Three-dimensional Topological Superstructure of Magnetic Hopfions Threaded by Meron Strings in Easy-plane Magnets (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.00854&quot;&gt;2411.00854v1&lt;/a&gt;&lt;/strong&gt; Exotic Quantum Phenomena in Twisted Bilayer Graphene (arXiv)&lt;/p&gt;
