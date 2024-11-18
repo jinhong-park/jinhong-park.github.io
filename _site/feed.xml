@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Nov 2024 14:09:14 +0900</pubDate>
-    <lastBuildDate>Mon, 18 Nov 2024 14:09:14 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Mon, 18 Nov 2024 20:12:05 +0900</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2024 20:12:05 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Nov 3 week 2024)</title>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024nov3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.206701&quot;&gt;PhysRevLett.133.206701&lt;/a&gt;&lt;/strong&gt; Voltage-Controlled Bimeron-Torques Switching of In-Plane Magnetization (PRL)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-54330-x&quot;&gt;s41467-024-54330-x&lt;/a&gt;&lt;/strong&gt; Dispersion kinks from electronic correlations in an unconventional iron-based superconductor (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
