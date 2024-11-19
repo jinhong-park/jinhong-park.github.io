@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Nov 2024 20:12:05 +0900</pubDate>
-    <lastBuildDate>Mon, 18 Nov 2024 20:12:05 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Tue, 19 Nov 2024 10:14:10 +0900</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2024 10:14:10 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (Nov 3 week 2024)</title>
@@ -22,6 +22,54 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024nov3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02676-w&quot;&gt;s41567-024-02676-w&lt;/a&gt;&lt;/strong&gt; Super- and subradiant dynamics of quantum emitters mediated by atomic matter waves (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.210601&quot;&gt;PhysRevLett.133.210601&lt;/a&gt;&lt;/strong&gt; Approximate Quantum Error Correcting Codes from Conformal Field Theory (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.211801&quot;&gt;PhysRevLett.133.211801&lt;/a&gt;&lt;/strong&gt; Radiative Corrections to Superallowed β Decays in Effective Field Theory (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.212501&quot;&gt;PhysRevLett.133.212501&lt;/a&gt;&lt;/strong&gt; Quantum Monte Carlo Calculations of Magnetic Form Factors in Light Nuclei (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216701&quot;&gt;PhysRevLett.133.216701&lt;/a&gt;&lt;/strong&gt; Nonrelativistic Spin Splitting at the Brillouin Zone Center in Compensated Magnets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041047&quot;&gt;PhysRevX.14.041047&lt;/a&gt;&lt;/strong&gt; Furutsu-Novikov-like Cross-Correlation-Response Relations for Systems Driven by Shot Noise (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043151&quot;&gt;PhysRevResearch.6.043151&lt;/a&gt;&lt;/strong&gt; Skewed-Gaussian model of small-photon-number coherent Ising machines (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043152&quot;&gt;PhysRevResearch.6.043152&lt;/a&gt;&lt;/strong&gt; Dynamics of convolutional recurrent neural networks near their critical point (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043153&quot;&gt;PhysRevResearch.6.043153&lt;/a&gt;&lt;/strong&gt; Decoupling of external and internal dynamics in driven two-level systems (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043154&quot;&gt;PhysRevResearch.6.043154&lt;/a&gt;&lt;/strong&gt; First-principles study and mesoscopic modeling of two-dimensional spin and orbital fluctuations in FeSe (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043155&quot;&gt;PhysRevResearch.6.043155&lt;/a&gt;&lt;/strong&gt; Strong error bounds for Trotter and strang-splittings and their implications for quantum chemistry (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043157&quot;&gt;PhysRevResearch.6.043157&lt;/a&gt;&lt;/strong&gt; Nonrelativistic ferromagnetotriakontadipolar order and spin splitting in hematite (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043158&quot;&gt;PhysRevResearch.6.043158&lt;/a&gt;&lt;/strong&gt; Interlayer and interfacial Dzyaloshinskii-Moriya interaction in magnetic trilayers: First-principles calculations (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043159&quot;&gt;PhysRevResearch.6.043159&lt;/a&gt;&lt;/strong&gt; Embedded multi-boson exchange: A step beyond quantum cluster theories (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043160&quot;&gt;PhysRevResearch.6.043160&lt;/a&gt;&lt;/strong&gt; Effect of the uncertainty of autocorrelation estimation on trend analysis (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043162&quot;&gt;PhysRevResearch.6.043162&lt;/a&gt;&lt;/strong&gt; Magnetic skyrmions: From lumps to supercompactons (PRR)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.206701&quot;&gt;PhysRevLett.133.206701&lt;/a&gt;&lt;/strong&gt; Voltage-Controlled Bimeron-Torques Switching of In-Plane Magnetization (PRL)&lt;/p&gt;
   &lt;/li&gt;
