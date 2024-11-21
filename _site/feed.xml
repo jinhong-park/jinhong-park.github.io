@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Nov 2024 14:46:53 +0900</pubDate>
-    <lastBuildDate>Wed, 20 Nov 2024 14:46:53 +0900</lastBuildDate>
+    <pubDate>Thu, 21 Nov 2024 10:12:31 +0900</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2024 10:12:31 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -30,6 +30,60 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01843-y&quot;&gt;s42005-024-01843-y&lt;/a&gt;&lt;/strong&gt; Quantum switch instabilities with an open control (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08148-8&quot;&gt;s41586-024-08148-8&lt;/a&gt;&lt;/strong&gt; Learning high-accuracy error decoding for quantum processors (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08153-x&quot;&gt;s41586-024-08153-x&lt;/a&gt;&lt;/strong&gt; Direct magnetic imaging of fractional Chern insulators in twisted MoTe&lt;sub&gt;2&lt;/sub&gt; (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08092-7&quot;&gt;s41586-024-08092-7&lt;/a&gt;&lt;/strong&gt; Local probe of bulk and edge states in a fractional Chern insulator (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08178-2&quot;&gt;s41586-024-08178-2&lt;/a&gt;&lt;/strong&gt; Combining quantum processors with real-time classical communication (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03557-1&quot;&gt;d41586-024-03557-1&lt;/a&gt;&lt;/strong&gt; Quantum computing: physics-AI collaboration quashes quantum errors (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.210803&quot;&gt;PhysRevLett.133.210803&lt;/a&gt;&lt;/strong&gt; Experimental Measurement-Device-Independent Quantum Conference Key Agreement (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.211003&quot;&gt;PhysRevLett.133.211003&lt;/a&gt;&lt;/strong&gt; Finite Bubble Statistics Constrain Late Cosmological Phase Transitions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.211004&quot;&gt;PhysRevLett.133.211004&lt;/a&gt;&lt;/strong&gt; Testing General Relativity through the E_G Statistic Using the Weyl Potential and Galaxy Velocities (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.213401&quot;&gt;PhysRevLett.133.213401&lt;/a&gt;&lt;/strong&gt; Constraint on an Exotic Parity-Odd Spin- and Velocity-Dependent Interaction with Atom Interferometer (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216101&quot;&gt;PhysRevLett.133.216101&lt;/a&gt;&lt;/strong&gt; Boson-Peak-Like Anomaly Induced by Dipole Disordered States in (CH3NH3)4InCl7 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216402&quot;&gt;PhysRevLett.133.216402&lt;/a&gt;&lt;/strong&gt; Interacting-Bath Dynamical Embedding for Capturing Nonlocal Electron Correlation in Solids (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216901&quot;&gt;PhysRevLett.133.216901&lt;/a&gt;&lt;/strong&gt; Chiral Dichroism in Resonant Metasurfaces with Monoclinic Lattices (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.218401&quot;&gt;PhysRevLett.133.218401&lt;/a&gt;&lt;/strong&gt; Photon-Scanning Approach to Control Spiral Wave Dynamics in the Heart (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043174&quot;&gt;PhysRevResearch.6.043174&lt;/a&gt;&lt;/strong&gt; Recovering detailed shape of phase response curves from the higher harmonics of singularity response (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043175&quot;&gt;PhysRevResearch.6.043175&lt;/a&gt;&lt;/strong&gt; Differentiable master equation solver for quantum device characterization (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043176&quot;&gt;PhysRevResearch.6.043176&lt;/a&gt;&lt;/strong&gt; Subcycle resolved strong field ionization of chiral molecules and the origin of chiral photoelectron asymmetries (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043179&quot;&gt;PhysRevResearch.6.043179&lt;/a&gt;&lt;/strong&gt; Element-wise and recursive solutions for the power spectral density of biological stochastic dynamical systems at fixed points (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043180&quot;&gt;PhysRevResearch.6.043180&lt;/a&gt;&lt;/strong&gt; Semimetallization induced Hall anomaly in doped polymers (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.210801&quot;&gt;PhysRevLett.133.210801&lt;/a&gt;&lt;/strong&gt; Achieving the Multiparameter Quantum Cramér-Rao Bound with Antiunitary Symmetry (PRL)&lt;/p&gt;
