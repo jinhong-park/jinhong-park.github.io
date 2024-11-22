@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Nov 2024 14:06:42 +0900</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2024 14:06:42 +0900</lastBuildDate>
+    <pubDate>Fri, 22 Nov 2024 10:28:20 +0900</pubDate>
+    <lastBuildDate>Fri, 22 Nov 2024 10:28:20 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -45,6 +45,45 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03557-1&quot;&gt;d41586-024-03557-1&lt;/a&gt;&lt;/strong&gt; Quantum computing: physics-AI collaboration quashes quantum errors (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.210401&quot;&gt;PhysRevLett.133.210401&lt;/a&gt;&lt;/strong&gt; Scalable Spin Squeezing from Critical Slowing Down in Short-Range Interacting Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.213602&quot;&gt;PhysRevLett.133.213602&lt;/a&gt;&lt;/strong&gt; Nuclear Magnetic Resonance with a Levitating Microparticle (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216601&quot;&gt;PhysRevLett.133.216601&lt;/a&gt;&lt;/strong&gt; Enhanced Many-Body Quantum Scars from the Non-Hermitian Fock Skin Effect (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216602&quot;&gt;PhysRevLett.133.216602&lt;/a&gt;&lt;/strong&gt; Giant Domain Wall Anomalous Hall Effect in a Layered Antiferromagnet EuAl2Si2 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041050&quot;&gt;PhysRevX.14.041050&lt;/a&gt;&lt;/strong&gt; Realization of High-Fidelity CZ Gate Based on a Double-Transmon Coupler (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.s143&quot;&gt;Physics.17.s143&lt;/a&gt;&lt;/strong&gt; Spin Control in a Levitating Diamond (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043181&quot;&gt;PhysRevResearch.6.043181&lt;/a&gt;&lt;/strong&gt; Full quantum determination of the quasiequilibrium constant involved in the formation of ozone (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043183&quot;&gt;PhysRevResearch.6.043183&lt;/a&gt;&lt;/strong&gt; Enhanced predictive capability for chaotic dynamics by modified quantum reservoir computing (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043184&quot;&gt;PhysRevResearch.6.043184&lt;/a&gt;&lt;/strong&gt; Impact of electron correlations on two-particle charge response in electron- and hole-doped cuprates (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043185&quot;&gt;PhysRevResearch.6.043185&lt;/a&gt;&lt;/strong&gt; Combined first-principles and Boltzmann transport theory methodology for studying magnetotransport in magnetic materials (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043186&quot;&gt;PhysRevResearch.6.043186&lt;/a&gt;&lt;/strong&gt; Classical variational optimization of a PREPARE circuit for quantum phase estimation of quantum chemistry Hamiltonians (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042046&quot;&gt;PhysRevResearch.6.L042046&lt;/a&gt;&lt;/strong&gt; Collective quantum stochastic resonance in Rydberg atoms (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.12190v1&quot;&gt;2411.12190v1&lt;/a&gt;&lt;/strong&gt; Higher-dimensional magnetic Skyrmions (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.210803&quot;&gt;PhysRevLett.133.210803&lt;/a&gt;&lt;/strong&gt; Experimental Measurement-Device-Independent Quantum Conference Key Agreement (PRL)&lt;/p&gt;
