@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Nov 2024 14:41:49 +0900</pubDate>
-    <lastBuildDate>Fri, 22 Nov 2024 14:41:49 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 23 Nov 2024 12:44:09 +0900</pubDate>
+    <lastBuildDate>Sat, 23 Nov 2024 12:44:09 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Nov 3 week 2024)</title>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2024nov3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 3888, quantum : 3138, topological : 2855, magnetic : 2262, effect : 1548, superconductivity : 1464, graphene : 1426, dimensional : 1404, lattice : 1379, phase : 1366, model : 1363, hall : 1335, states : 1292, kagome : 1248, two : 1244, nature : 1209, induced : 1207, physics : 1100, charge : 1089, transition : 1047, field : 1025, metal : 949, wave : 892, insulator : 884, bilayer : 852, chiral : 830, density : 816, state : 801, superconducting : 797, superconductor : 791, skyrmion : 790, twisted : 757, electron : 755, superconductors : 723, band : 720, theory : 711, symmetry : 704, electronic : 699, coupling : 678, high : 672, weyl : 665, transport : 661, systems : 637, orbital : 632, majorana : 620, insulators : 617, dirac : 607, anomalous : 592, phonon : 585, dynamics : 576&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 12950&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11701&quot;&gt;2411.11701v1&lt;/a&gt;&lt;/strong&gt; Magnetic field Characterization of edge currents in quantum spin Hall insulators (arXiv)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11701&quot;&gt;2411.11701v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic field Characterization of edge currents in quantum spin Hall insulators (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02676-w&quot;&gt;s41567-024-02676-w&lt;/a&gt;&lt;/strong&gt; Super- and subradiant dynamics of quantum emitters mediated by atomic matter waves (Nature Physics)&lt;/p&gt;
   &lt;/li&gt;
@@ -45,6 +64,39 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03557-1&quot;&gt;d41586-024-03557-1&lt;/a&gt;&lt;/strong&gt; Quantum computing: physics-AI collaboration quashes quantum errors (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01874-5&quot;&gt;s42005-024-01874-5&lt;/a&gt;&lt;/strong&gt; Mechanism of magnetic phase transition in correlated magnetic metal: insight into itinerant ferromagnet Fe&lt;sub&gt;3-&lt;i&gt;δ&lt;/i&gt;&lt;/sub&gt;GeTe&lt;sub&gt;2&lt;/sub&gt; (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-02056-y&quot;&gt;s41563-024-02056-y&lt;/a&gt;&lt;/strong&gt; Colloidal quantum dots shine in liquid (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-02048-y&quot;&gt;s41563-024-02048-y&lt;/a&gt;&lt;/strong&gt; Colloidal quantum dots enable tunable liquid-state lasers (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216002&quot;&gt;PhysRevLett.133.216002&lt;/a&gt;&lt;/strong&gt; Twofold Anisotropic Superconductivity in Bilayer Td-MoTe2 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.216702&quot;&gt;PhysRevLett.133.216702&lt;/a&gt;&lt;/strong&gt; Quantum Magnetic Skyrmion Operator (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.217002&quot;&gt;PhysRevLett.133.217002&lt;/a&gt;&lt;/strong&gt; Dynamical Exciton Condensates in Biased Electron-Hole Bilayers (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043187&quot;&gt;PhysRevResearch.6.043187&lt;/a&gt;&lt;/strong&gt; Melting of excitonic insulator phase by an intense terahertz pulse in Ta2NiSe5 (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043188&quot;&gt;PhysRevResearch.6.043188&lt;/a&gt;&lt;/strong&gt; Information-theoretic description of a feedback-control Kuramoto model (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043189&quot;&gt;PhysRevResearch.6.043189&lt;/a&gt;&lt;/strong&gt; Designing phase sensitive probes of monopole superconducting order (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043190&quot;&gt;PhysRevResearch.6.043190&lt;/a&gt;&lt;/strong&gt; Striped-phase germanene confirmed by photoemission final-state effect (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042048&quot;&gt;PhysRevResearch.6.L042048&lt;/a&gt;&lt;/strong&gt; Probing spontaneously symmetry-broken phases with spin-charge separation through noise correlation measurements (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.210401&quot;&gt;PhysRevLett.133.210401&lt;/a&gt;&lt;/strong&gt; Scalable Spin Squeezing from Critical Slowing Down in Short-Range Interacting Systems (PRL)&lt;/p&gt;
@@ -140,7 +192,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.14212&quot;&gt;2411.14212v1&lt;/a&gt;&lt;/strong&gt; Bound electron states in a charged chain within the Dirac description (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.14415&quot;&gt;2411.14415v1&lt;/a&gt;&lt;/strong&gt; Ground-state magnetic structures of topological kagome metals RV6Sn6 (R = Tb, Dy, Ho, Er) (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.14415&quot;&gt;2411.14415v1&lt;/a&gt;&lt;/strong&gt; Ground-state magnetic structures of topological kagome metals RV6Sn6 (R = Tb,  Dy,  Ho,  Er) (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.14428&quot;&gt;2411.14428v1&lt;/a&gt;&lt;/strong&gt; Low-Field Regime of Magnon Transport in Yttrium Iron Garnet (arXiv)&lt;/p&gt;
@@ -275,7 +327,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.13417&quot;&gt;2411.13417v1&lt;/a&gt;&lt;/strong&gt; Non-Perturbative Feats in the Physics of Correlated Antiferromagnets (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.13418&quot;&gt;2411.13418v1&lt;/a&gt;&lt;/strong&gt; Thermal Entropy, Density Disorder and Antiferromagnetism of Repulsive Fermions in 3D Optical Lattice (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.13418&quot;&gt;2411.13418v1&lt;/a&gt;&lt;/strong&gt; Thermal Entropy,  Density Disorder and Antiferromagnetism of Repulsive Fermions in 3D Optical Lattice (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.13429&quot;&gt;2411.13429v1&lt;/a&gt;&lt;/strong&gt; Coulomb impurities in graphene driven by fast ions (arXiv)&lt;/p&gt;
@@ -488,7 +540,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.10631&quot;&gt;2411.10631v1&lt;/a&gt;&lt;/strong&gt; Observation of the Yamaji effect in a cuprate superconductor (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.10635&quot;&gt;2411.10635v1&lt;/a&gt;&lt;/strong&gt; Stability frontiers in the AM6X6 kagome metals; The LnNb6Sn6 (Ln:Ce-Lu,Y) family and density-wave transition in LuNb6Sn6 (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.10635&quot;&gt;2411.10635v1&lt;/a&gt;&lt;/strong&gt; Stability frontiers in the AM6X6 kagome metals; The LnNb6Sn6 (Ln:Ce-Lu, Y) family and density-wave transition in LuNb6Sn6 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.10644&quot;&gt;2411.10644v1&lt;/a&gt;&lt;/strong&gt; Layer thickness and substrate effects on superconductivity in epitaxial FeSe films on BLG/SiC(0001) (arXiv)&lt;/p&gt;
@@ -575,7 +627,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11570&quot;&gt;2411.11570v1&lt;/a&gt;&lt;/strong&gt; Unconventional Josephson Supercurrent Diode Effect Induced by Chiral Spin-Orbit Coupling (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11579&quot;&gt;2411.11579v1&lt;/a&gt;&lt;/strong&gt; Spin-glass ground states in the frustrated pyrochlore and fluorite antiferromagnets NaCdM2F7 (M = Ni2+, Mn2+) (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11579&quot;&gt;2411.11579v1&lt;/a&gt;&lt;/strong&gt; Spin-glass ground states in the frustrated pyrochlore and fluorite antiferromagnets NaCdM2F7 (M = Ni2+,  Mn2+) (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11650&quot;&gt;2411.11650v1&lt;/a&gt;&lt;/strong&gt; Spin texture tunability in Mn1-xGexBi2Te4 through varying Ge Concentration (arXiv)&lt;/p&gt;
@@ -585,9 +637,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11695&quot;&gt;2411.11695v1&lt;/a&gt;&lt;/strong&gt; Suppressing Si Valley Excitation and Valley-Induced Spin Dephasing for Long-Distance Shuttling (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11701&quot;&gt;2411.11701v1&lt;/a&gt;&lt;/strong&gt; Magnetic field Characterization of edge currents in quantum spin Hall insulators (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.11724&quot;&gt;2411.11724v1&lt;/a&gt;&lt;/strong&gt; Nanoscale control over single vortex motion in an unconventional superconductor (arXiv)&lt;/p&gt;
@@ -716,7 +765,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.09754&quot;&gt;2411.09754v1&lt;/a&gt;&lt;/strong&gt; Coherent Magneto-Conductance Oscillations in Amorphous Topological Insulator Nanowires (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.09761&quot;&gt;2411.09761v1&lt;/a&gt;&lt;/strong&gt; An EFT for anisotropic anti-ferromagnets: gapped Goldstones, pseudo-Goldstones, and phase transitions (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.09761&quot;&gt;2411.09761v1&lt;/a&gt;&lt;/strong&gt; An EFT for anisotropic anti-ferromagnets: gapped Goldstones,  pseudo-Goldstones,  and phase transitions (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.09780&quot;&gt;2411.09780v1&lt;/a&gt;&lt;/strong&gt; Random-Flux-Induced Topological Phase Transitions and Chern Insulators (arXiv)&lt;/p&gt;
