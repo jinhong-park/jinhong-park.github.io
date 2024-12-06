@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Dec 2024 11:19:18 +0900</pubDate>
-    <lastBuildDate>Fri, 06 Dec 2024 11:19:18 +0900</lastBuildDate>
+    <pubDate>Fri, 06 Dec 2024 11:49:41 +0900</pubDate>
+    <lastBuildDate>Fri, 06 Dec 2024 11:49:41 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024dec1weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adr8450&quot;&gt;science.adr8450&lt;/a&gt;&lt;/strong&gt; Room-temperature exceptional plasticity in defective Bi2Te3-based bulk thermoelectric crystals (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01887-0&quot;&gt;s42005-024-01887-0&lt;/a&gt;&lt;/strong&gt; Built-in Bernal gap in large-angle-twisted monolayer-bilayer graphene (Communications Physics)&lt;/p&gt;
   &lt;/li&gt;
@@ -87,6 +90,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043243&quot;&gt;PhysRevResearch.6.043243&lt;/a&gt;&lt;/strong&gt; Probing the exciton spin-valley depolarization with spin-momentum-valley locked unbound states using tr-ARPES (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2412.02001&quot;&gt;2412.02001&lt;/a&gt;&lt;/strong&gt; Comparing Dynamics, Pinning and Ratchet Effects for Skyrmionium, Skyrmions, and Antiskyrmions (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.230602&quot;&gt;PhysRevLett.133.230602&lt;/a&gt;&lt;/strong&gt; Quantum Simulation of Partial Differential Equations via Schrödingerization (PRL)&lt;/p&gt;
