@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Dec 2024 14:03:42 +0900</pubDate>
-    <lastBuildDate>Thu, 05 Dec 2024 14:03:42 +0900</lastBuildDate>
+    <pubDate>Fri, 06 Dec 2024 11:19:18 +0900</pubDate>
+    <lastBuildDate>Fri, 06 Dec 2024 11:19:18 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -48,6 +48,45 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-024-74844-0&quot;&gt;s41598-024-74844-0&lt;/a&gt;&lt;/strong&gt; Acquiring sequentially time-resolved two-dimensional images with parallel multi-group sampling strategy (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02692-w&quot;&gt;s41567-024-02692-w&lt;/a&gt;&lt;/strong&gt; Signatures of two gaps in the spin susceptibility of a cuprate superconductor (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01881-6&quot;&gt;s42005-024-01881-6&lt;/a&gt;&lt;/strong&gt; Topological superconductivity in monolayer T&lt;sub&gt;d&lt;/sub&gt;−MoTe&lt;sub&gt;2&lt;/sub&gt; (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.233804&quot;&gt;PhysRevLett.133.233804&lt;/a&gt;&lt;/strong&gt; Topological Disclination States and Charge Fractionalization in a Non-Hermitian Lattice (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.233805&quot;&gt;PhysRevLett.133.233805&lt;/a&gt;&lt;/strong&gt; On-Chip Photonic Simulating Band Structures towards Arbitrary-Range Coupled Frequency Lattices (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.236504&quot;&gt;PhysRevLett.133.236504&lt;/a&gt;&lt;/strong&gt; Exact Deconfined Gauge Structures in the Higher-Spin Yao-Lee Model: A Quantum Spin-Orbital Liquid with Spin Fractionalization and Non-Abelian Anyons (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.236903&quot;&gt;PhysRevLett.133.236903&lt;/a&gt;&lt;/strong&gt; Skin Effect of Nonlinear Optical Responses in Antiferromagnets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.239903&quot;&gt;PhysRevLett.133.239903&lt;/a&gt;&lt;/strong&gt; Erratum: Robust Weak Topological Insulator in the Bismuth Halide Bi4Br2I2 [Phys. Rev. Lett. &lt;b&gt;133&lt;/b&gt;, 086602 (2024)] (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041056&quot;&gt;PhysRevX.14.041056&lt;/a&gt;&lt;/strong&gt; Recovering Quantum Coherence of a Cavity Qubit Coupled to a Noisy Ancilla through Real-Time Feedback (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041057&quot;&gt;PhysRevX.14.041057&lt;/a&gt;&lt;/strong&gt; Semi-Dirac Fermions in a Topological Metal (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043239&quot;&gt;PhysRevResearch.6.043239&lt;/a&gt;&lt;/strong&gt; Exact survival probability of a time-dependent open Ising chain at zero temperature (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043240&quot;&gt;PhysRevResearch.6.043240&lt;/a&gt;&lt;/strong&gt; Ideal Chern bands with strong short-range repulsion: Applications to correlated metals, superconductivity, and topological order (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043241&quot;&gt;PhysRevResearch.6.043241&lt;/a&gt;&lt;/strong&gt; Quantum optimization with linear Ising penalty functions for customer data science (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043243&quot;&gt;PhysRevResearch.6.043243&lt;/a&gt;&lt;/strong&gt; Probing the exciton spin-valley depolarization with spin-momentum-valley locked unbound states using tr-ARPES (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.230602&quot;&gt;PhysRevLett.133.230602&lt;/a&gt;&lt;/strong&gt; Quantum Simulation of Partial Differential Equations via Schrödingerization (PRL)&lt;/p&gt;
