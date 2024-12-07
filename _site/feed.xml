@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Dec 2024 14:11:54 +0900</pubDate>
-    <lastBuildDate>Fri, 06 Dec 2024 14:11:54 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 07 Dec 2024 23:09:10 +0900</pubDate>
+    <lastBuildDate>Sat, 07 Dec 2024 23:09:10 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Dec 1 week 2024)</title>
@@ -57,6 +57,42 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-024-01881-6&quot;&gt;s42005-024-01881-6&lt;/a&gt;&lt;/strong&gt; Topological superconductivity in monolayer T&lt;sub&gt;d&lt;/sub&gt;−MoTe&lt;sub&gt;2&lt;/sub&gt; (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.230403&quot;&gt;PhysRevLett.133.230403&lt;/a&gt;&lt;/strong&gt; Optimized Trajectory Unraveling for Classical Simulation of Noisy Quantum Dynamics (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.231402&quot;&gt;PhysRevLett.133.231402&lt;/a&gt;&lt;/strong&gt; Measuring the Spin of the Galactic Center Supermassive Black Hole with Two Pulsars (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.231903&quot;&gt;PhysRevLett.133.231903&lt;/a&gt;&lt;/strong&gt; Two-Loop Quarkonium Hamiltonian in Nonannihilation Channel (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.236001&quot;&gt;PhysRevLett.133.236001&lt;/a&gt;&lt;/strong&gt; Realizing Strong and Robust Quasi-1D Superconductors via Multiorbital Chains: NaBe as an Example (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.236203&quot;&gt;PhysRevLett.133.236203&lt;/a&gt;&lt;/strong&gt; Emergence of Exotic Spin Texture in Supramolecular Metal Complexes on a 2D Superconductor (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.238002&quot;&gt;PhysRevLett.133.238002&lt;/a&gt;&lt;/strong&gt; Correlation Decoupling of Casimir Interaction in an Electrolyte Driven by External Electric Fields (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041058&quot;&gt;PhysRevX.14.041058&lt;/a&gt;&lt;/strong&gt; Quantum Frequency Combs with Path Identity for Quantum Remote Sensing (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.14.041059&quot;&gt;PhysRevX.14.041059&lt;/a&gt;&lt;/strong&gt; Hilbert-Space Ergodicity in Driven Quantum Systems: Obstructions and Designs (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.173&quot;&gt;Physics.17.173&lt;/a&gt;&lt;/strong&gt; Quantum Radar over Long Distances (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043244&quot;&gt;PhysRevResearch.6.043244&lt;/a&gt;&lt;/strong&gt; High-order harmonic generation driven by perfect optical vortex beams: Exploring the orbital angular momentum upscaling law (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043245&quot;&gt;PhysRevResearch.6.043245&lt;/a&gt;&lt;/strong&gt; Measuring kinetic inductance and superfluid stiffness of two-dimensional superconductors using high-quality transmission-line resonators (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043246&quot;&gt;PhysRevResearch.6.043246&lt;/a&gt;&lt;/strong&gt; Monitored fermions with conserved U(1) charge (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.233804&quot;&gt;PhysRevLett.133.233804&lt;/a&gt;&lt;/strong&gt; Topological Disclination States and Charge Fractionalization in a Non-Hermitian Lattice (PRL)&lt;/p&gt;
