@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Dec 2024 14:08:40 +0900</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2024 14:08:40 +0900</lastBuildDate>
+    <pubDate>Fri, 13 Dec 2024 09:47:16 +0900</pubDate>
+    <lastBuildDate>Fri, 13 Dec 2024 09:47:16 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024dec2weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/content/article/google-passes-milestone-road-error-free-quantum-computer&quot;&gt;google-passes-milestone-road-error-free-quantum-computer&lt;/a&gt;&lt;/strong&gt; Google passes milestone on road to an error-free quantum computer (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-55127-8&quot;&gt;s41467-024-55127-8&lt;/a&gt;&lt;/strong&gt; Author Correction: Orbital-selective effect of spin reorientation on the Dirac fermions in a non-charge-ordered kagome ferromagnet Fe&lt;sub&gt;3&lt;/sub&gt;Ge (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
@@ -45,6 +48,54 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08227-w&quot;&gt;s41586-024-08227-w&lt;/a&gt;&lt;/strong&gt; Strong electron-phonon coupling in magic-angle twisted bilayer graphene (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02747-y&quot;&gt;s41567-024-02747-y&lt;/a&gt;&lt;/strong&gt; Author Correction: Real-space imaging of phase transitions in bridged artificial kagome spin ice (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02711-w&quot;&gt;s41567-024-02711-w&lt;/a&gt;&lt;/strong&gt; Evidence for fractional matter coupled to an emergent gauge field in a quantum spin ice (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.240202&quot;&gt;PhysRevLett.133.240202&lt;/a&gt;&lt;/strong&gt; Exploring the Accuracy of Interferometric Quantum Measurements under Conservation Laws (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.240402&quot;&gt;PhysRevLett.133.240402&lt;/a&gt;&lt;/strong&gt; Detecting a Long-Lived False Vacuum with Quantum Quenches (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.240403&quot;&gt;PhysRevLett.133.240403&lt;/a&gt;&lt;/strong&gt; Quantum Turnstiles for Robust Measurement of Full Counting Statistics (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.240404&quot;&gt;PhysRevLett.133.240404&lt;/a&gt;&lt;/strong&gt; Breakdown of the Quantum Distinction of Regular and Chaotic Classical Dynamics in Dissipative Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.243801&quot;&gt;PhysRevLett.133.243801&lt;/a&gt;&lt;/strong&gt; Probing Berry Phase Effect in Topological Surface States (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.246301&quot;&gt;PhysRevLett.133.246301&lt;/a&gt;&lt;/strong&gt; Spin Drag Mechanism of Giant Thermal Magnetoresistance (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.246605&quot;&gt;PhysRevLett.133.246605&lt;/a&gt;&lt;/strong&gt; Splitting of the Girvin-MacDonald-Platzman Density Wave and the Nature of Chiral Gravitons in the Fractional Quantum Hall Effect (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.246606&quot;&gt;PhysRevLett.133.246606&lt;/a&gt;&lt;/strong&gt; Flexible Control of Chiral Superconductivity in Optically Driven Nodal Point Superconductors with Antiferromagnetism (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.s144&quot;&gt;Physics.17.s144&lt;/a&gt;&lt;/strong&gt; Simulating Superconductivity in Optical Lattices (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043262&quot;&gt;PhysRevResearch.6.043262&lt;/a&gt;&lt;/strong&gt; Exotic edge states of C3 high-fold fermions in honeycomb lattices (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043264&quot;&gt;PhysRevResearch.6.043264&lt;/a&gt;&lt;/strong&gt; Green’s function approach to interacting lattice polaritons and optical nonlinearities in subwavelength arrays of quantum emitters (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043266&quot;&gt;PhysRevResearch.6.043266&lt;/a&gt;&lt;/strong&gt; High directional optical transmitter with phased array of nanoptical emitters and efficient error correction for long distance space communications (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043267&quot;&gt;PhysRevResearch.6.043267&lt;/a&gt;&lt;/strong&gt; Optical quantum sensing for agnostic environments via deep learning (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043269&quot;&gt;PhysRevResearch.6.043269&lt;/a&gt;&lt;/strong&gt; Unbounded quantum advantage in communication complexity measured by distinguishability (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2412.07792&quot;&gt;2412.07792v1&lt;/a&gt;&lt;/strong&gt; Comment on “Trapped magnetic flux in hydrogen-rich high-temperature superconductors” by V.S. Minkov, V. Ksenofontov, S.L. Bud’ko, E.F. Talantsev and M.I. Eremets (arXiv)&lt;/p&gt;
