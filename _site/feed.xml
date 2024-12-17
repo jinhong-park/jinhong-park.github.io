@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Dec 2024 10:32:13 +0900</pubDate>
-    <lastBuildDate>Tue, 17 Dec 2024 10:32:13 +0900</lastBuildDate>
+    <pubDate>Tue, 17 Dec 2024 11:04:28 +0900</pubDate>
+    <lastBuildDate>Tue, 17 Dec 2024 11:04:28 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,51 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024dec3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02696-6&quot;&gt;s41567-024-02696-6&lt;/a&gt;&lt;/strong&gt; Nishimori transition across the error threshold for constant-depth quantum circuits (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.253401&quot;&gt;PhysRevLett.133.253401&lt;/a&gt;&lt;/strong&gt; Realization of a Laughlin State of Two Rapidly Rotating Fermions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.253402&quot;&gt;PhysRevLett.133.253402&lt;/a&gt;&lt;/strong&gt; Floquet-Driven Crossover from Density-Assisted Tunneling to Enhanced Pair Tunneling (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.256501&quot;&gt;PhysRevLett.133.256501&lt;/a&gt;&lt;/strong&gt; Distinct Charge and Spin Recovery Dynamics in a Photoexcited Mott Insulator (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.258301&quot;&gt;PhysRevLett.133.258301&lt;/a&gt;&lt;/strong&gt; Minimum Scaling Model and Exact Exponents for the Nambu-Goldstone Modes in the Vicsek Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.17.178&quot;&gt;Physics.17.178&lt;/a&gt;&lt;/strong&gt; Ultracold Fermions Enter the Fractional Quantum Hall Arena (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043277&quot;&gt;PhysRevResearch.6.043277&lt;/a&gt;&lt;/strong&gt; Many-body theory beyond GW: Towards a complete description of two-body correlated propagation (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043279&quot;&gt;PhysRevResearch.6.043279&lt;/a&gt;&lt;/strong&gt; Finding dense sublattices as low energy states of a Hamiltonian (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043280&quot;&gt;PhysRevResearch.6.043280&lt;/a&gt;&lt;/strong&gt; Fine-tuning neural network quantum states (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043282&quot;&gt;PhysRevResearch.6.043282&lt;/a&gt;&lt;/strong&gt; Nonconventional thermal states of interacting bosonic oligomers (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043283&quot;&gt;PhysRevResearch.6.043283&lt;/a&gt;&lt;/strong&gt; Magnetization fluctuations and magnetic after-effect probed via the anomalous Hall effect (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043284&quot;&gt;PhysRevResearch.6.043284&lt;/a&gt;&lt;/strong&gt; Hamiltonian learning in quantum field theories (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043285&quot;&gt;PhysRevResearch.6.043285&lt;/a&gt;&lt;/strong&gt; Mesoscale field theory for quasicrystals (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.043286&quot;&gt;PhysRevResearch.6.043286&lt;/a&gt;&lt;/strong&gt; Gate-tunable phase transition in a resonator-based Su-Schrieffer-Heeger chain (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042064&quot;&gt;PhysRevResearch.6.L042064&lt;/a&gt;&lt;/strong&gt; Ice-rule driven vertex frustration in a stretched pentagonal spin ice (PRR)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2412.09654&quot;&gt;2412.09654v1&lt;/a&gt;&lt;/strong&gt; Moire Periodic and Quasiperiodic Crystals in Heterostructures of Twisted Bilayer Graphene and Hexagonal Boron Nitride (arXiv)&lt;/p&gt;
   &lt;/li&gt;
