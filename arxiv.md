@@ -18,18 +18,19 @@ permalink: /arxiv/
     <tr>
         <th><a href="../arxiv/altermagnet">Altermagnets</a></th>
         <th><a href="../arxiv/cuprate">Cuprate</a></th>
+        <th><a href="../arxiv/fege">FeGe</a></th>
         <th><a href="../arxiv/flat">Flatband</a></th>
         <th><a href="../arxiv/hedgehog">Hedgehog</a></th>
-        <th><a href="../arxiv/iridate">Iridate</a></th>
     </tr>
     <tr>
+        <th><a href="../arxiv/iridate">Iridate</a></th>
         <th><a href="../arxiv/kagome">Kagome</a></th>
         <th><a href="../arxiv/kondo">Kondo</a></th>
         <th><a href="../arxiv/magnon">Magnon</a></th>
         <th><a href="../arxiv/majorana">Majorana</a></th>
-        <th><a href="../arxiv/metric">Metric</a></th>
     </tr>
     <tr>
+       <th><a href="../arxiv/metric">Metric</a></th>
        <th><a href="../arxiv/nematic">Nematic</a></th>
        <th><a href="../arxiv/nickelate">Nickelate</a></th>
       <th><a href="../arxiv/shiftcurrent">Shift current</a></th>
