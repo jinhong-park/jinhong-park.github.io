@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jan 2025 10:14:59 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Jan 2025 10:14:59 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Thu, 02 Jan 2025 15:50:57 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Jan 2025 15:50:57 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>2024 wordcloud</title>
@@ -48,6 +48,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2024dec5weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08270-7&quot;&gt;s41586-024-08270-7&lt;/a&gt;&lt;/strong&gt; Formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard system (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.133.261601&quot;&gt;PhysRevLett.133.261601&lt;/a&gt;&lt;/strong&gt; Effective Field Theory of Conformal Boundaries (PRL)&lt;/p&gt;
   &lt;/li&gt;
