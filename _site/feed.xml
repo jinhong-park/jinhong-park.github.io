@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jan 2025 12:50:34 +0900</pubDate>
-    <lastBuildDate>Sat, 18 Jan 2025 12:50:34 +0900</lastBuildDate>
+    <pubDate>Sat, 18 Jan 2025 15:17:26 +0900</pubDate>
+    <lastBuildDate>Sat, 18 Jan 2025 15:17:26 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -28,10 +28,10 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;Score : 11687&lt;/p&gt;
+  &lt;p&gt;Score : 2213&lt;/p&gt;
 
   &lt;ol&gt;
-    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.02525&quot;&gt;2501.02525&lt;/a&gt;&lt;/strong&gt; Time-reversal symmetry breaking fractional quantum spin Hall insulator in moiré MoTe2 (arXiv)&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.08859&quot;&gt;2501.08859v1&lt;/a&gt;&lt;/strong&gt; Ampere phase in frustrated magnets (arXiv)&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/blockquote&gt;
 
@@ -39,7 +39,10 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.02525&quot;&gt;2501.02525&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Time-reversal symmetry breaking fractional quantum spin Hall insulator in moiré MoTe2 (arXiv)&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.08859&quot;&gt;2501.08859v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Ampere phase in frustrated magnets (arXiv)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.02525&quot;&gt;2501.02525&lt;/a&gt;&lt;/strong&gt; Time-reversal symmetry breaking fractional quantum spin Hall insulator in moiré MoTe2 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-02067-9&quot;&gt;s41563-024-02067-9&lt;/a&gt;&lt;/strong&gt; Spin polarization detection via chirality-induced tunnelling currents in indium selenide (Nature Materials)&lt;/p&gt;
@@ -358,9 +361,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.08687&quot;&gt;2501.08687v1&lt;/a&gt;&lt;/strong&gt; Preformed Cooper Pairs in a Triclinic Iron Pnictide Superconductor (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.08859&quot;&gt;2501.08859v1&lt;/a&gt;&lt;/strong&gt; Ampere phase in frustrated magnets (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.08867&quot;&gt;2501.08867v1&lt;/a&gt;&lt;/strong&gt; Ising superconductivity in noncentrosymmetric bulk NbSe2 (arXiv)&lt;/p&gt;
