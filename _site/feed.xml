@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jan 2025 11:17:18 +0900</pubDate>
-    <lastBuildDate>Thu, 23 Jan 2025 11:17:18 +0900</lastBuildDate>
+    <pubDate>Thu, 23 Jan 2025 13:02:44 +0900</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2025 13:02:44 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -92,6 +92,9 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-025-00095-2&quot;&gt;d41586-025-00095-2&lt;/a&gt;&lt;/strong&gt; A quantum material governed by emergent Weyl fermions (Nature)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202415045&quot;&gt;adma.202415045&lt;/a&gt;&lt;/strong&gt; Flat-Band Electronic Bipolarity in a Janus and Kagome van der Waals Semiconductor Nb3TeI7 (Advanced Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.030401&quot;&gt;PhysRevLett.134.030401&lt;/a&gt;&lt;/strong&gt; Krylov Subspace Methods for Quantum Dynamics with Time-Dependent Generators (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -132,6 +135,18 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013082&quot;&gt;PhysRevResearch.7.013082&lt;/a&gt;&lt;/strong&gt; Image classification with rotation-invariant variational quantum circuits (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.026501&quot;&gt;PhysRevLett.134.026501&lt;/a&gt;&lt;/strong&gt; Flat and Tunable Moiré Phonons in Twisted Transition-Metal Dichalcogenides (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.06460&quot;&gt;2501.06460&lt;/a&gt;&lt;/strong&gt; Probing electric field tunable multiband superconductivity in alternating twisted quadralayer graphene (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.06743&quot;&gt;2501.06743&lt;/a&gt;&lt;/strong&gt; Synthetic π-flux system in 2D superconducting qubit array with tunable coupling (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.07412&quot;&gt;2501.07412&lt;/a&gt;&lt;/strong&gt; Correlation stabilized ferromagnetic MnRuAs with distorted kagome lattice (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.036301&quot;&gt;PhysRevLett.134.036301&lt;/a&gt;&lt;/strong&gt; Switching Spin Filling Sequence in a Bilayer Graphene Quantum Dot through Trigonal Warping (PRL)&lt;/p&gt;
