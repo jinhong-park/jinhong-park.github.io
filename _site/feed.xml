@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Jan 2025 13:09:23 +0900</pubDate>
-    <lastBuildDate>Fri, 24 Jan 2025 13:09:23 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 25 Jan 2025 15:43:31 +0900</pubDate>
+    <lastBuildDate>Sat, 25 Jan 2025 15:43:31 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 3 week 2025)</title>
@@ -21,7 +21,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/2025jan3weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;spin : 4249, quantum : 3693, topological : 3090, magnetic : 2488, effect : 1706, superconductivity : 1558, graphene : 1547, dimensional : 1542, phase : 1516, model : 1512, nature : 1489, lattice : 1479, states : 1449, hall : 1449, two : 1381, induced : 1330, kagome : 1306, physics : 1261, charge : 1177, field : 1155, transition : 1139, metal : 1007, wave : 992, insulator : 944, bilayer : 920, chiral : 912, state : 907, density : 887, superconducting : 884, skyrmion : 857, electron : 850, superconductor : 838, twisted : 811, theory : 791, band : 784, symmetry : 784, superconductors : 775, high : 768, electronic : 760, coupling : 748, transport : 736, systems : 730, weyl : 702, dynamics : 691, orbital : 686, majorana : 674, flat : 647, dirac : 643, insulators : 643, anomalous : 641&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 11082&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.036301&quot;&gt;PhysRevLett.134.036301&lt;/a&gt;&lt;/strong&gt; Switching Spin Filling Sequence in a Bilayer Graphene Quantum Dot through Trigonal Warping (PRL)&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.036301&quot;&gt;PhysRevLett.134.036301&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Switching Spin Filling Sequence in a Bilayer Graphene Quantum Dot through Trigonal Warping (PRL)&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02759-8&quot;&gt;s41567-024-02759-8&lt;/a&gt;&lt;/strong&gt; An electronic microemulsion phase emerging from a quantum crystal-to-liquid transition (Nature Physics)&lt;/p&gt;
   &lt;/li&gt;
@@ -114,6 +133,45 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02752-1&quot;&gt;s41567-024-02752-1&lt;/a&gt;&lt;/strong&gt; Time-hidden magnetic order in a multi-orbital Mott insulator (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-55965-0&quot;&gt;s41467-025-55965-0&lt;/a&gt;&lt;/strong&gt; Author Correction: An atomically controlled insulator-to-metal transition in iridate/manganite heterostructures (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02746-z&quot;&gt;s41567-024-02746-z&lt;/a&gt;&lt;/strong&gt; A many-body quantum register for a spin qubit (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-01934-4&quot;&gt;s42005-025-01934-4&lt;/a&gt;&lt;/strong&gt; All-silicon non-volatile optical memory based on photon avalanche-induced trapping (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-02110-9&quot;&gt;s41563-024-02110-9&lt;/a&gt;&lt;/strong&gt; Probing light chirality and spin in two dimensions (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-024-02082-w&quot;&gt;s41563-024-02082-w&lt;/a&gt;&lt;/strong&gt; Interlayer reconstruction phase transition in van der Waals materials (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.031601&quot;&gt;PhysRevLett.134.031601&lt;/a&gt;&lt;/strong&gt; Hidden Zeros Are Equivalent to Enhanced Ultraviolet Scaling,  and Lead to Unique Amplitudes in Trϕ3 Theory (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.031902&quot;&gt;PhysRevLett.134.031902&lt;/a&gt;&lt;/strong&gt; Observation of Exotic J/ψϕ Resonant Structure in Diffractive Processes in Proton-Proton Collisions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.036901&quot;&gt;PhysRevLett.134.036901&lt;/a&gt;&lt;/strong&gt; Valley-Mediated Singlet- and Triplet-Polaron Interactions and Quantum Dynamics in a Doped WSe2 Monolayer (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.036902&quot;&gt;PhysRevLett.134.036902&lt;/a&gt;&lt;/strong&gt; Spin Noise Spectroscopy of a Single Spin Using Single Detected Photons (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.037003&quot;&gt;PhysRevLett.134.037003&lt;/a&gt;&lt;/strong&gt; Unifying Floquet Theory of Longitudinal and Dispersive Readout (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.037401&quot;&gt;PhysRevLett.134.037401&lt;/a&gt;&lt;/strong&gt; Dynamical Mean-Field Theory of Complex Systems on Sparse Directed Networks (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.011013&quot;&gt;PhysRevX.15.011013&lt;/a&gt;&lt;/strong&gt; Neural Density Functional Theory of Liquid-Gas Phase Coexistence (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.17&quot;&gt;Physics.18.17&lt;/a&gt;&lt;/strong&gt; Machine Learning Predicts Liquid-Gas Transition (Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.030402&quot;&gt;PhysRevLett.134.030402&lt;/a&gt;&lt;/strong&gt; Universal Work Statistics in Long-Range Interacting Quantum Systems (PRL)&lt;/p&gt;
@@ -224,7 +282,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.037001&quot;&gt;PhysRevLett.134.037001&lt;/a&gt;&lt;/strong&gt; Single-Electron Quantization of Dark Current in Quanta Image Sensors (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.15&quot;&gt;Physics.18.15&lt;/a&gt;&lt;/strong&gt; Quantum Milestones, 1905: Einstein and the Photoelectric Effect (Physics)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.15&quot;&gt;Physics.18.15&lt;/a&gt;&lt;/strong&gt; Quantum Milestones,  1905: Einstein and the Photoelectric Effect (Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.s5&quot;&gt;Physics.18.s5&lt;/a&gt;&lt;/strong&gt; Noise Becomes a Quantum Ally (Physics)&lt;/p&gt;
@@ -336,9 +394,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.13095&quot;&gt;2501.13095v1&lt;/a&gt;&lt;/strong&gt; Sunny.jl: A Julia Package for Spin Dynamics (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.036301&quot;&gt;PhysRevLett.134.036301&lt;/a&gt;&lt;/strong&gt; Switching Spin Filling Sequence in a Bilayer Graphene Quantum Dot through Trigonal Warping (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.037101&quot;&gt;PhysRevLett.134.037101&lt;/a&gt;&lt;/strong&gt; Dynamics of Microscale and Nanoscale Systems in the Weak-Memory Regime (PRL)&lt;/p&gt;
@@ -458,7 +513,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.11234&quot;&gt;2501.11234v1&lt;/a&gt;&lt;/strong&gt; Nonlinear Hall effect driven by spin-charge-coupled motive force (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.11242&quot;&gt;2501.11242v1&lt;/a&gt;&lt;/strong&gt; High-throughput calculations of two-dimensional auxetic M4X8 with magnetism, electrocatalysis, and alkali metal battery applications (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.11242&quot;&gt;2501.11242v1&lt;/a&gt;&lt;/strong&gt; High-throughput calculations of two-dimensional auxetic M4X8 with magnetism,  electrocatalysis,  and alkali metal battery applications (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.11248&quot;&gt;2501.11248v1&lt;/a&gt;&lt;/strong&gt; Microscopic evidence of charge- and spin-density waves in La3Ni2O7-delta revealed by 139La-NQR (arXiv)&lt;/p&gt;
@@ -527,7 +582,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.11966&quot;&gt;2501.11966v1&lt;/a&gt;&lt;/strong&gt; A method based on a dual frequency resonator to estimate physical parameters of superconductors from surface impedance measurements in a magnetic field (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12019&quot;&gt;2501.12019v1&lt;/a&gt;&lt;/strong&gt; Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3 (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12019&quot;&gt;2501.12019v1&lt;/a&gt;&lt;/strong&gt; Unusual magnetic order,  field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12024&quot;&gt;2501.12024v1&lt;/a&gt;&lt;/strong&gt; Multiterminal Josephson junctions with tunable topological properties (arXiv)&lt;/p&gt;
@@ -623,10 +678,10 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12110&quot;&gt;2501.12110v1&lt;/a&gt;&lt;/strong&gt; Quantum trajectories and Page-curve entanglement dynamics (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12146&quot;&gt;2501.12146v1&lt;/a&gt;&lt;/strong&gt; Evaluating many-body stabilizer Renyi entropy by sampling reduced Pauli strings: singularities, volume law, and nonlocal magic (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12146&quot;&gt;2501.12146v1&lt;/a&gt;&lt;/strong&gt; Evaluating many-body stabilizer Renyi entropy by sampling reduced Pauli strings: singularities,  volume law,  and nonlocal magic (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12177&quot;&gt;2501.12177v1&lt;/a&gt;&lt;/strong&gt; Magnetic Trampoline Resonators from (La,Sr)MnO3 Single-Crystal Thin Films (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12177&quot;&gt;2501.12177v1&lt;/a&gt;&lt;/strong&gt; Magnetic Trampoline Resonators from (La, Sr)MnO3 Single-Crystal Thin Films (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12328&quot;&gt;2501.12328v1&lt;/a&gt;&lt;/strong&gt; Decoherence of Schrodinger cat states in light of wave/particle duality (arXiv)&lt;/p&gt;
@@ -647,7 +702,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.04907&quot;&gt;2501.04907&lt;/a&gt;&lt;/strong&gt; Optical skyrmion lattices accelerating in free space (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.05227&quot;&gt;2501.05227&lt;/a&gt;&lt;/strong&gt; Correlation between Complex Spin Textures and the Magnetocaloric and Hall Effects in Eu(Ga1-xAlx)4 (x = 0.9, 1) (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.05227&quot;&gt;2501.05227&lt;/a&gt;&lt;/strong&gt; Correlation between Complex Spin Textures and the Magnetocaloric and Hall Effects in Eu(Ga1-xAlx)4 (x = 0.9,  1) (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S037596012500009X&quot;&gt;S037596012500009X&lt;/a&gt;&lt;/strong&gt; 0-π junction transition in the Josephson junction of parallel double quantum dots: Bistable junction behavior induced by Majorana bound states (Physics Letters A)&lt;/p&gt;
@@ -671,7 +726,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.05317&quot;&gt;2501.05317&lt;/a&gt;&lt;/strong&gt; Double Majorana Vortex Flat Bands in the Topological Dirac Superconductor (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0921452625000110&quot;&gt;S0921452625000110&lt;/a&gt;&lt;/strong&gt; Prediction of two-dimensional kagome semiconductor Pd3X6 (X=Cl, Br and I) (Physica B)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0921452625000110&quot;&gt;S0921452625000110&lt;/a&gt;&lt;/strong&gt; Prediction of two-dimensional kagome semiconductor Pd3X6 (X=Cl,  Br and I) (Physica B)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.04777&quot;&gt;2501.04777&lt;/a&gt;&lt;/strong&gt; Spectroscopy of the Fractal Hofstadter Energy Spectrum (arXiv)&lt;/p&gt;
@@ -722,7 +777,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.10304&quot;&gt;2501.10304v1&lt;/a&gt;&lt;/strong&gt; Magnetic properties of the zigzag ladder compound SrTb2O4 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.10320&quot;&gt;2501.10320v1&lt;/a&gt;&lt;/strong&gt; From strong to weak correlations in breathing-mode kagome van der Waals materials: Nb3(F,Cl,Br,I)8 as a robust and versatile platform for many-body engineering (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.10320&quot;&gt;2501.10320v1&lt;/a&gt;&lt;/strong&gt; From strong to weak correlations in breathing-mode kagome van der Waals materials: Nb3(F, Cl, Br, I)8 as a robust and versatile platform for many-body engineering (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.10349&quot;&gt;2501.10349v1&lt;/a&gt;&lt;/strong&gt; Photonic chiral state transfer near the Liouvillian exceptional point (arXiv)&lt;/p&gt;
@@ -767,7 +822,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202415774&quot;&gt;adma.202415774&lt;/a&gt;&lt;/strong&gt; Programmable Magnetic Hysteresis in Orthogonally-Twisted 2D CrSBr Magnets via Stacking Engineering. (Advanced Materials)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.jstage.jst.go.jp/article/jvss/2024/0/20243F17/pdf&quot;&gt;20243F17&lt;/a&gt;&lt;/strong&gt; Detecting signatures of Majorana quasiparticle at vortex cores of Fe(Se,Te) (JVSS2024)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.jstage.jst.go.jp/article/jvss/2024/0/20243F17/pdf&quot;&gt;20243F17&lt;/a&gt;&lt;/strong&gt; Detecting signatures of Majorana quasiparticle at vortex cores of Fe(Se, Te) (JVSS2024)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
