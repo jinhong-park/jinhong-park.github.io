@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Feb 2025 11:26:02 +0900</pubDate>
-    <lastBuildDate>Tue, 04 Feb 2025 11:26:02 +0900</lastBuildDate>
+    <pubDate>Tue, 04 Feb 2025 13:49:53 +0900</pubDate>
+    <lastBuildDate>Tue, 04 Feb 2025 13:49:53 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -60,6 +60,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013129&quot;&gt;PhysRevResearch.7.013129&lt;/a&gt;&lt;/strong&gt; Solving combinatorial optimization problems through stochastic Landau-Lifshitz-Gilbert dynamical systems (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1367-2630/adad0d&quot;&gt;1367-2630/adad0d&lt;/a&gt;&lt;/strong&gt; Manipulation of room-temperature magnetic skyrmions in a van der Waals ferromagnet Fe3GaTe2 (NJP)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.18554&quot;&gt;2501.18554&lt;/a&gt;&lt;/strong&gt; Probing topological matter and fermion dynamics on a neutral-atom quantum computer (arXiv)&lt;/p&gt;
