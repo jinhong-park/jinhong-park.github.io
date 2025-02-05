@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Feb 2025 14:09:23 +0900</pubDate>
-    <lastBuildDate>Tue, 04 Feb 2025 14:09:23 +0900</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2025 11:21:30 +0900</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2025 11:21:30 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -36,6 +36,54 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-025-00296-9&quot;&gt;d41586-025-00296-9&lt;/a&gt;&lt;/strong&gt; Why even physicists still don’t understand quantum theory 100 years on (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02767-8&quot;&gt;s41567-024-02767-8&lt;/a&gt;&lt;/strong&gt; A simulation of false vacuum decay using a quantum annealer (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-024-02765-w&quot;&gt;s41567-024-02765-w&lt;/a&gt;&lt;/strong&gt; Stirring the false vacuum via interacting quantized bubbles on a 5,564-qubit quantum annealer (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-01968-8&quot;&gt;s42005-025-01968-8&lt;/a&gt;&lt;/strong&gt; Quantum illumination networks (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050401&quot;&gt;PhysRevLett.134.050401&lt;/a&gt;&lt;/strong&gt; Heat as a Witness of Quantum Properties (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050403&quot;&gt;PhysRevLett.134.050403&lt;/a&gt;&lt;/strong&gt; Volume-Entangled Exact Scar States in the PXP and Related Models in Any Dimension (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050601&quot;&gt;PhysRevLett.134.050601&lt;/a&gt;&lt;/strong&gt; Qudit Dynamical Decoupling on a Superconducting Quantum Processor (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050602&quot;&gt;PhysRevLett.134.050602&lt;/a&gt;&lt;/strong&gt; Implementing Arbitrary Ising Models with a Trapped-Ion Quantum Processor (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.052501&quot;&gt;PhysRevLett.134.052501&lt;/a&gt;&lt;/strong&gt; Angular Momentum Resolved Inelastic Electron Scattering for Nuclear Giant Resonances (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.052701&quot;&gt;PhysRevLett.134.052701&lt;/a&gt;&lt;/strong&gt; Effects of Neutron-Antineutron Transitions in Neutron Stars (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.053602&quot;&gt;PhysRevLett.134.053602&lt;/a&gt;&lt;/strong&gt; Efficient &lt;i&gt;In Situ&lt;/i&gt; Generation of Photon-Memory Entanglement in a Nonlinear Cavity (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.055301&quot;&gt;PhysRevLett.134.055301&lt;/a&gt;&lt;/strong&gt; Continuum Damping of Topologically Protected Edge Modes at the Boundary of Cold Magnetized Plasmas (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.056001&quot;&gt;PhysRevLett.134.056001&lt;/a&gt;&lt;/strong&gt; Revealing the Orbital Origins of Exotic Electronic States with Ti Substitution in Kagome Superconductor CsV3Sb5 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.056802&quot;&gt;PhysRevLett.134.056802&lt;/a&gt;&lt;/strong&gt; Origin of Interstitial Doping Induced Coercive Field Reduction in Ferroelectric Hafnia (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.011021&quot;&gt;PhysRevX.15.011021&lt;/a&gt;&lt;/strong&gt; Hybrid Josephson Rhombus: A Superconducting Element with Tailored Current-Phase Relation (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.24&quot;&gt;Physics.18.24&lt;/a&gt;&lt;/strong&gt; The Tumultuous Birth of Quantum Mechanics (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.s12&quot;&gt;Physics.18.s12&lt;/a&gt;&lt;/strong&gt; Tailored Superconducting Circuit for Quantum Technologies (Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.053601&quot;&gt;PhysRevLett.134.053601&lt;/a&gt;&lt;/strong&gt; Observation of Photonic Mobility Edge Phases (PRL)&lt;/p&gt;
