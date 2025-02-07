@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Feb 2025 14:28:10 +0900</pubDate>
-    <lastBuildDate>Thu, 06 Feb 2025 14:28:10 +0900</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2025 11:51:54 +0900</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2025 11:51:54 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -22,6 +22,9 @@
 &lt;p&gt;&lt;img src=&quot;/images/2025feb1weeks-pick.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adt2495&quot;&gt;science.adt2495&lt;/a&gt;&lt;/strong&gt; Four-dimensional conserved topological charge vectors in plasmonic quasicrystals (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-024-55812-8&quot;&gt;s41467-024-55812-8&lt;/a&gt;&lt;/strong&gt; Environment-assisted quantum transport of excitons in perovskite nanocrystal superlattices (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
@@ -83,6 +86,81 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-025-00036-z&quot;&gt;d41586-025-00036-z&lt;/a&gt;&lt;/strong&gt; Crowds start to spin when their densities hit a threshold (Nature)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-01947-z&quot;&gt;s42005-025-01947-z&lt;/a&gt;&lt;/strong&gt; Gapless topological behaviors in a long-range quantum spin chain (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-55955-2&quot;&gt;s41467-025-55955-2&lt;/a&gt;&lt;/strong&gt; Probing spectral features of quantum many-body systems with quantum simulators (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-01969-7&quot;&gt;s42005-025-01969-7&lt;/a&gt;&lt;/strong&gt; A 50-spin surface acoustic wave Ising machine (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.09969&quot;&gt;2501.09969&lt;/a&gt;&lt;/strong&gt; Giant topological Hall effect in epitaxial Ni80Fe20/La0.65Sr0.35MnO3 thin film heterostructures (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2501.12232&quot;&gt;2501.12232&lt;/a&gt;&lt;/strong&gt; Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050201&quot;&gt;PhysRevLett.134.050201&lt;/a&gt;&lt;/strong&gt; Entanglement Detection Length of Multipartite Quantum States (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050202&quot;&gt;PhysRevLett.134.050202&lt;/a&gt;&lt;/strong&gt; Magic Resource Can Enhance the Quantum Capacity of Channels (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050405&quot;&gt;PhysRevLett.134.050405&lt;/a&gt;&lt;/strong&gt; Fock-Space Delocalization and the Emergence of the Porter-Thomas Distribution from Dual-Unitary Dynamics (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050406&quot;&gt;PhysRevLett.134.050406&lt;/a&gt;&lt;/strong&gt; Quantum Detailed Fluctuation Theorem in Curved Spacetimes: The Observer Dependent Nature of Entropy Production (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050603&quot;&gt;PhysRevLett.134.050603&lt;/a&gt;&lt;/strong&gt; Accelerating Dissipative State Preparation with Adaptive Open Quantum Dynamics (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.053201&quot;&gt;PhysRevLett.134.053201&lt;/a&gt;&lt;/strong&gt; Many-Body Adiabatic Passage: Instability, Chaos, and Quantum Classical Correspondence (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.053402&quot;&gt;PhysRevLett.134.053402&lt;/a&gt;&lt;/strong&gt; Optical Superlattice for Engineering Hubbard Couplings in Quantum Simulation (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.053603&quot;&gt;PhysRevLett.134.053603&lt;/a&gt;&lt;/strong&gt; Autonomous Feedback Stabilization of a Cavity-Coupled Spin Oscillator (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.053604&quot;&gt;PhysRevLett.134.053604&lt;/a&gt;&lt;/strong&gt; Suppression of Motional Dephasing Using State Mapping (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.053801&quot;&gt;PhysRevLett.134.053801&lt;/a&gt;&lt;/strong&gt; Postselection-Free Cavity-Enhanced Narrow-Band Orbital Angular Momentum Entangled Photon Source (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.055001&quot;&gt;PhysRevLett.134.055001&lt;/a&gt;&lt;/strong&gt; Bounds on Heavy Axions with an X-Ray Free Electron Laser (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.056501&quot;&gt;PhysRevLett.134.056501&lt;/a&gt;&lt;/strong&gt; Hall Response in Interacting Bosonic and Fermionic Ladders (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.056502&quot;&gt;PhysRevLett.134.056502&lt;/a&gt;&lt;/strong&gt; Transient Dynamical Phase Diagram of the Spin-Boson Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.056701&quot;&gt;PhysRevLett.134.056701&lt;/a&gt;&lt;/strong&gt; Observation of Coherent Gapless Magnons in an Antiferromagnet (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.058401&quot;&gt;PhysRevLett.134.058401&lt;/a&gt;&lt;/strong&gt; Direct and Retrograde Wave Propagation in Unidirectionally Coupled Wilson-Cowan Oscillators (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.011025&quot;&gt;PhysRevX.15.011025&lt;/a&gt;&lt;/strong&gt; Quantum Spin Ice in Three-Dimensional Rydberg Atom Arrays (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.27&quot;&gt;Physics.18.27&lt;/a&gt;&lt;/strong&gt; Curtain Rises on the Year of Quantum (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.s20&quot;&gt;Physics.18.s20&lt;/a&gt;&lt;/strong&gt; A New Path to Superconductivity (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013135&quot;&gt;PhysRevResearch.7.013135&lt;/a&gt;&lt;/strong&gt; Automated graph-based detection of quantum control schemes: Application to molecular laser cooling (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013138&quot;&gt;PhysRevResearch.7.013138&lt;/a&gt;&lt;/strong&gt; Transparency, nonclassicality, and nonreciprocity in chiral waveguide quantum electrodynamics (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.050801&quot;&gt;PhysRevLett.134.050801&lt;/a&gt;&lt;/strong&gt; Probing Dynamics of a Two-Dimensional Dipolar Spin Ensemble Using Single Qubit Sensor (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -129,6 +207,15 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L012027&quot;&gt;PhysRevResearch.7.L012027&lt;/a&gt;&lt;/strong&gt; &lt;i&gt;In situ&lt;/i&gt; dynamic four-dimensional strong-field ionization tomography (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://pubs.aip.org/aip/apl/article/126/2/022410/3331669/Lowering-the-skyrmion-depinning-current-in&quot;&gt;022410/3331669&lt;/a&gt;&lt;/strong&gt; Lowering the skyrmion depinning current in synthetic antiferromagnetic systems (APL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3068&amp;amp;id=567188&quot;&gt;33-2-3068&amp;amp;id=567188&lt;/a&gt;&lt;/strong&gt; Construction of optical lattice-type skyrmion arrays in tightly focused electromagnetic field (Optics Express)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202419321&quot;&gt;adfm.202419321&lt;/a&gt;&lt;/strong&gt; 2D Covalent Moiré Superlattice from Fluorinating Twisted Bilayer Graphene (Advanced Functional Materials)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2502.02640&quot;&gt;2502.02640v1&lt;/a&gt;&lt;/strong&gt; Dynamics and lifetime of geometric excitations in moire systems (arXiv)&lt;/p&gt;
