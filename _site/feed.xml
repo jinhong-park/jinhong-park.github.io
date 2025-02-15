@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Feb 2025 15:09:45 +0900</pubDate>
-    <lastBuildDate>Fri, 14 Feb 2025 15:09:45 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 15 Feb 2025 15:18:15 +0900</pubDate>
+    <lastBuildDate>Sat, 15 Feb 2025 15:18:15 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Feb 2 week 2025)</title>
@@ -19,7 +19,22 @@
 &lt;dd&gt;A WordCloud of 2025 Feb 2nd week collection&lt;/dd&gt;
 &lt;/dl&gt;
 
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 12904&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2502.07884&quot;&gt;2502.07884v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic order through Kondo coupling to quantum spin liquids (arXiv)&lt;/strong&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adr5926&quot;&gt;science.adr5926&lt;/a&gt;&lt;/strong&gt; Good plasmons in a bad metal (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adv0319&quot;&gt;science.adv0319&lt;/a&gt;&lt;/strong&gt; Chirality à la carte (Science)&lt;/p&gt;
   &lt;/li&gt;
@@ -76,6 +91,57 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-88635-8&quot;&gt;s41598-025-88635-8&lt;/a&gt;&lt;/strong&gt; Simultaneous distributed generation and electric vehicles hosting capacity enhancement through a synergetic hierarchical bi-level optimization approach based on demand response and Volt/VAR control (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02786-z&quot;&gt;s41567-025-02786-z&lt;/a&gt;&lt;/strong&gt; Coulomb interactions and migrating Dirac cones imaged by local quantum oscillations in twisted graphene (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-87001-y&quot;&gt;s41598-025-87001-y&lt;/a&gt;&lt;/strong&gt; Wave packet splitter and rectificator based on the Dirac delta potentials in a fractional medium (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.060601&quot;&gt;PhysRevLett.134.060601&lt;/a&gt;&lt;/strong&gt; Neural-Network-Based Design of Approximate Gottesman-Kitaev-Preskill Code (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.060602&quot;&gt;PhysRevLett.134.060602&lt;/a&gt;&lt;/strong&gt; Observation of the Two-Photon Landau-Zener-Stückelberg-Majorana Effect (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.062501&quot;&gt;PhysRevLett.134.062501&lt;/a&gt;&lt;/strong&gt; Fragmentation of the Giant Pairing Vibration in 14C Induced by Many-Body Processes (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.063803&quot;&gt;PhysRevLett.134.063803&lt;/a&gt;&lt;/strong&gt; Bulk-Hole Correspondence and Inner Robust Boundary Modes in Singular Flatband Lattices (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.066402&quot;&gt;PhysRevLett.134.066402&lt;/a&gt;&lt;/strong&gt; Spectroscopic Evidence for Possible Quantum Spin Liquid Behavior in a Two-Dimensional Mott Insulator (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.066801&quot;&gt;PhysRevLett.134.066801&lt;/a&gt;&lt;/strong&gt; Mechanism of Type-II Multiferroicity in Pure and Al-Doped CuFeO2 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.068101&quot;&gt;PhysRevLett.134.068101&lt;/a&gt;&lt;/strong&gt; Extending Rytov Approximation to Vector Waves for Tomography of Anisotropic Materials (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.068301&quot;&gt;PhysRevLett.134.068301&lt;/a&gt;&lt;/strong&gt; Phase Separation, Capillarity, and Odd-Surface Flows in Chiral Active Matter (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.011034&quot;&gt;PhysRevX.15.011034&lt;/a&gt;&lt;/strong&gt; Photon-Counting Interferometry to Detect Geontropic Space-Time Fluctuations with GQuEST (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.37&quot;&gt;Physics.18.37&lt;/a&gt;&lt;/strong&gt; New Strategy in the Hunt for Quantum Gravity (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013165&quot;&gt;PhysRevResearch.7.013165&lt;/a&gt;&lt;/strong&gt; Electron correlation effects and spin-liquid state in the herbertsmithite kagome lattice (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013166&quot;&gt;PhysRevResearch.7.013166&lt;/a&gt;&lt;/strong&gt; Artificial topological insulator realized in a two-terminal Josephson junction with Rashba spin-orbit interaction (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013167&quot;&gt;PhysRevResearch.7.013167&lt;/a&gt;&lt;/strong&gt; Interaction effects on the itinerant ferromagnetism phase transition (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013168&quot;&gt;PhysRevResearch.7.013168&lt;/a&gt;&lt;/strong&gt; Observation of nonreciprocal polarization modulations induced by an intense terahertz electric-field pulse in an electronic-type molecular ferroelectric (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013169&quot;&gt;PhysRevResearch.7.013169&lt;/a&gt;&lt;/strong&gt; Edge state behavior of interacting bosons in a Su-Schrieffer-Heeger lattice (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.060202&quot;&gt;PhysRevLett.134.060202&lt;/a&gt;&lt;/strong&gt; Quantumlike Product States Constructed from Classical Networks (PRL)&lt;/p&gt;
@@ -250,9 +316,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L012033&quot;&gt;PhysRevResearch.7.L012033&lt;/a&gt;&lt;/strong&gt; Dopant pairing in a disordered magnetic spin ladder (PRR)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2502.07884&quot;&gt;2502.07884v1&lt;/a&gt;&lt;/strong&gt; Magnetic order through Kondo coupling to quantum spin liquids (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2502.07897&quot;&gt;2502.07897v1&lt;/a&gt;&lt;/strong&gt; Terahertz electroluminescence from Dirac-Landau polaritons (arXiv)&lt;/p&gt;
