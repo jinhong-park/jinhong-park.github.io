@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Mar 2025 14:44:14 +0900</pubDate>
-    <lastBuildDate>Fri, 07 Mar 2025 14:44:14 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 08 Mar 2025 16:52:13 +0900</pubDate>
+    <lastBuildDate>Sat, 08 Mar 2025 16:52:13 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Mar 1 week 2025)</title>
@@ -18,6 +18,19 @@
 
 &lt;dd&gt;A WordCloud of 2025 Mar 1st week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 13545&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.00484&quot;&gt;2503.00484v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic order and spin dynamics across the ferromagnetic quantum critical point in Ni_1-xMo_x (arXiv)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -58,6 +71,87 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02790-3&quot;&gt;s41567-025-02790-3&lt;/a&gt;&lt;/strong&gt; A central spin coordinates a nuclear crowd (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02011-6&quot;&gt;s42005-025-02011-6&lt;/a&gt;&lt;/strong&gt; Dynamic thermalization on noisy quantum hardware (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02005-4&quot;&gt;s42005-025-02005-4&lt;/a&gt;&lt;/strong&gt; Efficiency of neural quantum states in light of the quantum geometric tensor (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-01989-3&quot;&gt;s42005-025-01989-3&lt;/a&gt;&lt;/strong&gt; Dynamical topology of chiral and nonreciprocal state transfers in a non-Hermitian quantum system (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-01977-7&quot;&gt;s42005-025-01977-7&lt;/a&gt;&lt;/strong&gt; Coherence of a non-equilibrium polariton condensate across the interaction-mediated phase transition (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-01991-9&quot;&gt;s42005-025-01991-9&lt;/a&gt;&lt;/strong&gt; Frequency shift caused by nonuniform field and boundary relaxation in magnetic resonance and comagnetometers (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02165-2&quot;&gt;s41563-025-02165-2&lt;/a&gt;&lt;/strong&gt; A non-layered two-dimensional semiconductor for p-type transistors (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02141-w&quot;&gt;s41563-025-02141-w&lt;/a&gt;&lt;/strong&gt; Vapour-liquid-solid-solid growth of two-dimensional non-layered β-Bi&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; crystals with high hole mobility (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-025-00683-2&quot;&gt;d41586-025-00683-2&lt;/a&gt;&lt;/strong&gt; Microsoft quantum computing ‘breakthrough’ faces fresh challenge (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.090402&quot;&gt;PhysRevLett.134.090402&lt;/a&gt;&lt;/strong&gt; Engineering Nonequilibrium Steady States through Floquet Liouvillians (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.090802&quot;&gt;PhysRevLett.134.090802&lt;/a&gt;&lt;/strong&gt; Semidefinite Relaxations for High-Dimensional Entanglement in the Steering Scenario (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.091603&quot;&gt;PhysRevLett.134.091603&lt;/a&gt;&lt;/strong&gt; Dissipation and Decay of Three-Dimensional Holographic Quantum Turbulence (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.093202&quot;&gt;PhysRevLett.134.093202&lt;/a&gt;&lt;/strong&gt; Spin-Polarized Photoelectrons in the Vicinity of Spectral Features (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.093401&quot;&gt;PhysRevLett.134.093401&lt;/a&gt;&lt;/strong&gt; Dynamical Formation of Multiple Quantum Droplets in a Bose-Bose Mixture (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.094001&quot;&gt;PhysRevLett.134.094001&lt;/a&gt;&lt;/strong&gt; Direct Measurement of the Viscocapillary Lift Force near a Liquid Interface (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.096002&quot;&gt;PhysRevLett.134.096002&lt;/a&gt;&lt;/strong&gt; Thermodynamic Evidence for Density Wave Order in a Two Dimensional 4He Supersolid (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.096204&quot;&gt;PhysRevLett.134.096204&lt;/a&gt;&lt;/strong&gt; Independently Tunable Flat Bands and Correlations in a Graphene Double Moiré System (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.096302&quot;&gt;PhysRevLett.134.096302&lt;/a&gt;&lt;/strong&gt; Domain-Wall Ferroelectric Polarons in a Two-Dimensional Rotor Lattice Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.096504&quot;&gt;PhysRevLett.134.096504&lt;/a&gt;&lt;/strong&gt; Many-Body Effects on High-Harmonic Generation in Hubbard Ladders (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.096903&quot;&gt;PhysRevLett.134.096903&lt;/a&gt;&lt;/strong&gt; Raman Forbidden Layer-Breathing Modes in Layered Semiconductor Materials Activated by Phonon and Optical Cavity Effects (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.098202&quot;&gt;PhysRevLett.134.098202&lt;/a&gt;&lt;/strong&gt; Crack Propagation by Activated Avalanches during Creep and Fatigue from Elastic Interface Theory (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.098203&quot;&gt;PhysRevLett.134.098203&lt;/a&gt;&lt;/strong&gt; Mechanistic Picture for the Slow Arrhenius Process in Glass Forming Systems: The Collective Small Displacements Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.098301&quot;&gt;PhysRevLett.134.098301&lt;/a&gt;&lt;/strong&gt; Activity-Driven Emulsification of Phase-Separating Binary Mixtures (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.011051&quot;&gt;PhysRevX.15.011051&lt;/a&gt;&lt;/strong&gt; Exploring Atom-Ion Feshbach Resonances below the $s$-Wave Limit (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.51&quot;&gt;Physics.18.51&lt;/a&gt;&lt;/strong&gt; Lab-Created Aurora Highlights New Polymer Physics (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.53&quot;&gt;Physics.18.53&lt;/a&gt;&lt;/strong&gt; Quantum Milestones, 1964: John Stewart Bell Quietly Rings in New Era of Quantum Theory (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013250&quot;&gt;PhysRevResearch.7.013250&lt;/a&gt;&lt;/strong&gt; Off-equilibrium kinetic Ising model: The metric case (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.013254&quot;&gt;PhysRevResearch.7.013254&lt;/a&gt;&lt;/strong&gt; Quantum many-body simulation of finite-temperature systems with sampling a series expansion of a quantum imaginary-time evolution (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.095102&quot;&gt;PhysRevLett.134.095102&lt;/a&gt;&lt;/strong&gt; Group Conductivity and Nonadiabatic Born Effective Charges of Disordered Metals, Warm Dense Matter, and Hot Dense Plasma (PRL)&lt;/p&gt;
@@ -541,9 +635,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.00475&quot;&gt;2503.00475v1&lt;/a&gt;&lt;/strong&gt; Field-driven band asymmetry and non-reciprocal transport in a helimagnet (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.00484&quot;&gt;2503.00484v1&lt;/a&gt;&lt;/strong&gt; Magnetic order and spin dynamics across the ferromagnetic quantum critical point in Ni_1-xMo_x (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.00635&quot;&gt;2503.00635v1&lt;/a&gt;&lt;/strong&gt; Topological phenomena in artificial quantum materials revealed by local Chern markers (arXiv)&lt;/p&gt;
