@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Mar 2025 13:24:56 +0900</pubDate>
-    <lastBuildDate>Fri, 21 Mar 2025 13:24:56 +0900</lastBuildDate>
+    <pubDate>Mon, 24 Mar 2025 13:37:10 +0900</pubDate>
+    <lastBuildDate>Mon, 24 Mar 2025 13:37:10 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -18,6 +18,19 @@
 
 &lt;dd&gt;A WordCloud of 2025 Mar 3rd week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 13681&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.13397&quot;&gt;2503.13397v1&lt;/a&gt;&lt;/strong&gt; Quantum crystal spin Hall effect in two-dimensional altermagnetic systems (arXiv)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -736,9 +749,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.13380&quot;&gt;2503.13380v1&lt;/a&gt;&lt;/strong&gt; Long-range Entanglement and Role of Realistic Interaction in Braiding of Non-Abelian Quasiholes in Fractional Quantum Hall Phases (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.13397&quot;&gt;2503.13397v1&lt;/a&gt;&lt;/strong&gt; Quantum crystal spin Hall effect in two-dimensional altermagnetic systems (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.13417&quot;&gt;2503.13417v1&lt;/a&gt;&lt;/strong&gt; Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors (arXiv)&lt;/p&gt;
