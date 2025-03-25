@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Mar 2025 11:09:57 +0900</pubDate>
-    <lastBuildDate>Tue, 25 Mar 2025 11:09:57 +0900</lastBuildDate>
+    <pubDate>Tue, 25 Mar 2025 11:35:35 +0900</pubDate>
+    <lastBuildDate>Tue, 25 Mar 2025 11:35:35 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-024-08445-2&quot;&gt;s41586-024-08445-2&lt;/a&gt;&lt;/strong&gt; Interferometric single-shot parity measurement in InAs–Al hybrid devices (Nature)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-58224-4&quot;&gt;s41467-025-58224-4&lt;/a&gt;&lt;/strong&gt; Giant magnetoresistance induced by spin-dependent orbital coupling in Fe&lt;sub&gt;3&lt;/sub&gt;GeTe&lt;sub&gt;2&lt;/sub&gt;/graphene heterostructures (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
@@ -79,6 +82,18 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L012080&quot;&gt;PhysRevResearch.7.L012080&lt;/a&gt;&lt;/strong&gt; Probing mixed valence states by nuclear spin-spin relaxation time measurements (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.064419&quot;&gt;PhysRevB.111.064419&lt;/a&gt;&lt;/strong&gt; Uniaxial pressure effects, phase diagram, and tricritical point in the centrosymmetric skyrmion lattice magnet GdRu2⁢Si2 (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/pdf/2502.12252&quot;&gt;2502.12252&lt;/a&gt;&lt;/strong&gt; Roadmap to fault tolerant quantum computation using topological qubit arrays (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2411.03036&quot;&gt;2411.03036&lt;/a&gt;&lt;/strong&gt; Skyrmion Bag Robustness in Plasmonic Bilayer and Trilayer Moiré Superlattices (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2502.18732&quot;&gt;2502.18732&lt;/a&gt;&lt;/strong&gt; Colossal magnetoresistance in a quasi-two-dimensional cluster glass semiconductor (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.16670&quot;&gt;2503.16670v1&lt;/a&gt;&lt;/strong&gt; Electronic structure of a layered altermagnetic compound CoNb4Se8 (arXiv)&lt;/p&gt;
