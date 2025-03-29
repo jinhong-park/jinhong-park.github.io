@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Mar 2025 15:15:27 +0900</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2025 15:15:27 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 29 Mar 2025 15:42:35 +0900</pubDate>
+    <lastBuildDate>Sat, 29 Mar 2025 15:42:35 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Mar 4 week 2025)</title>
@@ -18,6 +18,19 @@
 
 &lt;dd&gt;A WordCloud of 2025 Mar 4th week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 16171&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.21209&quot;&gt;2503.21209v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Valley-polarized Quantum Anomalous Hall and Topological Metal Phase in Rashba induced pseudospin-1 lattice (arXiv)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -91,6 +104,42 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08737-1&quot;&gt;s41586-025-08737-1&lt;/a&gt;&lt;/strong&gt; Certified randomness using a trapped-ion quantum processor (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-58306-3&quot;&gt;s41467-025-58306-3&lt;/a&gt;&lt;/strong&gt; Spin Seebeck in the weakly exchange-coupled Van der Waals antiferromagnet across the spin-flip transition (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-58339-8&quot;&gt;s41467-025-58339-8&lt;/a&gt;&lt;/strong&gt; Nature-inspired hierarchical building materials with low CO&lt;sub&gt;2&lt;/sub&gt; emission and superior performance (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02821-z&quot;&gt;s41567-025-02821-z&lt;/a&gt;&lt;/strong&gt; A qudit quantum computer for simulation of two-dimensional quantum electrodynamics (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02829-5&quot;&gt;s41567-025-02829-5&lt;/a&gt;&lt;/strong&gt; Twist angle serves as a tuning knob for superconductivity (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02194-x&quot;&gt;s41563-025-02194-x&lt;/a&gt;&lt;/strong&gt; Flaw-size-dependent mechanical interlayer coupling and edge-reconstruction embrittlement in van der Waals materials (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-94897-z&quot;&gt;s41598-025-94897-z&lt;/a&gt;&lt;/strong&gt; Doping effects of indium and copper on ferromagnetism in &lt;i&gt;N&lt;/i&gt;-type magnetic semiconductor Ba(Zn,Co)&lt;sub&gt;2&lt;/sub&gt;As&lt;sub&gt;2&lt;/sub&gt; (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.121402&quot;&gt;PhysRevLett.134.121402&lt;/a&gt;&lt;/strong&gt; Which Is Which? Identification of the Two Compact Objects in Gravitational-Wave Binaries (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.123602&quot;&gt;PhysRevLett.134.123602&lt;/a&gt;&lt;/strong&gt; Long-Range Interactions in Weyl-Dense Atomic Arrays Protected from Dissipation and Disorder (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.126603&quot;&gt;PhysRevLett.134.126603&lt;/a&gt;&lt;/strong&gt; Observation of Floquet-Bloch Braids in Non-Hermitian Spatiotemporal Lattices (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.126702&quot;&gt;PhysRevLett.134.126702&lt;/a&gt;&lt;/strong&gt; Dynamically Tunable Magnon-Magnon Coupling in a Perpendicular Anisotropy Magnetic Garnet-Ferromagnet Bilayer (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.127102&quot;&gt;PhysRevLett.134.127102&lt;/a&gt;&lt;/strong&gt; Universal and Nonuniversal Signatures in the Scaling Functions of Critical Variables (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.011073&quot;&gt;PhysRevX.15.011073&lt;/a&gt;&lt;/strong&gt; Precision Reconstruction of Rational Conformal Field Theory from Exact Fixed-Point Tensor Network (PRX)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.120202&quot;&gt;PhysRevLett.134.120202&lt;/a&gt;&lt;/strong&gt; Dual-Capability Machine Learning Models for Quantum Hamiltonian Parameter Estimation and Dynamics Prediction (PRL)&lt;/p&gt;
@@ -169,9 +218,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.21149&quot;&gt;2503.21149v1&lt;/a&gt;&lt;/strong&gt; Onsager reciprocal relations for charge and spin transport in periodically driven systems (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.21209&quot;&gt;2503.21209v1&lt;/a&gt;&lt;/strong&gt; Valley-polarized Quantum Anomalous Hall and Topological Metal Phase in Rashba induced pseudospin-1 lattice (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.21255&quot;&gt;2503.21255v1&lt;/a&gt;&lt;/strong&gt; Quantum Resistor-Capacitor Circuit with two Majorana Bound States (arXiv)&lt;/p&gt;
