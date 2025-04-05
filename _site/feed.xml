@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Apr 2025 14:00:04 +0900</pubDate>
-    <lastBuildDate>Fri, 04 Apr 2025 14:00:04 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 05 Apr 2025 16:43:40 +0900</pubDate>
+    <lastBuildDate>Sat, 05 Apr 2025 16:43:40 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Mar 5 week 2025)</title>
@@ -18,6 +18,19 @@
 
 &lt;dd&gt;A WordCloud of 2025 Mar 5th week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 11561&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.24331&quot;&gt;2503.24331v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Critical quantum metrology using non-Hermitian spin model with RT-symmetry (arXiv)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -103,6 +116,42 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-95884-0&quot;&gt;s41598-025-95884-0&lt;/a&gt;&lt;/strong&gt; Refined modeling and coupled vibration analysis of the sleeper lifting device in long span bridges under temperature and train dynamics (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-58516-9&quot;&gt;s41467-025-58516-9&lt;/a&gt;&lt;/strong&gt; Phase glides and self-organization of atomically abrupt interfaces out of stochastic disorder in alpha-Ga&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.130403&quot;&gt;PhysRevLett.134.130403&lt;/a&gt;&lt;/strong&gt; Low-Depth Unitary Quantum Circuits for Dualities in One-Dimensional Quantum Lattice Models (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.130404&quot;&gt;PhysRevLett.134.130404&lt;/a&gt;&lt;/strong&gt; Hidden Time Reversal in Driven $XXZ$ Spin Chains: Exact Solutions and New Dissipative Phase Transitions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.131602&quot;&gt;PhysRevLett.134.131602&lt;/a&gt;&lt;/strong&gt; Parisi-Sourlas Supertranslation and Scale Invariance without Conformal Symmetry (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.133604&quot;&gt;PhysRevLett.134.133604&lt;/a&gt;&lt;/strong&gt; Quantum-Enhanced Weak Absorption Estimation with Correlated Photons (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.133802&quot;&gt;PhysRevLett.134.133802&lt;/a&gt;&lt;/strong&gt; Inherent Spin-Orbit Locking in Topological Lasing via Bound State in the Continuum (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.136201&quot;&gt;PhysRevLett.134.136201&lt;/a&gt;&lt;/strong&gt; Extrinsic Orbital Hall Effect: Orbital Skew Scattering and Crossover between Diffusive and Intrinsic Orbital Transport (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.138403&quot;&gt;PhysRevLett.134.138403&lt;/a&gt;&lt;/strong&gt; Numerical Simulations Reveal Complementary Function of Blood-Brain Barrier and Glymphatic Transport in the Brain (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021004&quot;&gt;PhysRevX.15.021004&lt;/a&gt;&lt;/strong&gt; Tuning the Coherent Interaction of an Electron Qubit and a Nuclear Magnon (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021005&quot;&gt;PhysRevX.15.021005&lt;/a&gt;&lt;/strong&gt; Superconductivity in Trilayer Nickelate La4Ni3O10 under Pressure (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023014&quot;&gt;PhysRevResearch.7.023014&lt;/a&gt;&lt;/strong&gt; Time heterogeneity of the Forster radius from dipole orientational dynamics impacts single-molecule Forster resonance energy transfer experiments (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022006&quot;&gt;PhysRevResearch.7.L022006&lt;/a&gt;&lt;/strong&gt; Dynamics of Onsager vortex clustering in decaying turbulent polariton quantum fluids (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.130603&quot;&gt;PhysRevLett.134.130603&lt;/a&gt;&lt;/strong&gt; Mechanical Multiplexer of Nuclear Spin States (PRL)&lt;/p&gt;
@@ -691,9 +740,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.24323&quot;&gt;2503.24323v1&lt;/a&gt;&lt;/strong&gt; Synthesis of europium-based crystals containing As or P by a flux method: attempts to grow EuAgP single crystals (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.24331&quot;&gt;2503.24331v1&lt;/a&gt;&lt;/strong&gt; Critical quantum metrology using non-Hermitian spin model with RT-symmetry (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2503.24353&quot;&gt;2503.24353v1&lt;/a&gt;&lt;/strong&gt; Universality of Renyi Entropy in Conformal Field Theory (arXiv)&lt;/p&gt;
