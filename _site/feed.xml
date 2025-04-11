@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Apr 2025 13:02:03 +0900</pubDate>
-    <lastBuildDate>Thu, 10 Apr 2025 13:02:03 +0900</lastBuildDate>
+    <pubDate>Fri, 11 Apr 2025 10:16:02 +0900</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 10:16:02 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,6 +20,9 @@
 &lt;/dl&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.ado6285&quot;&gt;science.ado6285&lt;/a&gt;&lt;/strong&gt; Beyond-classical computation in quantum simulation (Science)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02061-w&quot;&gt;s42005-025-02061-w&lt;/a&gt;&lt;/strong&gt; Practical continuous-variable quantum secret sharing using local local oscillator (Communications Physics)&lt;/p&gt;
   &lt;/li&gt;
@@ -79,6 +82,48 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-93541-0&quot;&gt;s41598-025-93541-0&lt;/a&gt;&lt;/strong&gt; CHMMConvScaleNet: a hybrid convolutional neural network and continuous hidden Markov model with multi-scale features for sleep posture detection (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02835-7&quot;&gt;s41567-025-02835-7&lt;/a&gt;&lt;/strong&gt; Topological dynamics of rapid non-planar gaits in slithering snakes (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02020-5&quot;&gt;s42005-025-02020-5&lt;/a&gt;&lt;/strong&gt; Quantum optical classifier with superexponential speedup (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02079-0&quot;&gt;s42005-025-02079-0&lt;/a&gt;&lt;/strong&gt; Sparse intensity sampling for ultrafast full-field reconstruction in low-dimensional photonic systems (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02172-3&quot;&gt;s41563-025-02172-3&lt;/a&gt;&lt;/strong&gt; Shedding light on quantum geometry (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-025-01094-z&quot;&gt;d41586-025-01094-z&lt;/a&gt;&lt;/strong&gt; ‘Mind blowing’: quantum computer untangles the mathematics of knots (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-97359-8&quot;&gt;s41598-025-97359-8&lt;/a&gt;&lt;/strong&gt; Author Correction: Dynamical mechanisms of how an RNN keeps a beat, uncovered with a low-dimensional reduced model (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.134410&quot;&gt;PhysRevB.111.134410&lt;/a&gt;&lt;/strong&gt; Quantum skyrmion liquid (PRB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.145301&quot;&gt;PhysRevLett.134.145301&lt;/a&gt;&lt;/strong&gt; Two Mechanisms Limiting the Emitted Electron Current from a Cathode to an Anode (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.78&quot;&gt;Physics.18.78&lt;/a&gt;&lt;/strong&gt; Quantum Computer Simulates a 2D Electromagnetic Vacuum (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023032&quot;&gt;PhysRevResearch.7.023032&lt;/a&gt;&lt;/strong&gt; Simulating Floquet scrambling circuits on trapped-ion quantum computers (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023033&quot;&gt;PhysRevResearch.7.023033&lt;/a&gt;&lt;/strong&gt; Diffusive spin transport of the spin-1/2 XXZ chain in the Ising regime at zero magnetic field and finite temperature (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023035&quot;&gt;PhysRevResearch.7.023035&lt;/a&gt;&lt;/strong&gt; Quantum computing architecture with trapped ion crystals and fast Rydberg gates (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023037&quot;&gt;PhysRevResearch.7.023037&lt;/a&gt;&lt;/strong&gt; Data-driven model discovery with Kolmogorov-Arnold networks (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023038&quot;&gt;PhysRevResearch.7.023038&lt;/a&gt;&lt;/strong&gt; Predetection squeezing as a resource for high-dimensional Bell-state measurements (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.140403&quot;&gt;PhysRevLett.134.140403&lt;/a&gt;&lt;/strong&gt; Operational Work Fluctuation Theorem for Open Quantum Systems (PRL)&lt;/p&gt;
