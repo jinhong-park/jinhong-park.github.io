@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Apr 2025 14:50:18 +0900</pubDate>
-    <lastBuildDate>Fri, 11 Apr 2025 14:50:18 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 12 Apr 2025 14:13:22 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Apr 2025 14:13:22 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Apr 1 week 2025)</title>
@@ -18,6 +18,19 @@
 
 &lt;dd&gt;A WordCloud of 2025 Apr 1st week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 12545&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.06491&quot;&gt;2504.06491v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Identifying Universal Spin Excitations in Spin-1/2 Kagome Quantum Spin Liquid Materials (arXiv)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -100,6 +113,54 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-97359-8&quot;&gt;s41598-025-97359-8&lt;/a&gt;&lt;/strong&gt; Author Correction: Dynamical mechanisms of how an RNN keeps a beat, uncovered with a low-dimensional reduced model (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-58639-z&quot;&gt;s41467-025-58639-z&lt;/a&gt;&lt;/strong&gt; Metal-organic framework glass stabilizes high-voltage cathodes for efficient lithium-metal batteries (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02072-7&quot;&gt;s42005-025-02072-7&lt;/a&gt;&lt;/strong&gt; Speedup of high-order unconstrained binary optimization using quantum Z2 lattice gauge theory (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.140405&quot;&gt;PhysRevLett.134.140405&lt;/a&gt;&lt;/strong&gt; Mixing Time of Open Quantum Systems via Hypocoercivity (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.145201&quot;&gt;PhysRevLett.134.145201&lt;/a&gt;&lt;/strong&gt; Characteristic E-Region Plasma Signature of Magnetospheric Wave-Particle Interactions (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.146101&quot;&gt;PhysRevLett.134.146101&lt;/a&gt;&lt;/strong&gt; Imaging the Progression of Radiolytic Damage in Molecular Crystals with Scanning Nanobeam Electron Diffraction (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.146302&quot;&gt;PhysRevLett.134.146302&lt;/a&gt;&lt;/strong&gt; Ultrahigh Thermal Conductance across Superlubric Interfaces in Twisted Graphite (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.146603&quot;&gt;PhysRevLett.134.146603&lt;/a&gt;&lt;/strong&gt; Quantum Geometry and Bounds on Dissipation in Slowly Driven Quantum Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.147203&quot;&gt;PhysRevLett.134.147203&lt;/a&gt;&lt;/strong&gt; Superuniversal Statistics of Complex Time Delays in Non-Hermitian Scattering Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.148001&quot;&gt;PhysRevLett.134.148001&lt;/a&gt;&lt;/strong&gt; Learning Classical Density Functionals for Ionic Fluids (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.148204&quot;&gt;PhysRevLett.134.148204&lt;/a&gt;&lt;/strong&gt; Anomalous Softness in Amorphous Matter in the Reversible Plastic Regime (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021011&quot;&gt;PhysRevX.15.021011&lt;/a&gt;&lt;/strong&gt; Control of Solid-State Nuclear Spin Qubits Using an Electron Spin-1/2 (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021012&quot;&gt;PhysRevX.15.021012&lt;/a&gt;&lt;/strong&gt; Digital Discovery of Interferometric Gravitational Wave Detectors (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023039&quot;&gt;PhysRevResearch.7.023039&lt;/a&gt;&lt;/strong&gt; &lt;i&gt;Ab initio&lt;/i&gt; approach to many-body quantum spin dynamics (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023042&quot;&gt;PhysRevResearch.7.023042&lt;/a&gt;&lt;/strong&gt; Colored linear inverse model: A data-driven method for studying dynamical systems with temporally correlated stochasticity (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023045&quot;&gt;PhysRevResearch.7.023045&lt;/a&gt;&lt;/strong&gt; Observation of quantum-classical transition behavior of LGI in a dissipative quantum gas (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022014&quot;&gt;PhysRevResearch.7.L022014&lt;/a&gt;&lt;/strong&gt; Single atomic layer quantum holography (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.134410&quot;&gt;PhysRevB.111.134410&lt;/a&gt;&lt;/strong&gt; Quantum skyrmion liquid (PRB)&lt;/p&gt;
@@ -289,9 +350,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.06454&quot;&gt;2504.06454v1&lt;/a&gt;&lt;/strong&gt; High critical current densities of body-centered cubic high-entropy alloy superconductors: recent research progress (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.06491&quot;&gt;2504.06491v1&lt;/a&gt;&lt;/strong&gt; Identifying Universal Spin Excitations in Spin-1/2 Kagome Quantum Spin Liquid Materials (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.06508&quot;&gt;2504.06508v1&lt;/a&gt;&lt;/strong&gt; A critical theory for solidification of a liquid Fermi liquid (arXiv)&lt;/p&gt;
