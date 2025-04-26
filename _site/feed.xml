@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Apr 2025 20:48:06 +0900</pubDate>
-    <lastBuildDate>Fri, 25 Apr 2025 20:48:06 +0900</lastBuildDate>
+    <pubDate>Sat, 26 Apr 2025 17:17:14 +0900</pubDate>
+    <lastBuildDate>Sat, 26 Apr 2025 17:17:14 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -18,6 +18,19 @@
 
 &lt;dd&gt;A WordCloud of 2025 Apr 3rd week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 8465&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.16176&quot;&gt;2504.16176v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Gapfull and gapless 1D Topological Superconductivity in Spin-Orbit Coupled Bilayer Graphene (arXiv)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -55,6 +68,45 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02090-5&quot;&gt;s42005-025-02090-5&lt;/a&gt;&lt;/strong&gt; Motility-induced mixing transition in exponentially growing multicellular spheroids (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02086-1&quot;&gt;s42005-025-02086-1&lt;/a&gt;&lt;/strong&gt; Towards AI-driven autonomous growth of 2D materials based on a graphene case study (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-99937-2&quot;&gt;s41598-025-99937-2&lt;/a&gt;&lt;/strong&gt; Development of hybrid computational model for simulation of heat transfer and temperature prediction in chemical reactors (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.163201&quot;&gt;PhysRevLett.134.163201&lt;/a&gt;&lt;/strong&gt; Photoelectron Spin Texture in Tunneling Ionization Induced by a Linearly Polarized Laser Pulse (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.166102&quot;&gt;PhysRevLett.134.166102&lt;/a&gt;&lt;/strong&gt; Corrugation-Dominated Mechanical Softening of Defect-Engineered Graphene (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.166301&quot;&gt;PhysRevLett.134.166301&lt;/a&gt;&lt;/strong&gt; Sensing Quantum Vacuum Fluctuations with Non-Gaussian Electronic Noise (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.166401&quot;&gt;PhysRevLett.134.166401&lt;/a&gt;&lt;/strong&gt; Moiré Kramers-Weyl Fermions with Ideal Radial Spin Texture from Structural Chirality (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.166901&quot;&gt;PhysRevLett.134.166901&lt;/a&gt;&lt;/strong&gt; Quadrupolar and Dipolar Excitons in Bilayer 2H−MoSe2 (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.167202&quot;&gt;PhysRevLett.134.167202&lt;/a&gt;&lt;/strong&gt; Waveform Proportionality and Taylor’s Law Induced by Synchronization of Periodic and Chaotic Oscillators (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021029&quot;&gt;PhysRevX.15.021029&lt;/a&gt;&lt;/strong&gt; Robust Nodal Behavior in the Thermal Conductivity of Superconducting UTe2 (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021030&quot;&gt;PhysRevX.15.021030&lt;/a&gt;&lt;/strong&gt; Theory of Electron-Phonon Interactions in Extended Correlated Systems Probed by Resonant Inelastic X-Ray Scattering (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023089&quot;&gt;PhysRevResearch.7.023089&lt;/a&gt;&lt;/strong&gt; Small-coupling dynamic cavity: A Bayesian mean-field framework for epidemic inference (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023090&quot;&gt;PhysRevResearch.7.023090&lt;/a&gt;&lt;/strong&gt; Topology and manipulation of scattering singularities in complex non-Hermitian systems: Two-channel case (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023091&quot;&gt;PhysRevResearch.7.023091&lt;/a&gt;&lt;/strong&gt; Physics-constrained superresolution diffusion for six-dimensional phase space diagnostics (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0022369725002471&quot;&gt;S0022369725002471&lt;/a&gt;&lt;/strong&gt; Thermoelectric performance of line-centered honeycomb structures under the influence of chemical potential, strain, and spin-orbit coupling (Journal of Physics and Chemistry of Solids)&lt;/p&gt;
@@ -262,9 +314,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.16166&quot;&gt;2504.16166v1&lt;/a&gt;&lt;/strong&gt; Topological Origin of Andreev Flatland in UTe2: Implication for Josephson STM Measurements (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.16176&quot;&gt;2504.16176v1&lt;/a&gt;&lt;/strong&gt; Gapfull and gapless 1D Topological Superconductivity in Spin-Orbit Coupled Bilayer Graphene (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.16179&quot;&gt;2504.16179v1&lt;/a&gt;&lt;/strong&gt; Universal giant spin Hall effect in moire metal (arXiv)&lt;/p&gt;
