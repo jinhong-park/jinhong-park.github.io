@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 May 2025 13:14:18 +0900</pubDate>
-    <lastBuildDate>Fri, 02 May 2025 13:14:18 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 03 May 2025 16:24:52 +0900</pubDate>
+    <lastBuildDate>Sat, 03 May 2025 16:24:52 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Apr 4 week 2025)</title>
@@ -18,6 +18,19 @@
 
 &lt;dd&gt;A WordCloud of 2025 Apr 4th week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 12089&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.19664&quot;&gt;2504.19664v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Orbital enhanced intrinsic nonlinear planar Hall effect for probing topological phase transition in CuTlSe2 (arXiv)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -61,6 +74,48 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02876-y&quot;&gt;s41567-025-02876-y&lt;/a&gt;&lt;/strong&gt; Experimental signature of layer skyrmions and implications for band topology in twisted WSe&lt;sub&gt;2&lt;/sub&gt; bilayers (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02902-z&quot;&gt;s41567-025-02902-z&lt;/a&gt;&lt;/strong&gt; Observation of the diffusive Nambu–Goldstone mode of a non-equilibrium phase transition (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02107-z&quot;&gt;s42005-025-02107-z&lt;/a&gt;&lt;/strong&gt; Anomalously slow hot carrier cooling and insulator-to-metal transition in a photo-doped Mott insulator (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02231-9&quot;&gt;s41563-025-02231-9&lt;/a&gt;&lt;/strong&gt; Anisotropic spin transport in proximitized graphene (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.173001&quot;&gt;PhysRevLett.134.173001&lt;/a&gt;&lt;/strong&gt; Evidence for Electron Spin-Torsion Coupling in the Rotational Spectrum of the CH3CO Radical (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.176002&quot;&gt;PhysRevLett.134.176002&lt;/a&gt;&lt;/strong&gt; Transverse Josephson Diode Effect in Tilted Dirac Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.176903&quot;&gt;PhysRevLett.134.176903&lt;/a&gt;&lt;/strong&gt; Attosecond Control of Solid-State High Harmonic Generation Using ω−3ω Fields (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.177101&quot;&gt;PhysRevLett.134.177101&lt;/a&gt;&lt;/strong&gt; Ergodicity Breaking and Scaling Relations for Finite-Time First-Order Phase Transition (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021037&quot;&gt;PhysRevX.15.021037&lt;/a&gt;&lt;/strong&gt; Experimental Mode-Pairing Quantum Key Distribution Surpassing the Repeaterless Bound (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023110&quot;&gt;PhysRevResearch.7.023110&lt;/a&gt;&lt;/strong&gt; Quadratic frequency comb based on phase-modulated cw-driven optical parametric oscillator with intracavity dispersion control (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023111&quot;&gt;PhysRevResearch.7.023111&lt;/a&gt;&lt;/strong&gt; Fröhlich versus Bose-Einstein condensation in pumped bosonic systems (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023112&quot;&gt;PhysRevResearch.7.023112&lt;/a&gt;&lt;/strong&gt; Interaction dependence of the Hall response for the Bose-Hubbard triangular ladder (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023113&quot;&gt;PhysRevResearch.7.023113&lt;/a&gt;&lt;/strong&gt; Neural network distillation of orbital dependent density functional theory (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022027&quot;&gt;PhysRevResearch.7.L022027&lt;/a&gt;&lt;/strong&gt; Emergence of $X$ states in a quantum impurity model (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022029&quot;&gt;PhysRevResearch.7.L022029&lt;/a&gt;&lt;/strong&gt; Two-dimensional hydrodynamic viscous electron flow in annular Corbino rings (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/prx/pdf/10.1103/PhysRevX.15.021032&quot;&gt;PhysRevX.15.021032&lt;/a&gt;&lt;/strong&gt; Controllable Highly Oriented Skyrmion Track Array in Bulk Fe3GaTe2 (PRX)&lt;/p&gt;
@@ -544,9 +599,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.19620&quot;&gt;2504.19620v1&lt;/a&gt;&lt;/strong&gt; From local to collective superconductivity in proximitized graphene (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.19664&quot;&gt;2504.19664v1&lt;/a&gt;&lt;/strong&gt; Orbital enhanced intrinsic nonlinear planar Hall effect for probing topological phase transition in CuTlSe2 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2504.19666&quot;&gt;2504.19666v1&lt;/a&gt;&lt;/strong&gt; Spectroscopic signature of anisotropic order parameter in Kagome lattice superconductor LaRh3B2 (arXiv)&lt;/p&gt;
