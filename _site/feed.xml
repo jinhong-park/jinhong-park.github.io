@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 May 2025 19:14:43 +0900</pubDate>
-    <lastBuildDate>Wed, 07 May 2025 19:14:43 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Thu, 08 May 2025 10:22:31 +0900</pubDate>
+    <lastBuildDate>Thu, 08 May 2025 10:22:31 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (May 1 week 2025)</title>
@@ -18,6 +18,51 @@
 
 &lt;dd&gt;A WordCloud of 2025 May 1st week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;5/8&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02114-0&quot;&gt;s42005-025-02114-0&lt;/a&gt;&lt;/strong&gt; Förster valley-orbit coupling and topological lattice of hybrid moiré excitons (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08959-3&quot;&gt;s41586-025-08959-3&lt;/a&gt;&lt;/strong&gt; Twist-programmable superconductivity in spin–orbit-coupled bilayer graphene (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08863-w&quot;&gt;s41586-025-08863-w&lt;/a&gt;&lt;/strong&gt; Superconductivity and spin canting in spin–orbit-coupled trilayer graphene (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.180602&quot;&gt;PhysRevLett.134.180602&lt;/a&gt;&lt;/strong&gt; Quantum Dynamic Programming (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.181902&quot;&gt;PhysRevLett.134.181902&lt;/a&gt;&lt;/strong&gt; Domain-Wall Skyrmion Phase in Dense QCD at Strong Magnetic Fields Using Leading-Order Chiral Perturbation Theory (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.182501&quot;&gt;PhysRevLett.134.182501&lt;/a&gt;&lt;/strong&gt; Charge Radii of Neutron-Rich Scandium Isotopes and the Seniority Symmetry in the 0f_7/2 Shell (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.183406&quot;&gt;PhysRevLett.134.183406&lt;/a&gt;&lt;/strong&gt; Thermodynamics of Spin-Imbalanced Fermi Gases with SU(N)-Symmetric Interaction (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.186301&quot;&gt;PhysRevLett.134.186301&lt;/a&gt;&lt;/strong&gt; Scattering Theory of Thermal and Bipolar Thermoelectric Diodes (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.187201&quot;&gt;PhysRevLett.134.187201&lt;/a&gt;&lt;/strong&gt; Fractals in the Critical Attractor of the Classical Sandpile Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.187401&quot;&gt;PhysRevLett.134.187401&lt;/a&gt;&lt;/strong&gt; Dynamics of Critical Cascades in Interdependent Networks (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.188302&quot;&gt;PhysRevLett.134.188302&lt;/a&gt;&lt;/strong&gt; Active-Hydraulic Flows Solve the Six-Vertex Model (and Vice Versa) (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021043&quot;&gt;PhysRevX.15.021043&lt;/a&gt;&lt;/strong&gt; Symmetry-Dependent Dielectric Screening of Optical Phonons in Monolayer Graphene (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021044&quot;&gt;PhysRevX.15.021044&lt;/a&gt;&lt;/strong&gt; Multiscale Field Theory for Network Flows (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;5/7&lt;/p&gt;
