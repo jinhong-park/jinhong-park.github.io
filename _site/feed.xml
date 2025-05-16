@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 May 2025 23:38:22 +0900</pubDate>
-    <lastBuildDate>Thu, 15 May 2025 23:38:22 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Fri, 16 May 2025 10:49:35 +0900</pubDate>
+    <lastBuildDate>Fri, 16 May 2025 10:49:35 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>weekly picks (May 2 week 2025)</title>
@@ -18,6 +18,51 @@
 
 &lt;dd&gt;A WordCloud of 2025 May 2nd week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;5/16&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adp5015&quot;&gt;science.adp5015&lt;/a&gt;&lt;/strong&gt; Anyon braiding and telegraph noise in a graphene interferometer (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.ado7136&quot;&gt;science.ado7136&lt;/a&gt;&lt;/strong&gt; Imaging quantum melting in a disordered 2D Wigner solid (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-57391-8&quot;&gt;s41467-025-57391-8&lt;/a&gt;&lt;/strong&gt; Enhanced coherence from correlated states in WSe&lt;sub&gt;2&lt;/sub&gt;/MoS&lt;sub&gt;2&lt;/sub&gt; moiré heterobilayer (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.196303&quot;&gt;PhysRevLett.134.196303&lt;/a&gt;&lt;/strong&gt; Resistivity of Non-Galilean-Invariant Two-Dimensional Dirac Systems (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.196401&quot;&gt;PhysRevLett.134.196401&lt;/a&gt;&lt;/strong&gt; Ultracritical Floquet Non-Fermi Liquid (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.196503&quot;&gt;PhysRevLett.134.196503&lt;/a&gt;&lt;/strong&gt; Distinct Terahertz Third-Harmonic Generation of Many-Body Excitonic States (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.196801&quot;&gt;PhysRevLett.134.196801&lt;/a&gt;&lt;/strong&gt; Ferroelectricity-Driven Magnetism in a Metal Halide Monolayer (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023151&quot;&gt;PhysRevResearch.7.023151&lt;/a&gt;&lt;/strong&gt; Learning Fourier series with parametrized quantum circuits (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023152&quot;&gt;PhysRevResearch.7.023152&lt;/a&gt;&lt;/strong&gt; Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023153&quot;&gt;PhysRevResearch.7.023153&lt;/a&gt;&lt;/strong&gt; Fermionic quantum simulation on Andreev bound state superlattices (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023154&quot;&gt;PhysRevResearch.7.023154&lt;/a&gt;&lt;/strong&gt; Astronomical interferometry using continuous variable quantum teleportation (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023155&quot;&gt;PhysRevResearch.7.023155&lt;/a&gt;&lt;/strong&gt; Thermal state structure in the Tavis-Cummings model and rapid simulations in mesoscopic quantum ensembles (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022035&quot;&gt;PhysRevResearch.7.L022035&lt;/a&gt;&lt;/strong&gt; Directional transport in Rydberg atom arrays via kinetic constraints and temporal modulation (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;5/15&lt;/p&gt;
