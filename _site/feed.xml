@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 May 2025 15:12:47 +0900</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 15:12:47 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 31 May 2025 15:37:55 +0900</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 15:37:55 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (May 4 week 2025)</title>
@@ -18,6 +18,65 @@
 
 &lt;dd&gt;A WordCloud of 2025 May 4th week collection&lt;/dd&gt;
 &lt;/dl&gt;
+
+&lt;p&gt;===This week’s pick===&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 15067&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2505.18550&quot;&gt;2505.18550v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Anomalous Transport Gaps of Fractional Quantum Hall Phases in Graphene Landau Levels are Induced by Spin-Valley Entangled Ground States (arXiv)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;5/31&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.210403&quot;&gt;PhysRevLett.134.210403&lt;/a&gt;&lt;/strong&gt; Exact Volume-Law Entangled Zero-Energy Eigenstates in a Large Class of Spin Models (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/s7j9-z7f8&quot;&gt;s7j9-z7f8&lt;/a&gt;&lt;/strong&gt; Spin Grouping in Ring Cavity and Its Protection on Entangled States Transfer (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.211604&quot;&gt;PhysRevLett.134.211604&lt;/a&gt;&lt;/strong&gt; Thermal Bootstrap for the Critical O(N) Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.213804&quot;&gt;PhysRevLett.134.213804&lt;/a&gt;&lt;/strong&gt; Simple yet Accurate Stochastic Approach to the Quantum Phase Noise of Nanolasers (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevLett.134.217401&quot;&gt;PhysRevLett.134.217401&lt;/a&gt;&lt;/strong&gt; Critical Demand in a Stochastic Model of Flows in Supply Networks (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021074&quot;&gt;PhysRevX.15.021074&lt;/a&gt;&lt;/strong&gt; Interplay of Nanoscale Strain and Smectic Susceptibility in Kagome Superconductors (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021075&quot;&gt;PhysRevX.15.021075&lt;/a&gt;&lt;/strong&gt; Incommensurate Antiferromagnetism in UTe2 under Pressure (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevX.15.021076&quot;&gt;PhysRevX.15.021076&lt;/a&gt;&lt;/strong&gt; Thermodynamic Evidence of Fermionic Behavior in the Vicinity of One-Ninth Plateau in a Kagome Antiferromagnet (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023206&quot;&gt;PhysRevResearch.7.023206&lt;/a&gt;&lt;/strong&gt; Quantum emitter in a plasmonic field: An orientation-generalized model (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023207&quot;&gt;PhysRevResearch.7.023207&lt;/a&gt;&lt;/strong&gt; Modeling soil as a living system: Feedback between microbial activity and spatial structure (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.023208&quot;&gt;PhysRevResearch.7.023208&lt;/a&gt;&lt;/strong&gt; Creating multibeam interference from two-beam interference with the assistance of harmonics generation (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022045&quot;&gt;PhysRevResearch.7.L022045&lt;/a&gt;&lt;/strong&gt; Plane-selective manipulations of nuclear spin qubits in a three-dimensional optical tweezer array (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022046&quot;&gt;PhysRevResearch.7.L022046&lt;/a&gt;&lt;/strong&gt; Pressure effect on the spin density wave transition in La2PrNi2O6.96 (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/PhysRevResearch.7.L022047&quot;&gt;PhysRevResearch.7.L022047&lt;/a&gt;&lt;/strong&gt; Circular dichroism in resonant inelastic x-ray scattering from birefringence in CuO (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;5/30&lt;/p&gt;
@@ -529,9 +588,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2505.18519&quot;&gt;2505.18519v1&lt;/a&gt;&lt;/strong&gt; Implementing advanced trial wave functions in fermion quantum Monte Carlo via stochastic sampling (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2505.18550&quot;&gt;2505.18550v1&lt;/a&gt;&lt;/strong&gt; Anomalous Transport Gaps of Fractional Quantum Hall Phases in Graphene Landau Levels are Induced by Spin-Valley Entangled Ground States (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2505.18578&quot;&gt;2505.18578v1&lt;/a&gt;&lt;/strong&gt; Signatures of edge states in antiferromagnetic van der Waals Josephson junctions (arXiv)&lt;/p&gt;
