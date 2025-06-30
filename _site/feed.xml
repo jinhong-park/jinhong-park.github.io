@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jun 2025 21:16:29 +0900</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 21:16:29 +0900</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 21:54:26 +0900</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 21:54:26 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -75,14 +75,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22325&quot;&gt;2506.22325v1&lt;/a&gt;&lt;/strong&gt; Site-polarized Mott phases competing with a correlated metal in twisted WSe2 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22327&quot;&gt;2506.22327v1&lt;/a&gt;&lt;/strong&gt; Terahertz time-domain signatures of the inverse Edelstein effect in topological-insulator&lt;/td&gt;
-          &lt;td&gt;ferromagnet heterostructures (arXiv)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22327&quot;&gt;2506.22327v1&lt;/a&gt;&lt;/strong&gt; Terahertz time-domain signatures of the inverse Edelstein effect in topological-insulator/ferromagnet heterostructures (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22329&quot;&gt;2506.22329v1&lt;/a&gt;&lt;/strong&gt; Enhanced thermoelectric effects in a driven one-dimensional system (arXiv)&lt;/p&gt;
@@ -114,7 +107,9 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22025&quot;&gt;2506.22025v1&lt;/a&gt;&lt;/strong&gt; Dipoles and Anyonic Directional Confinement via Twisted Toric Codes (arXiv)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22114&quot;&gt;2506.22114v1&lt;/a&gt;&lt;/strong&gt; Perfect quantum state transfer through a chaotic spin chain via many-body scars (arXiv)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22114&quot;&gt;2506.22114v1&lt;/a&gt;&lt;/strong&gt; Perfect quantum state transfer through a chaotic spin chain via many-body scars (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 </description>
