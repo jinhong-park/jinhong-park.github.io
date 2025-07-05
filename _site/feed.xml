@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Jul 2025 11:49:18 +0900</pubDate>
-    <lastBuildDate>Sat, 05 Jul 2025 11:49:18 +0900</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 12:14:26 +0900</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 12:14:26 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -78,6 +78,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.22394&quot;&gt;2506.22394&lt;/a&gt;&lt;/strong&gt; Decoherence of Majorana Qubits by 1/f Noise (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2506.20466&quot;&gt;2506.20466&lt;/a&gt;&lt;/strong&gt; Robust Tripartite Entanglement Generation via Correlated Noise in Spin Qubits (arXiv)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
