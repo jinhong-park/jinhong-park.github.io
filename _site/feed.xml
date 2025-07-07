@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jul 2025 12:38:47 +0900</pubDate>
-    <lastBuildDate>Mon, 07 Jul 2025 12:38:47 +0900</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 14:13:02 +0900</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 14:13:02 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -19,7 +19,13 @@
 &lt;dd&gt;A WordCloud of 2025 July 1st week collection&lt;/dd&gt;
 &lt;/dl&gt;
 
+&lt;hr /&gt;
+&lt;p&gt;7/07&lt;/p&gt;
+
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02276-w&quot;&gt;s41563-025-02276-w&lt;/a&gt;&lt;/strong&gt; Exploiting strained epitaxial germanium for scaling low-noise spin qubits at the micrometre scale (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://journals.aps.org/pra/abstract/10.1103/84h8-tt5y&quot;&gt;84h8-tt5y&lt;/a&gt;&lt;/strong&gt; Observation of distinct first-order and second-order topological insulators in photonic martini lattices (PRA)&lt;/p&gt;
   &lt;/li&gt;
