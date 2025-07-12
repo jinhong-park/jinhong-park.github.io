@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Jul 2025 15:41:04 +0900</pubDate>
-    <lastBuildDate>Sat, 12 Jul 2025 15:41:04 +0900</lastBuildDate>
+    <pubDate>Sat, 12 Jul 2025 15:45:36 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Jul 2025 15:45:36 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -24,13 +24,6 @@
 여기에 있는 내용은 HTML로 변환되지 않으며,
 웹페이지 소스 코드에서만 볼 수 있습니다.
 --&gt;
-
-&lt;div class=&quot;toggle-section&quot;&gt;
-  &lt;button onclick=&quot;toggleContent()&quot;&gt;내용 보기/숨기기&lt;/button&gt;
-  &lt;div id=&quot;content&quot; style=&quot;display: none;&quot;&gt;
-    이 내용은 클릭해야 보입니다.
-  &lt;/div&gt;
-&lt;/div&gt;
 
 &lt;style&gt;
   .toggle-section {
@@ -98,7 +91,7 @@
 &lt;div class=&quot;toggle-section&quot;&gt;
   &lt;button onclick=&quot;toggleContent()&quot;&gt;내용 보기/숨기기&lt;/button&gt;
   &lt;div id=&quot;content&quot; style=&quot;display: none;&quot;&gt;
-    
+
 
 ---
 07/12

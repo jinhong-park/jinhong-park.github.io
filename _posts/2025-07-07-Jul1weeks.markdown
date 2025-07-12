@@ -23,12 +23,6 @@ HTML 파일에는 아무것도 남지 않습니다.
 여러 줄을 주석 처리할 때 유용합니다.
 {% endcomment %}
 
-<div class="toggle-section">
-  <button onclick="toggleContent()">내용 보기/숨기기</button>
-  <div id="content" style="display: none;">
-    이 내용은 클릭해야 보입니다.
-  </div>
-</div>
 
 <style>
   .toggle-section {
@@ -86,10 +80,12 @@ Score : 12603
 
 
 
+
+
 <div class="toggle-section">
   <button onclick="toggleContent()">내용 보기/숨기기</button>
   <div id="content" style="display: none;">
-    {% raw %}
+
 
 ---
 07/12
@@ -875,6 +871,6 @@ Strained Monolayer Graphene (arXiv)
 1. **[s43246-025-00858-4](https://www.nature.com/articles/s43246-025-00858-4)** Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice (Communications Materials)
 
 
-{% endraw %}
+
   </div>
 </div>
