@@ -24,24 +24,6 @@ HTML 파일에는 아무것도 남지 않습니다.
 {% endcomment %}
 
 
-<style>
-  .toggle-section {
-    margin: 10px 0;
-  }
-</style>
-
-<script>
-  function toggleContent() {
-    var content = document.getElementById('content');
-    if (content.style.display === 'none') {
-      content.style.display = 'block';
-    } else {
-      content.style.display = 'none';
-    }
-  }
-</script>
-
-
 
 ===This week's pick===
 >
@@ -82,9 +64,9 @@ Score : 12603
 
 
 
-<div class="toggle-section">
-  <button onclick="toggleContent()">내용 보기/숨기기</button>
-  <div id="content" style="display: none;">
+<details>
+  <summary> click </summary>
+  {% capture markdown_content %}
 
 
 ---
@@ -871,6 +853,16 @@ Strained Monolayer Graphene (arXiv)
 1. **[s43246-025-00858-4](https://www.nature.com/articles/s43246-025-00858-4)** Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice (Communications Materials)
 
 
+ {% endcapture %}
+  {{ markdown_content | markdownify }}
+</details>
 
-  </div>
-</div>
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
+
