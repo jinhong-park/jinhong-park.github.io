@@ -65,7 +65,7 @@ Score : 12603
 
 
 <details>
-  <summary> click </summary>
+  <summary> Unfold/Fold </summary>
   {% capture markdown_content %}
 
 
