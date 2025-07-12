@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Jul 2025 15:29:05 +0900</pubDate>
-    <lastBuildDate>Sat, 12 Jul 2025 15:29:05 +0900</lastBuildDate>
+    <pubDate>Sat, 12 Jul 2025 15:41:04 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Jul 2025 15:41:04 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -24,6 +24,30 @@
 여기에 있는 내용은 HTML로 변환되지 않으며,
 웹페이지 소스 코드에서만 볼 수 있습니다.
 --&gt;
+
+&lt;div class=&quot;toggle-section&quot;&gt;
+  &lt;button onclick=&quot;toggleContent()&quot;&gt;내용 보기/숨기기&lt;/button&gt;
+  &lt;div id=&quot;content&quot; style=&quot;display: none;&quot;&gt;
+    이 내용은 클릭해야 보입니다.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  .toggle-section {
+    margin: 10px 0;
+  }
+&lt;/style&gt;
+
+&lt;script&gt;
+  function toggleContent() {
+    var content = document.getElementById(&apos;content&apos;);
+    if (content.style.display === &apos;none&apos;) {
+      content.style.display = &apos;block&apos;;
+    } else {
+      content.style.display = &apos;none&apos;;
+    }
+  }
+&lt;/script&gt;
 
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 &lt;blockquote&gt;
@@ -71,7 +95,11 @@
   &lt;/ol&gt;
 &lt;/blockquote&gt;
 
-&lt;!--
+&lt;div class=&quot;toggle-section&quot;&gt;
+  &lt;button onclick=&quot;toggleContent()&quot;&gt;내용 보기/숨기기&lt;/button&gt;
+  &lt;div id=&quot;content&quot; style=&quot;display: none;&quot;&gt;
+    
+
 ---
 07/12
 
@@ -303,7 +331,7 @@
 
 1. **[2507.06474v1](https://arxiv.org/abs/2507.06474)** Gap reopening as signature of coupling between Majorana zero modes in Sn-(Bi,Sb)2(Te,S)3-based Josephson trijunctions (arXiv)
 
-1. **[2507.06514v1](https://arxiv.org/abs/2507.06514)** Algebraic States in Continuum in  d &gt; 1 Dimensional Non-Hermitian Systems (arXiv)
+1. **[2507.06514v1](https://arxiv.org/abs/2507.06514)** Algebraic States in Continuum in  d &amp;gt; 1 Dimensional Non-Hermitian Systems (arXiv)
 
 1. **[2507.06548v1](https://arxiv.org/abs/2507.06548)** Observation of Macroscopic Nonlocal Voltage and Hydrodynamic Electron Flow at Room Temperature (arXiv)
 
@@ -812,7 +840,7 @@ Strained Monolayer Graphene (arXiv)
 1. **[3351353](https://pubs.aip.org/aip/adv/article/15/7/075304/3351353)** Observation of the effects of ultra-thin Cr and Ti layers on spin–orbit torque and Dzyaloshinskii–Moriya interaction in Co/Ni/Pt system (AIP Advances)
 
 
-1. **[3A1978788](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1978788&amp;dswid=-2844)** Vortex skyrmions in chiral d-wave superconductors (thesis)
+1. **[3A1978788](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1978788&amp;amp;dswid=-2844)** Vortex skyrmions in chiral d-wave superconductors (thesis)
 
 
 1. **[0295-5075/adeadb](https://iopscience.iop.org/article/10.1209/0295-5075/adeadb/meta)** Magnetic skyrmion as Schrödinger&apos;s cat (EPL frontiers of physics)
@@ -856,7 +884,9 @@ Strained Monolayer Graphene (arXiv)
 1. **[s43246-025-00858-4](https://www.nature.com/articles/s43246-025-00858-4)** Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice (Communications Materials)
 
 
---&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 07 Jul 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/07/Jul1weeks</link>

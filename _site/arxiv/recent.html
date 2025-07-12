@@ -188,6 +188,30 @@
 웹페이지 소스 코드에서만 볼 수 있습니다.
 -->
 
+<div class="toggle-section">
+  <button onclick="toggleContent()">내용 보기/숨기기</button>
+  <div id="content" style="display: none;">
+    이 내용은 클릭해야 보입니다.
+  </div>
+</div>
+
+<style>
+  .toggle-section {
+    margin: 10px 0;
+  }
+</style>
+
+<script>
+  function toggleContent() {
+    var content = document.getElementById('content');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+    } else {
+      content.style.display = 'none';
+    }
+  }
+</script>
+
 <p>===This week’s pick===</p>
 <blockquote>
 
@@ -234,7 +258,11 @@
   </ol>
 </blockquote>
 
-<!--
+<div class="toggle-section">
+  <button onclick="toggleContent()">내용 보기/숨기기</button>
+  <div id="content" style="display: none;">
+    
+
 ---
 07/12
 
@@ -466,7 +494,7 @@
 
 1. **[2507.06474v1](https://arxiv.org/abs/2507.06474)** Gap reopening as signature of coupling between Majorana zero modes in Sn-(Bi,Sb)2(Te,S)3-based Josephson trijunctions (arXiv)
 
-1. **[2507.06514v1](https://arxiv.org/abs/2507.06514)** Algebraic States in Continuum in  d > 1 Dimensional Non-Hermitian Systems (arXiv)
+1. **[2507.06514v1](https://arxiv.org/abs/2507.06514)** Algebraic States in Continuum in  d &gt; 1 Dimensional Non-Hermitian Systems (arXiv)
 
 1. **[2507.06548v1](https://arxiv.org/abs/2507.06548)** Observation of Macroscopic Nonlocal Voltage and Hydrodynamic Electron Flow at Room Temperature (arXiv)
 
@@ -975,7 +1003,7 @@ Strained Monolayer Graphene (arXiv)
 1. **[3351353](https://pubs.aip.org/aip/adv/article/15/7/075304/3351353)** Observation of the effects of ultra-thin Cr and Ti layers on spin–orbit torque and Dzyaloshinskii–Moriya interaction in Co/Ni/Pt system (AIP Advances)
 
 
-1. **[3A1978788](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1978788&dswid=-2844)** Vortex skyrmions in chiral d-wave superconductors (thesis)
+1. **[3A1978788](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1978788&amp;dswid=-2844)** Vortex skyrmions in chiral d-wave superconductors (thesis)
 
 
 1. **[0295-5075/adeadb](https://iopscience.iop.org/article/10.1209/0295-5075/adeadb/meta)** Magnetic skyrmion as Schrödinger's cat (EPL frontiers of physics)
@@ -1019,7 +1047,9 @@ Strained Monolayer Graphene (arXiv)
 1. **[s43246-025-00858-4](https://www.nature.com/articles/s43246-025-00858-4)** Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice (Communications Materials)
 
 
--->
+
+  </div>
+</div>
 
    </li>
     
