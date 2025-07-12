@@ -63,7 +63,7 @@ Score : 12603
 1. **[s43246-025-00858-4](https://www.nature.com/articles/s43246-025-00858-4)** **Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice (Communications materials)**
 
 
-{% comment %}
+<!--
 ---
 07/12
 
@@ -848,4 +848,4 @@ Strained Monolayer Graphene (arXiv)
 1. **[s43246-025-00858-4](https://www.nature.com/articles/s43246-025-00858-4)** Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice (Communications Materials)
 
 
-{% endcomment %}
+-->
