@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "weekly picks (Jul 2 week 2025)"
+date:   2025-07-14 00:16:27
+categories: 2025jul
+---
+
+{% include image.html url="/images/2025jul2weeks.png" caption="A WordCloud of 2025 July 2nd week collection" width=300 align="center" %}
+
+
+
+
+
+
+
+>
+Score : 
+>
+
+
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdown_content %}
+
+
+1. **[S0030399225009272](https://www.sciencedirect.com/science/article/pii/S0030399225009272)** Topological flatband of edge states for rainbow trapping in Z2 photonic crystals (Optics & Laser Technology)
+
+
+1. **[2506.06721](https://arxiv.org/pdf/2506.06721)** Electronic structure and transport in materials with flat bands: 2D materials and quasicrystals (arXiv)
+
+
+
+1. **[2506.07095](https://arxiv.org/pdf/2506.07095)** Disorder and the Robustness of Superconductivity on the Flat Band (arXiv)
+
+
+1. **[2506.07518](https://arxiv.org/pdf/2506.07518)** Structure-Informed Learning of Flat Band 2D Materials (arXiv)
+
+
+1. **[2506.05620](https://arxiv.org/pdf/2506.05620)** Magnetic Moir´e Systems: a review (arXiv)
+
+
+
+1. **[adma.202501411](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501411)**  Observation of Néel-Skyrmions in Bilayered Oxide Ferroelectrics (Advanced Materials)
+
+
+1. **[ade242](https://iopscience.iop.org/article/10.1088/1361-6528/ade242/pdf)** Reinforcement learning for optimizing magnetic skyrmion creation (Nanotechnology)
+
+
+1. **[s41567-025-02973-y](https://www.nature.com/articles/s41567-025-02973-y)** Nanophotonic quantum skyrmions enabled by semiconductor cavity quantum electrodynamics (Nature physics)
+
+
+1. **[aelm.202500130](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aelm.202500130)** Topological Skyrmion-Based Spin-Torque-Diode Effect in Magnetic Tunnel Junctions (Advanced electronic materials)
+
+1. **[55z5-cm5q](https://journals.aps.org/prmaterials/abstract/10.1103/55z5-cm5q)** Machine learning-driven prediction of skyrmion phase boundaries in 2D magnets (PRM)
+
+
+1. **[st9s-hsyr](https://journals.aps.org/prmaterials/abstract/10.1103/st9s-hsyr)** Electronic and magnetic properties of hole-doped topological kagome Fe1−𝑥⁢Mn𝑥⁢Sn thin films (PRM)
+
+
+1. **[2507.03675](https://arxiv.org/pdf/2507.03675)** Wavefunction textures in twisted bilayer graphene from first principles (arXiv)
+
+
+1. **[2507.06168](https://arxiv.org/pdf/2507.06168)** “Ideal” Topological Heavy Fermion Model in Two-dimensional Moir´e Heterostructures with Type-II Band Alignment (arXiv)
+
+
+1. **[2507.04363](https://arxiv.org/pdf/2507.04363)** Astrophysical Quantum Matter Revisited: Flat-Band Topological States on a Zero-Flux Dipole Sphere (arXiv)
+
+
+
+
+
+
+
+
+
+
+ {% endcapture %}
+  {{ markdown_content | markdownify }}
+</details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
+
