@@ -12,7 +12,6 @@ categories: 2025jul
 
 
 
-
 >
 Score : 
 >
@@ -23,6 +22,13 @@ Score :
 <details>
   <summary> Unfold/Fold </summary>
   {% capture markdown_content %}
+
+
+
+
+---
+07/14
+
 
 
 1. **[S0030399225009272](https://www.sciencedirect.com/science/article/pii/S0030399225009272)** Topological flatband of edge states for rainbow trapping in Z2 photonic crystals (Optics & Laser Technology)
@@ -73,12 +79,92 @@ Score :
 
 
 
+1. **[2507.08009v1](https://arxiv.org/abs/2507.08009)** Long-Term Stability of Superconducting Metal Superhydrides (arXiv)
+
+1. **[2507.08016v1](https://arxiv.org/abs/2507.08016)** Fractional Thouless pumping of solitons: a unique manifestation of bulk-edge correspondence of nonlinear eigenvalue problems (arXiv)
+
+1. **[2507.08032v1](https://arxiv.org/abs/2507.08032)** Ultrasensitive Magnetometer based on Cusp Points of the Photon-Magnon Synchronization Mode (arXiv)
+
+1. **[2507.08035v1](https://arxiv.org/abs/2507.08035)** Quantum theory of nonlinear electromagnetic response (arXiv)
+
+1. **[2507.08072v1](https://arxiv.org/abs/2507.08072)** Electric and spin current vortices in altermagnets (arXiv)
+
+1. **[2507.08073v1](https://arxiv.org/abs/2507.08073)** Partial suppression of magnetism in the square lattice SU(3) Hubbard model (arXiv)
+
+1. **[2507.08080v1](https://arxiv.org/abs/2507.08080)** Diagonal Isometric Form for Tensor Product States in Two Dimensions (arXiv)
+
+1. **[2507.08123v1](https://arxiv.org/abs/2507.08123)** Charge distribution and magnetism in bilayer La3Ni2O7: a hybrid functional study (arXiv)
+
+1. **[2507.08127v1](https://arxiv.org/abs/2507.08127)** Phonon mode splitting and phonon anomaly in multiband electron systems (arXiv)
+
+1. **[2507.08147v1](https://arxiv.org/abs/2507.08147)** Exciting terahertz magnons with amplitude modulated light: spin pumping, squeezed states, symmetry breaking and pattern formation (arXiv)
+
+1. **[2507.08148v1](https://arxiv.org/abs/2507.08148)** Tunable chiral and nematic states in the triple-Q antiferromagnet Co1/3TaS2 (arXiv)
+
+1. **[2507.08168v1](https://arxiv.org/abs/2507.08168)** Off-resonant light-induced topological phase transition and thermoelectric transport in semi-Dirac materials (arXiv)
+
+1. **[2507.08231v1](https://arxiv.org/abs/2507.08231)** Thermoelectric optimization and quantum-to-classical crossover in gate-controlled two-dimensional semiconducting nanojunctions (arXiv)
+
+1. **[2507.08233v1](https://arxiv.org/abs/2507.08233)** Validity of perturbation theory in calculations of magnetocrystalline anisotropy in Co-based layered systems (arXiv)
+
+1. **[2507.08276v1](https://arxiv.org/abs/2507.08276)** Symmetry-based theory of Dirac fermions on two-dimensional hyperbolic crystals: Coupling to the spin connection (arXiv)
+
+1. **[2507.08294v1](https://arxiv.org/abs/2507.08294)** Quantized order parameters of approximate symmetry for metals and insulators (arXiv)
+
+1. **[2507.08300v1](https://arxiv.org/abs/2507.08300)** Control of nonreciprocal charge transport in topological insulator/superconductor heterostructures with Fermi level tuning and superconducting-layer thickness (arXiv)
+
+1. **[2507.08398v1](https://arxiv.org/abs/2507.08398)** Strengthened correlations near [110] edges of d-wave superconductors in the t-J model with the Gutzwiller approximation (arXiv)
+
+1. **[2507.08407v1](https://arxiv.org/abs/2507.08407)** Thermodynamic theory of square skyrmion lattice in tetragonal frustrated antiferromagnets (arXiv)
+
+1. **[2507.08450v1](https://arxiv.org/abs/2507.08450)** Modulation of energy and angular momentum radiation of two-dimensional altermagnets (arXiv)
+
+1. **[2507.08485v1](https://arxiv.org/abs/2507.08485)** Quantum register based on double quantum dots in semiconductor nanowires (arXiv)
+
+1. **[2507.08531v1](https://arxiv.org/abs/2507.08531)** Hydrogen toggling between Yoshimori spin spirals and elliptical Dzyaloshinskii-Moriya skyrmions in Fe on Ir(110) (arXiv)
+
+1. **[2507.08668v1](https://arxiv.org/abs/2507.08668)** Chiral-split magnons in the S = 1 Shastry-Sutherland model (arXiv)
+
+1. **[2507.08740v1](https://arxiv.org/abs/2507.08740)** Microscopic Scattering Approach to In-Gap States: Cr Adatoms on Superconducting \beta-Bi2Pd (arXiv)
+
+1. **[2507.08750v1](https://arxiv.org/abs/2507.08750)** Screened superexchange mechanism for superconductivity applied to cuprates (arXiv)
+
+1. **[2507.08756v1](https://arxiv.org/abs/2507.08756)** Suppression of Intertwined Density Waves in La4Ni3-xCuxO10+\delta (arXiv)
+
+1. **[2507.08785v1](https://arxiv.org/abs/2507.08785)** Probing electron spin dynamics in single telecom InAs(P)/InP quantum dots using the Hanle effect (arXiv)
+
+1. **[2507.08795v1](https://arxiv.org/abs/2507.08795)** Distinct Lifetimes for X and Z Loop Measurements in a Majorana Tetron Device (arXiv)
+
+1. **[2507.08088v1](https://arxiv.org/abs/2507.08088)** Real-Time Dynamics in a (2+1)-D Gauge Theory: The Stringy Nature on a Superconducting Quantum Simulator (arXiv)
+
+1. **[2507.08089v1](https://arxiv.org/abs/2507.08089)** Improving Transmon Qubit Performance with Fluorine-based Surface Treatments (arXiv)
+
+1. **[2507.08171v1](https://arxiv.org/abs/2507.08171)** Emergent Harmonics in Josephson Tunnel Junctions Due to Series Inductance (arXiv)
+
+1. **[2507.08206v1](https://arxiv.org/abs/2507.08206)** Exponential onset of scalable entanglement via twist-and-turn dynamics in XY models (arXiv)
+
+1. **[2507.08279v1](https://arxiv.org/abs/2507.08279)** Sensitive infrared surface photovoltage in quasi-equilibrium in a layered semiconductor at low-intensity low-temperature condition (arXiv)
+
+1. **[2507.08292v1](https://arxiv.org/abs/2507.08292)** Rocksalt rare-earth monoxides as electronic and magnetic materials (arXiv)
+
+1. **[2507.08418v1](https://arxiv.org/abs/2507.08418)** Continuous-time parametrization of neural quantum states for quantum dynamics (arXiv)
+
+1. **[2507.08419v1](https://arxiv.org/abs/2507.08419)** Observation of quasi-steady dark excitons and gap phase in a doped semiconductor (arXiv)
+
+1. **[2507.08535v1](https://arxiv.org/abs/2507.08535)** Emergent Softening and Stiffening Dictate Transport of Active Filaments (arXiv)
+
+1. **[2507.08661v1](https://arxiv.org/abs/2507.08661)** Time correlations from steady-state expectation values (arXiv)
+
+1. **[2507.08694v1](https://arxiv.org/abs/2507.08694)** Free phases of Majorana fermions: Tenfold ways compared (arXiv)
 
 
 
- {% endcapture %}
+
+
+
+  {% endcapture %}
   {{ markdown_content | markdownify }}
-</details>
+ </details>
 
 <style>
   details {
@@ -88,4 +174,3 @@ Score :
     cursor: pointer;
   }
 </style>
-
