@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Jul 2025 14:45:32 +0900</pubDate>
-    <lastBuildDate>Sat, 19 Jul 2025 14:45:32 +0900</lastBuildDate>
+    <pubDate>Sat, 19 Jul 2025 14:52:20 +0900</pubDate>
+    <lastBuildDate>Sat, 19 Jul 2025 14:52:20 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -59,7 +59,7 @@
 
 &lt;blockquote&gt;
 
-  &lt;p&gt;Score : 11778&lt;/p&gt;
+  &lt;p&gt;Score : 11800&lt;/p&gt;
 
   &lt;ol&gt;
     &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2507.09112&quot;&gt;2507.09112v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Tunneling spin Hall effect induced by unconventional p-wave magnetism (arXiv)&lt;/strong&gt;&lt;/li&gt;
@@ -68,10 +68,19 @@
 
 &lt;blockquote&gt;
 
-  &lt;p&gt;Score :&lt;/p&gt;
+  &lt;p&gt;Score : 11778&lt;/p&gt;
 
   &lt;ol&gt;
-    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2507.09476&quot;&gt;2507.09476v1&lt;/a&gt;&lt;/strong&gt; Magnetic control of nonlinear transport induced by the quantum metric (arXiv)&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2507.09476&quot;&gt;2507.09476v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic control of nonlinear transport induced by the quantum metric (arXiv)&lt;/strong&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;Score : 11407&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2507.09316&quot;&gt;2507.09316v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Quantum Anomalous Hall Effect in Flat Bands with Paramagnetism (arXiv)&lt;/strong&gt;&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/blockquote&gt;
 
@@ -709,9 +718,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2507.09147&quot;&gt;2507.09147v1&lt;/a&gt;&lt;/strong&gt; Evidence for magnetoelastic coupling and chiral magnetic ground state in quasi-van der Waals tr-Cr1.22Te2 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2507.09316&quot;&gt;2507.09316v1&lt;/a&gt;&lt;/strong&gt; Quantum Anomalous Hall Effect in Flat Bands with Paramagnetism (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2507.09418&quot;&gt;2507.09418v1&lt;/a&gt;&lt;/strong&gt; Topological in-gap chiral edge states in superconducting Haldane model with spin-orbit coupling (arXiv)&lt;/p&gt;
