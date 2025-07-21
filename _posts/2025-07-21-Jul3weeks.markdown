@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "weekly picks (Jul 3 week 2025)"
+date:   2025-07-21 00:16:27
+categories: 2025jul
+---
+
+{% include image.html url="/images/2025jul3weeks.png" caption="A WordCloud of 2025 July 3rd week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+---
+07/21
+
+1. **[s41467-025-61735-9](https://www.nature.com/articles/s41467-025-61735-9)** Theoretical framework for confined ion transport in two-dimensional nanochannels (Nature Communications)
+
+
+
+1. **[2507.13418v1](https://arxiv.org/abs/2507.13418)** The Hofstadter Butterfly: Bridging Condensed Matter, Topology, and Number Theory (arXiv)
+
+1. **[2507.13513v1](https://arxiv.org/abs/2507.13513)** Lattice-charge coupling in a trilayer nickelate with intertwined density wave order (arXiv)
+
+1. **[2507.13536v1](https://arxiv.org/abs/2507.13536)** High-performance amorphous superconducting rhenium films by e-beam evaporation (arXiv)
+
+1. **[2507.13606v1](https://arxiv.org/abs/2507.13606)** Magnon-induced topological phases (arXiv)
+
+1. **[2507.13688v1](https://arxiv.org/abs/2507.13688)** Topological Majorana flat bands in the Kitaev model on a Bishamon-kikko lattice (arXiv)
+
+1. **[2507.13694v1](https://arxiv.org/abs/2507.13694)** Strain-Engineered Electronic Structure and Superconductivity in La3Ni2O7 Thin Films (arXiv)
+
+1. **[2507.13699v1](https://arxiv.org/abs/2507.13699)** Spin-Electric Control of Individual Molecules on Surfaces (arXiv)
+
+1. **[2507.13714v1](https://arxiv.org/abs/2507.13714)** Enhancing Coherence with a Clock Transition and Dynamical Decoupling in the Cr7Mn Molecular Nanomagnet (arXiv)
+
+1. **[2507.13760v1](https://arxiv.org/abs/2507.13760)** Investigation of competing magnetic orders and the associated spin-phonon coupling effect in quasi-2D Cr1+xTe2 (x = 0.22) single crystal (arXiv)
+
+1. **[2507.13781v1](https://arxiv.org/abs/2507.13781)** Resonant two-qubit gates for fermionic simulations with spin qubits (arXiv)
+
+1. **[2507.13796v1](https://arxiv.org/abs/2507.13796)** Intraband circular photogalvanic effect in Weyl semimetals (arXiv)
+
+1. **[2507.13816v1](https://arxiv.org/abs/2507.13816)** Resonant Photoluminescence of Quantum Incompressible Liquids (arXiv)
+
+1. **[2507.13838v1](https://arxiv.org/abs/2507.13838)** Tuning the Surface States of Fe3O4 Nanoparticles for Enhanced Magnetic Anisotropy and Induction Efficacy (arXiv)
+
+1. **[2507.13843v1](https://arxiv.org/abs/2507.13843)** Sizable superconducting gap and anisotropic chiral topological superconductivity in the Weyl semimetal PtBi2 (arXiv)
+
+1. **[2507.13877v1](https://arxiv.org/abs/2507.13877)** Exact ground state on the 3D analogue of the Shastry-Sutherland model (arXiv)
+
+1. **[2507.13962v1](https://arxiv.org/abs/2507.13962)** Alignment behavior of 2D diopsides (d-silicates) under the influence of an AC electric field (arXiv)
+
+1. **[2507.13967v1](https://arxiv.org/abs/2507.13967)** Excitonic Insulator and the Extended Falicov--Kimball Model Away from Half-Filling (arXiv)
+
+1. **[2507.14028v1](https://arxiv.org/abs/2507.14028)** Density Matrix Geometry and Sum Rules (arXiv)
+
+1. **[2507.14065v1](https://arxiv.org/abs/2507.14065)** Predicting interface and spin states in armchair graphene nanoribbon junctions (arXiv)
+
+1. **[2507.14074v1](https://arxiv.org/abs/2507.14074)** Emergent topology by Landau level mixing in quantum Hall-superconductor nanostructures (arXiv)
+
+1. **[2507.14108v1](https://arxiv.org/abs/2507.14108)** Fast charge noise sensing using a spectator valley state in a singlet-triplet qubit (arXiv)
+
+1. **[2507.13427v1](https://arxiv.org/abs/2507.13427)** Two-photon coupling via Josephson element II: Interaction renormalizations and cross-Kerr coupling (arXiv)
+
+1. **[2507.13437v1](https://arxiv.org/abs/2507.13437)** Free Fermion Dynamics with Measurements: Topological Classification and Adaptive Preparation of Topological States (arXiv)
+
+1. **[2507.13444v1](https://arxiv.org/abs/2507.13444)** Emergent cavity-QED dynamics along the edge of a photonic lattice (arXiv)
+
+1. **[2507.13496v1](https://arxiv.org/abs/2507.13496)** Growing Sparse Quantum Codes from a Seed (arXiv)
+
+1. **[2507.13784v1](https://arxiv.org/abs/2507.13784)** Room-Temperature Surface Exciton Polaritons in Colloidal J-Aggregate Flakes (arXiv)
+
+1. **[2507.13840v1](https://arxiv.org/abs/2507.13840)** Quantifying mixed-state entanglement via partial transpose and realignment moments (arXiv)
+
+1. **[2507.13862v1](https://arxiv.org/abs/2507.13862)** Role of quantum state texture in probing resource theories and quantum phase transition (arXiv)
+
+1. **[2507.14092v1](https://arxiv.org/abs/2507.14092)** Ex Situ Fabrication of Superconducting Nanostructures for Low-Temperature STM (arXiv)
+
+1. **[2507.14135v1](https://arxiv.org/abs/2507.14135)** Do mixed states exhibit deep thermalisation? (arXiv)
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
