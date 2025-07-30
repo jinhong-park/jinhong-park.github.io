@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Jul 2025 13:20:18 +0900</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 13:20:18 +0900</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 12:15:15 +0900</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 12:15:15 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -29,6 +29,27 @@
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;07/30&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02174-2&quot;&gt;s42005-025-02174-2&lt;/a&gt;&lt;/strong&gt; Pressure tuning of Kitaev spin liquid candidate Na&lt;sub&gt;3&lt;/sub&gt;Co&lt;sub&gt;2&lt;/sub&gt;SbO&lt;sub&gt;6&lt;/sub&gt; (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/lvb9-pfr3&quot;&gt;lvb9-pfr3&lt;/a&gt;&lt;/strong&gt; Direct Implementation of High-Fidelity Three-Qubit Gates for Superconducting Processor with Tunable Couplers (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/pgnx-11ph&quot;&gt;pgnx-11ph&lt;/a&gt;&lt;/strong&gt; Approximately Symmetric Neural Networks for Quantum Spin Liquids (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/l8lg-ny6m&quot;&gt;l8lg-ny6m&lt;/a&gt;&lt;/strong&gt; Inelastic Tunneling into Multipolaronic Bound States in Single-Layer MoS2 (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.18.s100&quot;&gt;Physics.18.s100&lt;/a&gt;&lt;/strong&gt; Making Small Free-Electron Lasers More Reliable (Physics)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;07/29&lt;/p&gt;
 
@@ -55,10 +76,10 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/yr6z-mtyq&quot;&gt;yr6z-mtyq&lt;/a&gt;&lt;/strong&gt; Universal Efimov Scaling in the Rabi-Coupled Few-Body Spectrum (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/4zbf-rkbl&quot;&gt;4zbf-rkbl&lt;/a&gt;&lt;/strong&gt; Reversible Phase Transition Enables Rapid Electrical Switching in Multilayer {\mathrm{MoTe}}_{2 under Cyclic Strain (PRL)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/4zbf-rkbl&quot;&gt;4zbf-rkbl&lt;/a&gt;&lt;/strong&gt; Reversible Phase Transition Enables Rapid Electrical Switching in Multilayer MoTe2 under Cyclic Strain (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/yllv-5zx7&quot;&gt;yllv-5zx7&lt;/a&gt;&lt;/strong&gt; Quasiparticle Gap Renormalization Driven by Internal and External Screening in a {\mathrm{WS}}_{2 Device (PRL)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/yllv-5zx7&quot;&gt;yllv-5zx7&lt;/a&gt;&lt;/strong&gt; Quasiparticle Gap Renormalization Driven by Internal and External Screening in a WS2 Device (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/29ht-pwyt&quot;&gt;29ht-pwyt&lt;/a&gt;&lt;/strong&gt; Manipulation of Topology by Electric Field in Breathing Kagome Lattice (PRL)&lt;/p&gt;
