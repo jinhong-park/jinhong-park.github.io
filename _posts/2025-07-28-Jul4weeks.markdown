@@ -519,7 +519,7 @@ categories: 2025jul
 
 
   {% endcapture %}
-  {{ markdowncontent | markdownify 
+  {{ markdowncontent | markdownify }}
  </details>
 
 <style>
