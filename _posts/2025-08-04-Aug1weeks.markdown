@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "weekly picks (Aug 1 week 2025)"
+date:   2025-08-04 00:16:27
+categories: 2025aug
+---
+
+{% include image.html url="/images/2025aug1weeks.png" caption="A WordCloud of 2025 Aug 1st week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+1. **[s41598-025-13372-x](https://www.nature.com/articles/s41598-025-13372-x)** Highly robust anisotropic zero refraction effects in semi-Dirac photonic crystals (Scientific Reports)
+
+
+
+
+1. **[2508.00058v1](https://arxiv.org/abs/2508.00058)** Anyon superfluid in trilayer quantum Hall systems (arXiv)
+
+1. **[2508.00118v1](https://arxiv.org/abs/2508.00118)** Dynamical mean field theory with quantum computing (arXiv)
+
+1. **[2508.00214v1](https://arxiv.org/abs/2508.00214)** Explicit equivalence between the spectral localizer and local Chern and winding markers (arXiv)
+
+1. **[2508.00277v1](https://arxiv.org/abs/2508.00277)** The Quadrupole Moment of Higher-Order Topological Insulator at Finite temperature (arXiv)
+
+1. **[2508.00296v1](https://arxiv.org/abs/2508.00296)** High harmonic generation reflecting the sub-cycle evolution of the Mott transition under a mid-infrared electric field (arXiv)
+
+1. **[2508.00342v1](https://arxiv.org/abs/2508.00342)** Uniform electronic states and s-wave superconductivity in a strongly disordered high-entropy compound (RuRhPdIr)0.6Pt0.4Sb (arXiv)
+
+1. **[2508.00347v1](https://arxiv.org/abs/2508.00347)** Self-strain suppression of the metal-to-insulator transition in phase-change oxide devices (arXiv)
+
+1. **[2508.00435v1](https://arxiv.org/abs/2508.00435)** Gapless superconductivity from extremely dilute magnetic disorder in 2H-NbSe2-xSx (arXiv)
+
+1. **[2508.00446v1](https://arxiv.org/abs/2508.00446)** Precision high-speed quantum logic with holes on a natural silicon foundry platform (arXiv)
+
+1. **[2508.00460v1](https://arxiv.org/abs/2508.00460)** Hybrid magnon -- Nambu-Goldstone excitations in topological superconductor/ferromagnetic insulator thin-film heterostructures (arXiv)
+
+1. **[2508.00469v1](https://arxiv.org/abs/2508.00469)** Quantum Geometry Phenomena in Condensed Matter Systems (arXiv)
+
+1. **[2508.00499v1](https://arxiv.org/abs/2508.00499)** Theory of hybrid collective excitations in topological superconductor/ferromagnetic insulator heterostructures (arXiv)
+
+1. **[2508.00519v1](https://arxiv.org/abs/2508.00519)** Localized states and skin effect around non-Hermitian impurities in tight-binding models (arXiv)
+
+1. **[2508.00560v1](https://arxiv.org/abs/2508.00560)** Wave-mixing cathodoluminescence microscopy of low-frequency excitations (arXiv)
+
+1. **[2508.00566v1](https://arxiv.org/abs/2508.00566)** Triplet correlations in superconductor/antiferromagnet heterostructures: dependence on type of antiferromagnetic ordering (arXiv)
+
+1. **[2508.00655v1](https://arxiv.org/abs/2508.00655)** Electronic properties of Kagome metal YbV3Sb4: A First-Principles Study (arXiv)
+
+1. **[2508.00821v1](https://arxiv.org/abs/2508.00821)** Chiral anomaly-induced nonlinear Hall effect in spin-orbit coupled noncentrosymmetric metals (arXiv)
+
+1. **[2309.03382v1](https://arxiv.org/abs/2309.03382)** Vector spin Seebeck effect and spin swapping effect in antiferromagnetic insulators with non-collinear spin structure (arXiv)
+
+1. **[2508.00082v1](https://arxiv.org/abs/2508.00082)** Switchable Exchange Bias Resulting from Correlated Domain Structures in Orthogonally Coupled Antiferromagnet/Ferromagnet van der Waals Heterostructures (arXiv)
+
+1. **[2508.00139v1](https://arxiv.org/abs/2508.00139)** Effective 2D Envelope Function Theory for Silicon Quantum Dots (arXiv)
+
+1. **[2508.00254v1](https://arxiv.org/abs/2508.00254)** Breakdown of Fermi's Golden Rule in 1d systems at non-zero temperature (arXiv)
+
+1. **[2508.00313v1](https://arxiv.org/abs/2508.00313)** Large phonon-drag thermopower polarity reversal in Ba-doped KTaO3 (arXiv)
+
+1. **[2508.00430v1](https://arxiv.org/abs/2508.00430)** The effect of dephasing and spin-lattice relaxation during the switching processes in quantum antiferromagnets (arXiv)
+
+1. **[2508.00437v1](https://arxiv.org/abs/2508.00437)** Replacement-Type Quantum Gates (arXiv)
+
+1. **[2508.00465v1](https://arxiv.org/abs/2508.00465)** Photon-mediated interactions and dynamics of coherently driven quantum emitters in complex photonic environments (arXiv)
+
+1. **[2508.00704v1](https://arxiv.org/abs/2508.00704)** XANES absorption spectra of penta-graphene and penta-SiC2 with different terminations: a computational study (arXiv)
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
