@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "weekly picks (Aug 2 week 2025)"
+date:   2025-08-11 00:16:27
+categories: 2025aug
+---
+
+{% include image.html url="/images/2025aug2weeks.png" caption="A WordCloud of 2025 Aug 2nd week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score :
+
+
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+1. **[2508.05750v1](https://arxiv.org/abs/2508.05750)** Universal Magnetocaloric Effect near Quantum Critical Point of Magnon Bose-Einstein Condensation (arXiv)
+
+1. **[2508.05796v1](https://arxiv.org/abs/2508.05796)** Observing Differential Spin Currents by Resonant Inelastic X-ray Scattering (arXiv)
+
+1. **[2508.05868v1](https://arxiv.org/abs/2508.05868)** Spin-resolved Josephson diode effect through strongly spin-polarized conical magnets (arXiv)
+
+1. **[2508.05870v1](https://arxiv.org/abs/2508.05870)** Isolated spin ladders in Ln2Ti9Sb11 (Ln:La-Nd) metals (arXiv)
+
+1. **[2508.05912v1](https://arxiv.org/abs/2508.05912)** Quantum Hall Resistance and Quantum Hall Plateaus from Edge State Quantization (arXiv)
+
+1. **[2508.05971v1](https://arxiv.org/abs/2508.05971)** Photodynamic melting of phase-reversed charge stripes and enhanced condensation (arXiv)
+
+1. **[2508.06007v1](https://arxiv.org/abs/2508.06007)** Reconstructing Critical Current Density in Josephson Junctions with Phase Non-linearity (arXiv)
+
+1. **[2508.06018v1](https://arxiv.org/abs/2508.06018)** Magic Entropy in Hybrid Spin-Boson Systems (arXiv)
+
+1. **[2508.06027v1](https://arxiv.org/abs/2508.06027)** Analysis of Spin Current Generation by Elastic Waves in f-wave Altermagnets (arXiv)
+
+1. **[2508.06083v1](https://arxiv.org/abs/2508.06083)** Scalable High-Temperature Superconducting Diodes in Intrinsic Josephson Junctions (arXiv)
+
+1. **[2508.06173v1](https://arxiv.org/abs/2508.06173)** mu_2T(n): A Method for Extracting the Density Dependent Mobility in Two-Terminal Nanodevices (arXiv)
+
+1. **[2508.06180v1](https://arxiv.org/abs/2508.06180)** Finite Length Effects and Coulomb Interaction in Ge Quantum Well-Based Josephson Junctions Probed with Microwave Spectroscopy (arXiv)
+
+1. **[2508.06195v1](https://arxiv.org/abs/2508.06195)** Enhancing Plasmonic Superconductivity in Layered Materials via Dynamical Coulomb Engineering (arXiv)
+
+1. **[2508.06403v1](https://arxiv.org/abs/2508.06403)** Gate reflectometry in a minimal Kitaev chain device (arXiv)
+
+1. **[2508.06440v1](https://arxiv.org/abs/2508.06440)** Multiorbital character of the density wave instability in La4Ni3O10 (arXiv)
+
+1. **[2508.06464v1](https://arxiv.org/abs/2508.06464)** Observation of momentum dependent charge density wave gap in EuTe4 (arXiv)
+
+1. **[2508.06466v1](https://arxiv.org/abs/2508.06466)** Simulating Floquet non-Abelian topological insulator with photonic quantum walks (arXiv)
+
+1. **[2508.05736v1](https://arxiv.org/abs/2508.05736)** Role of Plaquette Term in Genuine 2+1D String Dynamics on Quantum Simulators (arXiv)
+
+1. **[2508.05737v1](https://arxiv.org/abs/2508.05737)** Quantum criticality and nonequilibrium dynamics on a Lieb lattice of Rydberg atoms (arXiv)
+
+1. **[2508.05738v1](https://arxiv.org/abs/2508.05738)** A quantum computing approach to efficiently simulating correlated materials using impurity models and dynamical mean field theory (arXiv)
+
+1. **[2508.05906v1](https://arxiv.org/abs/2508.05906)** A spin-embedded diamond optomechanical resonator with mechanical quality factor exceeding one million (arXiv)
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
