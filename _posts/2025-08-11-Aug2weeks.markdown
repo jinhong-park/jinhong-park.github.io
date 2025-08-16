@@ -13,7 +13,19 @@ categories: 2025aug
 ===This week's pick===
 
 
-* Score :
+* Score : 13317
+
+**[2508.07364v1](https://arxiv.org/abs/2508.07364)** **Magnetic Field Induced Quantum Metric Dipole in Dirac Semimetal Cd3As2 (arXiv)**
+
+
+* Score : 13264
+
+**[2508.07639v1](https://arxiv.org/abs/2508.07639)** Magnetic and Crystal Symmetry Effects on Spin Hall Conductivity in Altermagnets (arXiv)
+
+* Score : 
+
+
+
 
 
 
@@ -21,6 +33,40 @@ categories: 2025aug
 <details>
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+
+
+1. **[s41467-025-62893-6](https://www.nature.com/articles/s41467-025-62893-6)** Total X-ray scattering and big-box modeling of pressure-induced local disorder and partial amorphization in CsPbBr<sub>3</sub> (Nature Communications)
+
+1. **[s41467-025-63048-3](https://www.nature.com/articles/s41467-025-63048-3)** Fatigue-free ferroelectricity in Hf<sub>0.5</sub>Zr<sub>0.5</sub>O<sub>2</sub> ultrathin films via interfacial design (Nature Communications)
+
+1. **[s41467-025-62830-7](https://www.nature.com/articles/s41467-025-62830-7)** Long spin lifetimes of charge carriers in rubrene crystals due to fast transient-localization motion (Nature Communications)
+
+1. **[s41567-025-02990-x](https://www.nature.com/articles/s41567-025-02990-x)** Efficient implementation of arbitrary two-qubit gates using unified control (Nature Physics)
+
+1. **[s42005-025-02261-4](https://www.nature.com/articles/s42005-025-02261-4)** Variational optimization for quantum problems using deep generative networks (Communications Physics)
+
+1. **[s41563-025-02326-3](https://www.nature.com/articles/s41563-025-02326-3)** Unconventional scaling of the orbital Hall effect (Nature Materials)
+
+1. **[d41586-025-02577-9](https://www.nature.com/articles/d41586-025-02577-9)** AI helps assemble ‘brain’ of future quantum computer (Nature)
+
+1. **[s41598-025-02320-4](https://www.nature.com/articles/s41598-025-02320-4)** Prediction of coal and gas outbursts based on physics informed neural networks and traditional machine learning models (Scientific Reports)
+
+1. **[gfl2-bsjk](http://link.aps.org/doi/10.1103/gfl2-bsjk)** Nonlinear Transverse Conductivity in Antiferroic Types of Magnetic Toroidal Metal (PRL)
+
+1. **[mzyy-thjq](http://link.aps.org/doi/10.1103/mzyy-thjq)** Direct Evidence of Intrinsic Mott State and Its Layer-Parity Oscillation in a Breathing Kagome Crystal Down to Monolayer (PRL)
+
+1. **[s25y-s4fj](http://link.aps.org/doi/10.1103/s25y-s4fj)** Hyperbolic Spin Liquids (PRL)
+
+1. **[txdw-nqvn](http://link.aps.org/doi/10.1103/txdw-nqvn)** Coherent Dynamics of Molecular Vibrations in Single Plasmonic Nanogaps (PRL)
+
+1. **[4hx7-xnhw](http://link.aps.org/doi/10.1103/4hx7-xnhw)** Quantum algorithms for cooling: A simple case study (PRR)
+
+1. **[fqq1-9f52](http://link.aps.org/doi/10.1103/fqq1-9f52)** Equilibrium nonlinear phononics by electric field fluctuations of terahertz cavities (PRR)
+
 
 
 ---
@@ -201,7 +247,7 @@ categories: 2025aug
 
 1. **[2508.07322v1](https://arxiv.org/abs/2508.07322)** Conical Intersections Shed Light on Hot Carrier Cooling in Quantum Dots (arXiv)
 
-1. **[2508.07364v1](https://arxiv.org/abs/2508.07364)** Magnetic Field Induced Quantum Metric Dipole in Dirac Semimetal Cd3As2 (arXiv)
+
 
 1. **[2508.07366v1](https://arxiv.org/abs/2508.07366)** Non-Abelian Chern band in rhombohedral graphene multilayers (arXiv)
 
@@ -275,7 +321,7 @@ categories: 2025aug
 
 1. **[2508.07475v1](https://arxiv.org/abs/2508.07475)** Secondary finite-size effects and multi-barrier free energy landscapes in molecular simulations of hindered ion transport (arXiv)
 
-1. **[2508.07639v1](https://arxiv.org/abs/2508.07639)** Magnetic and Crystal Symmetry Effects on Spin Hall Conductivity in Altermagnets (arXiv)
+
 
 1. **[2508.07645v1](https://arxiv.org/abs/2508.07645)** Time Ordering Effects and Destruction of Quasiparticles in Two-dimensional Holographic CFTs (arXiv)
 

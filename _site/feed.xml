@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Aug 2025 13:12:38 +0900</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 13:12:38 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 16 Aug 2025 16:53:28 +0900</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 16:53:28 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Aug 2 week 2025)</title>
@@ -22,6 +22,18 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Score : 13317&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07364&quot;&gt;2508.07364v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic Field Induced Quantum Metric Dipole in Dirac Semimetal Cd3As2 (arXiv)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 13264&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07639&quot;&gt;2508.07639v1&lt;/a&gt;&lt;/strong&gt; Magnetic and Crystal Symmetry Effects on Spin Hall Conductivity in Altermagnets (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;Score :&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -29,6 +41,51 @@
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-62893-6&quot;&gt;s41467-025-62893-6&lt;/a&gt;&lt;/strong&gt; Total X-ray scattering and big-box modeling of pressure-induced local disorder and partial amorphization in CsPbBr&lt;sub&gt;3&lt;/sub&gt; (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-63048-3&quot;&gt;s41467-025-63048-3&lt;/a&gt;&lt;/strong&gt; Fatigue-free ferroelectricity in Hf&lt;sub&gt;0.5&lt;/sub&gt;Zr&lt;sub&gt;0.5&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; ultrathin films via interfacial design (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-62830-7&quot;&gt;s41467-025-62830-7&lt;/a&gt;&lt;/strong&gt; Long spin lifetimes of charge carriers in rubrene crystals due to fast transient-localization motion (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-02990-x&quot;&gt;s41567-025-02990-x&lt;/a&gt;&lt;/strong&gt; Efficient implementation of arbitrary two-qubit gates using unified control (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02261-4&quot;&gt;s42005-025-02261-4&lt;/a&gt;&lt;/strong&gt; Variational optimization for quantum problems using deep generative networks (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02326-3&quot;&gt;s41563-025-02326-3&lt;/a&gt;&lt;/strong&gt; Unconventional scaling of the orbital Hall effect (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-025-02577-9&quot;&gt;d41586-025-02577-9&lt;/a&gt;&lt;/strong&gt; AI helps assemble ‘brain’ of future quantum computer (Nature)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-02320-4&quot;&gt;s41598-025-02320-4&lt;/a&gt;&lt;/strong&gt; Prediction of coal and gas outbursts based on physics informed neural networks and traditional machine learning models (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/gfl2-bsjk&quot;&gt;gfl2-bsjk&lt;/a&gt;&lt;/strong&gt; Nonlinear Transverse Conductivity in Antiferroic Types of Magnetic Toroidal Metal (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/mzyy-thjq&quot;&gt;mzyy-thjq&lt;/a&gt;&lt;/strong&gt; Direct Evidence of Intrinsic Mott State and Its Layer-Parity Oscillation in a Breathing Kagome Crystal Down to Monolayer (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/s25y-s4fj&quot;&gt;s25y-s4fj&lt;/a&gt;&lt;/strong&gt; Hyperbolic Spin Liquids (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/txdw-nqvn&quot;&gt;txdw-nqvn&lt;/a&gt;&lt;/strong&gt; Coherent Dynamics of Molecular Vibrations in Single Plasmonic Nanogaps (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/4hx7-xnhw&quot;&gt;4hx7-xnhw&lt;/a&gt;&lt;/strong&gt; Quantum algorithms for cooling: A simple case study (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/fqq1-9f52&quot;&gt;fqq1-9f52&lt;/a&gt;&lt;/strong&gt; Equilibrium nonlinear phononics by electric field fluctuations of terahertz cavities (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;08/13&lt;/p&gt;
 
@@ -262,9 +319,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07322&quot;&gt;2508.07322v1&lt;/a&gt;&lt;/strong&gt; Conical Intersections Shed Light on Hot Carrier Cooling in Quantum Dots (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07364&quot;&gt;2508.07364v1&lt;/a&gt;&lt;/strong&gt; Magnetic Field Induced Quantum Metric Dipole in Dirac Semimetal Cd3As2 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07366&quot;&gt;2508.07366v1&lt;/a&gt;&lt;/strong&gt; Non-Abelian Chern band in rhombohedral graphene multilayers (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -371,9 +425,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07475&quot;&gt;2508.07475v1&lt;/a&gt;&lt;/strong&gt; Secondary finite-size effects and multi-barrier free energy landscapes in molecular simulations of hindered ion transport (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07639&quot;&gt;2508.07639v1&lt;/a&gt;&lt;/strong&gt; Magnetic and Crystal Symmetry Effects on Spin Hall Conductivity in Altermagnets (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07645&quot;&gt;2508.07645v1&lt;/a&gt;&lt;/strong&gt; Time Ordering Effects and Destruction of Quasiparticles in Two-dimensional Holographic CFTs (arXiv)&lt;/p&gt;
