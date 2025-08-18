@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "weekly picks (Aug 3 week 2025)"
+date:   2025-08-18 00:16:27
+categories: 2025aug
+---
+
+{% include image.html url="/images/2025aug3weeks.png" caption="A WordCloud of 2025 Aug 3rd week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+
+
+
+
+
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+1. **[s41467-025-62827-2](https://www.nature.com/articles/s41467-025-62827-2)** Reconfigurable single-walled carbon nanotube ferroelectric field-effect transistors (Nature Communications)
+
+
+
+1. **[2508.10912v1](https://arxiv.org/abs/2508.10912)** Superconductivity in atom-intercalated quaternary hydrides under ambient pressure (arXiv)
+
+1. **[2508.10957v1](https://arxiv.org/abs/2508.10957)** Gapped spinful phases obtained via Gutzwiller projections of Euler states (arXiv)
+
+1. **[2508.11003v1](https://arxiv.org/abs/2508.11003)** Spontaneously Broken Non-Invertible Symmetries in Transverse-Field Ising Qudit Chains (arXiv)
+
+1. **[2508.11018v1](https://arxiv.org/abs/2508.11018)** Study on fluctuations of interface-enhanced superconductivity in ultrathin FeSe/SrTiO3 by the Nernst effect (arXiv)
+
+1. **[2508.11040v1](https://arxiv.org/abs/2508.11040)** Chiral Phonons in Graphyne (arXiv)
+
+1. **[2508.11140v1](https://arxiv.org/abs/2508.11140)** Atomic perspective on the topological magnetism in kagome metal Co3Sn2S2 (arXiv)
+
+1. **[2508.11199v1](https://arxiv.org/abs/2508.11199)** Frequency Dependence of Phonon-Induced Current Noise in ArmchairCarbon Nanotube (arXiv)
+
+1. **[2508.11201v1](https://arxiv.org/abs/2508.11201)** Statistical Properties of Current Noise Induced by Electron-Phonon Scattering in Metallic Carbon Nanotubes (arXiv)
+
+1. **[2508.11209v1](https://arxiv.org/abs/2508.11209)** Optically Controlled Skyrmion Number Current (arXiv)
+
+1. **[2508.11228v1](https://arxiv.org/abs/2508.11228)** Light Induced Quantum Anomalous Hall Effect in Cubic Rashba Spin-Orbit Coupled Systems (arXiv)
+
+1. **[2508.11242v1](https://arxiv.org/abs/2508.11242)** Dissipation-Induced Steady States in Topological Superconductors: Mechanisms and Design Principles (arXiv)
+
+1. **[2508.11244v1](https://arxiv.org/abs/2508.11244)** Theory of Spiral Magnetism in Weyl semimetal SmAlSi (arXiv)
+
+1. **[2508.11322v1](https://arxiv.org/abs/2508.11322)** Fermi-liquid-like phase driven by next-nearest-neighbor couplings in a lightly doped kagome-lattice t-J model (arXiv)
+
+1. **[2508.11405v1](https://arxiv.org/abs/2508.11405)** Realistic modelling of transport properties at finite tempeature in magnetic materials by local quantization of a Heisenberg model (arXiv)
+
+1. **[2508.11481v1](https://arxiv.org/abs/2508.11481)** Spin-to-charge-current conversion in altermagnetic candidate RuO2 probed by terahertz emission spectroscopy (arXiv)
+
+1. **[2508.11490v1](https://arxiv.org/abs/2508.11490)** Exceptionally deficient topological square-root insulators (arXiv)
+
+1. **[2508.11501v1](https://arxiv.org/abs/2508.11501)** Gating upconversion electroluminescence in a single molecule via adsorption-induced interaction of unpaired spin (arXiv)
+
+1. **[2508.11510v1](https://arxiv.org/abs/2508.11510)** Quantum Quench Dynamics in an Exactly Solvable Two-Dimensional Non-Fermi Liquid System (arXiv)
+
+1. **[2508.11581v1](https://arxiv.org/abs/2508.11581)** Stabilizing and Tuning Superconductivity in La3Ni2O7-delta Films: Oxygen Recycling Protocol Reveals Hole-Doping Analogue (arXiv)
+
+1. **[2508.11593v1](https://arxiv.org/abs/2508.11593)** Low barrier ZrOx-based Josephson junctions (arXiv)
+
+1. **[2508.11601v1](https://arxiv.org/abs/2508.11601)** A non-Hermitian Su-Schrieffer-Heeger model with the energy levels of free parafermions (arXiv)
+
+1. **[2508.11629v1](https://arxiv.org/abs/2508.11629)** The superconducting diode effect in Josephson junctions fabricated from structurally chiral Mo3Al2C (arXiv)
+
+1. **[2508.10997v1](https://arxiv.org/abs/2508.10997)** Reliable high-accuracy error mitigation for utility-scale quantum circuits (arXiv)
+
+1. **[2508.11248v1](https://arxiv.org/abs/2508.11248)** Analytical models for coated plasmonic particles: effects of shape and size-corrected dielectric function (arXiv)
+
+1. **[2508.11315v1](https://arxiv.org/abs/2508.11315)** Atomistic spin dynamics with quantum colored noise (arXiv)
+
+1. **[2508.11521v1](https://arxiv.org/abs/2508.11521)** A Dynamical Bulk-Boundary Correspondence in Two Dimensional Topological Matter (arXiv)
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
