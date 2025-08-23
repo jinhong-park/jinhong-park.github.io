@@ -13,12 +13,32 @@ categories: 2025aug
 ===This week's pick===
 
 
-* Score : 
+* Score : 14474
+
+1. **[2508.11228v1](https://arxiv.org/abs/2508.11228)** **Light Induced Quantum Anomalous Hall Effect in Cubic Rashba Spin-Orbit Coupled Systems (arXiv)**
 
 
+* Score : 13202
 
 
+1. **[2508.14521v1](https://arxiv.org/abs/2508.14521)** **Influence of local strain on the optical probing of a Ni2+ spin in a charged self-assembled quantum dot (arXiv)**
 
+
+* Score : 12492
+
+1. **[2508.13780v1](https://arxiv.org/abs/2508.13780)** **Many-body theory of false vacuum decay in quantum spin chains (arXiv)**
+
+* Score : 9513
+
+1. **[2508.15723v1](https://arxiv.org/abs/2508.15723)** **Orientation dependent anomalous Hall and spin Hall currents at the junctions of altermagnets with p-wave magnets (arXiv)**
+
+* Score : 9364
+
+1. **[2508.14772v1](https://arxiv.org/abs/2508.14772)** **Gauge flux generations of weakly magnetized Dirac spin liquid in a kagome lattice (arXiv)**
+
+* Score : 9253
+
+1. **[2508.12985v1](https://arxiv.org/abs/2508.12985)** **Observation of Altermagnetic Spin Splitting in an Intercalated Transition Metal Dichalcogenide (arXiv)**
 
 
 
@@ -26,6 +46,65 @@ categories: 2025aug
 <details>
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+
+---
+08/23
+
+
+1. **[s41567-025-03004-6](https://www.nature.com/articles/s41567-025-03004-6)** Magnon-polarons in the Fermi–Hubbard model (Nature Physics)
+
+1. **[s41567-025-02970-1](https://www.nature.com/articles/s41567-025-02970-1)** Bloch oscillations of a soliton in a one-dimensional quantum fluid (Nature Physics)
+
+
+
+
+
+1. **[fl34-h1p1](http://link.aps.org/doi/10.1103/fl34-h1p1)** Multipartite Entanglement Structure of Monitored Quantum Circuits (PRL)
+
+1. **[y8wr-yml4](http://link.aps.org/doi/10.1103/y8wr-yml4)** Neural Quantum Embedding via Deterministic Quantum Computation with One Qubit (PRL)
+
+1. **[clbx-mh6y](http://link.aps.org/doi/10.1103/clbx-mh6y)** Multiple Exceptional Rings in One-Dimensional Perovskite Photonic Crystals (PRL)
+
+1. **[bzpw-7h2x](http://link.aps.org/doi/10.1103/bzpw-7h2x)** Far-Field Excitation of a Photonic Flat Band via a Tailored Anapole Mode (PRL)
+
+1. **[chxf-fq9v](http://link.aps.org/doi/10.1103/chxf-fq9v)** Programmable All-Optical Spin Simulator with Artificial Gauge Fields (PRL)
+
+1. **[ddvn-8c9n](http://link.aps.org/doi/10.1103/ddvn-8c9n)** Spontaneous Lattice Distortion in the Spin-Triplet Superconductor CuxBi2Se3 (PRL)
+
+1. **[83f9-pln9](http://link.aps.org/doi/10.1103/83f9-pln9)** Vortex Lattice States of Bilayer Electron-Hole Fluids in Quantizing Magnetic Fields (PRL)
+
+1. **[h53w-64dy](http://link.aps.org/doi/10.1103/h53w-64dy)** Extracting Topological Spins from Bulk Multipartite Entanglement (PRL)
+
+1. **[8dhn-dh55](http://link.aps.org/doi/10.1103/8dhn-dh55)** Terahertz and High-Harmonic Radiation from Ultrafast Light Subgap or Above-Gap Driving of Spin-Orbit Proximitized Antiferromagnetic Mott Insulator (PRL)
+
+1. **[5y8p-qhb4](http://link.aps.org/doi/10.1103/5y8p-qhb4)** Probing the Quantum Capacitance of Rydberg Transitions of Surface Electrons on Liquid Helium via Microwave Frequency Modulation (PRL)
+
+1. **[8csn-71jk](http://link.aps.org/doi/10.1103/8csn-71jk)** Synthetic Quorum Sensing and Absorbing Phase Transitions in Colloidal Active Matter (PRX)
+
+1. **[qk3v-46y8](http://link.aps.org/doi/10.1103/qk3v-46y8)** Collinear Three-Photon Excitation of a Strongly Forbidden Optical Clock Transition (PRX)
+
+1. **[4s4k-rf6x](http://link.aps.org/doi/10.1103/4s4k-rf6x)** Efficient control of fluxonium qubits via nonadiabatic transitions (PRR)
+
+1. **[x2gx-wsp1](http://link.aps.org/doi/10.1103/x2gx-wsp1)** Low-temperature Gibbs states with tensor networks (PRR)
+
+1. **[zpjv-bm5c](http://link.aps.org/doi/10.1103/zpjv-bm5c)** Effective temperature in approximate quantum many-body states (PRR)
+
+1. **[ffz8-v1n8](http://link.aps.org/doi/10.1103/ffz8-v1n8)** Weighted Hartree-Fock-Bogoliubov method for interacting fermions: An application to ultracold Fermi superfluids (PRR)
+
+1. **[zxw5-nlsn](http://link.aps.org/doi/10.1103/zxw5-nlsn)** Liouvillian and Hamiltonian exceptional points of atomic vapors: The spectral signatures of quantum jumps (PRR)
+
+1. **[pq2d-t5lx](http://link.aps.org/doi/10.1103/pq2d-t5lx)** Theoretical models for tension-dependent DNA looping time (PRRL)
+
+1. **[zq39-wzdb](http://link.aps.org/doi/10.1103/zq39-wzdb)** Correlated noise can be beneficial to quantum transducers (PRRL)
+
+1. **[13k1-rxmw](http://link.aps.org/doi/10.1103/13k1-rxmw)** Localized states in dipolar Bose-Einstein condensates: To be or not to be of second order (PRRL)
+
+
+
 
 
 
@@ -107,7 +186,7 @@ categories: 2025aug
 
 1. **[2508.15710v1](https://arxiv.org/abs/2508.15710)** End-to-End Analysis of Charge Stability Diagrams with Transformers (arXiv)
 
-1. **[2508.15723v1](https://arxiv.org/abs/2508.15723)** Orientation dependent anomalous Hall and spin Hall currents at the junctions of altermagnets with p-wave magnets (arXiv)
+
 
 1. **[2508.15758v1](https://arxiv.org/abs/2508.15758)** Skyrmion Lattice Order Controlled by Confinement Geometry (arXiv)
 
@@ -177,7 +256,7 @@ categories: 2025aug
 
 1. **[2508.14428v1](https://arxiv.org/abs/2508.14428)** Orbital magnetic moments in FeCr2S4 studied by x-ray magnetic circular dichroism (arXiv)
 
-1. **[2508.14521v1](https://arxiv.org/abs/2508.14521)** Influence of local strain on the optical probing of a Ni2+ spin in a charged self-assembled quantum dot (arXiv)
+
 
 1. **[2508.14589v1](https://arxiv.org/abs/2508.14589)** Fabrication, characterization and mechanical loading of Si/SiGe membranes for spin qubit devices (arXiv)
 
@@ -193,7 +272,7 @@ categories: 2025aug
 
 1. **[2508.14771v1](https://arxiv.org/abs/2508.14771)** Controlling Skyrmion Lattice Orientation with Local Magnetic Field Gradients (arXiv)
 
-1. **[2508.14772v1](https://arxiv.org/abs/2508.14772)** Gauge flux generations of weakly magnetized Dirac spin liquid in a kagom\'{e} lattice (arXiv)
+
 
 1. **[2508.14829v1](https://arxiv.org/abs/2508.14829)** Core position-dependent gyrotropic and damping contributions to the Thiele equation approach for accurate spin-torque vortex oscillator dynamics (arXiv)
 
@@ -296,7 +375,7 @@ categories: 2025aug
 
 1. **[2508.13645v1](https://arxiv.org/abs/2508.13645)** Real-time bubble nucleation and growth for false vacuum decay on the lattice (arXiv)
 
-1. **[2508.13780v1](https://arxiv.org/abs/2508.13780)** Many-body theory of false vacuum decay in quantum spin chains (arXiv)
+
 
 1. **[2508.13845v1](https://arxiv.org/abs/2508.13845)** Extraction of the self energy and Eliashberg function from angle resolved photoemission spectroscopy using the xARPES code (arXiv)
 
@@ -365,7 +444,7 @@ categories: 2025aug
 
 1. **[2508.12974v1](https://arxiv.org/abs/2508.12974)** Thermoelectricity evidence for quantum criticality in clean infinite-layer nickelate films (arXiv)
 
-1. **[2508.12985v1](https://arxiv.org/abs/2508.12985)** Observation of Altermagnetic Spin Splitting in an Intercalated Transition Metal Dichalcogenide (arXiv)
+
 
 1. **[2508.12988v1](https://arxiv.org/abs/2508.12988)** Skyrmion Lattice Domain Formation in a Non-Flat Energy Landscape (arXiv)
 
@@ -450,7 +529,7 @@ categories: 2025aug
 
 1. **[2508.11209v1](https://arxiv.org/abs/2508.11209)** Optically Controlled Skyrmion Number Current (arXiv)
 
-1. **[2508.11228v1](https://arxiv.org/abs/2508.11228)** Light Induced Quantum Anomalous Hall Effect in Cubic Rashba Spin-Orbit Coupled Systems (arXiv)
+
 
 1. **[2508.11242v1](https://arxiv.org/abs/2508.11242)** Dissipation-Induced Steady States in Topological Superconductors: Mechanisms and Design Principles (arXiv)
 
