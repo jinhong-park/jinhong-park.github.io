@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "weekly picks (Aug 4 week 2025)"
+date:   2025-08-25 00:16:27
+categories: 2025aug
+---
+
+{% include image.html url="/images/2025aug4weeks.png" caption="A WordCloud of 2025 Aug 4th week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+1. **[2508.15897v1](https://arxiv.org/abs/2508.15897)** Entanglement entropy as a probe of topological phase transitions (arXiv)
+
+1. **[2508.15909v1](https://arxiv.org/abs/2508.15909)** Superconductivity and Ferroelectric Orbital Magnetism in Semimetallic Rhombohedral Hexalayer Graphene (arXiv)
+
+1. **[2508.15944v1](https://arxiv.org/abs/2508.15944)** Dual Topology as a Fingerprint of Relativistic Altermagnetism in AgF2 Monolayer (arXiv)
+
+1. **[2508.15968v1](https://arxiv.org/abs/2508.15968)** Unconventional superconductivity induced by rare-earth substitution in Nd1-xEuxNiO2 thin films (arXiv)
+
+1. **[2508.16009v1](https://arxiv.org/abs/2508.16009)** Strong Correlation Driven Quadrupolar to Dipolar Exciton Transitions in a Trilayer Moire Superlattice (arXiv)
+
+1. **[2508.16020v1](https://arxiv.org/abs/2508.16020)** Evolution of magnetic bubble domains in the uniaxial ferromagnet CeRu2Ga2B inferred from the Hall effect and ac magnetic susceptibility (arXiv)
+
+1. **[2508.16028v1](https://arxiv.org/abs/2508.16028)** Controlling resonant spin photocurrent using magnetic field; application to a magnetoelectric oxide Cr2O3 (arXiv)
+
+1. **[2508.16099v1](https://arxiv.org/abs/2508.16099)** Thermomodulated intrinsic Josephson effect in Kagome CsV3Sb5 (arXiv)
+
+1. **[2508.16166v1](https://arxiv.org/abs/2508.16166)** Terahertz third-harmonic generation of lightwave driven Weyl fermions far from equilibrium (arXiv)
+
+1. **[2508.16219v1](https://arxiv.org/abs/2508.16219)** Investigating structure and physical properties of quaternary layered transition metal oxide Na2Cu2TeO6 (arXiv)
+
+1. **[2508.16231v1](https://arxiv.org/abs/2508.16231)** Ultrafast Laser-Induced Magnetic Relaxation in Artificial Spin Ice Driven by Dipolar Interactions (arXiv)
+
+1. **[2508.16266v1](https://arxiv.org/abs/2508.16266)** Magneto-conductivity and CME in Dirac semimetals from Keldysh technique in Landau levels basis (arXiv)
+
+1. **[2508.16290v1](https://arxiv.org/abs/2508.16290)** Extreme magnetic field-boosted superconductivity in a high-temperature superconductor (arXiv)
+
+1. **[2508.16298v1](https://arxiv.org/abs/2508.16298)** Scalable Hybrid quantum Monte Carlo simulation of U(1) gauge field coupled to fermions on GPU (arXiv)
+
+1. **[2508.16339v1](https://arxiv.org/abs/2508.16339)** Observation of negative orbital torque from Vanadium (arXiv)
+
+1. **[2508.16340v1](https://arxiv.org/abs/2508.16340)** Mechanical Reinforcement of Graphene via Wrinkling (arXiv)
+
+1. **[2508.16411v1](https://arxiv.org/abs/2508.16411)** Charge transfer empties the flat band in 4Hb-TaS2 -- except at the surface (arXiv)
+
+1. **[2508.16412v1](https://arxiv.org/abs/2508.16412)** Signatures of spin-glass superconductivity in nickelate (La, Pr, Sm)3Ni2O7 films (arXiv)
+
+1. **[2508.16418v1](https://arxiv.org/abs/2508.16418)** Universal Entanglement Pattern Formation via a Quantum Quench (arXiv)
+
+1. **[2508.16491v1](https://arxiv.org/abs/2508.16491)** Tracking flat bands via phonon-mediated interband scattering (arXiv)
+
+1. **[2508.16559v1](https://arxiv.org/abs/2508.16559)** Chiral charge density wave in 4Hb- and 1T-TaS2: The Role of interlayer coupling (arXiv)
+
+1. **[2508.15936v1](https://arxiv.org/abs/2508.15936)** Teleportation based detection of quantum critical points using small spin chains (arXiv)
+
+1. **[2508.16017v1](https://arxiv.org/abs/2508.16017)** Enhanced thermopower in a magnetic semiconductor EuTe4 with multiple charge-density-wave instabilities/ (arXiv)
+
+1. **[2508.16206v1](https://arxiv.org/abs/2508.16206)** Autonomous conversion of particle-exchange to quantum self-oscillations (arXiv)
+
+1. **[2508.16363v1](https://arxiv.org/abs/2508.16363)** Infinite matrix product states for (1+1)-dimensional gauge theories (arXiv)
+
+1. **[2508.16435v1](https://arxiv.org/abs/2508.16435)** Getting the manifold right: The crucial role of orbital resolution in DFT+U for mixed d-f electron compounds (arXiv)
+
+1. **[2508.16494v1](https://arxiv.org/abs/2508.16494)** Nonlinear Optical Spectroscopy of Nodal-Line Semimetals (arXiv)
+
+1. **[2508.16520v1](https://arxiv.org/abs/2508.16520)** Chemical and Conformational Control of the Spectroscopic Properties of Multi-Layer and Multi-Defect Carbon Dots (arXiv)
+
+1. **[2508.16547v1](https://arxiv.org/abs/2508.16547)** Microscopic field theories of the quantum skyrmion Hall effect (arXiv)
+
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
