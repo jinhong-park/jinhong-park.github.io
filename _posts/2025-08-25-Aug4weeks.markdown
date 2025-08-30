@@ -13,10 +13,104 @@ categories: 2025aug
 ===This week's pick===
 
 
-* Score : 
+* Score : 16688
+
+**[2508.17457v1](https://arxiv.org/abs/2508.17457)** Topological phase transitions between bosonic and fermionic quantum Hall states near even-denominator filling factors (arXiv)
+
+* Score : 15938
+
+**[2508.19934v1](https://arxiv.org/abs/2508.19934)** Multi-origin driven giant planar Hall effect in topological antiferromagnet EuAl2Si2 with tunable spin texture (arXiv)
+
+
+* Score : 14254
+
+**[2508.20159v1](https://arxiv.org/abs/2508.20159)** Nonlinear Hall effect in topological Dirac semimetals in parallel magnetic field (arXiv)
+
+
+* Score : 13363
+
+**[2508.21021v1](https://arxiv.org/abs/2508.21021)** Spin structures and phase diagrams of the spin-5/2 triangular-lattice antiferromagnet Na2BaMn(PO4)2 under magnetic field (arXiv)
+
+
+* Score : 13258
+
+**[2508.19248v1](https://arxiv.org/abs/2508.19248)** Disorder-induced proximate quantum spin ice phase in Pr2Sn2O7 (arXiv)
+
+* Score : 12420
+
+**[2508.18152v1](https://arxiv.org/abs/2508.18152)** Optical Signatures of Band Flatness and Anisotropic Quantum Geometry in Magic-Angle Twisted Bilayer Graphene (arXiv)
+
+
+* Score : 12286
+
+**[2508.16547v1](https://arxiv.org/abs/2508.16547)** Microscopic field theories of the quantum skyrmion Hall effect (arXiv)
+
+
+* Score : 11881
+
+**[2508.17535v1](https://arxiv.org/abs/2508.17535)** Universal scaling of higher-order cumulants in quantum isotropic spin chains (arXiv)
+
+
+* Score : 11808
+
+
+**[7ldk-csp9](http://link.aps.org/doi/10.1103/7ldk-csp9)** Electrical Control of Ultrafast Magnetic Speeds in Graphene Spin Field-Effect Junctions (PRL)
+
+
+
+* Score : 11697
+
+
+**[s41563-025-02316-5](https://www.nature.com/articles/s41563-025-02316-5)** Competition between excitonic insulators and quantum Hall states in correlated electron–hole bilayers (Nature Materials)
+
 <details>
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+
+---
+08/30
+
+
+
+1. **[s42005-025-02279-8](https://www.nature.com/articles/s42005-025-02279-8)** Skin-effect localization and maximal-order exceptional points in reciprocal Floquet lattices (Communications Physics)
+
+1. **[s42005-025-02286-9](https://www.nature.com/articles/s42005-025-02286-9)** Versatile control of nonlinear topological states in non-Hermitian systems (Communications Physics)
+
+1. **[7p5x-7yqb](http://link.aps.org/doi/10.1103/7p5x-7yqb)** Scheme to Detect the Strong-to-Weak Symmetry Breaking via Randomized Measurements (PRL)
+
+1. **[cslt-x32n](http://link.aps.org/doi/10.1103/cslt-x32n)** Spectral Gap Optimization for Enhanced Adiabatic State Preparation (PRL)
+
+1. **[yb7d-6tvc](http://link.aps.org/doi/10.1103/yb7d-6tvc)** Temperature-Resistant Order in 2+1 Dimensions (PRL)
+
+1. **[s3vd-brsn](http://link.aps.org/doi/10.1103/s3vd-brsn)** Tying Knots in Particle Physics (PRL)
+
+1. **[23kb-7h7q](http://link.aps.org/doi/10.1103/23kb-7h7q)** All-Optical Radio-Frequency Phase Detection for Rydberg Atom Sensors Using Oscillatory Dynamics (PRL)
+
+1. **[gfxm-67mm](http://link.aps.org/doi/10.1103/gfxm-67mm)** Flowing Menisci: Coupled Dynamics and Liquid Exchange with Soap Films (PRL)
+
+1. **[yqth-sfm8](http://link.aps.org/doi/10.1103/yqth-sfm8)** Thermomodulated Intrinsic Josephson Effect in Kagome CsV3Sb5 (PRL)
+
+1. **[s97b-qcjc](http://link.aps.org/doi/10.1103/s97b-qcjc)** Observation of High-Decay-Rate Topological Corner States in Diffusive Thermal Metamaterials (PRL)
+
+1. **[r5pw-sqk2](http://link.aps.org/doi/10.1103/r5pw-sqk2)** Signatures of Fluctuation-Driven Magnetic Topological Charge in Pt-Ferromagnetic Insulator Bilayers (PRL)
+
+1. **[n8jn-p468](http://link.aps.org/doi/10.1103/n8jn-p468)** Determining Energy Dispersion of Spin Excitations with Scanning Tunneling Spectroscopy (PRL)
+
+1. **[b9hf-gx4f](http://link.aps.org/doi/10.1103/b9hf-gx4f)** Efficient Preparation of Solvable Anyons with Adaptive Quantum Circuits (PRX)
+
+1. **[8k98-6q48](http://link.aps.org/doi/10.1103/8k98-6q48)** Creation of highly charged gold ion beam through collisional ionizations in a dense gold plasma driven by a femtosecond petawatt laser (PRR)
+
+1. **[3l96-41xf](http://link.aps.org/doi/10.1103/3l96-41xf)** Inequality constraints in variational quantum circuits with qudits (PRR)
+
+1. **[zs9x-9x6f](http://link.aps.org/doi/10.1103/zs9x-9x6f)** Symmetry-based efficient simulation of higher-order coherences in quantum many-body superradiance (PRR)
+
+
+
+1. **[2405.20950](https://arxiv.org/abs/2405.20950)** Quantum computation with hybrid parafermion-spin qubits (arXiv)
 
 
 
@@ -43,7 +137,7 @@ categories: 2025aug
 
 1. **[fl9b-4h4v](http://link.aps.org/doi/10.1103/fl9b-4h4v)** Robustness of Vacancy-Bound Non-Abelian Anyons in the Kitaev Model in a Magnetic Field (PRL)
 
-1. **[7ldk-csp9](http://link.aps.org/doi/10.1103/7ldk-csp9)** Electrical Control of Ultrafast Magnetic Speeds in Graphene Spin Field-Effect Junctions (PRL)
+
 
 1. **[kgrd-8gkb](http://link.aps.org/doi/10.1103/kgrd-8gkb)** Flow-Driven Stretch Fluctuations Govern the Nonlinear Viscoelasticity of Elongating Associative Polymer Networks (PRL)
 
@@ -51,7 +145,7 @@ categories: 2025aug
 
 1. **[2508.20111v1](https://arxiv.org/abs/2508.20111)** Qubit parametrization of the variational discrete action theory for the multiorbital Hubbard model (arXiv)
 
-1. **[2508.20159v1](https://arxiv.org/abs/2508.20159)** Nonlinear Hall effect in topological Dirac semimetals in parallel magnetic field (arXiv)
+
 
 1. **[2508.20163v1](https://arxiv.org/abs/2508.20163)** Extended s-wave altermagnets (arXiv)
 
@@ -83,7 +177,7 @@ categories: 2025aug
 
 1. **[2508.21009v1](https://arxiv.org/abs/2508.21009)** Optical Response by Time-Varying Plasmonic Nanoparticles (arXiv)
 
-1. **[2508.21021v1](https://arxiv.org/abs/2508.21021)** Spin structures and phase diagrams of the spin-5/2 triangular-lattice antiferromagnet Na2BaMn(PO4)2 under magnetic field (arXiv)
+
 
 1. **[2508.20104v1](https://arxiv.org/abs/2508.20104)** Sub-Nanometer Interfacial Hydrodynamics: The Interplay of Interfacial Viscosity and Surface Friction (arXiv)
 
@@ -172,7 +266,7 @@ categories: 2025aug
 
 1. **[2508.19849v1](https://arxiv.org/abs/2508.19849)** Tunable quantum anomalous Hall effect in fullerene monolayers (arXiv)
 
-1. **[2508.19934v1](https://arxiv.org/abs/2508.19934)** Multi-origin driven giant planar Hall effect in topological antiferromagnet EuAl2Si2 with tunable spin texture (arXiv)
+
 
 1. **[2508.20049v1](https://arxiv.org/abs/2508.20049)** Tunable multi-magnon Floquet topological edge states (arXiv)
 
@@ -292,7 +386,7 @@ categories: 2025aug
 
 1. **[2508.19241v1](https://arxiv.org/abs/2508.19241)** Phase Coherent Transport in Two-Dimensional Tellurium Flakes (arXiv)
 
-1. **[2508.19248v1](https://arxiv.org/abs/2508.19248)** Disorder-induced proximate quantum spin ice phase in Pr2Sn2O7 (arXiv)
+
 
 1. **[2508.15909v1](https://arxiv.org/abs/2508.15909)** Superconductivity and Ferroelectric Orbital Magnetism in Semimetallic Rhombohedral Hexalayer Graphene (arXiv)
 
@@ -329,7 +423,7 @@ categories: 2025aug
 
 1. **[s41563-025-02334-3](https://www.nature.com/articles/s41563-025-02334-3)** Quantum oscillations in a dipolar excitonic insulator (Nature Materials)
 
-1. **[s41563-025-02316-5](https://www.nature.com/articles/s41563-025-02316-5)** Competition between excitonic insulators and quantum Hall states in correlated electron–hole bilayers (Nature Materials)
+
 
 
 
@@ -378,7 +472,7 @@ categories: 2025aug
 
 1. **[2508.17429v1](https://arxiv.org/abs/2508.17429)** Out-of-plane angle resolved second harmonic Hall analysis in perpendicular magnetic anisotropy systems (arXiv)
 
-1. **[2508.17457v1](https://arxiv.org/abs/2508.17457)** Topological phase transitions between bosonic and fermionic quantum Hall states near even-denominator filling factors (arXiv)
+
 
 1. **[2508.17487v1](https://arxiv.org/abs/2508.17487)** Mechanisms of superconductivity and inhomogeneous states in metallic hydrogen and electron systems with attraction (arXiv)
 
@@ -416,7 +510,7 @@ categories: 2025aug
 
 1. **[2508.18138v1](https://arxiv.org/abs/2508.18138)** Asymmetric stress engineering of dense dislocations in brittle superconductors for strong vortex pinning (arXiv)
 
-1. **[2508.18152v1](https://arxiv.org/abs/2508.18152)** Optical Signatures of Band Flatness and Anisotropic Quantum Geometry in Magic-Angle Twisted Bilayer Graphene (arXiv)
+
 
 1. **[2508.18194v1](https://arxiv.org/abs/2508.18194)** Self-consistent dynamical Hubbard functional for correlated solids (arXiv)
 
@@ -434,7 +528,7 @@ categories: 2025aug
 
 1. **[2508.17268v1](https://arxiv.org/abs/2508.17268)** Phonons Drive the Topological Phase Transition in Quasi-One-Dimensional Bi4I4 (arXiv)
 
-1. **[2508.17535v1](https://arxiv.org/abs/2508.17535)** Universal scaling of higher-order cumulants in quantum isotropic spin chains (arXiv)
+
 
 1. **[2508.17810v1](https://arxiv.org/abs/2508.17810)** Kinetic contribution to the arbitrary order odd frequency moments of the dynamic structure factor (arXiv)
 
@@ -522,7 +616,7 @@ categories: 2025aug
 
 1. **[2508.16520v1](https://arxiv.org/abs/2508.16520)** Chemical and Conformational Control of the Spectroscopic Properties of Multi-Layer and Multi-Defect Carbon Dots (arXiv)
 
-1. **[2508.16547v1](https://arxiv.org/abs/2508.16547)** Microscopic field theories of the quantum skyrmion Hall effect (arXiv)
+
 
 
 
