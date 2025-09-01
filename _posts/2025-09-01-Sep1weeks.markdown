@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "weekly picks (Sep 1 week 2025)"
+date:   2025-09-01 00:16:27
+categories: 2025sep
+---
+
+{% include image.html url="/images/2025sep1weeks.png" caption="A WordCloud of 2025 Sep 1st week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+09/01
+
+
+
+
+
+
+1. **[2508.21089v1](https://arxiv.org/abs/2508.21089)** Phonon-scattering-induced quantum linear magnetoresistance up to room temperature (arXiv)
+
+1. **[2508.21115v1](https://arxiv.org/abs/2508.21115)** Unconventional superconducting correlations in fermionic many-body scars (arXiv)
+
+1. **[2508.21117v1](https://arxiv.org/abs/2508.21117)** Charge density wave induced gapped nodal line (arXiv)
+
+1. **[2508.21119v1](https://arxiv.org/abs/2508.21119)** Displacement-Field-Driven Transition between Superconductivity and Valley Ferromagnetism in Transition Metal Dichalcogenides (arXiv)
+
+1. **[2508.21127v1](https://arxiv.org/abs/2508.21127)** Exact models of chiral flat-band superconductors (arXiv)
+
+1. **[2508.21129v1](https://arxiv.org/abs/2508.21129)** Anyon polarons as a window into the competing phases of the Kitaev-Gamma-Gamma' model (arXiv)
+
+1. **[2508.21142v1](https://arxiv.org/abs/2508.21142)** Nonperturbative Semiclassical Spin Dynamics for Ordered Quantum Magnets (arXiv)
+
+1. **[2508.21211v1](https://arxiv.org/abs/2508.21211)** Anharmonic Collective Oscillations in Isotropic Spin Systems and their Spectroscopic Signatures (arXiv)
+
+1. **[2508.21234v1](https://arxiv.org/abs/2508.21234)** Exploring Co, Fe, and Ni Reference Layers for Single-Pulse All-Optical Reversal in Ferromagnetic Spin Valves (arXiv)
+
+1. **[2508.21281v1](https://arxiv.org/abs/2508.21281)** Rigid muffin-tin approximation in plane-wave codes for fast modeling of phonon-mediated superconductors (arXiv)
+
+1. **[2508.21298v1](https://arxiv.org/abs/2508.21298)** Critical photoinduced reflectivity relaxation dynamics in single-layer Bi-based cuprates near the pseudogap end point (arXiv)
+
+1. **[2508.21311v1](https://arxiv.org/abs/2508.21311)** Experimental realization of dice-lattice flat band at the Fermi level in layered electride YCl (arXiv)
+
+1. **[2508.21326v1](https://arxiv.org/abs/2508.21326)** Electronic correlations in magnetized helical edge states coupled to s-wave superconductors (arXiv)
+
+1. **[2508.21357v1](https://arxiv.org/abs/2508.21357)** Edge dependent Josephson Diode effect in WTe2-Based Josephson junction (arXiv)
+
+1. **[2508.21388v1](https://arxiv.org/abs/2508.21388)** Out-of-time ordered correlation functions for the localized f electrons in the Falicov-Kimball model (arXiv)
+
+1. **[2508.21405v1](https://arxiv.org/abs/2508.21405)** Determination of ground states of one-dimensional quantum systems using the cluster iTEBD method (arXiv)
+
+1. **[2508.21544v1](https://arxiv.org/abs/2508.21544)** Remote spin control in Haldane spin chains (arXiv)
+
+1. **[2508.21673v1](https://arxiv.org/abs/2508.21673)** Odd-Parity Magnetism in Fe-Based Superconductors (arXiv)
+
+1. **[2508.21696v1](https://arxiv.org/abs/2508.21696)** Demonstration of an optical microwave rectification by a superconducting diode with near 100% efficiency (arXiv)
+
+1. **[2508.21723v1](https://arxiv.org/abs/2508.21723)** High fidelity flopping-mode single spin operation with tuning inter-dot orbital levels (arXiv)
+
+1. **[2508.21729v1](https://arxiv.org/abs/2508.21729)** Bayesian perspectives for quantum states and application to ab initio quantum chemistry (arXiv)
+
+1. **[2508.21743v1](https://arxiv.org/abs/2508.21743)** Topological Magnon Frequency Combs (arXiv)
+
+1. **[2508.21752v1](https://arxiv.org/abs/2508.21752)** On the Electronic Contribution to Crystalline Diffraction Patterns (arXiv)
+
+1. **[2508.21759v1](https://arxiv.org/abs/2508.21759)** Universal relation between residual resistivity and A coefficient in correlated metals (arXiv)
+
+1. **[2508.21791v1](https://arxiv.org/abs/2508.21791)** Quantum Geometry Induced Kekule Superconductivity in Haldane phases (arXiv)
+
+1. **[2508.19341v1](https://arxiv.org/abs/2508.19341)** Optimal Finite-Time Thermodynamics of Effective Two-Level Systems (arXiv)
+
+1. **[2508.21200v1](https://arxiv.org/abs/2508.21200)** LREI: A fast numerical solver for quantum Landau-Lifshitz equations (arXiv)
+
+1. **[2508.21247v1](https://arxiv.org/abs/2508.21247)** Bright yet dark: how strong coupling quenches exciton-polariton radiation (arXiv)
+
+1. **[2508.21265v1](https://arxiv.org/abs/2508.21265)** SCE-NTT: A Hardware Accelerator for Number Theoretic Transform Using Superconductor Electronics (arXiv)
+
+1. **[2508.21292v1](https://arxiv.org/abs/2508.21292)** Correlation tuned Fermi-arc topology in a Weyl ferromagnet (arXiv)
+
+1. **[2508.21325v1](https://arxiv.org/abs/2508.21325)** Hybrid Quantum-Classical Simulations of Graphene Analogues: Adsorption Energetics Beyond DFT (arXiv)
+
+1. **[2508.21359v1](https://arxiv.org/abs/2508.21359)** Tunable Two-Dimensional Electron Gas at the Interfaces of Ferroelectric Potassium Tantalate Niobates (arXiv)
+
+1. **[2508.21492v1](https://arxiv.org/abs/2508.21492)** Control of growth morphology of deposited fcc metals through tuning substrate-metal interactions (arXiv)
+
+1. **[2508.21526v1](https://arxiv.org/abs/2508.21526)** Chemical Control of Mechanical Anisotropy and Band Alignment in Perylene-based Two-dimensional MoS2-Organic Hybrids (arXiv)
+
+1. **[2508.21700v1](https://arxiv.org/abs/2508.21700)** Experimental Construction of NOON State Dynamics in Photonic Flat Band Lattices (arXiv)
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
