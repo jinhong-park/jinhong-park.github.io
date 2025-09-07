@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Sep 2025 14:42:24 +0900</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2025 14:42:24 +0900</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 09:11:38 +0900</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 09:11:38 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -121,6 +121,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/t8wt-mp2l&quot;&gt;t8wt-mp2l&lt;/a&gt;&lt;/strong&gt; Quantum wave simulation with sources and loss functions (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.arxiv.org/abs/2509.03572&quot;&gt;2509.03572&lt;/a&gt;&lt;/strong&gt; Exchange tensors, generalized RKKY interactions, and magnetization dynamics in heterostructures of ferromagnets and topological insulators (arXiv)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
