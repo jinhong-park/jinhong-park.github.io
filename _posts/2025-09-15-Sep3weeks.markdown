@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "weekly picks (Sep 3 week 2025)"
+date:   2025-09-15 00:16:27
+categories: 2025sep
+---
+
+{% include image.html url="/images/2025sep3weeks.png" caption="A WordCloud of 2025 Sep 3rd week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+
+---
+09/15
+
+
+1. **[2509.09766v1](https://arxiv.org/abs/2509.09766)** Nonequilibrium nonlinear response theory of amplitude-dependent dissipative conductivity in disordered superconductors (arXiv)
+
+1. **[2509.09783v1](https://arxiv.org/abs/2509.09783)** Pseudogap-induced change in the nature of the Lifshitz transition in the two-dimensional Hubbard model (arXiv)
+
+1. **[2509.09817v1](https://arxiv.org/abs/2509.09817)** Pressure tuning of putative quantum criticality on YbV6Sn6 (arXiv)
+
+1. **[2509.09819v1](https://arxiv.org/abs/2509.09819)** Dimensionality reduction of optically generated vortex strings in a charge density wave (arXiv)
+
+1. **[2509.09825v1](https://arxiv.org/abs/2509.09825)** Surface Topological Quantum Criticality II: Conformal manifolds, Isolated fixed points and Entanglement (arXiv)
+
+1. **[2509.09875v1](https://arxiv.org/abs/2509.09875)** Fractal growth of higher-order topological insulators (arXiv)
+
+1. **[2509.09901v1](https://arxiv.org/abs/2509.09901)** Hard and soft phase slips in a Fabry-Perot quantum Hall interferometer (arXiv)
+
+1. **[2509.09909v1](https://arxiv.org/abs/2509.09909)** TbPt6Al3: A rare-earth-based g-wave altermagnet with a honeycomb structure (arXiv)
+
+1. **[2509.09959v1](https://arxiv.org/abs/2509.09959)** Possible Spin Triplet Pairing due to Altermagnetic Spin Fluctuation (arXiv)
+
+1. **[2509.09976v1](https://arxiv.org/abs/2509.09976)** Impact of Disorder on the Superconducting Properties and BCS-BEC Crossover in FeSe Single Crystals (arXiv)
+
+1. **[2509.09983v1](https://arxiv.org/abs/2509.09983)** Entanglement architecture of beyond-Landau quantum criticality (arXiv)
+
+1. **[2509.10028v1](https://arxiv.org/abs/2509.10028)** Switching magnetic texture via in-plane magnetic field in noncentrosymmetric dipolar magnets: From skyrmions to antiskyrmions and nontopological magnetic bubbles (arXiv)
+
+1. **[2509.10068v1](https://arxiv.org/abs/2509.10068)** Radial Rashba spin-orbit fields in commensurate twisted transition-metal dichalcogenide bilayers (arXiv)
+
+1. **[2509.10101v1](https://arxiv.org/abs/2509.10101)** Intrinsic disorder in the candidate quantum spin ice Pr2Zr2O7 (arXiv)
+
+1. **[2509.10215v1](https://arxiv.org/abs/2509.10215)** Direct evidence for the absence of coupling between shear strain and superconductivity in Sr2RuO4 (arXiv)
+
+1. **[2509.10228v1](https://arxiv.org/abs/2509.10228)** Anomalous Electrical Transport in SnSe2 Nanosheets: Role of Thickness and Surface Defect States (arXiv)
+
+1. **[2509.10242v1](https://arxiv.org/abs/2509.10242)** Pure dephasing increases partition noise in the quantum Hall effect (arXiv)
+
+1. **[2509.10285v1](https://arxiv.org/abs/2509.10285)** Magnetic Field Dependence of Critical Fluctuations in CeCu5.8Ag0.2 (arXiv)
+
+1. **[2509.10309v1](https://arxiv.org/abs/2509.10309)** Spin-qubit Noise Spectroscopy of Magnetic Berezinskii-Kosterlitz-Thouless Physics (arXiv)
+
+1. **[2509.10339v1](https://arxiv.org/abs/2509.10339)** Breakdown of the critical state in the ferromagnetic superconductor EuFe2(As1-xPx)2 (arXiv)
+
+1. **[2509.10398v1](https://arxiv.org/abs/2509.10398)** Disorder-driven Weyl-Kondo Semimetal Phase in WTe2 (arXiv)
+
+1. **[2509.10438v1](https://arxiv.org/abs/2509.10438)** Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators (arXiv)
+
+1. **[2509.09903v1](https://arxiv.org/abs/2509.09903)** Evolution from Topological Dirac Metal to Flat-band-Induced Antiferromagnet in Layered KxNi4S2 (0<=x<=1) (arXiv)
+
+1. **[2509.09964v1](https://arxiv.org/abs/2509.09964)** Scaling High-Performance Nanoribbon Transistors with Monolayer Transition Metal Dichalcogenides (arXiv)
+
+1. **[2509.10106v1](https://arxiv.org/abs/2509.10106)** Resolving the Bulk-Boundary Correspondence Paradox on Low-Symmetry Surfaces of Weyl Semimetals (arXiv)
+
+1. **[2509.10107v1](https://arxiv.org/abs/2509.10107)** Experimental validation of electron correlation models in warm dense matter (arXiv)
+
+1. **[2509.10286v1](https://arxiv.org/abs/2509.10286)** Tunable Magnetic Order in Chiral Coupled Spin Chains (arXiv)
+
+1. **[2509.10412v1](https://arxiv.org/abs/2509.10412)** Topological superconductivity in a dimerized Kitaev chain revealed by nonlocal transport (arXiv)
+
+1. **[2509.10418v1](https://arxiv.org/abs/2509.10418)** Witt Groups and Bulk-Boundary Correspondence for Stabilizer States (arXiv)
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
