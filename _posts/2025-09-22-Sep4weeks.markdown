@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "weekly picks (Sep 4 week 2025)"
+date:   2025-09-22 00:16:27
+categories: 2025sep
+---
+
+{% include image.html url="/images/2025sep4weeks.png" caption="A WordCloud of 2025 Sep 4th week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+
+1. **[2509.15268v1](https://arxiv.org/abs/2509.15268)** Quantum oscillations in two-dimensional hole gases with competing cyclotron and Zeeman energy (arXiv)
+
+1. **[2509.15287v1](https://arxiv.org/abs/2509.15287)** Electrodynamics of carbon nanotubes with non-local surface conductivity (arXiv)
+
+1. **[2509.15288v1](https://arxiv.org/abs/2509.15288)** Absence of Andreev Bound States in Noncentrosymmetric Superconductor PbTaSe2 under Hydrostatic Pressures (arXiv)
+
+1. **[2509.15300v1](https://arxiv.org/abs/2509.15300)** Electronic Crystal Phases in the Presence of Non-Uniform Berry Curvature and Tunable Berry Flux: The lambda_N-Jellium model (arXiv)
+
+1. **[2509.15327v1](https://arxiv.org/abs/2509.15327)** Higgs mode in superconducting Titanium nanostructures (arXiv)
+
+1. **[2509.15352v1](https://arxiv.org/abs/2509.15352)** Absence of skewness in the voltage fluctuations of a tunnel junction in the quantum regime (arXiv)
+
+1. **[2509.15418v1](https://arxiv.org/abs/2509.15418)** Forster transfer between quantum dots in a shared phonon environment: An exact approach, revealing the role of pure dephasing (arXiv)
+
+1. **[2509.15488v1](https://arxiv.org/abs/2509.15488)** Symmetries and dynamics of quantum Hall bulk anyons in quadratic potentials (arXiv)
+
+1. **[2509.15511v1](https://arxiv.org/abs/2509.15511)** Magnetoelastic Coupling-Driven Chiral Spin Textures: A Skyrmion-Antiskyrmion-Like Array (arXiv)
+
+1. **[2509.15525v1](https://arxiv.org/abs/2509.15525)** Evidence for Half-Quantized Chiral Edge Current in a C = 1/2 Parity Anomaly State (arXiv)
+
+1. **[2509.15539v1](https://arxiv.org/abs/2509.15539)** Improving Spectral Resolution from Real-time Evolution for Correlated Systems (arXiv)
+
+1. **[2509.15604v1](https://arxiv.org/abs/2509.15604)** Spin-Orbital Altermagnetism (arXiv)
+
+1. **[2509.15665v1](https://arxiv.org/abs/2509.15665)** Correlation Effects on Magnetic Structure and Lattice Dynamics of LaMn7O12: A First-Principles Study (arXiv)
+
+1. **[2509.15708v1](https://arxiv.org/abs/2509.15708)** Terahertz radiation induced attractive-repulsive Fermi polaron conversion in transition metal dichalcogenide monolayers (arXiv)
+
+1. **[2509.15823v1](https://arxiv.org/abs/2509.15823)** A heat-resilient hole spin qubit in silicon (arXiv)
+
+1. **[2509.15835v1](https://arxiv.org/abs/2509.15835)** Novel Quantum Spin Liquid states in the S = 1/2 three-dimensional compound Y3Cu2Sb3O14 (arXiv)
+
+1. **[2509.15983v1](https://arxiv.org/abs/2509.15983)** Giant shot noise in superconductor/ferromagnet junctions with orbital-symmetry-controlled spin-orbit coupling (arXiv)
+
+1. **[2509.15996v1](https://arxiv.org/abs/2509.15996)** Non-Fermi liquid behaviour of CDW instabilities in fractionally-filled moire flatbands (arXiv)
+
+1. **[2509.16109v1](https://arxiv.org/abs/2509.16109)** Nonreciprocal plasmons in one-dimensional carbon nanostructures (arXiv)
+
+1. **[2509.16199v1](https://arxiv.org/abs/2509.16199)** Classical and Quantum theory of magnonic and magnetoelastic nonlinear dynamics in continuum geometries (arXiv)
+
+1. **[2509.14329v1](https://arxiv.org/abs/2509.14329)** Generation of Volume-Law Entanglement by Local-Measurement-Only Quantum Dynamics (arXiv)
+
+1. **[2509.15465v1](https://arxiv.org/abs/2509.15465)** Topology and Spectral Entanglement in Cavity-Mediated Photon Scattering (arXiv)
+
+1. **[2509.15483v1](https://arxiv.org/abs/2509.15483)** Dispersion Relations in Two- and Three-Dimensional Quantum Systems (arXiv)
+
+1. **[2509.15644v1](https://arxiv.org/abs/2509.15644)** Intrinsic Berry Curvature Driven Anomalous Hall and Nernst Effect in Co2MnSn (arXiv)
+
+1. **[2509.15731v1](https://arxiv.org/abs/2509.15731)** Quantum Metric Corrections to Liouville's Theorem and Chiral Kinetic Theory (arXiv)
+
+1. **[2509.15771v1](https://arxiv.org/abs/2509.15771)** Unveiling Excitonic Insulator Signatures in Ta2NiSe5 (arXiv)
+
+1. **[2509.15894v1](https://arxiv.org/abs/2509.15894)** Zak Phase Dislocations in Trimer Lattices (arXiv)
+
+1. **[2509.16036v1](https://arxiv.org/abs/2509.16036)** Exact Relation Between Wehrl-Renyi Entropy and Many-Body Entanglement (arXiv)
+
+1. **[2509.16200v1](https://arxiv.org/abs/2509.16200)** Exploring confinement transitions in Z2 lattice gauge theories with dipolar atoms beyond one dimension (arXiv)
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
