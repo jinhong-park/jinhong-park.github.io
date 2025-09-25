@@ -21,6 +21,132 @@ categories: 2025sep
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
 
+---
+09/25
+
+
+1. **[s41586-025-09531-9](https://www.nature.com/articles/s41586-025-09531-9)** Industry-compatible silicon spin-qubit unit cells exceeding 99% fidelity (Nature)
+
+1. **[s41586-025-09543-5](https://www.nature.com/articles/s41586-025-09543-5)** Low-overhead transversal fault tolerance for universal quantum computation (Nature)
+
+
+
+
+
+1. **[x5cd-fbj8](http://link.aps.org/doi/10.1103/x5cd-fbj8)** Optical Lattice Quantum Simulator of Dynamics beyond Born-Oppenheimer (PRL)
+
+1. **[zlqs-yc51](http://link.aps.org/doi/10.1103/zlqs-yc51)** Universal Kerr-Thermal Dynamics of Self-Injection-Locked Microresonator Dark Pulses (PRL)
+
+1. **[6bjy-m2j4](http://link.aps.org/doi/10.1103/6bjy-m2j4)** Vibrational Modes and Particle Rearrangements in Sheared Quasi-Two-Dimensional Complex Plasmas (PRL)
+
+1. **[r3zx-k97x](http://link.aps.org/doi/10.1103/r3zx-k97x)** Unified High-Pressure Phase-Transition Sequence in the f-Electron Metals: oF16→oF8 Transition in Terbium (PRL)
+
+1. **[xxtf-98vs](http://link.aps.org/doi/10.1103/xxtf-98vs)** Spatially Resolved Vibronic Excitations of an Isolated Adsorbed Organometallic Complex via Multiple Tunneling Channels (PRL)
+
+1. **[4kyt-jj6w](http://link.aps.org/doi/10.1103/4kyt-jj6w)** Carrier Localization and Spontaneous Formation of Two-Dimensional Polarization Domain in Halide Perovskites (PRL)
+
+1. **[z8yx-yzdh](http://link.aps.org/doi/10.1103/z8yx-yzdh)** Self-Reconstruction of Order Parameter in Spin-Triplet Superconductor UTe2 (PRL)
+
+1. **[zfmh-rjzc](http://link.aps.org/doi/10.1103/zfmh-rjzc)** Band Renormalization, Quarter Metals, and Chiral Superconductivity in Rhombohedral Tetralayer Graphene (PRL)
+
+1. **[rc31-5hl9](http://link.aps.org/doi/10.1103/rc31-5hl9)** Simulating the Two-Dimensional t−J Model at Finite Doping with Neural Quantum States (PRL)
+
+1. **[9tq1-37j1](http://link.aps.org/doi/10.1103/9tq1-37j1)** Observation of Embedded Topology in a Trivial Bulk via Projective Crystal Symmetry (PRL)
+
+1. **[dvbq-9z5f](http://link.aps.org/doi/10.1103/dvbq-9z5f)** Thermal Spin Wave Noise as a Probe for the Dzyaloshinskii-Moriya Interaction (PRL)
+
+1. **[dpfl-12st](http://link.aps.org/doi/10.1103/dpfl-12st)** Two-Dopant Origin of Competing Stripe and Pair Formation in Hubbard and t−J Models (PRX)
+
+1. **[fw62-j2n9](http://link.aps.org/doi/10.1103/fw62-j2n9)** Diagnosing quantum many-body chaos in non-Hermitian quantum spin chain via Krylov complexity (PRR)
+
+1. **[l53n-2kg1](http://link.aps.org/doi/10.1103/l53n-2kg1)** Transient state dynamics of <i>Chlamydomonas reinhardtii</i> cells during phototaxis (PRR)
+
+
+1. **[2509.19320v1](https://arxiv.org/abs/2509.19320)** Introduction to some of the simplest topological phases of matter (arXiv)
+
+1. **[2509.19433v1](https://arxiv.org/abs/2509.19433)** Unifying framework for non-Hermitian and Hermitian topology in driven-dissipative systems (arXiv)
+
+1. **[2509.19436v1](https://arxiv.org/abs/2509.19436)** Dynamical correlation effects in twisted bilayer graphene under strain and lattice relaxation (arXiv)
+
+1. **[2509.19437v1](https://arxiv.org/abs/2509.19437)** Quantum Dynamics of Electron Scattering from Skyrmions (arXiv)
+
+1. **[2509.19440v1](https://arxiv.org/abs/2509.19440)** There and Back Again: A Gauging Nexus between Topological and Fracton Phases (arXiv)
+
+1. **[2509.19483v1](https://arxiv.org/abs/2509.19483)** Electrical detection of magnons with nanoscale magnetic tunnel junctions (arXiv)
+
+1. **[2509.19498v1](https://arxiv.org/abs/2509.19498)** Ramp Josephson junctions of Al/Ti/Sr2RuO4: Observation of single-domain quantum oscillations and the detection of chiral edge current (arXiv)
+
+1. **[2509.19537v1](https://arxiv.org/abs/2509.19537)** Rapid Autotuning of a SiGe Quantum Dot into the Single-Electron Regime with Machine Learning and RF-Reflectometry FPGA-Based Measurements (arXiv)
+
+1. **[2509.19582v1](https://arxiv.org/abs/2509.19582)** Strain-tunable anomalous Hall effect in hexagonal MnTe (arXiv)
+
+1. **[2509.19634v1](https://arxiv.org/abs/2509.19634)** Knight shift measurements probing Fermi surface changes under pressure in CeRhIn5 (arXiv)
+
+1. **[2509.19675v1](https://arxiv.org/abs/2509.19675)** Quantum criticality in cuprate superconductors revealed by optical conductivity measurement (arXiv)
+
+1. **[2509.19684v1](https://arxiv.org/abs/2509.19684)** Hybridization gap and f-electron effect evolutions with Cd- and Sn-doping in CeCoIn5 via infrared spectroscopy (arXiv)
+
+1. **[2509.19697v1](https://arxiv.org/abs/2509.19697)** Roles of Fe-ion irradiation on MgB2 thin films: Structural, superconducting, and optical properties (arXiv)
+
+1. **[2509.19704v1](https://arxiv.org/abs/2509.19704)** Holographic Aspects of Dynamical Mean-Field Theory (arXiv)
+
+1. **[2509.19706v1](https://arxiv.org/abs/2509.19706)** Harmonic and Subharmonic Magnon Generation in a Surface Acoustic Wave Resonator (arXiv)
+
+1. **[2509.19735v1](https://arxiv.org/abs/2509.19735)** Projective crystal symmetry and topological phases (arXiv)
+
+1. **[2509.19741v1](https://arxiv.org/abs/2509.19741)** Domain wall skyrmion-based magnonic crystal (arXiv)
+
+1. **[2509.19764v1](https://arxiv.org/abs/2509.19764)** A General Many-Body Perturbation Framework for Moire Systems: Application to Rhombohedral Pentalayer Graphene/hBN Heterostructures (arXiv)
+
+1. **[2509.19796v1](https://arxiv.org/abs/2509.19796)** Grand thermodynamic potential in a two-band unconventional superconductor (arXiv)
+
+1. **[2509.19825v1](https://arxiv.org/abs/2509.19825)** Z2 topological invariant in three-dimensional PT- and PC-symmetric class CI band structures (arXiv)
+
+1. **[2509.19904v1](https://arxiv.org/abs/2509.19904)** Ab initio investigation on structural stability and phonon-mediated superconductivity in 2D-hydrogenated M2X (M= Mo, V, Zr; X=C, N) MXene monolayer (arXiv)
+
+1. **[2509.19907v1](https://arxiv.org/abs/2509.19907)** Theoretical prediction of Structural Stability and Superconductivity in Janus Ti2CSH MXene (arXiv)
+
+1. **[2509.19978v1](https://arxiv.org/abs/2509.19978)** Non-ohmic to ohmic crossover in the breakdown of the quantum Hall states in graphene under broadband excitations (arXiv)
+
+1. **[2509.19992v1](https://arxiv.org/abs/2509.19992)** Breakdown of symmetry constraint in Floquet topological superconductor (arXiv)
+
+1. **[2509.20054v1](https://arxiv.org/abs/2509.20054)** Generalized Li-Haldane Correspondence in Critical Free-Fermion Systems (arXiv)
+
+1. **[2509.20163v1](https://arxiv.org/abs/2509.20163)** Non-universal localization transition in the quantum Hall effect probed through broken-symmetry states of graphene (arXiv)
+
+1. **[2509.20188v1](https://arxiv.org/abs/2509.20188)** Solution of the Anderson chain with two-particle hybridization of localized and itinerant electrons (arXiv)
+
+1. **[2509.20199v1](https://arxiv.org/abs/2509.20199)** Random singlet physics in the S = 1/2 pyrochlore antiferromagnet NaCdCu2F7 (arXiv)
+
+1. **[2509.20224v1](https://arxiv.org/abs/2509.20224)** Inelastic scattering and transient localization from coupling to two-level systems (arXiv)
+
+1. **[2509.20243v1](https://arxiv.org/abs/2509.20243)** Effects of correlated hopping on thermoelectric response of a quantum dot strongly coupled to ferromagnetic leads (arXiv)
+
+1. **[2509.20298v1](https://arxiv.org/abs/2509.20298)** What causes the variation in superconducting properties of UTe2? (arXiv)
+
+1. **[2509.20337v1](https://arxiv.org/abs/2509.20337)** Spin-polaron fingerprints in the optical conductivity of iridates (arXiv)
+
+1. **[2509.17378v1](https://arxiv.org/abs/2509.17378)** Magnetically Enhanced Thermoelectric Effect Driven by Martensitic Transformation in the Weak Itinerant Ferromagnet Co2NbSn (arXiv)
+
+1. **[2509.17515v1](https://arxiv.org/abs/2509.17515)** Chern classes of the multilayer fractional quantum Hall bundle on Riemann surfaces (arXiv)
+
+1. **[2509.19807v1](https://arxiv.org/abs/2509.19807)** Intrinsic defect intolerance in the ultra-pure metal PtSn4 (arXiv)
+
+1. **[2509.19818v1](https://arxiv.org/abs/2509.19818)** The orbital-driven topological phase transition and planar Hall responses in ternary tellurides Weyl semi-metals (arXiv)
+
+1. **[2509.20014v1](https://arxiv.org/abs/2509.20014)** How to Identify Suitable Gate Dielectrics for Transistors based on Two-Dimensional Semiconductors (arXiv)
+
+1. **[2509.20078v1](https://arxiv.org/abs/2509.20078)** Hierarchy of timescales in a disordered spin-1/2 XX ladder (arXiv)
+
+1. **[2509.20142v1](https://arxiv.org/abs/2509.20142)** Single crystal growth, structural and physical properties, and absence of a charge density wave in Ti0.85Fe6Ge6 (arXiv)
+
+1. **[2509.20156v1](https://arxiv.org/abs/2509.20156)** Unveiling the magnetic behavior of C3N4 2D material by defect creation, defect passivation, and transition metal adsorption (arXiv)
+
+1. **[2509.20258v1](https://arxiv.org/abs/2509.20258)** Fidelity zeros and Lee-Yang theory of quantum phase transitions (arXiv)
+
+1. **[2509.20352v1](https://arxiv.org/abs/2509.20352)** Superfluid-Mott transition in a frustrated triangular optical lattice (arXiv)
+
+
 
 ---
 09/24
