@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "weekly picks (Sep 5 week 2025)"
+date:   2025-09-29 00:16:27
+categories: 2025sep
+---
+
+{% include image.html url="/images/2025sep5weeks.png" caption="A WordCloud of 2025 Sep 5th week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+1. **[2509.21540v1](https://arxiv.org/abs/2509.21540)** Critical dynamics and superconducting state preparation in the quenched Kitaev chain with pairing imbalance (arXiv)
+
+1. **[2509.21558v1](https://arxiv.org/abs/2509.21558)** Real Space Imaging of Spin Scattering in Chirality-Induced Spin Selectivity (arXiv)
+
+1. **[2509.21591v1](https://arxiv.org/abs/2509.21591)** Pathways from a chiral superconductor to a composite Fermi liquid (arXiv)
+
+1. **[2509.21640v1](https://arxiv.org/abs/2509.21640)** A comprehensive equivalent circuit model for high overtone bulk acoustic resonators (HBARs) (arXiv)
+
+1. **[2509.21759v1](https://arxiv.org/abs/2509.21759)** Hexagonal boron nitride/bilayer graphene moire superlattices in the Dirac-material family: energy-band engineering and carrier doping by dual gating (arXiv)
+
+1. **[2509.21771v1](https://arxiv.org/abs/2509.21771)** Spin-basis wavefunctions for the one-dimensional Kitaev model (arXiv)
+
+1. **[2509.21813v1](https://arxiv.org/abs/2509.21813)** Low-energy photoexcitation inside the Mott gap in doped Hubbard and t-J ladders (arXiv)
+
+1. **[2509.21877v1](https://arxiv.org/abs/2509.21877)** Ab initio study of magnetoresistance effect in Mn3Sn/MgO/Mn3Sn antiferromagnetic tunnel junction (arXiv)
+
+1. **[2509.21901v1](https://arxiv.org/abs/2509.21901)** Gapless and ordered phases in spin-1/2 Kitaev-XX-Gamma chain (arXiv)
+
+1. **[2509.21951v1](https://arxiv.org/abs/2509.21951)** Extending the optical absorption in a lumped element meander structure to far-infrared wavelengths (arXiv)
+
+1. **[2509.22051v1](https://arxiv.org/abs/2509.22051)** From gauging to duality in one-dimensional quantum lattice models (arXiv)
+
+1. **[2509.22177v1](https://arxiv.org/abs/2509.22177)** Predictor-corrector method based on dynamic mode decomposition for tensor-train nonequilibrium Green's function calculations (arXiv)
+
+1. **[2509.22185v1](https://arxiv.org/abs/2509.22185)** Quantum spin Hall effect in III-V semiconductors at elevated temperatures: advancing topological electronics (arXiv)
+
+1. **[2509.22231v1](https://arxiv.org/abs/2509.22231)** Features of the Electronic and Charge States of Monovalent-Doped Manganite Films Probed by Magnetic Circular Dichroism (arXiv)
+
+1. **[2509.22266v1](https://arxiv.org/abs/2509.22266)** Antitoroidal magnets and anomalous Hall effect (arXiv)
+
+1. **[2509.22274v1](https://arxiv.org/abs/2509.22274)** Continuum theory for topological phase transitions in exciton systems (arXiv)
+
+1. **[2509.22278v1](https://arxiv.org/abs/2509.22278)** Supercondutivity of Nb-Ta-Ti-Zr-Hf high entropy alloy polycrystalline and amorphous thin films (arXiv)
+
+1. **[2509.22304v1](https://arxiv.org/abs/2509.22304)** Selective bulk-boundary correspondence in higher-order topological insulators with anticommuting mirror and chiral symmetries (arXiv)
+
+1. **[2509.22473v1](https://arxiv.org/abs/2509.22473)** Competing s-wave pairing in overdoped t-J model (arXiv)
+
+1. **[2509.22511v1](https://arxiv.org/abs/2509.22511)** Cryogenic In-Memory Computing with Phase-Change Memory (arXiv)
+
+1. **[2509.22559v1](https://arxiv.org/abs/2509.22559)** Superconductivity in cubic La3Al with interstitial anionic electrons (arXiv)
+
+1. **[2509.22593v1](https://arxiv.org/abs/2509.22593)** Investigation of Parasitic Two-Level Systems in Merged-Element Transmon Qubits (arXiv)
+
+1. **[2509.22634v1](https://arxiv.org/abs/2509.22634)** Limitations of detecting structural changes and time-reversal symmetry breaking in scanning tunneling microscopy experiments (arXiv)
+
+1. **[2509.21410v1](https://arxiv.org/abs/2509.21410)** Quantum Simulation of Fermions in AdS2 Black Hole: Chirality, Entanglement, and Spectral Crossovers (arXiv)
+
+1. **[2509.21441v1](https://arxiv.org/abs/2509.21441)** Thermal reconstruction of chaotic quantum many-body systems (arXiv)
+
+1. **[2509.21585v1](https://arxiv.org/abs/2509.21585)** Smearing of dynamical quantum phase transitions in dissipative free-fermion systems (arXiv)
+
+1. **[2509.21974v1](https://arxiv.org/abs/2509.21974)** Quantum simulation approach to ultra-weak magnetic anisotropy in a frustrated spin-1/2 antiferromagnet (arXiv)
+
+1. **[2509.22073v1](https://arxiv.org/abs/2509.22073)** Noise cross-correlations from single-shot measurements (arXiv)
+
+1. **[2509.22103v1](https://arxiv.org/abs/2509.22103)** Privacy in Distributed Quantum Sensing with Gaussian Quantum Networks (arXiv)
+
+1. **[2509.22105v1](https://arxiv.org/abs/2509.22105)** Theoretical investigations of tetrameric magnetic molecules for sub-kelvin cooling (arXiv)
+
+1. **[2509.22606v1](https://arxiv.org/abs/2509.22606)** Probing Fractional Quantum Hall states in weakly interacting Fermi gases (arXiv)
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
