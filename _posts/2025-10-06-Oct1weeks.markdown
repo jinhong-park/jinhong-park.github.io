@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "weekly picks (Oct 1 week 2025)"
+date:   2025-10-06 00:16:27
+categories: 2025oct
+---
+
+{% include image.html url="/images/2025sep5weeks.png" caption="A WordCloud of 2025 Oct 1st week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+<details>
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+---
+10/06
+
+
+
+1. **[s41467-025-63908-y](https://www.nature.com/articles/s41467-025-63908-y)** Late-stage direct double borylation of B/N-based multi-resonance framework enables high-performance ultra-narrowband deep-blue organic light-emitting diodes (Nature Communications)
+
+
+
+
+
+
+
+1. **[2510.02413v1](https://arxiv.org/abs/2510.02413)** Unusual spin-triplet superconductivity in monolayer graphene (arXiv)
+
+1. **[2510.02429v1](https://arxiv.org/abs/2510.02429)** Uncovering origins of heterogeneous superconductivity in La3Ni2O7 using quantum sensors (arXiv)
+
+1. **[2510.02444v1](https://arxiv.org/abs/2510.02444)** Four Moire materials at One Magic Angle in Helical Quadrilayer Graphene (arXiv)
+
+1. **[2510.02460v1](https://arxiv.org/abs/2510.02460)** Detecting quantum spin liquid on Kitaev model through a superconducting junction (arXiv)
+
+1. **[2510.02474v1](https://arxiv.org/abs/2510.02474)** Vestigial pairing from fluctuating magnetism and triplet superconductivity (arXiv)
+
+1. **[2510.02521v1](https://arxiv.org/abs/2510.02521)** Symmetry in magnetoelectric electromagnetism and magnetoelectric meta-atoms (arXiv)
+
+1. **[2510.02574v1](https://arxiv.org/abs/2510.02574)** A Physical Unclonable Function Based on Variations of Write Times in STT-MRAM due to Manufacturing Defects (arXiv)
+
+1. **[2510.02593v2](https://arxiv.org/abs/2510.02593)** Spin-dependent orbital selectivity and partial Kondo-screening in magnetically ordered Hund's metal (arXiv)
+
+1. **[2510.02644v1](https://arxiv.org/abs/2510.02644)** Ginzburg-Landau theory of spin pumping through an antiferromagnetic layer near the Neel temperature (arXiv)
+
+1. **[2510.02661v1](https://arxiv.org/abs/2510.02661)** Classification of electromagnetic responses by quantum geometry (arXiv)
+
+1. **[2510.02684v1](https://arxiv.org/abs/2510.02684)** Weak localization and antilocalization corrections to nonlinear transport: a semiclassical Boltzmann treatment (arXiv)
+
+1. **[2510.02697v1](https://arxiv.org/abs/2510.02697)** Spectroscopic evidence of Kondo resonance in 3d van der Waals ferromagnets (arXiv)
+
+1. **[2510.02777v1](https://arxiv.org/abs/2510.02777)** Magnetocaloric effect for the altermagnetic candidate MnTe (arXiv)
+
+1. **[2510.02794v1](https://arxiv.org/abs/2510.02794)** Using Landau quantization to probe disorder in semiconductor heterostructures (arXiv)
+
+1. **[2510.02923v1](https://arxiv.org/abs/2510.02923)** Highly-Linear Proximity-Based Bi-SQUID Operating above 4 K (arXiv)
+
+1. **[2510.02935v1](https://arxiv.org/abs/2510.02935)** Dissipation properties of anomalous Hall effect: intrinsic vs. extrinsic magnetic materials (arXiv)
+
+1. **[2510.03010v1](https://arxiv.org/abs/2510.03010)** Deconstruction of the anisotropic magnetic interactions from spin-entangled optical excitations in van der Waals antiferromagnets (arXiv)
+
+1. **[2510.03018v1](https://arxiv.org/abs/2510.03018)** Modeling Quantum Geometry for Fractional Chern Insulators with unsupervised learning (arXiv)
+
+1. **[2510.03099v2](https://arxiv.org/abs/2510.03099)** Polarization dependence of spin-electric transitions in molecular exchange qubits (arXiv)
+
+1. **[2510.03125v1](https://arxiv.org/abs/2510.03125)** Spatial uniformity of g-tensor and spin-orbit interaction in germanium hole spin qubits (arXiv)
+
+1. **[2510.03188v1](https://arxiv.org/abs/2510.03188)** Nonsymmorphic symmetry protected hourglass Dirac chain topology and conventional superconductivity in ZrIrGe (arXiv)
+
+1. **[2510.02428v1](https://arxiv.org/abs/2510.02428)** Utility-Scale Quantum State Preparation: Classical Training using Pauli Path Simulation (arXiv)
+
+1. **[2510.02451v1](https://arxiv.org/abs/2510.02451)** Slow-phonon control of spin Edelstein effect in Rashba d-wave altermagnets (arXiv)
+
+1. **[2510.02452v1](https://arxiv.org/abs/2510.02452)** Spin polarization engineering in d-wave altermagnets (arXiv)
+
+1. **[2510.03052v1](https://arxiv.org/abs/2510.03052)** Ultrafast dynamics of coherent exciton-polaritons in van der Waals semiconductor metasurfaces (arXiv)
+
+1. **[2510.03054v1](https://arxiv.org/abs/2510.03054)** Electrically modulated light-emitting diodes driven by resonant and antiresonant tunneling between Cr2Ge2Te6 electrodes (arXiv)
+
+1. **[2510.03113v1](https://arxiv.org/abs/2510.03113)** Bounds on Atomistic Disorder for Scalable Electron Shuttling (arXiv)
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+</style>
