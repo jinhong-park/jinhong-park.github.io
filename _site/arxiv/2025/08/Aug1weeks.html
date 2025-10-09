@@ -223,7 +223,7 @@
 
 <p><strong><a href="http://link.aps.org/doi/10.1103/4bp5-9ryg">4bp5-9ryg</a></strong> <strong>Electrically Induced Bulk and Edge Excitations in the Fractional Quantum Hall Regime (PRL)</strong></p>
 
-<details>
+<details id="myDetails">
   <summary> Unfold/Fold </summary>
   
   
@@ -868,6 +868,23 @@
     cursor: pointer;
   }
 </style>
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
 
 
   </article>

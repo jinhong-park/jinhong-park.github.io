@@ -235,7 +235,7 @@
 
 <p><strong><a href="https://www.nature.com/articles/s41563-025-02316-5">s41563-025-02316-5</a></strong> <strong>Competition between excitonic insulators and quantum Hall states in correlated electron–hole bilayers (Nature Materials)</strong></p>
 
-<details>
+<details id="myDetails">
   <summary> Unfold/Fold </summary>
   
   
@@ -964,6 +964,23 @@
     cursor: pointer;
   }
 </style>
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
 
 
   </article>

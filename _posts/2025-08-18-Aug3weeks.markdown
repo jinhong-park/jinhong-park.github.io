@@ -43,7 +43,7 @@ categories: 2025aug
 
 
 
-<details>
+<details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
 
@@ -582,3 +582,22 @@ categories: 2025aug
     cursor: pointer;
   }
 </style>
+
+
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>

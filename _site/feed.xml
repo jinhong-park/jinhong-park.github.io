@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Oct 2025 16:42:13 +0900</pubDate>
-    <lastBuildDate>Thu, 09 Oct 2025 16:42:13 +0900</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 16:54:28 +0900</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 16:54:28 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -657,7 +657,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2509.23734&quot;&gt;2509.23734v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Haag Duality for 2D Quantum Spin Systems (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -1519,6 +1519,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 29 Sep 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/09/Sep5weeks</link>
@@ -1588,7 +1605,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2509.18845&quot;&gt;2509.18845v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Interacting-cluster spin liquids with robust flat bands evolving into higher-rank half-moon phases and topological Lifshitz transitions (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -2363,6 +2380,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 22 Sep 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/09/Sep4weeks</link>
@@ -2438,7 +2472,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2509.12184&quot;&gt;2509.12184v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;From hidden order to skyrmions: Quantum Hall states in an extended Hofstadter-Fermi-Hubbard model (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -3261,6 +3295,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 15 Sep 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/09/Sep3weeks</link>
@@ -3330,7 +3381,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2509.05525&quot;&gt;2509.05525v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Le Chatelier principle and field-induced change in magnetic entropy leading to spin lattice partitioning and magnetization plateau (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -3946,6 +3997,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 08 Sep 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/09/Sep2weeks</link>
@@ -4021,7 +4089,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2509.04408&quot;&gt;2509.04408v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Chiral Graviton Theory of Fractional Quantum Hall States (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -4925,6 +4993,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 01 Sep 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/09/Sep1weeks</link>
@@ -5006,7 +5091,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02316-5&quot;&gt;s41563-025-02316-5&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Competition between excitonic insulators and quantum Hall states in correlated electron–hole bilayers (Nature Materials)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -5736,6 +5821,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 25 Aug 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/08/Aug4weeks</link>
@@ -5793,7 +5895,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.12985&quot;&gt;2508.12985v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Observation of Altermagnetic Spin Splitting in an Intercalated Transition Metal Dichalcogenide (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -6478,6 +6580,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 18 Aug 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/08/Aug3weeks</link>
@@ -6511,7 +6630,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.07639&quot;&gt;2508.07639v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Magnetic and Crystal Symmetry Effects on Spin Hall Conductivity in Altermagnets (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -7010,6 +7129,23 @@
   }
 &lt;/style&gt;
 
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
 </description>
         <pubDate>Mon, 11 Aug 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/08/Aug2weeks</link>
@@ -7079,7 +7215,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/4bp5-9ryg&quot;&gt;4bp5-9ryg&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Electrically Induced Bulk and Edge Excitations in the Fractional Quantum Hall Regime (PRL)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -7724,6 +7860,23 @@
     cursor: pointer;
   }
 &lt;/style&gt;
+
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
 
 </description>
         <pubDate>Mon, 04 Aug 2025 09:16:27 +0900</pubDate>

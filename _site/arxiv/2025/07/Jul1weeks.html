@@ -211,7 +211,7 @@
 
 <p><strong><a href="https://www.nature.com/articles/s43246-025-00858-4">s43246-025-00858-4</a></strong> <strong>Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice (Communications materials)</strong></p>
 
-<details>
+<details id="myDetails">
   <summary> Unfold/Fold </summary>
   
   
@@ -1208,6 +1208,23 @@ Strained Monolayer Graphene (arXiv)</p>
     cursor: pointer;
   }
 </style>
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
 
 
   </article>

@@ -223,7 +223,7 @@
 
 <p><strong><a href="https://arxiv.org/abs/2509.18845">2509.18845v1</a></strong> <strong>Interacting-cluster spin liquids with robust flat bands evolving into higher-rank half-moon phases and topological Lifshitz transitions (arXiv)</strong></p>
 
-<details>
+<details id="myDetails">
   <summary> Unfold/Fold </summary>
   
   
@@ -997,6 +997,23 @@
     cursor: pointer;
   }
 </style>
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
 
 
   </article>

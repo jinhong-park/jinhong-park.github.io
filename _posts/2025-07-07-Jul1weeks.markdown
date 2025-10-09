@@ -51,7 +51,7 @@ HTML 파일에는 아무것도 남지 않습니다.
 
 
 
-<details>
+<details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdown_content %}
 
@@ -853,3 +853,21 @@ Strained Monolayer Graphene (arXiv)
   }
 </style>
 
+
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
