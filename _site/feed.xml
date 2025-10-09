@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Oct 2025 13:12:23 +0900</pubDate>
-    <lastBuildDate>Thu, 09 Oct 2025 13:12:23 +0900</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 16:42:13 +0900</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 16:42:13 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -25,7 +25,7 @@
   &lt;li&gt;Score :&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;details&gt;
+&lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
@@ -555,7 +555,26 @@
   summary {
     cursor: pointer;
   }
+
+
 &lt;/style&gt;
+
+&lt;script&gt;
+  // Wait for the DOM to be fully loaded
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
+
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
 
 </description>
         <pubDate>Mon, 06 Oct 2025 09:16:27 +0900</pubDate>
