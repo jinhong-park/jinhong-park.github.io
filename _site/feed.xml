@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Oct 2025 13:38:56 +0900</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2025 13:38:56 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 11 Oct 2025 15:24:33 +0900</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 15:24:33 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Oct 1 week 2025)</title>
@@ -22,13 +22,81 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 17117&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.02460&quot;&gt;2510.02460v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Detecting quantum spin liquid on Kitaev model through a superconducting junction (arXiv)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 13344&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.04830&quot;&gt;2510.04830v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Anyon interactions in the Chern–Simons–Landau–Ginzburg model of the fractional quantum Hall effect (arXiv)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 13048&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.04824&quot;&gt;2510.04824v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Experimental observation of frustration and large anomalous Nernst effect in metallo-molecular spin Kondo lattice interfaces (arXiv)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 12011&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.06086&quot;&gt;2510.06086v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Identifying chiral topological order in microscopic spin models by modular commutator (arXiv)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 10494&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.05018&quot;&gt;2510.05018v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Controlling an altermagnetic spin density wave in the kagome magnet CsCr3Sb5 (arXiv)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 10321&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.07023&quot;&gt;2510.07023v1&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;Simulating Topological Order on Quantum Processors (arXiv)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;10/11&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02310-y&quot;&gt;s42005-025-02310-y&lt;/a&gt;&lt;/strong&gt; Memory loss is contagious in open quantum systems (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02311-x&quot;&gt;s42005-025-02311-x&lt;/a&gt;&lt;/strong&gt; Geometric frustration assisted kinetic ferromagnetism in doped Mott insulators (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02399-0&quot;&gt;s41563-025-02399-0&lt;/a&gt;&lt;/strong&gt; Publisher Correction: Bose–Einstein condensation of a two-magnon bound state in a spin-1 triangular lattice (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02394-5&quot;&gt;s41563-025-02394-5&lt;/a&gt;&lt;/strong&gt; Author Correction: Superconductivity and normal-state transport in compressively strained La&lt;sub&gt;2&lt;/sub&gt;PrNi&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; thin films (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02363-y&quot;&gt;s41563-025-02363-y&lt;/a&gt;&lt;/strong&gt; Giant photoconductance at infinite-layer nickelate/SrTiO&lt;sub&gt;3&lt;/sub&gt; interfaces via an optically induced high-mobility electron gas (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02364-x&quot;&gt;s41563-025-02364-x&lt;/a&gt;&lt;/strong&gt; Multiple freezing–melting pathways of high-density ice through ice XXI phase at room temperature (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/31wk-5yqp&quot;&gt;31wk-5yqp&lt;/a&gt;&lt;/strong&gt; Coupling between a Si/SiGe Resonant Exchange Qubit and a High-Impedance Microwave Resonator (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/h6j7-cgwz&quot;&gt;h6j7-cgwz&lt;/a&gt;&lt;/strong&gt; Topological protection breakdown: A route to frustrated ferroelectricity (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/nxhw-7nf6&quot;&gt;nxhw-7nf6&lt;/a&gt;&lt;/strong&gt; Phase-dependent quantum optical coherence tomography (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/4rkj-z4qp&quot;&gt;4rkj-z4qp&lt;/a&gt;&lt;/strong&gt; Sub-recoil transverse momentum width in a cold ytterbium atomic beam (PRRL)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;10/10&lt;/p&gt;
 
@@ -289,9 +357,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.07020&quot;&gt;2510.07020v1&lt;/a&gt;&lt;/strong&gt; Thermal gradient-driven skyrmion dynamics with near-zero skyrmion Hall angle (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.07023&quot;&gt;2510.07023v1&lt;/a&gt;&lt;/strong&gt; Simulating Topological Order on Quantum Processors (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.07214&quot;&gt;2510.07214v1&lt;/a&gt;&lt;/strong&gt; Topology of the generalized Brillouin zone of one-dimensional models (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -392,9 +457,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.05988&quot;&gt;2510.05988v1&lt;/a&gt;&lt;/strong&gt; Commensurate-incommensurate Mott transition without magnetic field: emergence of nematic Luttinger liquid in XXZ chain (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.06086&quot;&gt;2510.06086v1&lt;/a&gt;&lt;/strong&gt; Identifying chiral topological order in microscopic spin models by modular commutator (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.06109&quot;&gt;2510.06109v1&lt;/a&gt;&lt;/strong&gt; Phase-induced switching of ferromagnetic insulators in Josephson spin valves (arXiv)&lt;/p&gt;
@@ -565,12 +627,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.04804&quot;&gt;2510.04804v1&lt;/a&gt;&lt;/strong&gt; Systematic cRPA study of two-dimensional MA2Z4 materials: From unconventional screening to correlation-driven instabilities (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.04824&quot;&gt;2510.04824v1&lt;/a&gt;&lt;/strong&gt; Experimental observation of frustration and large anomalous Nernst effect in metallo-molecular spin Kondo lattice interfaces (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.04830&quot;&gt;2510.04830v1&lt;/a&gt;&lt;/strong&gt; Anyon interactions in the Chern–Simons–Landau–Ginzburg model of the fractional quantum Hall effect (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.04845&quot;&gt;2510.04845v1&lt;/a&gt;&lt;/strong&gt; Magnetic Moment Fragmentation in an All-in-All-out Pyrochlore Nd2Sn2O7 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -581,9 +637,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.04959&quot;&gt;2510.04959v1&lt;/a&gt;&lt;/strong&gt; Fermionic influence superoperator for transport through Majorana zero modes (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.05018&quot;&gt;2510.05018v1&lt;/a&gt;&lt;/strong&gt; Controlling an altermagnetic spin density wave in the kagome magnet CsCr3Sb5 (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.05019&quot;&gt;2510.05019v1&lt;/a&gt;&lt;/strong&gt; Emergent Electronic Flat Bands Through Dislocation Defect Phase Patterning: Effective One-Dimensional Model (arXiv)&lt;/p&gt;
@@ -644,9 +697,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.02444&quot;&gt;2510.02444v1&lt;/a&gt;&lt;/strong&gt; Four Moire materials at One Magic Angle in Helical Quadrilayer Graphene (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.02460&quot;&gt;2510.02460v1&lt;/a&gt;&lt;/strong&gt; Detecting quantum spin liquid on Kitaev model through a superconducting junction (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2510.02474&quot;&gt;2510.02474v1&lt;/a&gt;&lt;/strong&gt; Vestigial pairing from fluctuating magnetism and triplet superconductivity (arXiv)&lt;/p&gt;
