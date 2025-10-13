@@ -1,0 +1,112 @@
+---
+layout: post
+title:  "weekly picks (Oct 2 week 2025)"
+date:   2025-10-13 00:16:27
+categories: 2025oct
+---
+
+{% include image.html url="/images/2025oct2weeks.png" caption="A WordCloud of 2025 Oct 2nd week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+1. **[2510.08678v1](https://arxiv.org/abs/2510.08678)** Coherent Optical Control of Electron Dynamics in Patterned Graphene Nanoribbons (arXiv)
+
+1. **[2510.08740v1](https://arxiv.org/abs/2510.08740)** Light-induced pseudo-magnetic fields in three-dimensional topological semimetals (arXiv)
+
+1. **[2510.08746v1](https://arxiv.org/abs/2510.08746)** Crystal-Field--Driven Magnetoelectricity in the Triangular Quantum Magnet CeMgAl11O19 (arXiv)
+
+1. **[2510.09044v1](https://arxiv.org/abs/2510.09044)** Imaging of Gate-Controlled Suppression of Superconductivity via the Meissner Effect (arXiv)
+
+1. **[2510.09120v1](https://arxiv.org/abs/2510.09120)** Parametric Drive of a Double Quantum Dot in a Cavity (arXiv)
+
+1. **[2510.09150v1](https://arxiv.org/abs/2510.09150)** Chern insulators and topological flat bands in cavity-embedded kagome systems (arXiv)
+
+1. **[2510.09151v1](https://arxiv.org/abs/2510.09151)** Nematic Fluctuations and Electronic Correlations in Heavily Hole-Doped Ba1-xKxFe2As2 Probed by Elastoresistance (arXiv)
+
+1. **[2510.09170v1](https://arxiv.org/abs/2510.09170)** Altermagnetism and Superconductivity: A Short Historical Review (arXiv)
+
+1. **[2510.09234v1](https://arxiv.org/abs/2510.09234)** Quantum fluctuation-induced first-order breaking of time-reversal symmetry in unconventional superconductors (arXiv)
+
+1. **[2510.09235v1](https://arxiv.org/abs/2510.09235)** Tunable Chern Insulator States with Coexisting Magnonic and Electronic Topology in 2D Honeycomb Kitaev Ferromagnets (arXiv)
+
+1. **[2510.09264v1](https://arxiv.org/abs/2510.09264)** Consistent gauge theories for the slave particle representation of the strongly correlated t-J model (arXiv)
+
+1. **[2510.09268v1](https://arxiv.org/abs/2510.09268)** Cubic magnetic anisotropy in B20 magnets: Interplay of anisotropy and magnetic order in Fe1-xCoxSi (arXiv)
+
+1. **[2510.09282v1](https://arxiv.org/abs/2510.09282)** Field-induced magnetic phases in the Kitaev candidate Na3Co2SbO6 (arXiv)
+
+1. **[2510.09300v1](https://arxiv.org/abs/2510.09300)** Clarification of Floquet--Enhanced Thermal Emission Through the Nonequilibrium Green's Function Formalism (arXiv)
+
+1. **[2510.09363v1](https://arxiv.org/abs/2510.09363)** Superconductivity in the repulsive Hubbard model on different geometries induced by density-assisted hopping (arXiv)
+
+1. **[2510.09386v1](https://arxiv.org/abs/2510.09386)** Non-Hermitian Bethe-Salpeter Equation for Open Systems: Emergence of Exceptional Points in Excitonic Spectra from First Principles (arXiv)
+
+1. **[2510.09412v1](https://arxiv.org/abs/2510.09412)** Homogeneous and inhomogeneous phases in a numerical model of a time-reversal-breaking superconductor (arXiv)
+
+1. **[2510.09515v1](https://arxiv.org/abs/2510.09515)** A microscopic approach to nonlinear theory of spin-charge separation (arXiv)
+
+1. **[2510.09548v1](https://arxiv.org/abs/2510.09548)** Mapping the moir\'e potential in multi-layer rhombohedral graphene (arXiv)
+
+1. **[2510.08680v1](https://arxiv.org/abs/2510.08680)** Tensor-network representation of excitations in Josephson junction arrays (arXiv)
+
+1. **[2510.08864v1](https://arxiv.org/abs/2510.08864)** Optimizing VQE Ansatz for Studying Tight-Binding Models with sd-Interaction and On-Site Coulomb Repulsion (arXiv)
+
+1. **[2510.09040v1](https://arxiv.org/abs/2510.09040)** Atomistic origin of low thermal conductivity in quaternary chalcogenides Cu(Cd, Zn)2InTe4 (arXiv)
+
+1. **[2510.09117v1](https://arxiv.org/abs/2510.09117)** Strong coupling of collective optical resonances in dielectric metasurfaces (arXiv)
+
+1. **[2510.09331v1](https://arxiv.org/abs/2510.09331)** Magnetic Materials for Quantum Magnonics (arXiv)
+
+1. **[2510.09565v1](https://arxiv.org/abs/2510.09565)** Unveiling dynamical quantum error correcting codes via non-invertible symmetries (arXiv)
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
