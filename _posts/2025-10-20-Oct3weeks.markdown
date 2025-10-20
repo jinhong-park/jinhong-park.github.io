@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "weekly picks (Oct 3 week 2025)"
+date:   2025-10-20 00:16:27
+categories: 2025oct
+---
+
+{% include image.html url="/images/2025oct3weeks.png" caption="A WordCloud of 2025 Oct 3rd week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+---
+10/20
+
+1. **[2510.15027v1](https://arxiv.org/abs/2510.15027)** Topological Order Without Band Topology in Moire Graphene (arXiv)
+
+1. **[2510.15034v1](https://arxiv.org/abs/2510.15034)** Reconstructing Spin Hamiltonians of 2D Gutzwiller-Projected Wavefunctions (arXiv)
+
+1. **[2510.15078v1](https://arxiv.org/abs/2510.15078)** Superconductivity suppression and bilayer decoupling in Pr substituted YBa2Cu3O7-\delta (arXiv)
+
+1. **[2510.15080v1](https://arxiv.org/abs/2510.15080)** Robust Orbital-Selective Flat Bands in Transition-Metal Oxychlorides (arXiv)
+
+1. **[2510.15111v1](https://arxiv.org/abs/2510.15111)** Unusual critical points between atomic insulating phases (arXiv)
+
+1. **[2510.15158v1](https://arxiv.org/abs/2510.15158)** Four-Spin Interactions as a Route to Multiple-Q Topological Magnetic Order (arXiv)
+
+1. **[2510.15163v1](https://arxiv.org/abs/2510.15163)** Three Types of Non-Fermi-Liquid Fixed Point for a Triplet Quantum Impurity in a Cubic Metal (arXiv)
+
+1. **[2510.15224v1](https://arxiv.org/abs/2510.15224)** Dynamic destruction of magnetic order in a quantum Ising chain with oscillating transverse field (arXiv)
+
+1. **[2510.15309v1](https://arxiv.org/abs/2510.15309)** Does Moire Matter? Critical Moire Dependence with Quantum Fluctuations in Graphene Based Integer and Fractional Chern Insulators (arXiv)
+
+1. **[2510.15322v1](https://arxiv.org/abs/2510.15322)** Magnetic fluctuations and anisotropy in UTe2: a multi-orbital study based on GGA+U and RPA (arXiv)
+
+1. **[2510.15357v1](https://arxiv.org/abs/2510.15357)** Altermagnetism induced surface Chern insulator (arXiv)
+
+1. **[2510.15503v1](https://arxiv.org/abs/2510.15503)** Gate-tunable Josephson diodes in magic-angle twisted bilayer graphene (arXiv)
+
+1. **[2510.15525v1](https://arxiv.org/abs/2510.15525)** Topological Magnetic Phases and Magnon-Phonon Hybridization in the Presence of Strong Dzyaloshinskii-Moriya Interaction (arXiv)
+
+1. **[2510.15526v1](https://arxiv.org/abs/2510.15526)** Diode effect in Shapiro steps in an asymmetric SQUID with a superconducting nanobridge (arXiv)
+
+1. **[2510.15536v1](https://arxiv.org/abs/2510.15536)** Emergent Topology in Kagome Ferromagnets (arXiv)
+
+1. **[2510.15537v1](https://arxiv.org/abs/2510.15537)** Growth and microwave properties of FeSe thin films and comparison with Fe(Se,Te) (arXiv)
+
+1. **[2510.15538v1](https://arxiv.org/abs/2510.15538)** Microwave surface resistance of Tl-1223 films in a dc magnetic field (arXiv)
+
+1. **[2510.15671v1](https://arxiv.org/abs/2510.15671)** The impact of dimensionality on universality of 2D quantum Hall transitions (arXiv)
+
+1. **[2510.15766v1](https://arxiv.org/abs/2510.15766)** Subdimensional entanglement entropy: from virtual response to mixed-state holography (arXiv)
+
+1. **[2510.15788v1](https://arxiv.org/abs/2510.15788)** Interband-Pairing-Boosted Supercurrent Diode Effect in Multiband Superconductors (arXiv)
+
+1. **[2510.15809v1](https://arxiv.org/abs/2510.15809)** Measuring the magnetic anisotropy of the spin Hall effect and spin relaxation length in nickel and permalloy via electrical spin injection (arXiv)
+
+1. **[2510.15853v1](https://arxiv.org/abs/2510.15853)** Quantum geometry of common semiconductors (arXiv)
+
+1. **[2510.15092v1](https://arxiv.org/abs/2510.15092)** Active Ionic Fluxes Induce Symmetry Breaking in Charge-Patterned Nanochannels (arXiv)
+
+1. **[2510.15182v1](https://arxiv.org/abs/2510.15182)** Superconducting Gap Engineering in Tantalum-Alloy-Based Resonators (arXiv)
+
+1. **[2510.15193v1](https://arxiv.org/abs/2510.15193)** Open system dynamics in local Lindbladians with chaotic spectra (arXiv)
+
+1. **[2510.15370v1](https://arxiv.org/abs/2510.15370)** Entanglement complexification transition driven by a single non-Hermitian impurity (arXiv)
+
+1. **[2510.15472v1](https://arxiv.org/abs/2510.15472)** Fractional Quantum Hall Wedding Cakes (arXiv)
+
+1. **[2510.15676v1](https://arxiv.org/abs/2510.15676)** Atomically-resolved exciton emission from single defects in MoS2 (arXiv)
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
