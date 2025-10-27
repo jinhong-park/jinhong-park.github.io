@@ -1,0 +1,168 @@
+---
+layout: post
+title:  "weekly picks (Oct 4 week 2025)"
+date:   2025-10-27 00:16:27
+categories: 2025oct
+---
+
+{% include image.html url="/images/2025oct4weeks.png" caption="A WordCloud of 2025 Oct 4th week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+
+---
+10/27
+
+
+1. **[2510.20862v1](https://arxiv.org/abs/2510.20862)** A Universal Chern Model on Arbitrary Triangulations (arXiv)
+
+1. **[2510.20892v1](https://arxiv.org/abs/2510.20892)** Fluxoid solitons in superconducting tapered tubes and bottlenecks (arXiv)
+
+1. **[2510.20893v1](https://arxiv.org/abs/2510.20893)** Z2 lattice gauge theories: fermionic gauging, transmutation, and Kramers-Wannier dualities (arXiv)
+
+1. **[2510.20901v1](https://arxiv.org/abs/2510.20901)** The generic Mott transition in the sine-Gordon model through an embedded worm algorithm (arXiv)
+
+1. **[2510.20939v1](https://arxiv.org/abs/2510.20939)** Tensor-Network study of Ising model on infinite hyperbolic dodecahedral lattice (arXiv)
+
+1. **[2510.20961v1](https://arxiv.org/abs/2510.20961)** Floating zone growth of high-purity MgO substrate single crystals (arXiv)
+
+1. **[2510.20962v1](https://arxiv.org/abs/2510.20962)** Landau Polarons as Generators of Quantum-Coherent States (arXiv)
+
+1. **[2510.20987v1](https://arxiv.org/abs/2510.20987)** Elastic moduli of blue phases of cholesteric liquid crystals with low chirality (arXiv)
+
+1. **[2510.21005v1](https://arxiv.org/abs/2510.21005)** Photoinduced Metal-to-Insulator Transitions in 2D Moire Devices (arXiv)
+
+1. **[2510.21008v1](https://arxiv.org/abs/2510.21008)** Ultrafast Charge-Doping via Photo-Thermionic Injection in van der Waals Devices (arXiv)
+
+1. **[2510.21029v1](https://arxiv.org/abs/2510.21029)** Characterizing Neon Thin Film Growth with an NbTiN Superconducting Resonator Array (arXiv)
+
+1. **[2510.21032v1](https://arxiv.org/abs/2510.21032)** Chocolate suspensions as a model for jamming and nonlinear rheology (arXiv)
+
+1. **[2510.21061v1](https://arxiv.org/abs/2510.21061)** The spinterface mechanism for the chiral-induced spin selectivity effect: A Critical Perspective (arXiv)
+
+1. **[2510.21109v1](https://arxiv.org/abs/2510.21109)** The geometry and dynamics of annealed optimization in the coherent Ising machine with hidden and planted solutions (arXiv)
+
+1. **[2510.21158v1](https://arxiv.org/abs/2510.21158)** Paramagnetic electron-nuclear spin entanglement in HoCo2Zn20 (arXiv)
+
+1. **[2510.21166v1](https://arxiv.org/abs/2510.21166)** One-dimensional moire engineering in zigzag graphene nanoribbons on hBN (arXiv)
+
+1. **[2510.21206v1](https://arxiv.org/abs/2510.21206)** Versatile tunable optical injection of chiral polarized Weyl fermions in a magnetic Weyl semimetal Co3Sn2S2 (arXiv)
+
+1. **[2510.21211v1](https://arxiv.org/abs/2510.21211)** Unveiling the BEC-droplet transition with Rayleigh superradiant scattering (arXiv)
+
+1. **[2510.21237v1](https://arxiv.org/abs/2510.21237)** Temperature-Dependent Spectroscopy of Cr3+:YGG Nanophosphors with Multisite Emission (arXiv)
+
+1. **[2510.21240v1](https://arxiv.org/abs/2510.21240)** Optimal spin-charge interconversion in graphene through spin-pseudospin entanglement control (arXiv)
+
+1. **[2510.21243v1](https://arxiv.org/abs/2510.21243)** Toward more performant eye safe lasers: effect of increasing sensitizer amount in Yb3+,Er3+:YAG transparent ceramic on its spectral characteristics (arXiv)
+
+1. **[2510.21251v1](https://arxiv.org/abs/2510.21251)** Tracer Diffusion in Granular Suspensions: Testing the Enskog Kinetic Theory with DSMC and Molecular Dynamics (arXiv)
+
+1. **[2510.21266v1](https://arxiv.org/abs/2510.21266)** Relativistic spin-Hall effect in an external magnetic field in Al and Pt (arXiv)
+
+1. **[2510.21269v1](https://arxiv.org/abs/2510.21269)** Tensor Renormalization-Group study of the surface critical behavior of a frustrated two-layer Ising model (arXiv)
+
+1. **[2510.21291v1](https://arxiv.org/abs/2510.21291)** Altermagnetism in an interacting model of Kagome materials (arXiv)
+
+1. **[2510.21320v1](https://arxiv.org/abs/2510.21320)** Controlling bubble and skyrmion lattice order and dynamics via stripe domain engineering in ferrimagnetic Fe/Gd multilayers (arXiv)
+
+1. **[2510.21338v1](https://arxiv.org/abs/2510.21338)** High Pressure Superconducting transition in Dihydride BiH2 with Bismuth Open-Channel Framework (arXiv)
+
+1. **[2510.21340v1](https://arxiv.org/abs/2510.21340)** Koopman Mode Decomposition of Thermodynamic Dissipation in Nonlinear Langevin Dynamics (arXiv)
+
+1. **[2510.21343v1](https://arxiv.org/abs/2510.21343)** Strain-induced structural change and nearly-commensurate diffuse scattering in the model high-temperature superconductor HgBa2CuO4+delta (arXiv)
+
+1. **[2510.21382v1](https://arxiv.org/abs/2510.21382)** Suppressing excitations using quantum-Brachistochrone and nearest-neighbour interactions (arXiv)
+
+1. **[2510.21384v1](https://arxiv.org/abs/2510.21384)** Optimal superconductivity in twisted bilayer WSe2 where the Van Hove singularity crosses half-filling (arXiv)
+
+1. **[2510.21416v1](https://arxiv.org/abs/2510.21416)** Spin filtering on demand via localized states in an atomic-scale resonant tunneling magnetic tunnel junction (arXiv)
+
+1. **[2510.21511v1](https://arxiv.org/abs/2510.21511)** Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry (arXiv)
+
+1. **[2510.21522v1](https://arxiv.org/abs/2510.21522)** Exciton-based sensing of remote electron correlations in 2D heterostructures (arXiv)
+
+1. **[2510.21527v1](https://arxiv.org/abs/2510.21527)** Hexagonal InOI monolayer: a 2D phase-change material combining topological insulator states and piezoelectricity (arXiv)
+
+1. **[2510.21568v1](https://arxiv.org/abs/2510.21568)** ARPES of Bi2212 interpreted via a particle in a system of dynamic scatterers (arXiv)
+
+1. **[2510.21578v1](https://arxiv.org/abs/2510.21578)** Critical Exponent of Dynamical Quantum Phase Transition in One-Dimensional Bose-Hubbard Model in the Strong Interacting Limit (arXiv)
+
+1. **[2510.21616v1](https://arxiv.org/abs/2510.21616)** Direct observation of the crystal electric-field splitting under magnetic field and uncovering field-induced magnetic phase transition in triangular rare-earth magnet CsErSe2 (arXiv)
+
+1. **[2510.21622v1](https://arxiv.org/abs/2510.21622)** Zeeman Spectroscopy of Vacancy-Charge-Compensated Er3+ Sites in CaWO4 under Vector Magnetic Fields (arXiv)
+
+1. **[2510.21629v1](https://arxiv.org/abs/2510.21629)** Tailoring dispersion and evanescent modes in multimodal nonlocal lattices using positive-only interactions (arXiv)
+
+1. **[2510.21674v1](https://arxiv.org/abs/2510.21674)** The Piezochiral Effect (arXiv)
+
+1. **[2510.20746v1](https://arxiv.org/abs/2510.20746)** Berry Curvature Dipole-induced Non-linear Hall Effect in Oxide Heterostructures (arXiv)
+
+1. **[2510.20890v1](https://arxiv.org/abs/2510.20890)** Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes (arXiv)
+
+1. **[2510.20902v1](https://arxiv.org/abs/2510.20902)** Searching for emergent spacetime in spin glasses (arXiv)
+
+1. **[2510.20908v1](https://arxiv.org/abs/2510.20908)** Local-to-Global Entanglement Dynamics by Periodically Driving Impurities (arXiv)
+
+1. **[2510.20969v1](https://arxiv.org/abs/2510.20969)** Thermodynamic decoupling in the deep-strong coupling regime (arXiv)
+
+1. **[2510.21217v1](https://arxiv.org/abs/2510.21217)** Scrambling Without Chaos in Random Free-Fermionic Systems (arXiv)
+
+1. **[2510.21268v1](https://arxiv.org/abs/2510.21268)** Ground state energy of a dilute inhomogeneous Fermi gas (arXiv)
+
+1. **[2510.21305v1](https://arxiv.org/abs/2510.21305)** Combining metal dewetting and lateral etching for the scalable top-down fabrication of GaN nanowire arrays with independently tunable diameter and spacing (arXiv)
+
+1. **[2510.21428v1](https://arxiv.org/abs/2510.21428)** Exciton and biexciton preparation via coherent swing-up excitation in a GaAs quantum dot embedded in micropillar cavity (arXiv)
+
+1. **[2510.21619v1](https://arxiv.org/abs/2510.21619)** Wide-field stroboscopic imaging of topologically protected phononic modes (arXiv)
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
