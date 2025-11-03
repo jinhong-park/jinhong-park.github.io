@@ -1,0 +1,180 @@
+---
+layout: post
+title:  "weekly picks (Nov 1 week 2025)"
+date:   2025-11-03 00:16:27
+categories: 2025nov
+---
+
+{% include image.html url="/images/2025nov1weeks.png" caption="A WordCloud of 2025 Nov 1st week collection" width=300 align="center" %}
+
+
+
+
+===This week's pick===
+
+
+* Score : 
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+1. **[2510.26820v1](https://arxiv.org/abs/2510.26820)** Dynamics of stochastic oscillator chains with harmonic and FPUT potentials (arXiv)
+
+1. **[2510.26821v1](https://arxiv.org/abs/2510.26821)** When Normality Tests Detect Equilibrium Distributions of Finite N-Body Systems (arXiv)
+
+1. **[2510.26836v1](https://arxiv.org/abs/2510.26836)** Path-integral Monte Carlo estimator for the dipole polarizability of quantum plasma (arXiv)
+
+1. **[2510.26860v1](https://arxiv.org/abs/2510.26860)** Distributing entanglement between distant semiconductor qubit registers using a shared-control shuttling link (arXiv)
+
+1. **[2510.26864v1](https://arxiv.org/abs/2510.26864)** Interpretable Artificial Intelligence (AI) Analysis of Strongly Correlated Electrons (arXiv)
+
+1. **[2510.26873v1](https://arxiv.org/abs/2510.26873)** Entropy transport in closed quantum many-body systems far from equilibrium (arXiv)
+
+1. **[2510.26876v1](https://arxiv.org/abs/2510.26876)** Trapping-potential dependence of the unitary Fermi gas at the BCS-BEC crossover (arXiv)
+
+1. **[2510.26880v1](https://arxiv.org/abs/2510.26880)** Higher-dimensional Fermiology in bulk moire metals (arXiv)
+
+1. **[2510.26886v1](https://arxiv.org/abs/2510.26886)** MaterialsGalaxy: A Platform Fusing Experimental and Theoretical Data in Condensed Matter Physics (arXiv)
+
+1. **[2510.26894v1](https://arxiv.org/abs/2510.26894)** Proximity-induced superconductivity and emerging topological phases in altermagnet-based heterostructures (arXiv)
+
+1. **[2510.26897v1](https://arxiv.org/abs/2510.26897)** Superdiffusion and anomalous fluctuations in chiral integrable dynamics (arXiv)
+
+1. **[2510.26907v1](https://arxiv.org/abs/2510.26907)** Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction (arXiv)
+
+1. **[2510.26920v1](https://arxiv.org/abs/2510.26920)** The Anderson transition -- a view from Krylov space (arXiv)
+
+1. **[2510.26956v1](https://arxiv.org/abs/2510.26956)** Engineering Biquadratic Interactions in Spin-1 Chains by Spin-1/2 Spacers (arXiv)
+
+1. **[2510.26987v1](https://arxiv.org/abs/2510.26987)** Characterizing Skyrmion Flow Phases with Principal Component Analysis (arXiv)
+
+1. **[2510.26992v1](https://arxiv.org/abs/2510.26992)** Metallic electro-optic effects in topological chiral crystals (arXiv)
+
+1. **[2510.26998v1](https://arxiv.org/abs/2510.26998)** Stability and Dynamics of Sn-based Halide Perovskites: Insights from MACE-MP-0 and Molecular Dynamics Simulations (arXiv)
+
+1. **[2510.27021v1](https://arxiv.org/abs/2510.27021)** Defect Engineered Hexagonal-Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries (arXiv)
+
+1. **[2510.27061v1](https://arxiv.org/abs/2510.27061)** Spin Dependence of Charge Dynamics and Group Velocity in Chiral Molecules (arXiv)
+
+1. **[2510.27089v1](https://arxiv.org/abs/2510.27089)** Time-Resolved Photoemission Spectroscopy of Quantum Materials Using High Harmonic Generation: Probing Electron-Phonon Interactions and Non-Equilibrium Dynamics (arXiv)
+
+1. **[2510.27115v1](https://arxiv.org/abs/2510.27115)** Kink in Stoner Factor as a Signature of Changing Magnetic Fluctuations in Organic Conductor lambda-(BETS)2GaCl4 (arXiv)
+
+1. **[2510.27138v1](https://arxiv.org/abs/2510.27138)** Crossover between intrinsic and temperature-assisted regimes in spin-orbit torque switching of antiferromagnetic order (arXiv)
+
+1. **[2510.27201v1](https://arxiv.org/abs/2510.27201)** Phase behaviour and defect structure of soft rods on a sphere (arXiv)
+
+1. **[2510.27215v1](https://arxiv.org/abs/2510.27215)** Absence of Parity Anomaly in Massive Dirac Fermions on a Lattice (arXiv)
+
+1. **[2510.27228v1](https://arxiv.org/abs/2510.27228)** High thermal conductivity of rutile-GeO2 films grown by MOCVD: 52.9 W m^-1 K^-1 (arXiv)
+
+1. **[2510.27230v1](https://arxiv.org/abs/2510.27230)** Theoretical Investigation of Anomalous Hall and Nernst Responses in Potassium Tri Vanadium Pentantimonide (arXiv)
+
+1. **[2510.27231v1](https://arxiv.org/abs/2510.27231)** First-principles design of excitonic insulators: A review (arXiv)
+
+1. **[2510.27260v1](https://arxiv.org/abs/2510.27260)** Ground states of a family of frustrated spin models for quasicrystals and their approximants (arXiv)
+
+1. **[2510.27268v1](https://arxiv.org/abs/2510.27268)** Information geometry of perturbed gradient flow systems on hypergraphs: A perspective towards nonequilibrium physics (arXiv)
+
+1. **[2510.27283v1](https://arxiv.org/abs/2510.27283)** Domain Growth and Aging in a Phase Separating Binary Fluid Confined Inside a Nanopore (arXiv)
+
+1. **[2510.27288v1](https://arxiv.org/abs/2510.27288)** Single femtosecond laser pulse-driven ferromagnetic switching (arXiv)
+
+1. **[2510.27294v1](https://arxiv.org/abs/2510.27294)** Influence of Hydrogen-Incorporation on the Bulk Electronic Structure and Chemical Bonding in Palladium (arXiv)
+
+1. **[2510.27341v1](https://arxiv.org/abs/2510.27341)** Lattice dynamics in chiral tellurium by linear and circularly polarized Raman spectroscopy: crystal orientation and handedness (arXiv)
+
+1. **[2510.27370v1](https://arxiv.org/abs/2510.27370)** High-performance thermochromic multilayer coatings with W-doped VO2 nanoparticles dispersed in SiO2 matrix prepared on glass at a low temperature (arXiv)
+
+1. **[2510.27376v1](https://arxiv.org/abs/2510.27376)** Fate and origin of the quantum Otto heat engine based on the dissipative Dicke-Hubbard model (arXiv)
+
+1. **[2510.27429v1](https://arxiv.org/abs/2510.27429)** Hexagonal BeX (X: S, Te) monolayer as potential electrode material for alkali metal-ion batteries: A DFT perspective (arXiv)
+
+1. **[2510.27433v1](https://arxiv.org/abs/2510.27433)** Density functional investigations on 2D-Be2C as an anode for alkali Metal-ion batteries (arXiv)
+
+1. **[2510.27458v1](https://arxiv.org/abs/2510.27458)** First-Order Spin-Reorientation Transition and Incomplete Softening of the Antiferromagnetic Resonance Mode in Multiferroic GdFe3(BO3)4 (arXiv)
+
+1. **[2510.27464v1](https://arxiv.org/abs/2510.27464)** Size-dependent transformation patterns in NiTi tubes under tension and bending: Stereo digital image correlation experiments and modeling (arXiv)
+
+1. **[2510.27483v1](https://arxiv.org/abs/2510.27483)** Photoinduced excitonic magnetism in a multiorbital Hubbard system (arXiv)
+
+1. **[2510.27499v1](https://arxiv.org/abs/2510.27499)** First-principles calculations of thermal transport at metal/silicon interfaces: evidence of interfacial electron-phonon coupling (arXiv)
+
+1. **[2510.27507v1](https://arxiv.org/abs/2510.27507)** Ground State Excitations and Energy Fluctuations in Short-Range Spin Glasses (arXiv)
+
+1. **[2510.27529v1](https://arxiv.org/abs/2510.27529)** Characterization of heat transfer in 3D CMOS structures using Sideband Scanning Thermal Wave Microscopy (arXiv)
+
+1. **[2510.27538v1](https://arxiv.org/abs/2510.27538)** Phase Transitions of Oscillating Droplets on Horizontally Vibrating Substrates (arXiv)
+
+1. **[2510.27546v1](https://arxiv.org/abs/2510.27546)** Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications (arXiv)
+
+1. **[2510.27561v1](https://arxiv.org/abs/2510.27561)** Extreme breakdown of the Einstein relation in liquid water under centrifugation (arXiv)
+
+1. **[2510.27578v1](https://arxiv.org/abs/2510.27578)** First-Principles Study of Transition Metal Doped in 2D Polyaramid for Novel Material Modelling (arXiv)
+
+1. **[2510.27585v1](https://arxiv.org/abs/2510.27585)** Magnetic properties of RRh6Ge4 (R = Pr, Nd, Sm, Gd-Er) single crystals (arXiv)
+
+1. **[2510.27597v1](https://arxiv.org/abs/2510.27597)** Kinematical and dynamical contrast of dislocations in thick GaN substrates observed by synchrotron-radiation X-ray topography under six-beam diffraction conditions (arXiv)
+
+1. **[2510.27613v1](https://arxiv.org/abs/2510.27613)** Reducing the strain required for ambient-pressure superconductivity in bilayer nickelates (arXiv)
+
+1. **[2510.27634v1](https://arxiv.org/abs/2510.27634)** Evolution of Magnetoresistance in the magnetic topological semimetals NdSbxTe2-x (arXiv)
+
+1. **[2510.27653v1](https://arxiv.org/abs/2510.27653)** Local ion environment in polyamide membranes revealed by molecular dynamics (arXiv)
+
+1. **[2510.27685v1](https://arxiv.org/abs/2510.27685)** Quantum Hall correlations in tilted extended Bose-Hubbard chains (arXiv)
+
+1. **[2510.26845v1](https://arxiv.org/abs/2510.26845)** Programmable digital quantum simulation of 2D Fermi-Hubbard dynamics using 72 superconducting qubits (arXiv)
+
+1. **[2510.26949v1](https://arxiv.org/abs/2510.26949)** Protein-protein interaction networks can be highly sensitive to the membrane phase transition (arXiv)
+
+1. **[2510.27220v1](https://arxiv.org/abs/2510.27220)** Zitterbewegung Effect and Quantum Geometry in Non-Hermitian Exciton-Polariton Systems (arXiv)
+
+1. **[2510.27471v1](https://arxiv.org/abs/2510.27471)** Long-lived giant circular Rydberg atoms at room temperature (arXiv)
+
+1. **[2510.27494v1](https://arxiv.org/abs/2510.27494)** Unveiling Spin Transition at Single Particle Level in Levitating Spin Crossover Nanoparticles (arXiv)
+
+1. **[2510.27601v1](https://arxiv.org/abs/2510.27601)** Magnetic wideband VHF localized field probe using magnon polaritons (arXiv)
+
+1. **[2510.27657v1](https://arxiv.org/abs/2510.27657)** Probing non-equilibrium physics through the two-body Bell correlator (arXiv)
+
+1. **[2510.27667v1](https://arxiv.org/abs/2510.27667)** Deep learning denoising unlocks quantitative insights in operando materials microscopy (arXiv)
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
