@@ -25,7 +25,23 @@ layout: default
 
 
 <tr> <td> <img id="image1" src="/jpg/Moire.gif" width="300"> </td> </tr>
+<!--
 <tr> <td> <img id="image2" src="/jpg/bird.gif" width="300"> </td> </tr>
+-->
+
+
+<tr>
+        <td>
+            <!-- image2와 PDF 링크를 감싸는 컨테이너 -->
+            <div id="image2Container" class="container" style="display:none;">
+                <img id="image2" src="/jpg/bird.gif" width="300" alt="Bird">
+                <a id="pdfLink" href="/images/Jonathan-Livingston-Seagull.pdf"
+                   target="_blank" class="pdf-link">
+                    📄 PDF 보기
+                </a>
+            </div>
+        </td>
+    </tr>
 
 
 <script>
