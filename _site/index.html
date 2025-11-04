@@ -202,9 +202,9 @@
             <!-- image2와 PDF 링크를 감싸는 컨테이너 -->
             <div id="image2Container" class="container" style="display:none;">
                 <img id="image2" src="/jpg/bird.gif" width="300" alt="Bird">
-                <a id="pdfLink" href="/images/Jonathan-Livingston-Seagull.pdf"
+                <a id="pdfLink" href="/jpg/Jonathan-Livingston-Seagull.png"
                    target="_blank" class="pdf-link">
-                     seagull PDF
+                     THE seagull 
                 </a>
             </div>
         </td>
@@ -223,7 +223,7 @@
         const today = new Date();
         const date = today.getDate();
 
-        if (date % 2 === 1) {
+        if (date % 2 === 0) {
             // 홀수일
             image1.style.display = 'none';
             container2.style.display = 'flex';
