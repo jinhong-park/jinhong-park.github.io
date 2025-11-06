@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Nov 2025 14:24:49 +0900</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2025 14:24:49 +0900</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 22:47:35 +0900</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 22:47:35 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -1101,6 +1101,15 @@
 &lt;/style&gt;
 
 &lt;script&gt;
+	
+	
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement(&apos;script&apos;);
+    mathjaxScript.src = &apos;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&apos;;
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+	
+	
   // Wait for the DOM to be fully loaded
   document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
     const details = document.getElementById(&apos;myDetails&apos;);

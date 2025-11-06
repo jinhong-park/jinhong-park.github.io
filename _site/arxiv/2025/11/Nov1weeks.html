@@ -1255,6 +1255,15 @@
 </style>
 
 <script>
+	
+	
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+	
+	
   // Wait for the DOM to be fully loaded
   document.addEventListener('DOMContentLoaded', () => {
     const details = document.getElementById('myDetails');
