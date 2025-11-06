@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Nov 2025 22:52:11 +0900</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2025 22:52:11 +0900</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 22:58:36 +0900</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 22:58:36 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -1102,6 +1102,10 @@
 
 &lt;script&gt;
 	
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [[&apos;$&apos;,&apos;$&apos;], [&apos;\\(&apos;,&apos;\\)&apos;]] }
+    };
 	
     // MathJax 먼저 로드 (제일 위에!)
     const mathjaxScript = document.createElement(&apos;script&apos;);

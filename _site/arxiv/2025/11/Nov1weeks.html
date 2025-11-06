@@ -1256,6 +1256,10 @@
 
 <script>
 	
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
 	
     // MathJax 먼저 로드 (제일 위에!)
     const mathjaxScript = document.createElement('script');
