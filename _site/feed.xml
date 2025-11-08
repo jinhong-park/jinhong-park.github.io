@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Nov 2025 18:03:04 +0900</pubDate>
-    <lastBuildDate>Sat, 08 Nov 2025 18:03:04 +0900</lastBuildDate>
+    <pubDate>Sat, 08 Nov 2025 18:12:13 +0900</pubDate>
+    <lastBuildDate>Sat, 08 Nov 2025 18:12:13 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -1439,36 +1439,36 @@
 
 &lt;/style&gt;
 
-&lt;p&gt;​	
-&lt;script&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
-window.MathJax = {
-  tex: { inlineMath: [[&apos;$&apos;,&apos;$&apos;], [&apos;\\(&apos;,&apos;\\)&apos;]] }
-};
-
-// MathJax 먼저 로드 (제일 위에!)
-const mathjaxScript = document.createElement(&apos;script&apos;);
-mathjaxScript.src = &apos;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&apos;;
-mathjaxScript.async = true;
-document.head.appendChild(mathjaxScript);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;​	
+&lt;script&gt;
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [[&apos;$&apos;,&apos;$&apos;], [&apos;\\(&apos;,&apos;\\)&apos;]] }
+    };
+    
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement(&apos;script&apos;);
+    mathjaxScript.src = &apos;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&apos;;
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+  
+  
   // Wait for the DOM to be fully loaded
-  document.addEventListener(‘DOMContentLoaded’, () =&amp;gt; {
-​    const details = document.getElementById(‘myDetails’);&lt;/p&gt;
+  document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
+    const details = document.getElementById(&apos;myDetails&apos;);
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// Restore the state from localStorage
-if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
-  details.setAttribute(&apos;open&apos;, &apos;&apos;);
-}
+    // Restore the state from localStorage
+    if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
+      details.setAttribute(&apos;open&apos;, &apos;&apos;);
+    }
 
-// Save the state when the details element is toggled
-details.addEventListener(&apos;toggle&apos;, () =&amp;gt; {
-  localStorage.setItem(&apos;detailsOpen&apos;, details.open);
-});   }); &amp;lt;/script&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+    // Save the state when the details element is toggled
+    details.addEventListener(&apos;toggle&apos;, () =&gt; {
+      localStorage.setItem(&apos;detailsOpen&apos;, details.open);
+    });
+  });
+&lt;/script&gt;
+
+&lt;p&gt;​&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Nov 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/11/Nov1weeks</link>

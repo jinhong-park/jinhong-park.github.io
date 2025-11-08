@@ -1593,36 +1593,36 @@
 
 </style>
 
-<p>​	
-<script></script></p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
-window.MathJax = {
-  tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
-};
-
-// MathJax 먼저 로드 (제일 위에!)
-const mathjaxScript = document.createElement('script');
-mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
-mathjaxScript.async = true;
-document.head.appendChild(mathjaxScript);
-</code></pre></div></div>
-
-<p>​	
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+    
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+  
+  
   // Wait for the DOM to be fully loaded
-  document.addEventListener(‘DOMContentLoaded’, () =&gt; {
-​    const details = document.getElementById(‘myDetails’);</p>
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Restore the state from localStorage
-if (localStorage.getItem('detailsOpen') === 'true') {
-  details.setAttribute('open', '');
-}
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
 
-// Save the state when the details element is toggled
-details.addEventListener('toggle', () =&gt; {
-  localStorage.setItem('detailsOpen', details.open);
-});   }); &lt;/script&gt;
-</code></pre></div></div>
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
+<p>​</p>
 
   </article>
 
