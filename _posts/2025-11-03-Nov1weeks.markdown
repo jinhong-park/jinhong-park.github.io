@@ -9,15 +9,107 @@ categories: 2025nov
 
 
 
-
 ===This week's pick===
 
 
-* Score : 
+* Score : 18603
+
+**[2511.02281v1](https://arxiv.org/abs/2511.02281)** Hybridization Gap and Edge States in Strain-layer InAs/In0.5Ga0.5Sb Quantum Spin Hall Insulator (arXiv)
+
+* Score : 13149
+
+**[2511.03311v1](https://arxiv.org/abs/2511.03311)** Moir\'e modulated quantum spin liquid candidate 1T-TaSe$_2$ (arXiv)
+
+* Score : 12701
+
+**[2511.01822v1](https://arxiv.org/abs/2511.01822)** The Quantum Self-Consistent Harmonic Approximation: A Unified Framework for Quantum Spin System (arXiv)
+
+
+
+* Score : 12284
+
+**[2511.04551v1](https://arxiv.org/abs/2511.04551)** High-Temperature Quantum Anomalous Hall Effect in Buckled Honeycomb Antiferromagnets (arXiv)
+
+
+
+* Score : 12270
+
+**[2511.03436v1](https://arxiv.org/abs/2511.03436)** SC$^*$ Superconductivity and Spin Stiffnesses in the SU(2) Gauge Theory of the Two-Dimensional Hubbard Model (arXiv)
+
+
+
+* Score : 12206
+
+**[s42005-025-02385-7](https://www.nature.com/articles/s42005-025-02385-7)** Quantum restoration of symmetry protected topological phases (Communications Physics)
+
+
+
+* Score : 12158
+
+**[2511.03901v1](https://arxiv.org/abs/2511.03901)** Description of the orbital Hall effect from orbital magnetic moments of Bloch states: the role of a new correction term in bilayer systems (arXiv)
+
+* Score : 12019
+
+**[bw7f-p8mp](http://link.aps.org/doi/10.1103/bw7f-p8mp)** Orbital Magnetic Field Driven Metal-Insulator Transition in Strongly Correlated Electron Systems (PRL)
+
+* Score : 11213
+
+**[2511.01225v1](https://arxiv.org/abs/2511.01225)** Interaction of moire-induced quantum Hall channels in a locally gated graphene junction (arXiv)
+
+
+
+
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+---
+
+11/08
+
+
+
+
+
+1. **[s41567-025-03092-4](https://www.nature.com/articles/s41567-025-03092-4)** Quantum light steers photoelectrons (Nature Physics)
+
+2. **[s41567-025-03072-8](https://www.nature.com/articles/s41567-025-03072-8)** Fractional quantization in insulators from Hall to Chern (Nature Physics)
+
+3. **[s41567-025-03087-1](https://www.nature.com/articles/s41567-025-03087-1)** Quantum light drives electrons strongly at metal needle tips (Nature Physics)
+
+4. **[s42005-025-02388-4](https://www.nature.com/articles/s42005-025-02388-4)** Women in Quantum: an interview with Ilana Wisby (Communications Physics)
+
+5. **[s42005-025-02398-2](https://www.nature.com/articles/s42005-025-02398-2)** Solving tricky quantum optics problems with assistance from large language models (Communications Physics)
+
+6. **[s42005-025-02393-7](https://www.nature.com/articles/s42005-025-02393-7)** Increasing rare earth extraction kinetics by tailored magnetic fields (Communications Physics)
+
+7. **[s42005-025-02365-x](https://www.nature.com/articles/s42005-025-02365-x)** Effective equilibrium theory of quantum light-matter interaction in cavities for extended systems and the long wavelength approximation (Communications Physics)
+
+8. **[s41598-025-25716-8](https://www.nature.com/articles/s41598-025-25716-8)** Correction: The effect of aging in thin films in the picosecond sonar experiment (Scientific Reports)
+
+
+
+1. **[tt11-vcpr](http://link.aps.org/doi/10.1103/tt11-vcpr)** From Light-Cone to Supersonic Propagation of Correlations by Competing Short- and Long-Range Couplings (PRL)
+
+1. **[6v93-whwq](http://link.aps.org/doi/10.1103/6v93-whwq)** Clock Precision beyond the Standard Quantum Limit at ${10}^{−18}$ Level (PRL)
+
+1. **[38f7-ym2v](http://link.aps.org/doi/10.1103/38f7-ym2v)** Breaking a Superfluid Harmonic Dam: Observation and Theory of Riemann Invariants and Accelerating Sonic Horizons (PRL)
+
+1. **[3rw4-mhz8](http://link.aps.org/doi/10.1103/3rw4-mhz8)** Anomalous Nodal Gap in a Doped Spin-$1/2$ Antiferromagnetic Mott Insulator (PRL)
+
+1. **[wlj6-mkk4](http://link.aps.org/doi/10.1103/wlj6-mkk4)** Universality Classes for Purification in Nonunitary Quantum Processes (PRX)
+
+1. **[4lp8-c687](http://link.aps.org/doi/10.1103/4lp8-c687)** Multisetting protocol for Bell correlated states detection with spin-$f$ systems (PRR)
+
+1. **[1qhb-r4fb](http://link.aps.org/doi/10.1103/1qhb-r4fb)** Calibrating magnetic flux control in superconducting circuits by compensating distortions on timescales from nanoseconds up to tens of microseconds (PRR)
+
+1. **[vpyw-nszk](http://link.aps.org/doi/10.1103/vpyw-nszk)** Quantum convolutional neural network for phase recognition in two dimensions (PRRL)
+
+
+
 
 
 
@@ -58,7 +150,7 @@ categories: 2025nov
 
 1. **[512v-n5f9](http://link.aps.org/doi/10.1103/512v-n5f9)** Circular Dichroism in Resonant Inelastic X-Ray Scattering: Probing Altermagnetic Domains in MnTe (PRL)
 
-1. **[bw7f-p8mp](http://link.aps.org/doi/10.1103/bw7f-p8mp)** Orbital Magnetic Field Driven Metal-Insulator Transition in Strongly Correlated Electron Systems (PRL)
+   
 
 1. **[pl1p-v5rs](http://link.aps.org/doi/10.1103/pl1p-v5rs)** Circular Dichroism in Resonant Photoelectron Diffraction as a Direct Probe of Sublattice Magnetization in Altermagnets (PRL)
 
@@ -96,7 +188,7 @@ categories: 2025nov
 
 1. **[2511.03895v1](https://arxiv.org/abs/2511.03895)** Learning to shine: Neuroevolution enables optical control of phase transitions (arXiv)
 
-1. **[2511.03901v1](https://arxiv.org/abs/2511.03901)** Description of the orbital Hall effect from orbital magnetic moments of Bloch states: the role of a new correction term in bilayer systems (arXiv)
+   
 
 1. **[2511.03922v1](https://arxiv.org/abs/2511.03922)** Competitive Orders in Altermagnetic Chiral Magnons (arXiv)
 
@@ -154,7 +246,7 @@ categories: 2025nov
 
 1. **[2511.04543v1](https://arxiv.org/abs/2511.04543)** Automatic tuning of a donor in a silicon quantum device using machine learning (arXiv)
 
-1. **[2511.04551v1](https://arxiv.org/abs/2511.04551)** High-Temperature Quantum Anomalous Hall Effect in Buckled Honeycomb Antiferromagnets (arXiv)
+   
 
 1. **[2511.04575v1](https://arxiv.org/abs/2511.04575)** Superfluid Fraction of a 2D Bose-Einstein Condensate in a Triangular Lattice (arXiv)
 
@@ -284,7 +376,7 @@ categories: 2025nov
 
 1. **[2511.03299v1](https://arxiv.org/abs/2511.03299)** The nexus between negative charge-transfer and reduced on-site Coulomb energy in correlated topological metals (arXiv)
 
-1. **[2511.03311v1](https://arxiv.org/abs/2511.03311)** Moir\'e modulated quantum spin liquid candidate 1T-TaSe$_2$ (arXiv)
+   
 
 1. **[2511.03329v1](https://arxiv.org/abs/2511.03329)** Axial phono-magnetic effects (arXiv)
 
@@ -300,7 +392,7 @@ categories: 2025nov
 
 1. **[2511.03384v1](https://arxiv.org/abs/2511.03384)** On the dynamics of the Meissner and the Becker-London effects (arXiv)
 
-1. **[2511.03436v1](https://arxiv.org/abs/2511.03436)** SC$^*$ Superconductivity and Spin Stiffnesses in the SU(2) Gauge Theory of the Two-Dimensional Hubbard Model (arXiv)
+   
 
 1. **[2511.03456v1](https://arxiv.org/abs/2511.03456)** Unraveling Deconfined Quantum Criticality in Non-Hermitian Easy-Plane $J$-$Q$ Model (arXiv)
 
@@ -370,7 +462,7 @@ categories: 2025nov
 
 1. **[s41467-025-64738-8](https://www.nature.com/articles/s41467-025-64738-8)** A fiber array architecture for atom quantum computing (Nature Communications)
 
-1. **[s42005-025-02385-7](https://www.nature.com/articles/s42005-025-02385-7)** Quantum restoration of symmetry protected topological phases (Communications Physics)
+   
 
 1. **[s41563-025-02398-1](https://www.nature.com/articles/s41563-025-02398-1)** Large-scale quantum dot–lithium niobate hybrid integrated photonic circuits enabling on-chip quantum networking (Nature Materials)
 
@@ -424,7 +516,7 @@ categories: 2025nov
 
 1. **[2511.02267v1](https://arxiv.org/abs/2511.02267)** Schrodinger-invariance in phase-ordering kinetics (arXiv)
 
-1. **[2511.02281v1](https://arxiv.org/abs/2511.02281)** Hybridization Gap and Edge States in Strain-layer InAs/In0.5Ga0.5Sb Quantum Spin Hall Insulator (arXiv)
+   
 
 1. **[2511.02290v1](https://arxiv.org/abs/2511.02290)** From data to design: Random forest regression model for predicting mechanical properties of alloy steel (arXiv)
 
@@ -711,7 +803,7 @@ categories: 2025nov
 
 1. **[2511.01206v1](https://arxiv.org/abs/2511.01206)** Modulation of Quantum Transport in Complex Oxide Heterostructures with Proton Implantation (arXiv)
 
-1. **[2511.01225v1](https://arxiv.org/abs/2511.01225)** Interaction of moire-induced quantum Hall channels in a locally gated graphene junction (arXiv)
+   
 
 1. **[2511.01238v1](https://arxiv.org/abs/2511.01238)** Orbital magnetization in the Nb-substituted Kagome metal CsV3Sb5 (arXiv)
 
@@ -773,7 +865,7 @@ categories: 2025nov
 
 1. **[2511.01806v1](https://arxiv.org/abs/2511.01806)** Finite-frequency admittance and noise of a helical edge coupled to a magnet (arXiv)
 
-1. **[2511.01822v1](https://arxiv.org/abs/2511.01822)** The Quantum Self-Consistent Harmonic Approximation: A Unified Framework for Quantum Spin System (arXiv)
+   
 
 1. **[2511.01825v1](https://arxiv.org/abs/2511.01825)** Directional atomic layer etching of lithium niobate using Br-based plasma (arXiv)
 
@@ -954,25 +1046,26 @@ categories: 2025nov
 
 </style>
 
-	
-	
+
+​	
 <script>
-	
+
     // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
     window.MathJax = {
       tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
     };
-	
+    
     // MathJax 먼저 로드 (제일 위에!)
     const mathjaxScript = document.createElement('script');
     mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
     mathjaxScript.async = true;
     document.head.appendChild(mathjaxScript);
-	
-	
+
+
+​	
   // Wait for the DOM to be fully loaded
   document.addEventListener('DOMContentLoaded', () => {
-    const details = document.getElementById('myDetails');
+​    const details = document.getElementById('myDetails');
 
     // Restore the state from localStorage
     if (localStorage.getItem('detailsOpen') === 'true') {
