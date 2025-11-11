@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Nov 2025 14:44:48 +0900</pubDate>
-    <lastBuildDate>Tue, 11 Nov 2025 14:44:48 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Tue, 11 Nov 2025 18:31:44 +0900</pubDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:31:44 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Nov 2 week 2025)</title>
@@ -121,7 +121,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.05988&quot;&gt;2511.05988v1&lt;/a&gt;&lt;/strong&gt; Properties of multiterminal superconducting nanostructure with double quantum dot (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.05999&quot;&gt;2511.05999v1&lt;/a&gt;&lt;/strong&gt; Prevailing orbital excitations in paramagnetic kagome superconductor Cs(V$&lt;em&gt;{0.95}$Ti$&lt;/em&gt;{0.05}$)$_3$Sb$_5$ (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.05999&quot;&gt;2511.05999v1&lt;/a&gt;&lt;/strong&gt; Prevailing orbital excitations in paramagnetic kagome superconductor Cs(V(&lt;em&gt;{0.95}) Ti(&lt;/em&gt;{0.05}))(_3) Sb(_5) (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.06004&quot;&gt;2511.06004v1&lt;/a&gt;&lt;/strong&gt; Magnetic field-induced degenerate ground state in the classical antiferromagnetic XX model on the icosahedron (arXiv)&lt;/p&gt;
@@ -241,7 +241,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.06964&quot;&gt;2511.06964v1&lt;/a&gt;&lt;/strong&gt; Non-local synchronization of continuous time crystals in a semiconductor (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.06983&quot;&gt;2511.06983v1&lt;/a&gt;&lt;/strong&gt; The Microscopic Structure of Stacking Faults in Sr$&lt;em&gt;2$NaNb$_5$O$&lt;/em&gt;{15}$ (arXiv)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.06983&quot;&gt;2511.06983v1&lt;/a&gt;&lt;/strong&gt; The Microscopic Structure of Stacking Faults in Sr(&lt;em&gt;2) NaNb(_5) O(&lt;/em&gt;{15}) (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.06995&quot;&gt;2511.06995v1&lt;/a&gt;&lt;/strong&gt; Microscopic origin of period-four stripe charge-density-wave in kagome metal CsV$_3$Sb$_5$ (arXiv)&lt;/p&gt;
@@ -588,14 +588,15 @@
     window.MathJax = {
       tex: { inlineMath: [[&apos;$&apos;,&apos;$&apos;], [&apos;\\(&apos;,&apos;\\)&apos;]] }
     };
-    
+
     // MathJax 먼저 로드 (제일 위에!)
     const mathjaxScript = document.createElement(&apos;script&apos;);
     mathjaxScript.src = &apos;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&apos;;
     mathjaxScript.async = true;
     document.head.appendChild(mathjaxScript);
+
   
-  
+
   // Wait for the DOM to be fully loaded
   document.addEventListener(&apos;DOMContentLoaded&apos;, () =&gt; {
     const details = document.getElementById(&apos;myDetails&apos;);
@@ -604,7 +605,7 @@
     if (localStorage.getItem(&apos;detailsOpen&apos;) === &apos;true&apos;) {
       details.setAttribute(&apos;open&apos;, &apos;&apos;);
     }
-
+    
     // Save the state when the details element is toggled
     details.addEventListener(&apos;toggle&apos;, () =&gt; {
       localStorage.setItem(&apos;detailsOpen&apos;, details.open);
@@ -612,7 +613,6 @@
   });
 &lt;/script&gt;
 
-&lt;p&gt;​&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Nov 2025 09:16:27 +0900</pubDate>
         <link>http://jinhong-park.github.io/arxiv/2025/11/Nov2weeks</link>
