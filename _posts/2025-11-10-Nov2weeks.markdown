@@ -126,7 +126,7 @@ categories: 2025nov
 
 1. **[2511.10393v1](https://arxiv.org/abs/2511.10393)** Backbone three-point correlation function in the two-dimensional Potts model (arXiv)
 
-1. **[2511.10396v1](https://arxiv.org/abs/2511.10396)** Spin and lattice dynamics at the spin-reorientation transitions in the rare-earth orthoferrite Sm$_{0.55}$Tb$_{0.45}$FeO$_{3}$ (arXiv)
+1. **[2511.10396v1](https://arxiv.org/abs/2511.10396)** Spin and lattice dynamics at the spin-reorientation transitions in the rare-earth orthoferrite $\textrm{Sm}_{0.55}\textrm{Tb}_{0.45}\textrm{FeO}_{3}$ (arXiv)
 
 1. **[2511.10433v1](https://arxiv.org/abs/2511.10433)** Routes to the density profile and structural inconsistency (arXiv)
 
@@ -961,6 +961,7 @@ categories: 2025nov
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
