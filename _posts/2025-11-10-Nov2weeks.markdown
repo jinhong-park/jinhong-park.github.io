@@ -12,12 +12,79 @@ categories: 2025nov
 ===This week's pick===
 
 
-* Score : 
+* Score : 16258
+
+**[2511.09860v1](https://arxiv.org/abs/2511.09860)** Quantum fluctuations associated with first-order magnetic transition in a frustrated kagome lattice antiferromagnet (arXiv)
+
+* Score : 15628
+
+**[2511.06631v1](https://arxiv.org/abs/2511.06631)** Quantum Monte Carlo study of magnetism and chiral d+id-wave superconductivity in twisted bilayer graphene (arXiv)
+
+* Score : 15438
+
+**[2511.09358v1](https://arxiv.org/abs/2511.09358)** Tree-graph based construction of quantum spin models with exact ground state (arXiv)
+
+* Score : 14572
+
+**[frpm-3fs8](http://link.aps.org/doi/10.1103/frpm-3fs8)** Effects of Landau Level Mixing on Various Fractional Quantum Hall States in Trilayer Graphene (PRL)
+
+* Score : 13695
+
+**[2511.07566v1](https://arxiv.org/abs/2511.07566)** Superconductivity in the two-dimensional Hubbard model revealed by neural quantum states (arXiv)
+
+* Score : 13459
+
+**[2511.10503v1](https://arxiv.org/abs/2511.10503)** From One to Two Dimensions: Magnetic Phases in Weakly Coupled Spin Ladders (arXiv)
+
+* Score : 13369
+
+**[2511.08426v1](https://arxiv.org/abs/2511.08426)** Critical temperatures of two dimensional magnets beyond linear spin wave theory: application to CrI$_3$, MPS$_3$ (M=Ni, Mn, Fe) and CrSBr (arXiv)
+
+* Score : 13350
+
+**[2511.10163v1](https://arxiv.org/abs/2511.10163)** Measurement protocol for detecting correlated topological insulators in synthetic quantum systems (arXiv)
+
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+---
+
+11/15
+
+
+
+1. **[s41467-025-65187-z](https://www.nature.com/articles/s41467-025-65187-z)** Author Correction: Non-temperature environmental drivers modulate warming-induced 21st-century permafrost degradation on the Tibetan Plateau (Nature Communications)
+
+1. **[s41467-025-66183-z](https://www.nature.com/articles/s41467-025-66183-z)** CarbaDetector: a machine learning model for detecting carbapenemase-producing Enterobacterales from disk diffusion tests (Nature Communications)
+
+1. **[s41467-025-65589-z](https://www.nature.com/articles/s41467-025-65589-z)** Electrodeposition of magnetic nanonetworks featuring triangular motifs and parallel ridges on a macroscopic scale (Nature Communications)
+
+1. **[s41467-025-64971-1](https://www.nature.com/articles/s41467-025-64971-1)** <i>Van-der-Waals-forces</i>-modulated graphene-P-phenyl-graphene carbon allotropes (Nature Communications)
+
+1. **[s42005-025-02412-7](https://www.nature.com/articles/s42005-025-02412-7)** Frequency drift corrected ultra-stable laser through phase-coherent fiber producing a quantum channel (Communications Physics)
+
+1. **[d41586-025-03659-4](https://www.nature.com/articles/d41586-025-03659-4)** A Chinese AI model taught itself basic physics — what discoveries could it make? (Nature)
+
+1. **[5rtj-djfk](http://link.aps.org/doi/10.1103/5rtj-djfk)** Entropic Costs of Extracting Classical Ticks from a Quantum Clock (PRL)
+
+1. **[tmbg-3p94](http://link.aps.org/doi/10.1103/tmbg-3p94)** Unmasking Charge Transfer in the Misfits: ARPES and <i>Ab Initio</i> Prediction of Electronic Structure in Layered Incommensurate Systems without Artificial Strain (PRL)
+
+1. **[15ws-ftbf](http://link.aps.org/doi/10.1103/15ws-ftbf)** Giant Nonreciprocal Band Structure Effect in a Multiferroic Material (PRL)
+
+1. **[3mgc-z9wv](http://link.aps.org/doi/10.1103/3mgc-z9wv)** Hydrogenated ${\mathrm{PdCoO}}_{2}$: A layered Metallic Oxide with Robust Room-Temperature Ferromagnetism (PRX)
+
+1. **[Physics.18.182](http://link.aps.org/doi/10.1103/Physics.18.182)** The Costs of Quantum Timekeeping (Physics)
+
+1. **[qgrt-x2x5](http://link.aps.org/doi/10.1103/qgrt-x2x5)** Interplay between electron-hole and impurity scattering in HgTe-based quantum wells (PRR)
+
+1. **[2f4p-2xy7](http://link.aps.org/doi/10.1103/2f4p-2xy7)** Rolling, sliding, and trapping of driven particles in square obstacle lattices (PRRL)
+
 
 
 
@@ -70,7 +137,7 @@ categories: 2025nov
 
 1. **[2511.09859v1](https://arxiv.org/abs/2511.09859)** Learning of Statistical Field Theories (arXiv)
 
-1. **[2511.09860v1](https://arxiv.org/abs/2511.09860)** Quantum fluctuations associated with first-order magnetic transition in a frustrated kagome lattice antiferromagnet (arXiv)
+
 
 1. **[2511.09888v1](https://arxiv.org/abs/2511.09888)** Observation of Shapiro Steps in the Charge Density Wave State Induced by Strain on a Piezoelectric Substrate (arXiv)
 
@@ -96,7 +163,7 @@ categories: 2025nov
 
 1. **[2511.10160v1](https://arxiv.org/abs/2511.10160)** Magnetic Frustration Enforced Electronic Reconstruction in Ni intercalated NbSe$_{2}$: Suppression of Electronic Orders (arXiv)
 
-1. **[2511.10163v1](https://arxiv.org/abs/2511.10163)** Measurement protocol for detecting correlated topological insulators in synthetic quantum systems (arXiv)
+
 
 1. **[2511.10171v1](https://arxiv.org/abs/2511.10171)** Scalable data-driven modeling of microstructure evolution by learning local dependency and spatiotemporal translation invariance rules in phase field simulation (arXiv)
 
@@ -146,7 +213,7 @@ categories: 2025nov
 
 1. **[2511.10493v1](https://arxiv.org/abs/2511.10493)** Tuning the Critical Current in Toroidal Superfluids via Controllable Impurities (arXiv)
 
-1. **[2511.10503v1](https://arxiv.org/abs/2511.10503)** From One to Two Dimensions: Magnetic Phases in Weakly Coupled Spin Ladders (arXiv)
+
 
 1. **[2511.10528v1](https://arxiv.org/abs/2511.10528)** In-vacuum surface flashover of SiN, AlN, and etched SiO2 thin films at micrometre scales (arXiv)
 
@@ -235,7 +302,7 @@ categories: 2025nov
 
 1. **[vd6b-8js6](http://link.aps.org/doi/10.1103/vd6b-8js6)** Tunable Exciton Transport in Fully Hybridized van der Waals Trilayers (PRL)
 
-1. **[frpm-3fs8](http://link.aps.org/doi/10.1103/frpm-3fs8)** Effects of Landau Level Mixing on Various Fractional Quantum Hall States in Trilayer Graphene (PRL)
+
 
 1. **[19td-1k9s](http://link.aps.org/doi/10.1103/19td-1k9s)** Non-Hermitian Numerical Renormalization Group: Solution of the Non-Hermitian Kondo Model (PRL)
 
@@ -332,7 +399,7 @@ categories: 2025nov
 
 1. **[2511.09356v1](https://arxiv.org/abs/2511.09356)** Probing the Critical Behavior of a Sign-Problematic Model with Monte Carlo Simulations (arXiv)
 
-1. **[2511.09358v1](https://arxiv.org/abs/2511.09358)** Tree-graph based construction of quantum spin models with exact ground state (arXiv)
+
 
 1. **[2511.09401v1](https://arxiv.org/abs/2511.09401)** Emergent long-tail dynamics in driven magnets with dynamical frustration (arXiv)
 
@@ -421,7 +488,7 @@ categories: 2025nov
 
 1. **[2511.07531v1](https://arxiv.org/abs/2511.07531)** High-speed antiferromagnetic domain walls driven by coherent spin waves (arXiv)
 
-1. **[2511.07566v1](https://arxiv.org/abs/2511.07566)** Superconductivity in the two-dimensional Hubbard model revealed by neural quantum states (arXiv)
+
 
 1. **[2511.07579v1](https://arxiv.org/abs/2511.07579)** Magnetic structure evolution and magnetoelastic coupling across the spin reorientation transition in TmCrO3 (arXiv)
 
@@ -491,7 +558,7 @@ categories: 2025nov
 
 1. **[2511.08424v1](https://arxiv.org/abs/2511.08424)** Identification of Empirical Constitutive Models for Age-Hardenable Aluminium Alloy and High-Chromium Martensitic Steel Using Symbolic Regression (arXiv)
 
-1. **[2511.08426v1](https://arxiv.org/abs/2511.08426)** Critical temperatures of two dimensional magnets beyond linear spin wave theory: application to CrI$_3$, MPS$_3$ (M=Ni, Mn, Fe) and CrSBr (arXiv)
+
 
 1. **[2511.08442v1](https://arxiv.org/abs/2511.08442)** Porous-B$_{18}$: An Ideal Topological Semimetal with Symmetry-Enforced Orthogonal Nodal-Line and Nodal-Surface States (arXiv)
 
@@ -660,7 +727,7 @@ categories: 2025nov
 
 1. **[2511.06630v1](https://arxiv.org/abs/2511.06630)** Shape-controlled growth of two-dimensional kagome-lattice colloidal crystals through nanoparticle capping (arXiv)
 
-1. **[2511.06631v1](https://arxiv.org/abs/2511.06631)** Quantum Monte Carlo study of magnetism and chiral d+id-wave superconductivity in twisted bilayer graphene (arXiv)
+
 
 1. **[2511.06660v1](https://arxiv.org/abs/2511.06660)** KTaO3-based editable superconducting diode (arXiv)
 
@@ -961,6 +1028,7 @@ categories: 2025nov
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
