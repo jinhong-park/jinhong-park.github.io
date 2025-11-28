@@ -270,7 +270,7 @@
             const dateTitle = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
             
             // 최종 Markdown 텍스트 생성
-            const finalMarkdown = `## ${dateTitle} To-do List\n\n${markdownOutput}`;
+            const finalMarkdown = `---\n\t## ${dateTitle} To-do List\n\n\n${markdownOutput}`;
 
             const outputElement = document.getElementById('markdown-output');
             outputElement.textContent = finalMarkdown;
