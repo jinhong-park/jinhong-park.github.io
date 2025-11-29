@@ -12,12 +12,50 @@ categories: 2025nov
 ===This week's pick===
 
 
-* Score : 
+* Score : 17487
+
+**[krzp-rq8z](http://link.aps.org/doi/10.1103/krzp-rq8z)** Giant Number-Parity Effect Leading to Spontaneous Symmetry Breaking in Finite-Size Quantum Spin Models (PRL)
+
+* Score : 15939
+
+**[2511.18520v1](https://arxiv.org/abs/2511.18520)** Light-engineered Multichannel Quantum Anomalous Hall Effect in High-order Topological Plumbene (arXiv)
+
+* Score : 14901
+
+**[2511.19581v1](https://arxiv.org/abs/2511.19581)** Imaging Quantum Well States of Dirac Electrons in Exfoliated 3D Topological Insulators (arXiv)
+
+* Score : 14022
+
+**[2511.20153v1](https://arxiv.org/abs/2511.20153)** Valley physics in the two bands k.p model for SiGe heterostructures and spin qubits (arXiv)
+
+* Score : 13641
+
+
+**[2511.17466v1](https://arxiv.org/abs/2511.17466)** A path to high temperature superconductivity via strong short range repulsion in spin polarized band (arXiv)
+
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+
+
+
+---
+
+11/29
+
+
+
+1. **[s41567-025-03098-y](https://www.nature.com/articles/s41567-025-03098-y)** Quantum superconducting diode effect with perfect efficiency above liquid-nitrogen temperature (Nature Physics)
+2. **[s42005-025-02432-3](https://www.nature.com/articles/s42005-025-02432-3)** Origin of flat bands and non-trivial topology in coupled kagome lattices (Communications Physics)
+3. **[s42005-025-02389-3](https://www.nature.com/articles/s42005-025-02389-3)** Electronic structure and superconducting properties of LaNiO<sub>2</sub> (Communications Physics)
+4. **[s42005-025-02364-y](https://www.nature.com/articles/s42005-025-02364-y)** Diode effect in the Fraunhofer pattern of disordered planar Josephson junctions (Communications Physics)
+
 
 
 
@@ -68,7 +106,6 @@ categories: 2025nov
 
 1. **[d41586-025-03745-7](https://www.nature.com/articles/d41586-025-03745-7)** Yarns and fabrics that bend or stiffen under magnetic fields (Nature)
 
-1. **[krzp-rq8z](http://link.aps.org/doi/10.1103/krzp-rq8z)** Giant Number-Parity Effect Leading to Spontaneous Symmetry Breaking in Finite-Size Quantum Spin Models (PRL)
 
 1. **[pn99-6dxt](http://link.aps.org/doi/10.1103/pn99-6dxt)** Sign-Problem-Free Nuclear Quantum Monte Carlo Simulation (PRL)
 
@@ -279,7 +316,7 @@ categories: 2025nov
 
 1. **[2511.19567v1](https://arxiv.org/abs/2511.19567)** Pair density wave in the fractional quantum Hall effect at even denominator (arXiv)
 
-1. **[2511.19581v1](https://arxiv.org/abs/2511.19581)** Imaging Quantum Well States of Dirac Electrons in Exfoliated 3D Topological Insulators (arXiv)
+
 
 1. **[2511.19589v1](https://arxiv.org/abs/2511.19589)** Topological BF Theory construction of twisted dihedral quantum double phases from spontaneous symmetry breaking (arXiv)
 
@@ -331,7 +368,7 @@ categories: 2025nov
 
 1. **[2511.20134v1](https://arxiv.org/abs/2511.20134)** Conservation in High-field Quantum Transport (arXiv)
 
-1. **[2511.20153v1](https://arxiv.org/abs/2511.20153)** Valley physics in the two bands k.p model for SiGe heterostructures and spin qubits (arXiv)
+
 
 1. **[2511.20163v1](https://arxiv.org/abs/2511.20163)** On the nature of the spin glass transition (arXiv)
 
@@ -521,7 +558,7 @@ categories: 2025nov
 
 1. **[2511.18501v1](https://arxiv.org/abs/2511.18501)** BBP Phase Transition for an Extensive Number of Outliers (arXiv)
 
-1. **[2511.18520v1](https://arxiv.org/abs/2511.18520)** Light-engineered Multichannel Quantum Anomalous Hall Effect in High-order Topological Plumbene (arXiv)
+
 
 1. **[2511.18526v1](https://arxiv.org/abs/2511.18526)** Ab initio modeling of resonant inelastic x-ray scattering from Ca2RuO4 (arXiv)
 
@@ -749,7 +786,6 @@ categories: 2025nov
 
 1. **[2511.17459v1](https://arxiv.org/abs/2511.17459)** Evolution of inhomogeneities in two-dimensional disordered superconductors in a magnetic field (arXiv)
 
-1. **[2511.17466v1](https://arxiv.org/abs/2511.17466)** A path to high temperature superconductivity via strong short range repulsion in spin polarized band (arXiv)
 
 1. **[2511.17470v1](https://arxiv.org/abs/2511.17470)** Fast and Continuous Detection of Single Microwave Photons via Photo-assisted Quasiparticle Tunneling to a Superconducting Island (arXiv)
 
@@ -836,6 +872,7 @@ categories: 2025nov
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
