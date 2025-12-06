@@ -12,13 +12,41 @@ categories: 2025dec
 ===This week's pick===
 
 
-* Score : 
+* Score : 13490
+
+**[2512.04063v1](https://arxiv.org/abs/2512.04063)** Transport evidence of surface states in magnetic topological insulator MnBi2Te4 (arXiv)
+
+* Score : 3404
+
+**[s41567-025-03126-x](https://www.nature.com/articles/s41567-025-03126-x)** Hofstadter’s butterfly turns magnetic (Nature Physics)
+
+* Score : 2054
+
+**[s41563-025-02431-3](https://www.nature.com/articles/s41563-025-02431-3)** <i>P</i>-wave magnetism in a metal (Nature Materials)
+
+
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
 
+
+---
+
+12/06
+
+
+
+1. **[s41467-025-66851-0](https://www.nature.com/articles/s41467-025-66851-0)** Electron-conductive binder for silicon negative electrode enabling low-pressure all-solid-state batteries (Nature Communications)
+
+   
+
+1. **[s42005-025-02436-z](https://www.nature.com/articles/s42005-025-02436-z)** An ultra-fast quantum random number generation scheme based on laser phase noise (Communications Physics)
+
+   
+
+1. **[s41563-025-02430-4](https://www.nature.com/articles/s41563-025-02430-4)** Two-dimensional semiconductor-based active array for high-fidelity spatiotemporal monitoring of neural activities (Nature Materials)
 
 
 
@@ -342,7 +370,7 @@ categories: 2025dec
 
 1. **[2512.04056v1](https://arxiv.org/abs/2512.04056)** Sign-Resolved Statistics and the Origin of Bias in Quantum Monte Carlo (arXiv)
 
-1. **[2512.04063v1](https://arxiv.org/abs/2512.04063)** Transport evidence of surface states in magnetic topological insulator MnBi2Te4 (arXiv)
+   
 
 1. **[2512.02202v1](https://arxiv.org/abs/2512.02202)** Progress in quantum metrology and applications for optical atomic clocks (arXiv)
 
@@ -1185,6 +1213,8 @@ categories: 2025dec
     document.head.appendChild(mathjaxScript);
 
   
+
+
 
 
 
