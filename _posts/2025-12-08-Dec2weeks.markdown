@@ -12,12 +12,40 @@ categories: 2025dec
 ===This week's pick===
 
 
-* Score : 
+* Score : 19740
+
+**[2512.06342v1](https://arxiv.org/abs/2512.06342)** Quantum Spin Hall Effect and Su-Schrieffer-Heeger Model Implementation in Novel C3N-based Dumbbell Morphologies (arXiv)
+
+
+
+* Score : 13526
+
+**[p8ds-qm44](http://link.aps.org/doi/10.1103/p8ds-qm44)** Field-Effect-Tunable Even-Odd Transition of Quantum Hall States in a Rashba System (PRL)
+
+
+
+
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+---
+
+12/13
+
+
+
+1. **[s41467-025-67056-1](https://www.nature.com/articles/s41467-025-67056-1)** Isofrequency spin-wave imaging using color center magnetometry for magnon spintronics (Nature Communications)
+
+2. **[s41567-025-03106-1](https://www.nature.com/articles/s41567-025-03106-1)** Optimal operation of hole spin qubits (Nature Physics)
+
+3. **[s42005-025-02435-0](https://www.nature.com/articles/s42005-025-02435-0)** Exploring the boundary of quantum network states from inside out (Communications Physics)
+
+
+
 
 
 
@@ -459,7 +487,7 @@ categories: 2025dec
 
 1. **[1v48-2t7x](http://link.aps.org/doi/10.1103/1v48-2t7x)** Asymmetric Elastic Bound State in the Continuum by an Exceptional Point (PRL)
 
-1. **[p8ds-qm44](http://link.aps.org/doi/10.1103/p8ds-qm44)** Field-Effect-Tunable Even-Odd Transition of Quantum Hall States in a Rashba System (PRL)
+   
 
 1. **[ywpx-qm7d](http://link.aps.org/doi/10.1103/ywpx-qm7d)** Fractional Quantum Hall State at $ν\text{}=\text{}1/2$ with Energy Gap Up to 6 K and Possible Transition from the One- to Two-Component State (PRL)
 
@@ -710,7 +738,7 @@ categories: 2025dec
 
 1. **[2512.06329v1](https://arxiv.org/abs/2512.06329)** Effect of Spin-Orbit Coupling on Anomalous Quantum Oscillations in InAs/GaSb Quantum Wells (arXiv)
 
-1. **[2512.06342v1](https://arxiv.org/abs/2512.06342)** Quantum Spin Hall Effect and Su-Schrieffer-Heeger Model Implementation in Novel C3N-based Dumbbell Morphologies (arXiv)
+   
 
 1. **[2512.06355v1](https://arxiv.org/abs/2512.06355)** Multipolar orbital relaxation of the $t_{2g}$ states (arXiv)
 
@@ -1091,6 +1119,8 @@ categories: 2025dec
     document.head.appendChild(mathjaxScript);
 
   
+
+
 
 
 
