@@ -12,15 +12,38 @@ categories: 2025dec
 ===This week's pick===
 
 
-* Score : 
+* Score : 10310
+
+**[dbxd-jk76](http://link.aps.org/doi/10.1103/dbxd-jk76)** Quantum Geometric Origin of Strain-Induced Ferroelectric Phase Transitions (PRL)
+
+* Score : 15583
+
+**[2512.12570v1](https://arxiv.org/abs/2512.12570)** Strain-induced quantum oscillation in Kitaev spin liquid with Majorana-Fermi surface (arXiv)
 
 
+* Score : 14848
 
+
+**[2512.15942v1](https://arxiv.org/abs/2512.15942)** Quantum theory for edge current and noise in 2D topological superconductors (arXiv)
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+---
+
+12/20
+
+1. **[s41467-025-67572-0](https://www.nature.com/articles/s41467-025-67572-0)** Quantum electrodynamics of photonic time crystals (Nature Communications)
+
+2. **[s42005-025-02462-x](https://www.nature.com/articles/s42005-025-02462-x)** Skyrmion lattice domain formation in a non-flat energy landscape (Communications Physics)
+
+
+
 
 
 ---
@@ -44,7 +67,6 @@ categories: 2025dec
 
 1. **[y66p-kjj7](http://link.aps.org/doi/10.1103/y66p-kjj7)** Quantum Geometry in Phonon-Mediated Optical Responses (PRL)
 
-1. **[dbxd-jk76](http://link.aps.org/doi/10.1103/dbxd-jk76)** Quantum Geometric Origin of Strain-Induced Ferroelectric Phase Transitions (PRL)
 
 1. **[vpmn-sw7n](http://link.aps.org/doi/10.1103/vpmn-sw7n)** Yielding and Memory in a Driven Mean-Field Model of Glasses (PRL)
 
@@ -73,8 +95,6 @@ categories: 2025dec
 1. **[2512.15872v1](https://arxiv.org/abs/2512.15872)** Extracting Anyon Statistics from Neural Network Fractional Quantum Hall States (arXiv)
 
 1. **[2512.15910v1](https://arxiv.org/abs/2512.15910)** Thermoelectric Signatures of Kondo Physics in Geometry-Tunable Double Quantum Dots (arXiv)
-
-1. **[2512.15942v1](https://arxiv.org/abs/2512.15942)** Quantum theory for edge current and noise in 2D topological superconductors (arXiv)
 
 1. **[2512.15952v1](https://arxiv.org/abs/2512.15952)** Ultra-Fast Machine-Learned Interatomic Potential for MoS2 Enabling Non-Equilibrium Molecular-Dynamics Simulation of Epitaxial Growth (arXiv)
 
@@ -700,7 +720,6 @@ categories: 2025dec
 
 1. **[2512.12520v1](https://arxiv.org/abs/2512.12520)** Probing Topological Surface States and Conduction via Extended Defects in (Bi$_{1-x}$Sb$_x$)$_2$Te$_3$ Films (arXiv)
 
-1. **[2512.12570v1](https://arxiv.org/abs/2512.12570)** Strain-induced quantum oscillation in Kitaev spin liquid with Majorana-Fermi surface (arXiv)
 
 1. **[2512.12575v1](https://arxiv.org/abs/2512.12575)** Extreme disorder in crystalline perovskite oxide: a new paradigm in quantum materials research (arXiv)
 
@@ -1045,6 +1064,7 @@ categories: 2025dec
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 

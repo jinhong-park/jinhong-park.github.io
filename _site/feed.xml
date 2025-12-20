@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Dec 2025 14:17:42 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 14:17:42 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 20 Dec 2025 12:57:36 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2025 12:57:36 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Dec 3 week 2025)</title>
@@ -22,13 +22,40 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 10310&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/dbxd-jk76&quot;&gt;dbxd-jk76&lt;/a&gt;&lt;/strong&gt; Quantum Geometric Origin of Strain-Induced Ferroelectric Phase Transitions (PRL)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 15583&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.12570&quot;&gt;2512.12570v1&lt;/a&gt;&lt;/strong&gt; Strain-induced quantum oscillation in Kitaev spin liquid with Majorana-Fermi surface (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 14848&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.15942&quot;&gt;2512.15942v1&lt;/a&gt;&lt;/strong&gt; Quantum theory for edge current and noise in 2D topological superconductors (arXiv)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+
+&lt;p&gt;12/20&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-67572-0&quot;&gt;s41467-025-67572-0&lt;/a&gt;&lt;/strong&gt; Quantum electrodynamics of photonic time crystals (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02462-x&quot;&gt;s42005-025-02462-x&lt;/a&gt;&lt;/strong&gt; Skyrmion lattice domain formation in a non-flat energy landscape (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;12/19&lt;/p&gt;
 
@@ -59,9 +86,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/y66p-kjj7&quot;&gt;y66p-kjj7&lt;/a&gt;&lt;/strong&gt; Quantum Geometry in Phonon-Mediated Optical Responses (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/dbxd-jk76&quot;&gt;dbxd-jk76&lt;/a&gt;&lt;/strong&gt; Quantum Geometric Origin of Strain-Induced Ferroelectric Phase Transitions (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/vpmn-sw7n&quot;&gt;vpmn-sw7n&lt;/a&gt;&lt;/strong&gt; Yielding and Memory in a Driven Mean-Field Model of Glasses (PRL)&lt;/p&gt;
@@ -104,9 +128,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.15910&quot;&gt;2512.15910v1&lt;/a&gt;&lt;/strong&gt; Thermoelectric Signatures of Kondo Physics in Geometry-Tunable Double Quantum Dots (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.15942&quot;&gt;2512.15942v1&lt;/a&gt;&lt;/strong&gt; Quantum theory for edge current and noise in 2D topological superconductors (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.15952&quot;&gt;2512.15952v1&lt;/a&gt;&lt;/strong&gt; Ultra-Fast Machine-Learned Interatomic Potential for MoS2 Enabling Non-Equilibrium Molecular-Dynamics Simulation of Epitaxial Growth (arXiv)&lt;/p&gt;
@@ -1015,9 +1036,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.12520&quot;&gt;2512.12520v1&lt;/a&gt;&lt;/strong&gt; Probing Topological Surface States and Conduction via Extended Defects in (Bi$_{1-x}$Sb$_x$)$_2$Te$_3$ Films (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.12570&quot;&gt;2512.12570v1&lt;/a&gt;&lt;/strong&gt; Strain-induced quantum oscillation in Kitaev spin liquid with Majorana-Fermi surface (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.12575&quot;&gt;2512.12575v1&lt;/a&gt;&lt;/strong&gt; Extreme disorder in crystalline perovskite oxide: a new paradigm in quantum materials research (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1502,6 +1520,7 @@
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
