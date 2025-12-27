@@ -12,14 +12,54 @@ categories: 2025dec
 ===This week's pick===
 
 
-* Score : 
+* Score : 27244
+
+**[2512.19511v1](https://arxiv.org/abs/2512.19511)** Spin Response of a Magnetic Monopole and Quantum Hall Response in Topological Lattice Models through Local Invariants and Light (arXiv)
+
+* Score : 18432
+
+**[2512.16673v1](https://arxiv.org/abs/2512.16673)** Topological magic response in quantum spin chains (arXiv)
 
 
+* Score : 17654
+
+
+**[2512.17454v1](https://arxiv.org/abs/2512.17454)** Quantum geometry, localization, and topological bounds of spin fluctuations (arXiv)
+
+
+* Score : 15456
+
+**[2512.19785v1](https://arxiv.org/abs/2512.19785)** Micromagnet-free operation of electron spin qubits in Si/Si$_{1-x}$Ge$_x$ vertical double quantum dots (arXiv)
+
+
+* Score : 14310
+
+**[2512.17433v1](https://arxiv.org/abs/2512.17433)** Emergence of a hidden-order phase well below the charge density wave transition in a topological Weyl semimetal (TaSe$_4$)$_2$I (arXiv)
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+---
+
+12/27
+
+1. **[wztw-l8wg](http://link.aps.org/doi/10.1103/wztw-l8wg)** Many-Body Non-Hermitian Skin Effect with Exact Steady States in the Dissipative Quantum Link Model (PRL)
+
+1. **[f2jf-bg7g](http://link.aps.org/doi/10.1103/f2jf-bg7g)** Distributed Quantum Multiparameter Estimation with Optimal Local Measurements (PRL)
+
+1. **[c318-t2vn](http://link.aps.org/doi/10.1103/c318-t2vn)** Quantum <span class="sc">cnot</span> Gate with Actively Synchronized Photon Pairs (PRL)
+
+1. **[s212-43gs](http://link.aps.org/doi/10.1103/s212-43gs)** Experimental Measurement of the Reappearance of Rabi Rotations in Semiconductor Quantum Dots (PRL)
+
+1. **[zn7r-k1xd](http://link.aps.org/doi/10.1103/zn7r-k1xd)** Symmetry Classification for Alternating Excitons in Two-Dimensional Altermagnets (PRL)
+
+1. **[17xy-gns1](http://link.aps.org/doi/10.1103/17xy-gns1)** Spin Decoherence Dynamics of ${\mathrm{Er}}^{3+}$ in ${\mathrm{CeO}}_{2}$ Films (PRL)
+
+1. **[3fxg-cbqk](http://link.aps.org/doi/10.1103/3fxg-cbqk)** Spontaneous Chiral Symmetry Breaking in Polydisperse Achiral Near-Rigid Nematogens (PRL)
+
 
 
 
@@ -184,7 +224,6 @@ categories: 2025dec
 
 1. **[2512.19753v1](https://arxiv.org/abs/2512.19753)** QMBench: A Research Level Benchmark for Quantum Materials Research (arXiv)
 
-1. **[2512.19785v1](https://arxiv.org/abs/2512.19785)** Micromagnet-free operation of electron spin qubits in Si/Si$_{1-x}$Ge$_x$ vertical double quantum dots (arXiv)
 
 1. **[2512.19791v1](https://arxiv.org/abs/2512.19791)** Geometry-Enforced Topological Chiral Fermions in Amorphous Chiral Metals (arXiv)
 
@@ -574,7 +613,6 @@ categories: 2025dec
 
 1. **[2512.19503v1](https://arxiv.org/abs/2512.19503)** Strain-induced splitting of the CCDW-NCCDW phase transition in 1T-TaS$_2$ (arXiv)
 
-1. **[2512.19511v1](https://arxiv.org/abs/2512.19511)** Spin Response of a Magnetic Monopole and Quantum Hall Response in Topological Lattice Models through Local Invariants and Light (arXiv)
 
 1. **[2512.19520v1](https://arxiv.org/abs/2512.19520)** Compressive Strain Turns $s^{\pm}$ into $d$-Wave Pairing in One-unit-cell La$_3$Ni$_2$O$_7$ Thin Film Via Substrate-Induced Hole Doping (arXiv)
 
@@ -723,11 +761,10 @@ categories: 2025dec
 
 1. **[2512.17427v1](https://arxiv.org/abs/2512.17427)** Direct demonstration of time-reversal-symmetry-breaking spin injection from a compensated magnet (arXiv)
 
-1. **[2512.17433v1](https://arxiv.org/abs/2512.17433)** Emergence of a hidden-order phase well below the charge density wave transition in a topological Weyl semimetal (TaSe$_4$)$_2$I (arXiv)
 
 1. **[2512.17443v1](https://arxiv.org/abs/2512.17443)** Cooling mechanism controls motility-induced phase separation in inertial active liquids (arXiv)
 
-1. **[2512.17454v1](https://arxiv.org/abs/2512.17454)** Quantum geometry, localization, and topological bounds of spin fluctuations (arXiv)
+
 
 1. **[2512.17476v1](https://arxiv.org/abs/2512.17476)** Collective Hard Core Interactions Leave Multiscale Signatures in Number Fluctuation Spectra (arXiv)
 
@@ -795,7 +832,7 @@ categories: 2025dec
 
 1. **[2512.16651v1](https://arxiv.org/abs/2512.16651)** Theory of exciton polarons in 2D Wigner crystals (arXiv)
 
-1. **[2512.16673v1](https://arxiv.org/abs/2512.16673)** Topological magic response in quantum spin chains (arXiv)
+
 
 1. **[2512.17141v1](https://arxiv.org/abs/2512.17141)** Evaluating Sample-Based Krylov Quantum Diagonalization for Heisenberg Models with Applications to Materials Science (arXiv)
 
@@ -861,6 +898,7 @@ categories: 2025dec
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 

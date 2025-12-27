@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Dec 2025 14:09:31 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 14:09:31 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 27 Dec 2025 16:06:14 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 16:06:14 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Dec 4 week 2025)</title>
@@ -22,13 +22,67 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 27244&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19511&quot;&gt;2512.19511v1&lt;/a&gt;&lt;/strong&gt; Spin Response of a Magnetic Monopole and Quantum Hall Response in Topological Lattice Models through Local Invariants and Light (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 18432&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.16673&quot;&gt;2512.16673v1&lt;/a&gt;&lt;/strong&gt; Topological magic response in quantum spin chains (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 17654&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17454&quot;&gt;2512.17454v1&lt;/a&gt;&lt;/strong&gt; Quantum geometry, localization, and topological bounds of spin fluctuations (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 15456&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19785&quot;&gt;2512.19785v1&lt;/a&gt;&lt;/strong&gt; Micromagnet-free operation of electron spin qubits in Si/Si$_{1-x}$Ge$_x$ vertical double quantum dots (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 14310&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17433&quot;&gt;2512.17433v1&lt;/a&gt;&lt;/strong&gt; Emergence of a hidden-order phase well below the charge density wave transition in a topological Weyl semimetal (TaSe$_4$)$_2$I (arXiv)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+
+&lt;p&gt;12/27&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/wztw-l8wg&quot;&gt;wztw-l8wg&lt;/a&gt;&lt;/strong&gt; Many-Body Non-Hermitian Skin Effect with Exact Steady States in the Dissipative Quantum Link Model (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/f2jf-bg7g&quot;&gt;f2jf-bg7g&lt;/a&gt;&lt;/strong&gt; Distributed Quantum Multiparameter Estimation with Optimal Local Measurements (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/c318-t2vn&quot;&gt;c318-t2vn&lt;/a&gt;&lt;/strong&gt; Quantum &lt;span class=&quot;sc&quot;&gt;cnot&lt;/span&gt; Gate with Actively Synchronized Photon Pairs (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/s212-43gs&quot;&gt;s212-43gs&lt;/a&gt;&lt;/strong&gt; Experimental Measurement of the Reappearance of Rabi Rotations in Semiconductor Quantum Dots (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/zn7r-k1xd&quot;&gt;zn7r-k1xd&lt;/a&gt;&lt;/strong&gt; Symmetry Classification for Alternating Excitons in Two-Dimensional Altermagnets (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/17xy-gns1&quot;&gt;17xy-gns1&lt;/a&gt;&lt;/strong&gt; Spin Decoherence Dynamics of ${\mathrm{Er}}^{3+}$ in ${\mathrm{CeO}}_{2}$ Films (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/3fxg-cbqk&quot;&gt;3fxg-cbqk&lt;/a&gt;&lt;/strong&gt; Spontaneous Chiral Symmetry Breaking in Polydisperse Achiral Near-Rigid Nematogens (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 
 &lt;p&gt;12/26&lt;/p&gt;
@@ -259,9 +313,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19753&quot;&gt;2512.19753v1&lt;/a&gt;&lt;/strong&gt; QMBench: A Research Level Benchmark for Quantum Materials Research (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19785&quot;&gt;2512.19785v1&lt;/a&gt;&lt;/strong&gt; Micromagnet-free operation of electron spin qubits in Si/Si$_{1-x}$Ge$_x$ vertical double quantum dots (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19791&quot;&gt;2512.19791v1&lt;/a&gt;&lt;/strong&gt; Geometry-Enforced Topological Chiral Fermions in Amorphous Chiral Metals (arXiv)&lt;/p&gt;
@@ -850,9 +901,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19503&quot;&gt;2512.19503v1&lt;/a&gt;&lt;/strong&gt; Strain-induced splitting of the CCDW-NCCDW phase transition in 1T-TaS$_2$ (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19511&quot;&gt;2512.19511v1&lt;/a&gt;&lt;/strong&gt; Spin Response of a Magnetic Monopole and Quantum Hall Response in Topological Lattice Models through Local Invariants and Light (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.19520&quot;&gt;2512.19520v1&lt;/a&gt;&lt;/strong&gt; Compressive Strain Turns $s^{\pm}$ into $d$-Wave Pairing in One-unit-cell La$_3$Ni$_2$O$_7$ Thin Film Via Substrate-Induced Hole Doping (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1064,13 +1112,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17427&quot;&gt;2512.17427v1&lt;/a&gt;&lt;/strong&gt; Direct demonstration of time-reversal-symmetry-breaking spin injection from a compensated magnet (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17433&quot;&gt;2512.17433v1&lt;/a&gt;&lt;/strong&gt; Emergence of a hidden-order phase well below the charge density wave transition in a topological Weyl semimetal (TaSe$_4$)$_2$I (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17443&quot;&gt;2512.17443v1&lt;/a&gt;&lt;/strong&gt; Cooling mechanism controls motility-induced phase separation in inertial active liquids (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17454&quot;&gt;2512.17454v1&lt;/a&gt;&lt;/strong&gt; Quantum geometry, localization, and topological bounds of spin fluctuations (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17476&quot;&gt;2512.17476v1&lt;/a&gt;&lt;/strong&gt; Collective Hard Core Interactions Leave Multiscale Signatures in Number Fluctuation Spectra (arXiv)&lt;/p&gt;
@@ -1172,9 +1214,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.16651&quot;&gt;2512.16651v1&lt;/a&gt;&lt;/strong&gt; Theory of exciton polarons in 2D Wigner crystals (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.16673&quot;&gt;2512.16673v1&lt;/a&gt;&lt;/strong&gt; Topological magic response in quantum spin chains (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2512.17141&quot;&gt;2512.17141v1&lt;/a&gt;&lt;/strong&gt; Evaluating Sample-Based Krylov Quantum Diagonalization for Heisenberg Models with Applications to Materials Science (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1245,6 +1284,7 @@
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
