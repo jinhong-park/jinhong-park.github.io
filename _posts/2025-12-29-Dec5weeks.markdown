@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "weekly picks (Dec 4 week 2025)"
-date:   2025-12-22 00:16:27
+title:  "weekly picks (Dec 5 week 2025)"
+date:   2025-12-29 00:16:27
 categories: 2025dec
 ---
 
-{% include image.html url="/images/2025dec4weeks.png" caption="A WordCloud of 2025 Dec 4th week collection" width=300 align="center" %}
+{% include image.html url="/images/2025dec5weeks.png" caption="A WordCloud of 2025 Dec 5th week collection" width=300 align="center" %}
 
 
 
