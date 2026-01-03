@@ -12,13 +12,75 @@ categories: 2025dec
 ===This week's pick===
 
 
-* Score : 
+* Score : 18030
+
+**[2512.23277v1](https://arxiv.org/abs/2512.23277)** Observation of robust one-dimensional edge channels in a three-dimensional quantum spin Hall insulator (arXiv)
 
 
+* Score : 16301
+
+**[2512.23432v1](https://arxiv.org/abs/2512.23432)** Black Hole States in Quantum Spin Chains (arXiv)
+
+* Score : 15303
+
+**[2512.21559v1](https://arxiv.org/abs/2512.21559)** Nonvolatile Electrical Control of Spin via Sliding Fractional Quantum Multiferroics (arXiv)
+
+* Score : 15242
+
+**[2512.21966v1](https://arxiv.org/abs/2512.21966)** Topological constraints on the electronic band structure of hexagonal lattice in a magnetic field (arXiv)
+
+* Score : 14779
+
+**[2512.24395v1](https://arxiv.org/abs/2512.24395)** Evidence of Spin-Valley Coupling in Dirac Material BaMnBi2 Probed by Quantum Hall Effect and Nonlinear Hall Effect (arXiv)
+
+* Score : 14048
+
+**[2512.24076v1](https://arxiv.org/abs/2512.24076)** Exactly Solvable Models Hosting Altermagnetic Quantum Spin Liquids (arXiv)
+
+
+* Score : 13768
+
+**[2512.21850v1](https://arxiv.org/abs/2512.21850)** Chirality-selective topological magnon phase transition induced by interplay of anisotropic exchange interactions in honeycomb ferromagnet (arXiv)
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+---
+
+01/03
+
+
+
+1. **[s41567-025-03121-2](https://www.nature.com/articles/s41567-025-03121-2)** Two-dimensional non-equilibrium melting of charged colloids (Nature Physics)
+
+2. **[s42005-025-02475-6](https://www.nature.com/articles/s42005-025-02475-6)** Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware (Communications Physics)
+
+1. **[dlct-5vwy](http://link.aps.org/doi/10.1103/dlct-5vwy)** Turbulent Multiscale Interactions between Tearing Modes, Trapped-Electron Modes, and Zonal Flows (PRL)
+
+1. **[xnyc-321m](http://link.aps.org/doi/10.1103/xnyc-321m)** Quantum Vortices Leave a Macroscopic Signature in the Thermal Background (PRL)
+
+1. **[njg9-jpkh](http://link.aps.org/doi/10.1103/njg9-jpkh)** Common Sublattice-Pure Van Hove Singularities in the Kagome Superconductors $A{\mathrm{V}}_{3}{\mathrm{Sb}}_{5}$ ($A=\mathrm{K}$, Rb, Cs) (PRL)
+
+1. **[6hm7-13tt](http://link.aps.org/doi/10.1103/6hm7-13tt)** Quantum Chemistry for Solids Made Simple on the Clifford Torus (PRL)
+
+1. **[79lt-2p4n](http://link.aps.org/doi/10.1103/79lt-2p4n)** Stripe-Nematic Phase of Composite Fermions (PRL)
+
+1. **[z4db-gt69](http://link.aps.org/doi/10.1103/z4db-gt69)** Orbital Inverse Faraday and Cotton-Mouton Effects in Hall Fluids (PRL)
+
+1. **[vxcb-rwbl](http://link.aps.org/doi/10.1103/vxcb-rwbl)** Half-Quantized Chiral Edge Current in a $C=1/2$ Parity Anomaly State (PRL)
+
+1. **[5c9q-nsb4](http://link.aps.org/doi/10.1103/5c9q-nsb4)** Optical Signatures of Quantum Skyrmions (PRL)
+
+1. **[vxdj-zpy3](http://link.aps.org/doi/10.1103/vxdj-zpy3)** Giant Reversible Piezoelectricity from Symmetry-Governed Stochastic Dipole Hopping (PRL)
+
+1. **[9h4l-21mt](http://link.aps.org/doi/10.1103/9h4l-21mt)** Nanoscale Defects as Probes of Time-Reversal Symmetry Breaking (PRX)
+
+1. **[ycwc-3myc](http://link.aps.org/doi/10.1103/ycwc-3myc)** Leveraging Qubit Loss Detection in Fault-Tolerant Quantum Algorithms (PRX)
+
 
 
 ---
@@ -92,7 +154,6 @@ categories: 2025dec
 
 1. **[2512.24071v1](https://arxiv.org/abs/2512.24071)** Skyrmion and Meron Crystals in Intermetallic Gd$_3$Ru$_4$Al$_{12}$: Microscopic Model Insights into Chiral Phases (arXiv)
 
-1. **[2512.24076v1](https://arxiv.org/abs/2512.24076)** Exactly Solvable Models Hosting Altermagnetic Quantum Spin Liquids (arXiv)
 
 1. **[2512.24091v1](https://arxiv.org/abs/2512.24091)** Thermal Evolution of Skyrmions in Synthetic Ferrimagnets of Co/Gd Heterostructure for Topological Spintronic Applications (arXiv)
 
@@ -136,7 +197,7 @@ categories: 2025dec
 
 1. **[2512.24374v1](https://arxiv.org/abs/2512.24374)** Assembling a Bose-Hubbard superfluid from tweezer-controlled single atoms (arXiv)
 
-1. **[2512.24395v1](https://arxiv.org/abs/2512.24395)** Evidence of Spin-Valley Coupling in Dirac Material BaMnBi2 Probed by Quantum Hall Effect and Nonlinear Hall Effect (arXiv)
+
 
 1. **[2512.24399v1](https://arxiv.org/abs/2512.24399)** Using Particle Shape to Control Defects in Colloidal Crystals on Spherical Interfaces (arXiv)
 
@@ -218,7 +279,7 @@ categories: 2025dec
 
 1. **[2512.25074v1](https://arxiv.org/abs/2512.25074)** Randomization Times under Quantum Chaotic Hamiltonian Evolution (arXiv)
 
-1. **[2512.23277v1](https://arxiv.org/abs/2512.23277)** Observation of robust one-dimensional edge channels in a three-dimensional quantum spin Hall insulator (arXiv)
+
 
 1. **[2512.23290v1](https://arxiv.org/abs/2512.23290)** Atomic-scale spin sensing of a 2D $d$-wave altermagnet via helical tunneling (arXiv)
 
@@ -544,7 +605,7 @@ categories: 2025dec
 
 1. **[2512.23338v1](https://arxiv.org/abs/2512.23338)** Quantum Dilogarithms and New Integrable Lattice Models in Three Dimensions (arXiv)
 
-1. **[2512.23432v1](https://arxiv.org/abs/2512.23432)** Black Hole States in Quantum Spin Chains (arXiv)
+
 
 1. **[2512.23559v1](https://arxiv.org/abs/2512.23559)** Low loss switchable topological photonic crystal enabled by submicron-scale patterning and phase-change of Sb2Se3 (arXiv)
 
@@ -581,7 +642,6 @@ categories: 2025dec
 
 1. **[2512.21557v1](https://arxiv.org/abs/2512.21557)** Higher-order exceptional ring semimetal with real hinge states in phononic crystals (arXiv)
 
-1. **[2512.21559v1](https://arxiv.org/abs/2512.21559)** Nonvolatile Electrical Control of Spin via Sliding Fractional Quantum Multiferroics (arXiv)
 
 1. **[2512.21575v1](https://arxiv.org/abs/2512.21575)** Kondo Effect in Nonreciprocal Response (arXiv)
 
@@ -635,7 +695,7 @@ categories: 2025dec
 
 1. **[2512.21847v1](https://arxiv.org/abs/2512.21847)** Quantum Breakdown Condensate as a Disorder-Free Quantum Glass (arXiv)
 
-1. **[2512.21850v1](https://arxiv.org/abs/2512.21850)** Chirality-selective topological magnon phase transition induced by interplay of anisotropic exchange interactions in honeycomb ferromagnet (arXiv)
+
 
 1. **[2512.21868v1](https://arxiv.org/abs/2512.21868)** Beyond on-site Hubbard interaction in charge dynamics of cuprate superconductors (arXiv)
 
@@ -655,7 +715,6 @@ categories: 2025dec
 
 1. **[2512.21945v1](https://arxiv.org/abs/2512.21945)** Revealing the Partially Coherent Nature of Transport in IGZO (arXiv)
 
-1. **[2512.21966v1](https://arxiv.org/abs/2512.21966)** Topological constraints on the electronic band structure of hexagonal lattice in a magnetic field (arXiv)
 
 1. **[2512.21978v1](https://arxiv.org/abs/2512.21978)** Tunable Magnetic and Topological Phases in EuMnXBi$_2$ (X=Mn, Fe, Co, Zn) Pnictides (arXiv)
 
@@ -736,6 +795,7 @@ categories: 2025dec
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
