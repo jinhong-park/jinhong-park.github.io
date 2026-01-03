@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jan 2026 17:29:50 +0900</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 17:29:50 +0900</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 23:28:37 +0900</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 23:28:37 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -148,6 +148,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adv8376&quot;&gt;science.adv8376&lt;/a&gt;&lt;/strong&gt; Experimental evidence for nodal superconducting gap in moiré graphene (Science)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1361-648X/ae2bd4&quot;&gt;ae2bd4&lt;/a&gt;&lt;/strong&gt; Evolution of magnetic bubble domains in the uniaxial ferromaget CeRu2Ga2B inferred from the Hall effect and ac magnetic susceptibility (Journal of Physics: Condensed Matter)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -1127,6 +1130,7 @@
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 

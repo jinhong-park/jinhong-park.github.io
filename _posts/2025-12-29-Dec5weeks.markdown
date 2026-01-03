@@ -92,7 +92,7 @@ categories: 2025dec
 
 1. **[science.adv8376](https://www.science.org/doi/10.1126/science.adv8376)** Experimental evidence for nodal superconducting gap in moiré graphene (Science)
 
-
+1. **[ae2bd4](https://iopscience.iop.org/article/10.1088/1361-648X/ae2bd4)** Evolution of magnetic bubble domains in the uniaxial ferromaget CeRu2Ga2B inferred from the Hall effect and ac magnetic susceptibility (Journal of Physics: Condensed Matter)
 
 ---
 
@@ -795,6 +795,7 @@ categories: 2025dec
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
