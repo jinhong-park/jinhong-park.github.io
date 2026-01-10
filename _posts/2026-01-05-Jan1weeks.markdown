@@ -12,7 +12,25 @@ categories: 2026jan
 ===This week's pick===
 
 
-* Score : 
+* Score : 15600
+
+**[2601.05142v1](https://arxiv.org/abs/2601.05142)** Prediction of Magnetic Topological Materials Combining Spin and Magnetic Space Groups (arXiv)
+
+
+* Score : 15410
+
+**[2601.00184v1](https://arxiv.org/abs/2601.00184)** Topological physics in quantum critical systems (arXiv)
+
+
+* Score : 15179
+
+**[2601.01890v1](https://arxiv.org/abs/2601.01890)** Emergent Spin Supersolids in Frustrated Quantum Materials (arXiv)
+
+
+
+* Score : 13980
+
+**[2601.04635v1](https://arxiv.org/abs/2601.04635)** Optical Signatures and Quantum Geometry in Proximity-Induced Topological Superconductors (arXiv)
 
 
 
@@ -21,6 +39,35 @@ categories: 2026jan
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+---
+
+01/10
+
+
+1. **[s41467-025-66149-1](https://www.nature.com/articles/s41467-025-66149-1)** Magnetization generation and giant nonlinear transport at symmetry-engineered interfaces (Nature Communications)
+
+1. **[s41467-025-67160-2](https://www.nature.com/articles/s41467-025-67160-2)** Time-resolved X-ray imaging of the current filamentation instability in solid-density plasmas (Nature Communications)
+
+1. **[s42005-025-02459-6](https://www.nature.com/articles/s42005-025-02459-6)** A counter-intuitive low entanglement percolation threshold in mixed-state quantum networks (Communications Physics)
+
+1. **[s42005-025-02481-8](https://www.nature.com/articles/s42005-025-02481-8)** Vortex-driven superconducting diode effect in asymmetric multilayer heterostructures (Communications Physics)
+
+1. **[s41563-025-02460-y](https://www.nature.com/articles/s41563-025-02460-y)** Flexible two-dimensional neural sensors (Nature Materials)
+
+1. **[s41563-025-02452-y](https://www.nature.com/articles/s41563-025-02452-y)** Gate structuring on n-type bilayer MoS<sub>2</sub> field-effect transistors for ultrahigh current density (Nature Materials)
+
+1. **[s41598-026-35386-9](https://www.nature.com/articles/s41598-026-35386-9)** A hybrid prediction model for PM<sub>2.5</sub> concentration based on high-frequency and low-frequency IMFs with EMD decomposition (Scientific Reports)
+
+1. **[7lsx-ssjl](http://link.aps.org/doi/10.1103/7lsx-ssjl)** Predicting Open Quantum Dynamics with Data-Informed Quantum-Classical Dynamics (PRL)
+
+1. **[zyb6-lvy8](http://link.aps.org/doi/10.1103/zyb6-lvy8)** Fermion-Selective Tests of New Physics with the Bound-Electron $g$ Factor (PRL)
+
+1. **[qxb4-sf28](http://link.aps.org/doi/10.1103/qxb4-sf28)** Ising Superconductivity in Noncentrosymmetric Bulk ${\mathrm{NbSe}}_{2}$ (PRL)
+
 
 
 
@@ -96,7 +143,6 @@ categories: 2026jan
 
 1. **[2601.04615v1](https://arxiv.org/abs/2601.04615)** High mobility holes at germanane/Ge(111) allotropic cross-dimensional heterointerface (arXiv)
 
-1. **[2601.04635v1](https://arxiv.org/abs/2601.04635)** Optical Signatures and Quantum Geometry in Proximity-Induced Topological Superconductors (arXiv)
 
 1. **[2601.04640v1](https://arxiv.org/abs/2601.04640)** Construction of asymptotic quantum many-body scar states in the SU($N$) Hubbard model (arXiv)
 
@@ -182,7 +228,6 @@ categories: 2026jan
 
 1. **[2601.05140v1](https://arxiv.org/abs/2601.05140)** Enhanced Electron Reflectionat Mott-Insulator Interfaces (arXiv)
 
-1. **[2601.05142v1](https://arxiv.org/abs/2601.05142)** Prediction of Magnetic Topological Materials Combining Spin and Magnetic Space Groups (arXiv)
 
 1. **[2601.05147v1](https://arxiv.org/abs/2601.05147)** Low-loss Material for Infrared Protection of Cryogenic Quantum Applications (arXiv)
 
@@ -719,7 +764,7 @@ categories: 2026jan
 
 1. **[2601.01886v1](https://arxiv.org/abs/2601.01886)** Geometry-induced Exceptional Point Detached from Fermi Arcs (arXiv)
 
-1. **[2601.01890v1](https://arxiv.org/abs/2601.01890)** Emergent Spin Supersolids in Frustrated Quantum Materials (arXiv)
+
 
 1. **[2601.01893v1](https://arxiv.org/abs/2601.01893)** Longitudinal-field fidelity susceptibility analysis of the $J_1$-$J_2$ transverse-field Ising model around $J_2/J_1 \approx 0.5$ (arXiv)
 
@@ -847,7 +892,6 @@ categories: 2026jan
 
 1. **[2601.00133v1](https://arxiv.org/abs/2601.00133)** In context learning Foundation models for Materials Property Prediction with Small datasets (arXiv)
 
-1. **[2601.00184v1](https://arxiv.org/abs/2601.00184)** Topological physics in quantum critical systems (arXiv)
 
 1. **[2601.00210v1](https://arxiv.org/abs/2601.00210)** Sample thickness dependence of structural and magnetic properties in $\alpha$-RuCl$_3$ (arXiv)
 
