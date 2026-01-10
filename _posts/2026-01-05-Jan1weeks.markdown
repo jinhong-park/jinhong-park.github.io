@@ -28,14 +28,6 @@ categories: 2026jan
 
 
 
-* Score : 13980
-
-**[2601.04635v1](https://arxiv.org/abs/2601.04635)** Optical Signatures and Quantum Geometry in Proximity-Induced Topological Superconductors (arXiv)
-
-
-
-
-
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
@@ -1010,6 +1002,7 @@ categories: 2026jan
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
