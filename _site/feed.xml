@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Jan 2026 14:19:08 +0900</pubDate>
-    <lastBuildDate>Fri, 16 Jan 2026 14:19:08 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 17 Jan 2026 14:05:33 +0900</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 14:05:33 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 2 week 2026)</title>
@@ -22,13 +22,70 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 20177&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.08239&quot;&gt;2601.08239v1&lt;/a&gt;&lt;/strong&gt; Large room temperature anomalous Nernst effect coupled with topological Nernst effect from incommensurate spin structure in a Kagome antiferromagnet (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16844&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/6msb-cxbc&quot;&gt;6msb-cxbc&lt;/a&gt;&lt;/strong&gt; Observation of Hierarchy of Hilbert Space Ergodicities in the Quantum Dynamics of a Single Spin (PRL)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 13854&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.09432&quot;&gt;2601.09432v1&lt;/a&gt;&lt;/strong&gt; Topological connections between the 2D Quantum Hall problem and the 1D quasicrystal (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 12661&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-03135-w&quot;&gt;s41567-025-03135-w&lt;/a&gt;&lt;/strong&gt; Emergent topological semimetal from quantum criticality (Nature Physics)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 12657&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.06682&quot;&gt;2601.06682v1&lt;/a&gt;&lt;/strong&gt; Aharonov-Casher Effect and the Coherent Flux Tunneling in the Hybrid Charge Quantum Interference Device (arXiv)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+
+&lt;p&gt;01/17&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-68480-7&quot;&gt;s41467-026-68480-7&lt;/a&gt;&lt;/strong&gt; Exposure of western United States bird communities to predicted high severity fire (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-03146-7&quot;&gt;s41567-025-03146-7&lt;/a&gt;&lt;/strong&gt; Transport evidence for chiral surface states from three-dimensional Landau bands (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02490-1&quot;&gt;s42005-026-02490-1&lt;/a&gt;&lt;/strong&gt; Optical determination of snow density via sub-surface scattering (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-025-02483-6&quot;&gt;s42005-025-02483-6&lt;/a&gt;&lt;/strong&gt; Regarding the existence of abelian fractional topological insulators in twisted MoTe&lt;sub&gt;2&lt;/sub&gt; and related systems (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02487-w&quot;&gt;s42005-026-02487-w&lt;/a&gt;&lt;/strong&gt; Generation of wave turbulence in dipolar gases driven across their phase transitions (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-025-02471-9&quot;&gt;s41563-025-02471-9&lt;/a&gt;&lt;/strong&gt; Large-area non-stoichiometric phase transition in transition metal chalcogenide films (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-34911-6&quot;&gt;s41598-025-34911-6&lt;/a&gt;&lt;/strong&gt; Prediction of left ventricular systolic dysfunction in left bundle branch block using a fine-tuned ECG foundation model (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-026-36140-x&quot;&gt;s41598-026-36140-x&lt;/a&gt;&lt;/strong&gt; Photodissociation and electron-collision induced dissociation of C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;F&lt;sub&gt;10&lt;/sub&gt; using photoelectron–photoion coincidence spectroscopy and quantum chemistry (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;01/16&lt;/p&gt;
 
@@ -277,9 +334,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-025-68041-4&quot;&gt;s41467-025-68041-4&lt;/a&gt;&lt;/strong&gt; Domain wall motion-driven magnetic convolutional accelerator (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-03135-w&quot;&gt;s41567-025-03135-w&lt;/a&gt;&lt;/strong&gt; Emergent topological semimetal from quantum criticality (Nature Physics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02488-9&quot;&gt;s42005-026-02488-9&lt;/a&gt;&lt;/strong&gt; Skyrmion generation through the chirality interplay of light and magnetism (Communications Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -391,9 +445,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.09396&quot;&gt;2601.09396v1&lt;/a&gt;&lt;/strong&gt; Interactions of composite magnetic skyrmion-superconducting vortex pairs in ferromagnetic superconductors (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.09432&quot;&gt;2601.09432v1&lt;/a&gt;&lt;/strong&gt; Topological connections between the 2D Quantum Hall problem and the 1D quasicrystal (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.09462&quot;&gt;2601.09462v1&lt;/a&gt;&lt;/strong&gt; Structural Comparison of Error Mitigation Methods for Ising Machines: Penalty-Spin Model versus Stacked Model (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -478,9 +529,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-025-30500-9&quot;&gt;s41598-025-30500-9&lt;/a&gt;&lt;/strong&gt; Study on stress response and collapse mechanism induced by shallow-buried defective pipelines in river alluvial plains (Scientific Reports)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/6msb-cxbc&quot;&gt;6msb-cxbc&lt;/a&gt;&lt;/strong&gt; Observation of Hierarchy of Hilbert Space Ergodicities in the Quantum Dynamics of a Single Spin (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/q1lm-99z4&quot;&gt;q1lm-99z4&lt;/a&gt;&lt;/strong&gt; Symmetry Rebreaking in an Effective Theory of Quantum Coarsening (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -557,9 +605,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.08232&quot;&gt;2601.08232v1&lt;/a&gt;&lt;/strong&gt; Influence of Local Icosahedral Short-Range Order on the Magnetization Dynamics of Amorphous Cobalt-Iron Nanodisks (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.08239&quot;&gt;2601.08239v1&lt;/a&gt;&lt;/strong&gt; Large room temperature anomalous Nernst effect coupled with topological Nernst effect from incommensurate spin structure in a Kagome antiferromagnet (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.08243&quot;&gt;2601.08243v1&lt;/a&gt;&lt;/strong&gt; Designing topological edge states in bacterial active matter (arXiv)&lt;/p&gt;
@@ -761,9 +806,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.06669&quot;&gt;2601.06669v1&lt;/a&gt;&lt;/strong&gt; A phase field model of the effects of dislocation microstructure on grain boundary motion during recrystallization (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.06682&quot;&gt;2601.06682v1&lt;/a&gt;&lt;/strong&gt; Aharonov-Casher Effect and the Coherent Flux Tunneling in the Hybrid Charge Quantum Interference Device (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.06691&quot;&gt;2601.06691v1&lt;/a&gt;&lt;/strong&gt; Higher order magnetoelasticity energy corrections in bcc and fcc systems (arXiv)&lt;/p&gt;
@@ -1274,6 +1316,7 @@
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
