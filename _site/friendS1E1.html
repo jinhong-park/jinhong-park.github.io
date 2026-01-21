@@ -39,10 +39,18 @@
 		            color: #888;
 		            pointer-events: none;
 		        }
-		        .scene-info {
-		            color: #ffa726;
-		            font-style: italic;
-		        }
+				
+				.speaker {
+				        color: #4db6ac; /* 원하는 이름 색상 (청록색) */
+				        font-weight: bold;
+				        margin-right: 8px; /* 이름과 대사 사이 간격 */
+				    }
+
+				    .scene-info {
+				        color: #ffa726; /* 장면 설명 색상 (주황색) */
+				        font-style: italic;
+				    }
+					
     </style>
 </head>
 <body onmousedown="handleInput(event)">
@@ -407,14 +415,25 @@
 		        const container = document.getElementById('reader-container');
 		        let clickTimer = null;
 
-		        function updateDisplay() {
-		            const line = content[currentIndex];
-		            if (line.startsWith('[')) {
-		                container.innerHTML = `<span class="scene-info">${line}</span>`;
-		            } else {
-		                container.innerHTML = line;
-		            }
-		        }
+				function updateDisplay() {
+				    const currentLine = content[currentIndex];
+    
+				    if (currentLine.startsWith('[')) {
+				        // 장면 설명: 주황색 이탤릭체
+				        container.innerHTML = `<span class="scene-info">${currentLine}</span>`;
+				    } else if (currentLine.includes(':')) {
+				        // 이름이 포함된 대사: 이름 부분만 잘라서 색상 적용
+				        let parts = currentLine.split(':');
+				        let name = parts[0];
+				        let text = parts.slice(1).join(':'); // 콜론이 여러 개 있을 경우 대비
+        
+				        // 이름을 <span class="speaker">로 감싸서 출력
+				        container.innerHTML = `<span class="speaker">${name}:</span>${text}`;
+				    } else {
+				        // 일반 문장
+				        container.innerHTML = currentLine;
+				    }
+				}
 
 		        // 마우스와 터치를 모두 처리하는 통합 함수
 		        function handleInput(event) {
