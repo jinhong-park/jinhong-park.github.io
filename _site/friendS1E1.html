@@ -5,56 +5,53 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Friends S1E1 - Reader Mode</title>
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            background-color: #121212; /* 눈이 편한 다크모드 */
-            color: #e0e0e0;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            overflow: hidden; /* 스크롤 방지 */
-            touch-action: manipulation;
-        }
-        #reader-container {
-            width: 90%;
-            max-width: 600px;
-            text-align: center;
-            line-height: 1.6;
-            font-size: 1.8rem; /* 글자 크기 대폭 확대 */
-            word-break: keep-all;
-        }
-        .speaker {
-            display: block;
-            font-weight: bold;
-            color: #4db6ac; /* 이름 색상 구분 */
-            margin-bottom: 10px;
-            font-size: 1.2rem;
-        }
-        .instruction {
-            position: fixed;
-            bottom: 20px;
-            font-size: 0.8rem;
-            color: #666;
-            width: 100%;
-            text-align: center;
-        }
-        .scene-info {
-            color: #ffa726;
-            font-style: italic;
-            font-size: 1.4rem;
-        }
+		body {
+		            margin: 0;
+		            padding: 0;
+		            background-color: #121212;
+		            color: #e0e0e0;
+		            font-family: sans-serif;
+		            display: flex;
+		            align-items: center;
+		            justify-content: center;
+		            height: 100vh;
+		            overflow: hidden;
+		            /* 텍스트 선택 방지 */
+		            -webkit-user-select: none;
+		            user-select: none;
+		            /* 커서를 포인터로 변경하여 클릭 가능함을 표시 */
+		            cursor: pointer;
+		        }
+		        #reader-container {
+		            width: 90%;
+		            max-width: 800px;
+		            text-align: center;
+		            line-height: 1.5;
+		            font-size: 2rem;
+		            word-break: keep-all;
+		            /* 컨테이너 클릭이 body로 전달되도록 설정 */
+		            pointer-events: none; 
+		        }
+		        .instruction {
+		            position: fixed;
+		            bottom: 20px;
+		            font-size: 0.9rem;
+		            color: #888;
+		            pointer-events: none;
+		        }
+		        .scene-info {
+		            color: #ffa726;
+		            font-style: italic;
+		        }
     </style>
 </head>
-<body onclick="nextStep()">
+<body onmousedown="handleInput(event)">
 
     <div id="reader-container">
-        화면을 터치하면 시작합니다.
+        화면을 클릭하거나 터치하세요.
     </div>
 
-    <div class="instruction">화면 아무 곳이나 터치하면 다음 문장이 나옵니다.</div>
+    <div class="instruction">클릭(터치): 다음 / 더블클릭(더블터치): 이전</div>
 
     <script>
         // HTML 원본 데이터 (대사 단위로 분리)
@@ -406,32 +403,47 @@
 "Chandler Bing: Okay, so, I'm in Las Vegas... I'm Liza Minelli-",
 "End"
         ];
+		let currentIndex = 0;
+		        const container = document.getElementById('reader-container');
+		        let clickTimer = null;
 
-        let currentIndex = 0;
-        const container = document.getElementById('reader-container');
+		        function updateDisplay() {
+		            const line = content[currentIndex];
+		            if (line.startsWith('[')) {
+		                container.innerHTML = `<span class="scene-info">${line}</span>`;
+		            } else {
+		                container.innerHTML = line;
+		            }
+		        }
 
-        function nextStep() {
-            if (currentIndex < content.length) {
-                let currentLine = content[currentIndex];
-                
-                // 이름과 내용을 분리하여 디자인 적용
-                if (currentLine.includes(':')) {
-                    let parts = currentLine.split(':');
-                    let name = parts[0];
-                    let text = parts.slice(1).join(':');
-                    container.innerHTML = `<span class="speaker">${name}</span>${text}`;
-                } else if (currentLine.startsWith('[')) {
-                    container.innerHTML = `<span class="scene-info">${currentLine}</span>`;
-                } else {
-                    container.innerHTML = currentLine;
-                }
-                
-                currentIndex++;
-            } else {
-                container.innerHTML = "끝났습니다. 처음부터 보려면 새로고침 하세요.";
-                currentIndex = 0;
-            }
-        }
+		        // 마우스와 터치를 모두 처리하는 통합 함수
+		        function handleInput(event) {
+		            // 마우스 오른쪽 버튼 클릭은 무시
+		            if (event.button === 2) return;
+
+		            if (clickTimer === null) {
+		                clickTimer = setTimeout(() => {
+		                    clickTimer = null;
+		                    // 싱글 클릭: 다음 줄
+		                    if (currentIndex < content.length - 1) {
+		                        currentIndex++;
+		                        updateDisplay();
+		                    }
+		                }, 250);
+		            } else {
+		                clearTimeout(clickTimer);
+		                clickTimer = null;
+		                // 더블 클릭: 이전 줄
+		                if (currentIndex > 0) {
+		                    currentIndex--;
+		                    updateDisplay();
+		                }
+		            }
+		        }
+
+		        // 시작 시 첫 줄 표시
+		        window.onload = updateDisplay;
+	   
     </script>
 </body>
 </html>
