@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Jan 2026 14:22:22 +0900</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2026 14:22:22 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 24 Jan 2026 12:29:05 +0900</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 12:29:05 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Jan 3 week 2026)</title>
@@ -22,14 +22,63 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 24008&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14527&quot;&gt;2601.14527v1&lt;/a&gt;&lt;/strong&gt; Majorana Fermions in spin up and down electronic complexes in spin-orbit coupled array of semiconductor quantum dots in proximity to $s$-type superconductor and in magnetic field (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 18969&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.16137&quot;&gt;2601.16137v1&lt;/a&gt;&lt;/strong&gt; From many valleys to many topological phases - quantum anomalous Hall effect in IV-VI semiconductor quantum wells (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16319&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14014&quot;&gt;2601.14014v1&lt;/a&gt;&lt;/strong&gt; Layer-engineered quantum anomalous Hall effect in twisted rhombohedral graphene family (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 14414&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/7m1l-xf1w&quot;&gt;7m1l-xf1w&lt;/a&gt;&lt;/strong&gt; Gate-Tunable Spin Switching Effect and Bilinear Magnetoelectric Resistance in the Topological Semimetal (PRL)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score :  13790&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.11796&quot;&gt;2601.11796v1&lt;/a&gt;&lt;/strong&gt; Discovery of Van Hove Singularities: Electronic Fingerprints of 3Q Magnetic Order in a van der Waals Quantum Magnet (arXiv)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
 &lt;hr /&gt;
+
+&lt;p&gt;01/24&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-68672-1&quot;&gt;s41467-026-68672-1&lt;/a&gt;&lt;/strong&gt; iDesignGPT enhances conceptual design via large language model agentic workflows (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-68796-4&quot;&gt;s41467-026-68796-4&lt;/a&gt;&lt;/strong&gt; Atomically tweaking spin-crossover cooperativity to augment molecular memory density (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-025-03137-8&quot;&gt;s41567-025-03137-8&lt;/a&gt;&lt;/strong&gt; Magnon-Cherenkov effect from a picosecond strain pulse (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02502-0&quot;&gt;s42005-026-02502-0&lt;/a&gt;&lt;/strong&gt; Comprehensive characterization of nonlinear viscoelastic properties of arterial tissues using guided-wave optical coherence elastography (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02499-6&quot;&gt;s42005-026-02499-6&lt;/a&gt;&lt;/strong&gt; Simulation-based inference for precision neutrino physics through neural Monte Carlo tuning (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
 &lt;p&gt;01/23&lt;/p&gt;
 
 &lt;ol&gt;
@@ -185,9 +234,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.16111&quot;&gt;2601.16111v1&lt;/a&gt;&lt;/strong&gt; Transition in Splitting Probabilities of Quantum Walks (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.16137&quot;&gt;2601.16137v1&lt;/a&gt;&lt;/strong&gt; From many valleys to many topological phases - quantum anomalous Hall effect in IV-VI semiconductor quantum wells (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.16153&quot;&gt;2601.16153v1&lt;/a&gt;&lt;/strong&gt; Charge and spin orders in the t-U-V-J model: a slave-spin-1 approach (arXiv)&lt;/p&gt;
@@ -374,9 +420,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14526&quot;&gt;2601.14526v1&lt;/a&gt;&lt;/strong&gt; 3D bulk-resolved $g$-wave magnetic order parameter symmetry in the metallic altermagnet CrSb (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14527&quot;&gt;2601.14527v1&lt;/a&gt;&lt;/strong&gt; Majorana Fermions in spin up and down electronic complexes in spin-orbit coupled array of semiconductor quantum dots in proximity to $s$-type superconductor and in magnetic field (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14537&quot;&gt;2601.14537v1&lt;/a&gt;&lt;/strong&gt; Theory of Andreev and shot noise spectroscopy for topological superconductors probed by $s$-wave superconducting tips (arXiv)&lt;/p&gt;
@@ -568,9 +611,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/nz52-ypsw&quot;&gt;nz52-ypsw&lt;/a&gt;&lt;/strong&gt; Fractal Spectrum in Twisted Bilayer Optical Lattice (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/7m1l-xf1w&quot;&gt;7m1l-xf1w&lt;/a&gt;&lt;/strong&gt; Gate-Tunable Spin Switching Effect and Bilinear Magnetoelectric Resistance in the Topological Semimetal (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/bhpz-17d2&quot;&gt;bhpz-17d2&lt;/a&gt;&lt;/strong&gt; Explicit Wave function of the Interacting Non-Hermitian Spin-$1/2$ 1D System (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -596,9 +636,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.11793&quot;&gt;2601.11793v1&lt;/a&gt;&lt;/strong&gt; Deriving a comprehensive dataset of optical constants for metal halide perovskites (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.11796&quot;&gt;2601.11796v1&lt;/a&gt;&lt;/strong&gt; Discovery of Van Hove Singularities: Electronic Fingerprints of 3Q Magnetic Order in a van der Waals Quantum Magnet (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.11798&quot;&gt;2601.11798v1&lt;/a&gt;&lt;/strong&gt; Spin-Valley Locking in 2H-TaS2 and Its Co-Intercalated Counterpart: Roles of Surface Domains and Co Intercalation (arXiv)&lt;/p&gt;
@@ -1009,9 +1046,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14003&quot;&gt;2601.14003v1&lt;/a&gt;&lt;/strong&gt; Interlayer charge transfer from contact electrification in conducting micro and nanoscale thin film heterostructures (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14014&quot;&gt;2601.14014v1&lt;/a&gt;&lt;/strong&gt; Layer-engineered quantum anomalous Hall effect in twisted rhombohedral graphene family (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2601.14035&quot;&gt;2601.14035v1&lt;/a&gt;&lt;/strong&gt; Binding Energies of Charged Particles on Dielectric Surfaces in Liquid Nitrogen (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1379,6 +1413,7 @@
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 

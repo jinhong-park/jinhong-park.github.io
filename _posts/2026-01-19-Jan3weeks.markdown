@@ -12,8 +12,26 @@ categories: 2026jan
 ===This week's pick===
 
 
-* Score : 
+* Score : 24008
 
+**[2601.14527v1](https://arxiv.org/abs/2601.14527)** Majorana Fermions in spin up and down electronic complexes in spin-orbit coupled array of semiconductor quantum dots in proximity to $s$-type superconductor and in magnetic field (arXiv)
+
+* Score : 18969
+
+**[2601.16137v1](https://arxiv.org/abs/2601.16137)** From many valleys to many topological phases - quantum anomalous Hall effect in IV-VI semiconductor quantum wells (arXiv)
+
+* Score : 16319
+
+**[2601.14014v1](https://arxiv.org/abs/2601.14014)** Layer-engineered quantum anomalous Hall effect in twisted rhombohedral graphene family (arXiv)
+
+* Score : 14414
+
+**[7m1l-xf1w](http://link.aps.org/doi/10.1103/7m1l-xf1w)** Gate-Tunable Spin Switching Effect and Bilinear Magnetoelectric Resistance in the Topological Semimetal (PRL)
+
+
+* Score :  13790
+
+**[2601.11796v1](https://arxiv.org/abs/2601.11796)** Discovery of Van Hove Singularities: Electronic Fingerprints of 3Q Magnetic Order in a van der Waals Quantum Magnet (arXiv)
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
@@ -21,7 +39,39 @@ categories: 2026jan
 
 
 
+
+
+
 ---
+
+01/24
+
+
+
+1. **[s41467-026-68672-1](https://www.nature.com/articles/s41467-026-68672-1)** iDesignGPT enhances conceptual design via large language model agentic workflows (Nature Communications)
+
+1. **[s41467-026-68796-4](https://www.nature.com/articles/s41467-026-68796-4)** Atomically tweaking spin-crossover cooperativity to augment molecular memory density (Nature Communications)
+
+1. **[s41567-025-03137-8](https://www.nature.com/articles/s41567-025-03137-8)** Magnon-Cherenkov effect from a picosecond strain pulse (Nature Physics)
+
+1. **[s42005-026-02502-0](https://www.nature.com/articles/s42005-026-02502-0)** Comprehensive characterization of nonlinear viscoelastic properties of arterial tissues using guided-wave optical coherence elastography (Communications Physics)
+
+1. **[s42005-026-02499-6](https://www.nature.com/articles/s42005-026-02499-6)** Simulation-based inference for precision neutrino physics through neural Monte Carlo tuning (Communications Physics)
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
 01/23
 
 
@@ -128,7 +178,6 @@ categories: 2026jan
 
 1. **[2601.16111v1](https://arxiv.org/abs/2601.16111)** Transition in Splitting Probabilities of Quantum Walks (arXiv)
 
-1. **[2601.16137v1](https://arxiv.org/abs/2601.16137)** From many valleys to many topological phases - quantum anomalous Hall effect in IV-VI semiconductor quantum wells (arXiv)
 
 1. **[2601.16153v1](https://arxiv.org/abs/2601.16153)** Charge and spin orders in the t-U-V-J model: a slave-spin-1 approach (arXiv)
 
@@ -257,7 +306,6 @@ categories: 2026jan
 
 1. **[2601.14526v1](https://arxiv.org/abs/2601.14526)** 3D bulk-resolved $g$-wave magnetic order parameter symmetry in the metallic altermagnet CrSb (arXiv)
 
-1. **[2601.14527v1](https://arxiv.org/abs/2601.14527)** Majorana Fermions in spin up and down electronic complexes in spin-orbit coupled array of semiconductor quantum dots in proximity to $s$-type superconductor and in magnetic field (arXiv)
 
 1. **[2601.14537v1](https://arxiv.org/abs/2601.14537)** Theory of Andreev and shot noise spectroscopy for topological superconductors probed by $s$-wave superconducting tips (arXiv)
 
@@ -390,7 +438,7 @@ categories: 2026jan
 
 1. **[nz52-ypsw](http://link.aps.org/doi/10.1103/nz52-ypsw)** Fractal Spectrum in Twisted Bilayer Optical Lattice (PRL)
 
-1. **[7m1l-xf1w](http://link.aps.org/doi/10.1103/7m1l-xf1w)** Gate-Tunable Spin Switching Effect and Bilinear Magnetoelectric Resistance in the Topological Semimetal (PRL)
+
 
 1. **[bhpz-17d2](http://link.aps.org/doi/10.1103/bhpz-17d2)** Explicit Wave function of the Interacting Non-Hermitian Spin-$1/2$ 1D System (PRL)
 
@@ -410,7 +458,7 @@ categories: 2026jan
 
 1. **[2601.11793v1](https://arxiv.org/abs/2601.11793)** Deriving a comprehensive dataset of optical constants for metal halide perovskites (arXiv)
 
-1. **[2601.11796v1](https://arxiv.org/abs/2601.11796)** Discovery of Van Hove Singularities: Electronic Fingerprints of 3Q Magnetic Order in a van der Waals Quantum Magnet (arXiv)
+
 
 1. **[2601.11798v1](https://arxiv.org/abs/2601.11798)** Spin-Valley Locking in 2H-TaS2 and Its Co-Intercalated Counterpart: Roles of Surface Domains and Co Intercalation (arXiv)
 
@@ -684,7 +732,6 @@ categories: 2026jan
 
 1. **[2601.14003v1](https://arxiv.org/abs/2601.14003)** Interlayer charge transfer from contact electrification in conducting micro and nanoscale thin film heterostructures (arXiv)
 
-1. **[2601.14014v1](https://arxiv.org/abs/2601.14014)** Layer-engineered quantum anomalous Hall effect in twisted rhombohedral graphene family (arXiv)
 
 1. **[2601.14035v1](https://arxiv.org/abs/2601.14035)** Binding Energies of Charged Particles on Dielectric Surfaces in Liquid Nitrogen (arXiv)
 
@@ -957,6 +1004,7 @@ categories: 2026jan
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
