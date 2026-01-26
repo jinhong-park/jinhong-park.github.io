@@ -32,6 +32,10 @@ categories: 2026jan
 1. **[s41467-026-68731-7](https://www.nature.com/articles/s41467-026-68731-7)** Suppressing electron-phonon coupling and energy loss in organic solar cells by modulating donor-acceptor penetrated-interface (Nature Communications)
 
 
+
+1. **[2503.15151](https://arxiv.org/abs/2503.15151)** Energy concentration in a two-dimensional magnetic skyrmion model: variational analysis of lattice and continuum theories (arXiv)
+
+
 1. **[2601.09267](https://arxiv.org/abs/2601.09267)** Multiple-Q spin textures induced by spiral--staggered interference in one-dimensional itinerant magnets (arXiv)
 
 1. **[2601.16221v1](https://arxiv.org/abs/2601.16221)** A comprehensive semi-automated fabrication system for quartz tuning fork AFM probe with real-time resonance frequency monitoring and Q-factor control (arXiv)
@@ -206,6 +210,7 @@ categories: 2026jan
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
