@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jan 2026 15:22:23 +0900</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 15:22:23 +0900</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 21:38:19 +0900</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 21:38:19 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -30,6 +30,9 @@
   
   
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202518161&quot;&gt;adma.202518161&lt;/a&gt;&lt;/strong&gt; Effective Manipulation of Skyrmions via Strain Gradient (Advanced Materials)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-68533-x&quot;&gt;s41467-026-68533-x&lt;/a&gt;&lt;/strong&gt; Demonstration of measurement-free universal logical quantum computation (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
@@ -275,6 +278,7 @@
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 

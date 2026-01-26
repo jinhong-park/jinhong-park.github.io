@@ -23,7 +23,7 @@ categories: 2026jan
   {% capture markdowncontent %}
 
 
-
+1. **[adma.202518161](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202518161)** Effective Manipulation of Skyrmions via Strain Gradient (Advanced Materials)
 
 
 
@@ -210,6 +210,7 @@ categories: 2026jan
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
