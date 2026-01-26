@@ -18,7 +18,7 @@
             padding: 0px 0 0px 0;
         }
         #date {
-            font-size: 1.2em; /* 크기 약간 줄임 */
+            font-size: 1.5em; /* 크기 약간 줄임 */
             margin-bottom: 5px;
             color: #333;
         }
@@ -44,11 +44,11 @@
 
 		        /* 달력 스타일 (이전과 동일) */
 		        #calendar-container {
-		            max-width: 400px; /* 달력만 너비 제한 */
+		            max-width: 600px; /* 달력만 너비 제한 */
 		        }
 		        .calendar-header {
 		            text-align: center;
-		            font-size: 1.2em;
+		            font-size: 1.5em;
 		            margin-bottom: 5px;
 		            font-weight: bold;
 		            color: #2c3e50;
@@ -57,7 +57,7 @@
 		            display: grid;
 		            grid-template-columns: repeat(7, 1fr);
 		            text-align: center;
-		            gap: 2px;
+		            gap: 6px;
 		        }
 		        .day-header {
 		            font-weight: bold;
@@ -71,7 +71,7 @@
 		            cursor: default;
 		        }
 		        .today {
-		            background-color: #007bff;
+		            background-color: rgba(0, 123, 255, 0.3);
 		            color: white;
 		            font-weight: bold;
 		        }
@@ -136,7 +136,7 @@
     <div id="calendar-container"></div>
 
 
-
+<!--
     <div id="todo-container">
         <h3>📝 To do</h3>
         <textarea id="todo-input" rows="5" placeholder="Write down Todo and press enter&#10;Separate by line"></textarea>
@@ -145,7 +145,7 @@
         <h3>Markdown result (Copy!)</h3>
         <pre id="markdown-output">Markdown is shown here. </pre>
     </div>
-
+-->
 
 <div id="journal-container">
     <h3>✍️ Journal</h3>
@@ -244,37 +244,37 @@
 
 
 // === 3. To-do List Markdown 변환 함수 ===
-        function generateMarkdown() {
-            const inputElement = document.getElementById('todo-input');
-            const todoText = inputElement.value.trim();
+//        function generateMarkdown() {
+//            const inputElement = document.getElementById('todo-input');
+//            const todoText = inputElement.value.trim();
+//
+//            if (!todoText) {
+ //               document.getElementById('markdown-output').textContent = "입력된 할 일이 없습니다.";
+//                return;
+//            }
 
-            if (!todoText) {
-                document.getElementById('markdown-output').textContent = "입력된 할 일이 없습니다.";
-                return;
-            }
+//            const lines = todoText.split('\n');
+//            let markdownOutput = '';
 
-            const lines = todoText.split('\n');
-            let markdownOutput = '';
-
-            lines.forEach(line => {
-                const trimmedLine = line.trim();
-                if (trimmedLine) {
+//            lines.forEach(line => {
+//                const trimmedLine = line.trim();
+//                if (trimmedLine) {
                     // Markdown 체크리스트 형식: `- [ ] 할 일 내용`
-                    markdownOutput += `- [ ] ${trimmedLine}\n`;
-                }
-            });
+//                    markdownOutput += `- [ ] ${trimmedLine}\n`;
+//                }
+//            });
 
             // 현재 날짜를 제목으로 추가
-            const now = new Date();
+//            const now = new Date();
             // YYYY-MM-DD 형식으로 제목 생성 (예: 2025-11-21)
-            const dateTitle = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+ //           const dateTitle = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
             
             // 최종 Markdown 텍스트 생성
-            const finalMarkdown = `---\n\t## ${dateTitle} To-do List\n\n\n${markdownOutput}`;
+ //           const finalMarkdown = `---\n\t## ${dateTitle} To-do List\n\n\n${markdownOutput}`;
 
-            const outputElement = document.getElementById('markdown-output');
-            outputElement.textContent = finalMarkdown;
-        }
+  //          const outputElement = document.getElementById('markdown-output');
+  //          outputElement.textContent = finalMarkdown;
+   //     }
 		
 // === 4. 일기 Markdown 변환 함수 (새로 추가) ===
         function generateJournalMarkdown() {
