@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             display: flex;
             flex-direction: column;
-            justify-content: center;
+            justify-content: flex-start;
             align-items: center;
             min-height: 100vh; /* 뷰포트 전체 높이를 사용하도록 수정 */
             margin: 0;
@@ -44,7 +44,7 @@
 
 		        /* 달력 스타일 (이전과 동일) */
 		        #calendar-container {
-		            max-width: 600px; /* 달력만 너비 제한 */
+		            max-width: 400px; /* 달력만 너비 제한 */
 		        }
 		        .calendar-header {
 		            text-align: center;
@@ -135,8 +135,8 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
-            height: 100vh;
+            justify-content: flex-start;
+            min-height: 100vh;
             margin: 0;
             background-color: var(--bg-color);
             font-family: 'Arial', sans-serif;
@@ -148,6 +148,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            touch-action: none; /* 브라우저 기본 터치 액션 비활성화 */
         }
         /* 시계 배경 및 SVG 설정 */
         svg {
@@ -196,10 +197,10 @@
 
     <div id="date"></div>
     <div id="time"></div>
-    
     <div id="calendar-container"></div>
 
 
+ 
 <!--
     <div id="todo-container">
         <h3>📝 To do</h3>
@@ -495,6 +496,29 @@ excerpt: ---`;
             startBtn.innerText = '시작';
         });
      
+
+     // 기존 마우스 이벤트 유지
+clock.addEventListener('mousedown', () => isDragging = true);
+window.addEventListener('mouseup', () => isDragging = false);
+window.addEventListener('mousemove', handleSetTime);
+
+// --- 터치 이벤트 추가 ---
+clock.addEventListener('touchstart', (e) => {
+    isDragging = true;
+    // 터치 시 화면 스크롤 방지
+    e.preventDefault(); 
+}, { passive: false });
+
+window.addEventListener('touchend', () => isDragging = false);
+
+window.addEventListener('touchmove', (e) => {
+    if (isDragging) {
+        // 터치 지점 좌표 전달
+        handleSetTime(e.touches[0]);
+        // 드래그 중 화면 스크롤 방지
+        e.preventDefault();
+    }
+}, { passive: false });
     </script>
 </body>
 </html>
