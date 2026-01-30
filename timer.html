@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>드래그 포모도로 타이머</title>
+    <style>
+        :root {
+            --primary-color: #ff5f5f;
+            --bg-color: #f0f2f5;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: var(--bg-color);
+            font-family: 'Arial', sans-serif;
+        }
+        .timer-container {
+            position: relative;
+            width: 300px;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        /* 시계 배경 및 SVG 설정 */
+        svg {
+            transform: rotate(-90deg);
+            cursor: pointer;
+        }
+        circle {
+            fill: none;
+            stroke-width: 15;
+            stroke-linecap: round;
+        }
+        .bg-circle { stroke: #ddd; }
+        .progress-circle {
+            stroke: var(--primary-color);
+            stroke-dasharray: 880; /* 2 * PI * R (R=140) */
+            stroke-dashoffset: 880;
+            transition: stroke-dashoffset 0.1s linear;
+        }
+        .time-display {
+            position: absolute;
+            font-size: 3rem;
+            font-weight: bold;
+            color: #333;
+            pointer-events: none; /* 클릭 방해 금지 */
+        }
+        .controls {
+            margin-top: 30px;
+        }
+        button {
+            padding: 12px 30px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            border: none;
+            border-radius: 25px;
+            background-color: var(--primary-color);
+            color: white;
+            transition: background 0.3s;
+        }
+        button:hover { background-color: #e04e4e; }
+        button:disabled { background-color: #ccc; }
+        p { color: #666; margin-top: 10px; }
+    </style>
+</head>
+<body>
+
+    <div class="timer-container" id="clock">
+        <svg width="300" height="300">
+            <circle class="bg-circle" cx="150" cy="150" r="140"></circle>
+            <circle class="progress-circle" id="progress" cx="150" cy="150" r="140"></circle>
+        </svg>
+        <div class="time-display" id="time-text">00:00</div>
+    </div>
+
+    <div class="controls">
+        <button id="start-btn">시작</button>
+        <button id="reset-btn" style="background-color: #666;">초기화</button>
+    </div>
+    <p>원형 테두리를 마우스로 돌려 시간을 설정하세요!</p>
+
+    <script>
+        const progressCircle = document.getElementById('progress');
+        const timeText = document.getElementById('time-text');
+        const startBtn = document.getElementById('start-btn');
+        const resetBtn = document.getElementById('reset-btn');
+        const clock = document.getElementById('clock');
+
+        const radius = 140;
+        const circumference = 2 * Math.PI * radius;
+        let totalSeconds = 0;
+        let timerInterval = null;
+        let isDragging = false;
+
+        // 초기화
+        progressCircle.style.strokeDasharray = circumference;
+        updateDisplay(0);
+
+        // 마우스 이벤트: 시간 설정
+        clock.addEventListener('mousedown', () => isDragging = true);
+        window.addEventListener('mouseup', () => isDragging = false);
+        window.addEventListener('mousemove', handleSetTime);
+
+        function handleSetTime(e) {
+            if (!isDragging || timerInterval) return;
+
+            const rect = clock.getBoundingClientRect();
+            const centerX = rect.left + rect.width / 2;
+            const centerY = rect.top + rect.height / 2;
+            
+            // 각도 계산 (라디안 -> 도)
+            let angle = Math.atan2(e.clientY - centerY, e.clientX - centerX) * 180 / Math.PI;
+            angle = (angle + 90 + 360) % 360; // -90도 보정 및 양수화
+
+            // 각도를 분으로 변환 (360도 = 60분)
+            const minutes = Math.round((angle / 360) * 60);
+            totalSeconds = minutes * 60;
+            updateDisplay(totalSeconds);
+        }
+
+        function updateDisplay(seconds) {
+            const mins = Math.floor(seconds / 60);
+            const secs = seconds % 60;
+            timeText.innerText = `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+            
+            // 시계 바늘 업데이트 (게이지)
+            const offset = circumference - (seconds / 3600) * circumference;
+            progressCircle.style.strokeDashoffset = isNaN(offset) ? circumference : offset;
+        }
+
+        // 타이머 시작
+        startBtn.addEventListener('click', () => {
+            if (timerInterval) {
+                clearInterval(timerInterval);
+                timerInterval = null;
+                startBtn.innerText = '재개';
+            } else {
+                if (totalSeconds <= 0) return alert("시간을 설정해주세요!");
+                
+                startBtn.innerText = '일시정지';
+                timerInterval = setInterval(() => {
+                    totalSeconds--;
+                    updateDisplay(totalSeconds);
+
+                    if (totalSeconds <= 0) {
+                        clearInterval(timerInterval);
+                        timerInterval = null;
+                        alert("시간이 종료되었습니다!");
+                        startBtn.innerText = '시작';
+                    }
+                }, 1000);
+            }
+        });
+
+        // 초기화 버튼
+        resetBtn.addEventListener('click', () => {
+            clearInterval(timerInterval);
+            timerInterval = null;
+            totalSeconds = 0;
+            updateDisplay(0);
+            startBtn.innerText = '시작';
+        });
+    </script>
+</body>
+</html>
