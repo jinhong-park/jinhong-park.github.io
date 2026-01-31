@@ -12,15 +12,71 @@ categories: 2026jan
 ===This week's pick===
 
 
-* Score : 
+* Score : 23150
+
+**[2601.21172v1](https://arxiv.org/abs/2601.21172)** Magnonic Quantum Spin Hall Effect with Chiral Magnon Transport in Bilayer Altermagnets (arXiv)
 
 
+* Score : 16922
 
 
+**[2601.20608v1](https://arxiv.org/abs/2601.20608)** Variational Monte Carlo (VMC) with row-update Projected Entangled-Pair States (PEPS) and its applications in quantum spin glasses (arXiv)
+
+
+* Score : 16592
+
+**[2601.20410v1](https://arxiv.org/abs/2601.20410)** Giant anomalous Josephson effect as a probe of spin texture in topological insulators (arXiv)
+
+
+* Score : 15252
+
+
+**[2601.17475v1](https://arxiv.org/abs/2601.17475)** Complex spin dynamics induced metamagnetic phase transitions in Dirac semimetal EuAuBi (arXiv)
+
+* Score : 14525
+
+**[2601.22019v1](https://arxiv.org/abs/2601.22019)** Intrinsic Nonlinear Gyrotropic Magnetic Effect Governed by Spin-Rotation Quantum Geometry (arXiv)
+
+* Score : 12944
+
+**[s41467-026-68751-3](https://www.nature.com/articles/s41467-026-68751-3)** Topological robustness of classical and quantum optical skyrmions in atmospheric turbulence (Nature Communications)
+
+* Score : 12078
+
+**[2601.20956v1](https://arxiv.org/abs/2601.20956)** Universal Topological Gates from Braiding and Fusing Anyons on Quantum Hardware (arXiv)
+
+
+* Score : 11986
+
+**[2601.18277v1](https://arxiv.org/abs/2601.18277)** Voltage-controlled topological spin textures in the monolayer limit (arXiv)
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+---
+
+01/31
+
+
+
+1. **[s41467-026-68935-x](https://www.nature.com/articles/s41467-026-68935-x)** Growth of rhombohedral-stacked single-crystal WS<sub>2</sub>/MoS<sub>2</sub> vertical heterostructures (Nature Communications)
+
+2. **[s41567-025-03110-5](https://www.nature.com/articles/s41567-025-03110-5)** Quantum computing isn’t just about scaling (Nature Physics)
+
+3. **[s41567-025-03090-6](https://www.nature.com/articles/s41567-025-03090-6)** Lattice surgery realized on two distance-three repetition codes with superconducting qubits (Nature Physics)
+
+4. **[s42005-026-02514-w](https://www.nature.com/articles/s42005-026-02514-w)** One-milligram torsional pendulum toward experiments at the quantum-gravity interface (Communications Physics)
+
+5. **[s42005-025-02465-8](https://www.nature.com/articles/s42005-025-02465-8)** Analysis of the confinement string in (2+1)-dimensional Quantum Electrodynamics with a trapped-ion quantum computer (Communications Physics)
+
+6. **[s41598-025-34901-8](https://www.nature.com/articles/s41598-025-34901-8)** Influence of calcination temperature on the properties and photocatalytic efficiencies of BiFe<sub>0.9</sub>Cu<sub>0.1</sub>O<sub>3</sub> nanoparticles (Scientific Reports)
+
+
+
 
 
 
@@ -86,7 +142,7 @@ categories: 2026jan
 
 1. **[2601.21154v1](https://arxiv.org/abs/2601.21154)** Tunneling probe-based identification of the sp${}^3$ dangling bond on the H-C(100):$2\times1$ surface (arXiv)
 
-1. **[2601.21172v1](https://arxiv.org/abs/2601.21172)** Magnonic Quantum Spin Hall Effect with Chiral Magnon Transport in Bilayer Altermagnets (arXiv)
+
 
 1. **[2601.21228v1](https://arxiv.org/abs/2601.21228)** One-Dimensional Electronic States in a Moir\'e Superlattice of Twisted Bilayer WTe2 (arXiv)
 
@@ -136,7 +192,6 @@ categories: 2026jan
 
 1. **[2601.21994v1](https://arxiv.org/abs/2601.21994)** Superconducting properties of transition metal dichalcogenides in proximity to a conventional superconductor (arXiv)
 
-1. **[2601.22019v1](https://arxiv.org/abs/2601.22019)** Intrinsic Nonlinear Gyrotropic Magnetic Effect Governed by Spin-Rotation Quantum Geometry (arXiv)
 
 1. **[2601.22051v1](https://arxiv.org/abs/2601.22051)** Magnetic texture modulated superconductivity in superconductor/ferromagnet shells of semiconductor nanowires (arXiv)
 
@@ -162,7 +217,6 @@ categories: 2026jan
 
 1. **[2601.20938v1](https://arxiv.org/abs/2601.20938)** Non-Equilibrium Phase Transition in a Boundary-Driven Dissipative Fermionic Chain (arXiv)
 
-1. **[2601.20956v1](https://arxiv.org/abs/2601.20956)** Universal Topological Gates from Braiding and Fusing Anyons on Quantum Hardware (arXiv)
 
 1. **[2601.21087v1](https://arxiv.org/abs/2601.21087)** Reviving the Suspension Balance Model (arXiv)
 
@@ -261,7 +315,6 @@ categories: 2026jan
 
 1. **[2601.20398v1](https://arxiv.org/abs/2601.20398)** Mechanical sensing of metamagnetic tricriticality in two-dimensional CrI3 (arXiv)
 
-1. **[2601.20410v1](https://arxiv.org/abs/2601.20410)** Giant anomalous Josephson effect as a probe of spin texture in topological insulators (arXiv)
 
 1. **[2601.20444v1](https://arxiv.org/abs/2601.20444)** Contrasting impurity-induced magnetism and dynamics in 2H-MoTe2 (arXiv)
 
@@ -289,7 +342,7 @@ categories: 2026jan
 
 1. **[2601.20541v1](https://arxiv.org/abs/2601.20541)** Ion-Modulated Polyelectrolyte Complexation of DNA and Polyacrylic Acid from Molecular Dynamics Simulations (arXiv)
 
-1. **[2601.20608v1](https://arxiv.org/abs/2601.20608)** Variational Monte Carlo (VMC) with row-update Projected Entangled-Pair States (PEPS) and its applications in quantum spin glasses (arXiv)
+
 
 1. **[2601.20636v1](https://arxiv.org/abs/2601.20636)** Exchange-dominated origin of spin-wave nonreciprocity in planar magnetic multilayers (arXiv)
 
@@ -351,7 +404,6 @@ categories: 2026jan
 
 
 
-1. **[s41467-026-68751-3](https://www.nature.com/articles/s41467-026-68751-3)** Topological robustness of classical and quantum optical skyrmions in atmospheric turbulence (Nature Communications)
 
 1. **[s41567-025-03161-8](https://www.nature.com/articles/s41567-025-03161-8)** Nanoscale ultrafast lattice modulation with a free-electron laser (Nature Physics)
 
@@ -572,7 +624,6 @@ categories: 2026jan
 
 1. **[2601.17474v1](https://arxiv.org/abs/2601.17474)** Anisotropic Gyromagnetic Ratio and Orthogonal Einstein-de Haas Effect (arXiv)
 
-1. **[2601.17475v1](https://arxiv.org/abs/2601.17475)** Complex spin dynamics induced metamagnetic phase transitions in Dirac semimetal EuAuBi (arXiv)
 
 1. **[2601.17516v1](https://arxiv.org/abs/2601.17516)** Erbium Probes of Magnetic Order in a Layered van der Waals Material (arXiv)
 
@@ -630,7 +681,6 @@ categories: 2026jan
 
 1. **[2601.18273v1](https://arxiv.org/abs/2601.18273)** Toward Scalable Normalizing Flows for the Hubbard Model (arXiv)
 
-1. **[2601.18277v1](https://arxiv.org/abs/2601.18277)** Voltage-controlled topological spin textures in the monolayer limit (arXiv)
 
 1. **[2601.18291v1](https://arxiv.org/abs/2601.18291)** Higher-order topological bound states in the continuum in a topoelectrical lattice with long-range coupling (arXiv)
 
@@ -919,6 +969,7 @@ categories: 2026jan
     document.head.appendChild(mathjaxScript);
 
   
+
 
 
 
