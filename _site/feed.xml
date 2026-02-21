@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Feb 2026 15:57:22 +0900</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 15:57:22 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 21 Feb 2026 14:12:23 +0900</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2026 14:12:23 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Feb 3 week 2026)</title>
@@ -22,13 +22,54 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 17476&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/xmtj-4kj9&quot;&gt;xmtj-4kj9&lt;/a&gt;&lt;/strong&gt; Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice (PRR)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 15288&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13643&quot;&gt;2602.13643v1&lt;/a&gt;&lt;/strong&gt; Evolution of magnetic correlation in doped Hubbard model with altermagnetic spin splitting (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 13776&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13593&quot;&gt;2602.13593v1&lt;/a&gt;&lt;/strong&gt; Josephson-like magnetic tunnel junction – transition from classical to quantum regime (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 13693&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.14928&quot;&gt;2602.14928v1&lt;/a&gt;&lt;/strong&gt; From Classical to Quantum: Extending Prometheus for Unsupervised Discovery of Phase Transitions in Three Dimensions and Quantum Systems (arXiv)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;02/21&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-69591-x&quot;&gt;s41467-026-69591-x&lt;/a&gt;&lt;/strong&gt; A synergistic design model for ultrathin broadband microwave absorbers using electromagnetic frequency dispersion coefficients (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02544-4&quot;&gt;s42005-026-02544-4&lt;/a&gt;&lt;/strong&gt; Fermi surface reconstruction and anisotropic linear magnetoresistance in the charge density wave topological semimetal TaTe&lt;sub&gt;4&lt;/sub&gt; (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-026-37824-0&quot;&gt;s41598-026-37824-0&lt;/a&gt;&lt;/strong&gt; Analytical wave families and stability dynamics in a modified complex Ginzburg–Landau model via the modified extended direct algebraic method (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/hb1h-jw72&quot;&gt;hb1h-jw72&lt;/a&gt;&lt;/strong&gt; Preservation and destruction of the purity of two-photon states in the interaction with a classical nanoscatterer (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/z5l3-z2dr&quot;&gt;z5l3-z2dr&lt;/a&gt;&lt;/strong&gt; Quantum circuits for simulating linear interferometers (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;02/20&lt;/p&gt;
 
@@ -65,9 +106,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/mq1b-z531&quot;&gt;mq1b-z531&lt;/a&gt;&lt;/strong&gt; Unconventional criticality in $O$($D$)-invariant loop-constrained Landau theory (PRR)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/xmtj-4kj9&quot;&gt;xmtj-4kj9&lt;/a&gt;&lt;/strong&gt; Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/3pf2-8n9b&quot;&gt;3pf2-8n9b&lt;/a&gt;&lt;/strong&gt; Flux-modulated tunable interaction regimes in two strongly nonlinear oscillators (PRR)&lt;/p&gt;
@@ -733,9 +771,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13590&quot;&gt;2602.13590v1&lt;/a&gt;&lt;/strong&gt; Altermagnetism, ARPES, symmetry, non-relativistic band splitting (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13593&quot;&gt;2602.13593v1&lt;/a&gt;&lt;/strong&gt; Josephson-like magnetic tunnel junction – transition from classical to quantum regime (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13599&quot;&gt;2602.13599v1&lt;/a&gt;&lt;/strong&gt; Electronic Structure of Multilayer Graphene with Arbitrary Stackings (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -743,9 +778,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13624&quot;&gt;2602.13624v1&lt;/a&gt;&lt;/strong&gt; Ballistic transport in nanodevices based on single-crystalline Cu thin film (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13643&quot;&gt;2602.13643v1&lt;/a&gt;&lt;/strong&gt; Evolution of magnetic correlation in doped Hubbard model with altermagnetic spin splitting (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.13698&quot;&gt;2602.13698v1&lt;/a&gt;&lt;/strong&gt; Localized-basis formulation of interacting Hamiltonians in flat topological bands: coherent states and coherent-like states for fractional physics (arXiv)&lt;/p&gt;
@@ -972,9 +1004,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.14927&quot;&gt;2602.14927v1&lt;/a&gt;&lt;/strong&gt; Ferrocene-functionalized covalent organic framework exceeding the ultimate hydrogen storage targets: a first-principles multiscale computational study (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.14928&quot;&gt;2602.14928v1&lt;/a&gt;&lt;/strong&gt; From Classical to Quantum: Extending Prometheus for Unsupervised Discovery of Phase Transitions in Three Dimensions and Quantum Systems (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.14932&quot;&gt;2602.14932v1&lt;/a&gt;&lt;/strong&gt; Anisotropy-driven interfacial magnetism in Ru-deficient SrRuO$_3$ thin films (arXiv)&lt;/p&gt;
