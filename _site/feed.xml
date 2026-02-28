@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Feb 2026 16:54:50 +0900</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2026 16:54:50 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Sat, 28 Feb 2026 15:11:16 +0900</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 15:11:16 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>weekly picks (Feb 4 week 2026)</title>
@@ -22,13 +22,78 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 18947&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17935&quot;&gt;2602.17935v1&lt;/a&gt;&lt;/strong&gt; Simulating Quantum Field Theories with Boundaries in Curved Spacetimes Using Open Spin Systems (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 18405&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.23011&quot;&gt;2602.23011v1&lt;/a&gt;&lt;/strong&gt; Quantum magnetic phase transitions in a Kugel-Khomskii model including spin-orbit coupling (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 17614&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17906&quot;&gt;2602.17906v1&lt;/a&gt;&lt;/strong&gt; Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 17191&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20838&quot;&gt;2602.20838v1&lt;/a&gt;&lt;/strong&gt; Unconventional spin valve effect in altermagnets induced by Rashba spin orbit coupling and triplet superconductivity (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16504&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20108&quot;&gt;2602.20108v1&lt;/a&gt;&lt;/strong&gt; Energy gap of quantum spin glasses: a projection quantum Monte Carlo study (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16272&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.22301&quot;&gt;2602.22301v1&lt;/a&gt;&lt;/strong&gt; Atomic-Scale Quantum Control of Single Spin Defects in a Two-Dimensional Semiconductor (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16202&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.18338&quot;&gt;2602.18338v1&lt;/a&gt;&lt;/strong&gt; Modeling of a magnetic field sensor based on spin Hall magnetoresistance (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16125&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.19060&quot;&gt;2602.19060v1&lt;/a&gt;&lt;/strong&gt; Bridging Quantum and Classical Descriptions of Spin Dynamics in a Dzyaloshinsky-Moriya Trimer (arXiv)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;02/28&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-70129-4&quot;&gt;s41467-026-70129-4&lt;/a&gt;&lt;/strong&gt; Strong optical anisotropy in one-dimensional phosphorus wavy tubes (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-70089-9&quot;&gt;s41467-026-70089-9&lt;/a&gt;&lt;/strong&gt; Vertical nanodiamond dominated sheets possessing both high capacitance and high n-type Hall mobility (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-026-02509-6&quot;&gt;s41563-026-02509-6&lt;/a&gt;&lt;/strong&gt; Molecular factors controlling charge pair generation in organic photovoltaic materials (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-026-02528-3&quot;&gt;s41563-026-02528-3&lt;/a&gt;&lt;/strong&gt; Engineering phase-frustration-induced flat bands in an aza-triangulene covalent kagome lattice (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/7vf4-flqv&quot;&gt;7vf4-flqv&lt;/a&gt;&lt;/strong&gt; Ionization and temperature measurements in warm dense copper using x-ray absorption spectroscopy (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;02/27&lt;/p&gt;
 
@@ -119,9 +184,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.22283&quot;&gt;2602.22283v1&lt;/a&gt;&lt;/strong&gt; Phononic enhancement and detection of hidden spin-nematicity and dynamics in quantum magnets (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.22301&quot;&gt;2602.22301v1&lt;/a&gt;&lt;/strong&gt; Atomic-Scale Quantum Control of Single Spin Defects in a Two-Dimensional Semiconductor (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.22310&quot;&gt;2602.22310v1&lt;/a&gt;&lt;/strong&gt; Tuning the magnetic properties of Kitaev materials via the antiferromagnetic proximity effect: Novel phases and application to an $\alpha$-RuCl$_3$/MnPS$_3$ bilayer (arXiv)&lt;/p&gt;
@@ -251,9 +313,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.22999&quot;&gt;2602.22999v1&lt;/a&gt;&lt;/strong&gt; Pressure-induced reentrant superconductivity in a misfit layered compound $\mathrm{(SnS)_{1.15}(TaS_2)}$ (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.23011&quot;&gt;2602.23011v1&lt;/a&gt;&lt;/strong&gt; Quantum magnetic phase transitions in a Kugel-Khomskii model including spin-orbit coupling (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.23014&quot;&gt;2602.23014v1&lt;/a&gt;&lt;/strong&gt; Highly Efficient Second/Third Harmonic Generation in van der Waals Layered Material AgScP2S6 with Anisotropic Polarization and Temperature Dependence (arXiv)&lt;/p&gt;
@@ -508,9 +567,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20814&quot;&gt;2602.20814v1&lt;/a&gt;&lt;/strong&gt; Parameterizing DFT+U+V from Hybrid Functionals: A Wannier-Function-Based Approach for Strongly Correlated Materials (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20838&quot;&gt;2602.20838v1&lt;/a&gt;&lt;/strong&gt; Unconventional spin valve effect in altermagnets induced by Rashba spin orbit coupling and triplet superconductivity (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20862&quot;&gt;2602.20862v1&lt;/a&gt;&lt;/strong&gt; Efficient two-color Floquet control of the RKKY interaction in altermagnets (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -736,9 +792,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.19045&quot;&gt;2602.19045v1&lt;/a&gt;&lt;/strong&gt; peapods: A Rust-Accelerated Monte Carlo Package for Ising Spin Systems (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.19060&quot;&gt;2602.19060v1&lt;/a&gt;&lt;/strong&gt; Bridging Quantum and Classical Descriptions of Spin Dynamics in a Dzyaloshinsky-Moriya Trimer (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.19076&quot;&gt;2602.19076v1&lt;/a&gt;&lt;/strong&gt; Giant Out-of-Plane Magnetic Orbital Torque of Altermagnets from Spin-Group Symmetry Breaking (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -886,9 +939,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20073&quot;&gt;2602.20073v1&lt;/a&gt;&lt;/strong&gt; Coexisting magnetic, charge, and superconducting orders in the two-dimensional Hubbard model (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20108&quot;&gt;2602.20108v1&lt;/a&gt;&lt;/strong&gt; Energy gap of quantum spin glasses: a projection quantum Monte Carlo study (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.20129&quot;&gt;2602.20129v1&lt;/a&gt;&lt;/strong&gt; Microstructural Evolution and Crystallization Behavior of Amorphous Medium-Entropy Ti-Nb-Zr-Ag Thin Films (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -988,9 +1038,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17889&quot;&gt;2602.17889v1&lt;/a&gt;&lt;/strong&gt; Ab initio Monte Carlo prediction of order-to-disorder transitions in multicomponent MXenes (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17906&quot;&gt;2602.17906v1&lt;/a&gt;&lt;/strong&gt; Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17915&quot;&gt;2602.17915v1&lt;/a&gt;&lt;/strong&gt; Observation of Room-temperature Charge Density Wave Correlations via Coherent Phonon Spectroscopy in Sn-doped Kagome Superconductor CsV$_3$Sb$_5$ (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1087,9 +1134,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.18335&quot;&gt;2602.18335v1&lt;/a&gt;&lt;/strong&gt; Responsive Disorder in a Metal-Organic Framework Enables Solid-State Reservoir Computing (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.18338&quot;&gt;2602.18338v1&lt;/a&gt;&lt;/strong&gt; Modeling of a magnetic field sensor based on spin Hall magnetoresistance (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.18345&quot;&gt;2602.18345v1&lt;/a&gt;&lt;/strong&gt; Mitigation of Magnetic Flux Trapping in Superconducting Electronics Using Moats (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1124,9 +1168,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17899&quot;&gt;2602.17899v1&lt;/a&gt;&lt;/strong&gt; Measuring and correcting nanosecond pulse distortions in quantum-dot spin qubits (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17935&quot;&gt;2602.17935v1&lt;/a&gt;&lt;/strong&gt; Simulating Quantum Field Theories with Boundaries in Curved Spacetimes Using Open Spin Systems (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2602.17966&quot;&gt;2602.17966v1&lt;/a&gt;&lt;/strong&gt; Dynamic topological exciton-polaritons enabling ultrafast logic operations (arXiv)&lt;/p&gt;

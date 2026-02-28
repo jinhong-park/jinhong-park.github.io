@@ -11,11 +11,74 @@ categories: 2026feb
 ===This week's pick===
 
 
-* Score :
+* Score : 18947
+
+
+**[2602.17935v1](https://arxiv.org/abs/2602.17935)** Simulating Quantum Field Theories with Boundaries in Curved Spacetimes Using Open Spin Systems (arXiv)
+
+
+
+* Score : 18405
+
+**[2602.23011v1](https://arxiv.org/abs/2602.23011)** Quantum magnetic phase transitions in a Kugel-Khomskii model including spin-orbit coupling (arXiv)
+
+
+
+* Score : 17614
+
+
+**[2602.17906v1](https://arxiv.org/abs/2602.17906)** Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States (arXiv)
+
+* Score : 17191
+
+**[2602.20838v1](https://arxiv.org/abs/2602.20838)** Unconventional spin valve effect in altermagnets induced by Rashba spin orbit coupling and triplet superconductivity (arXiv)
+
+
+* Score : 16504
+
+**[2602.20108v1](https://arxiv.org/abs/2602.20108)** Energy gap of quantum spin glasses: a projection quantum Monte Carlo study (arXiv)
+
+* Score : 16272
+
+**[2602.22301v1](https://arxiv.org/abs/2602.22301)** Atomic-Scale Quantum Control of Single Spin Defects in a Two-Dimensional Semiconductor (arXiv)
+
+
+
+* Score : 16202
+
+**[2602.18338v1](https://arxiv.org/abs/2602.18338)** Modeling of a magnetic field sensor based on spin Hall magnetoresistance (arXiv)
+
+* Score : 16125
+
+**[2602.19060v1](https://arxiv.org/abs/2602.19060)** Bridging Quantum and Classical Descriptions of Spin Dynamics in a Dzyaloshinsky-Moriya Trimer (arXiv)
+
+
+
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+---
+02/28
+
+
+
+
+1. **[s41467-026-70129-4](https://www.nature.com/articles/s41467-026-70129-4)** Strong optical anisotropy in one-dimensional phosphorus wavy tubes (Nature Communications)
+
+1. **[s41467-026-70089-9](https://www.nature.com/articles/s41467-026-70089-9)** Vertical nanodiamond dominated sheets possessing both high capacitance and high n-type Hall mobility (Nature Communications)
+
+1. **[s41563-026-02509-6](https://www.nature.com/articles/s41563-026-02509-6)** Molecular factors controlling charge pair generation in organic photovoltaic materials (Nature Materials)
+
+1. **[s41563-026-02528-3](https://www.nature.com/articles/s41563-026-02528-3)** Engineering phase-frustration-induced flat bands in an aza-triangulene covalent kagome lattice (Nature Materials)
+
+1. **[7vf4-flqv](http://link.aps.org/doi/10.1103/7vf4-flqv)** Ionization and temperature measurements in warm dense copper using x-ray absorption spectroscopy (PRR)
+
+
+
 
 
 
@@ -83,7 +146,6 @@ categories: 2026feb
 
 1. **[2602.22283v1](https://arxiv.org/abs/2602.22283)** Phononic enhancement and detection of hidden spin-nematicity and dynamics in quantum magnets (arXiv)
 
-1. **[2602.22301v1](https://arxiv.org/abs/2602.22301)** Atomic-Scale Quantum Control of Single Spin Defects in a Two-Dimensional Semiconductor (arXiv)
 
 1. **[2602.22310v1](https://arxiv.org/abs/2602.22310)** Tuning the magnetic properties of Kitaev materials via the antiferromagnetic proximity effect: Novel phases and application to an $\alpha$-RuCl$_3$/MnPS$_3$ bilayer (arXiv)
 
@@ -171,7 +233,7 @@ categories: 2026feb
 
 1. **[2602.22999v1](https://arxiv.org/abs/2602.22999)** Pressure-induced reentrant superconductivity in a misfit layered compound $\mathrm{(SnS)_{1.15}(TaS_2)}$ (arXiv)
 
-1. **[2602.23011v1](https://arxiv.org/abs/2602.23011)** Quantum magnetic phase transitions in a Kugel-Khomskii model including spin-orbit coupling (arXiv)
+
 
 1. **[2602.23014v1](https://arxiv.org/abs/2602.23014)** Highly Efficient Second/Third Harmonic Generation in van der Waals Layered Material AgScP2S6 with Anisotropic Polarization and Temperature Dependence (arXiv)
 
@@ -346,7 +408,6 @@ categories: 2026feb
 
 1. **[2602.20814v1](https://arxiv.org/abs/2602.20814)** Parameterizing DFT+U+V from Hybrid Functionals: A Wannier-Function-Based Approach for Strongly Correlated Materials (arXiv)
 
-1. **[2602.20838v1](https://arxiv.org/abs/2602.20838)** Unconventional spin valve effect in altermagnets induced by Rashba spin orbit coupling and triplet superconductivity (arXiv)
 
 1. **[2602.20862v1](https://arxiv.org/abs/2602.20862)** Efficient two-color Floquet control of the RKKY interaction in altermagnets (arXiv)
 
@@ -500,7 +561,7 @@ categories: 2026feb
 
 1. **[2602.19045v1](https://arxiv.org/abs/2602.19045)** peapods: A Rust-Accelerated Monte Carlo Package for Ising Spin Systems (arXiv)
 
-1. **[2602.19060v1](https://arxiv.org/abs/2602.19060)** Bridging Quantum and Classical Descriptions of Spin Dynamics in a Dzyaloshinsky-Moriya Trimer (arXiv)
+
 
 1. **[2602.19076v1](https://arxiv.org/abs/2602.19076)** Giant Out-of-Plane Magnetic Orbital Torque of Altermagnets from Spin-Group Symmetry Breaking (arXiv)
 
@@ -600,7 +661,7 @@ categories: 2026feb
 
 1. **[2602.20073v1](https://arxiv.org/abs/2602.20073)** Coexisting magnetic, charge, and superconducting orders in the two-dimensional Hubbard model (arXiv)
 
-1. **[2602.20108v1](https://arxiv.org/abs/2602.20108)** Energy gap of quantum spin glasses: a projection quantum Monte Carlo study (arXiv)
+
 
 1. **[2602.20129v1](https://arxiv.org/abs/2602.20129)** Microstructural Evolution and Crystallization Behavior of Amorphous Medium-Entropy Ti-Nb-Zr-Ag Thin Films (arXiv)
 
@@ -672,7 +733,6 @@ categories: 2026feb
 
 1. **[2602.17889v1](https://arxiv.org/abs/2602.17889)** Ab initio Monte Carlo prediction of order-to-disorder transitions in multicomponent MXenes (arXiv)
 
-1. **[2602.17906v1](https://arxiv.org/abs/2602.17906)** Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States (arXiv)
 
 1. **[2602.17915v1](https://arxiv.org/abs/2602.17915)** Observation of Room-temperature Charge Density Wave Correlations via Coherent Phonon Spectroscopy in Sn-doped Kagome Superconductor CsV$_3$Sb$_5$ (arXiv)
 
@@ -738,7 +798,7 @@ categories: 2026feb
 
 1. **[2602.18335v1](https://arxiv.org/abs/2602.18335)** Responsive Disorder in a Metal-Organic Framework Enables Solid-State Reservoir Computing (arXiv)
 
-1. **[2602.18338v1](https://arxiv.org/abs/2602.18338)** Modeling of a magnetic field sensor based on spin Hall magnetoresistance (arXiv)
+
 
 1. **[2602.18345v1](https://arxiv.org/abs/2602.18345)** Mitigation of Magnetic Flux Trapping in Superconducting Electronics Using Moats (arXiv)
 
@@ -764,7 +824,6 @@ categories: 2026feb
 
 1. **[2602.17899v1](https://arxiv.org/abs/2602.17899)** Measuring and correcting nanosecond pulse distortions in quantum-dot spin qubits (arXiv)
 
-1. **[2602.17935v1](https://arxiv.org/abs/2602.17935)** Simulating Quantum Field Theories with Boundaries in Curved Spacetimes Using Open Spin Systems (arXiv)
 
 1. **[2602.17966v1](https://arxiv.org/abs/2602.17966)** Dynamic topological exciton-polaritons enabling ultrafast logic operations (arXiv)
 
