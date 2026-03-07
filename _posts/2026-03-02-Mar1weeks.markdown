@@ -11,16 +11,64 @@ categories: 2026mar
 ===This week's pick===
 
 
-* Score : 
+* Score : 21114
+
+**[2603.05025v1](https://arxiv.org/abs/2603.05025)** Topological Surface Charge Detection via Active Capacitive Compensation: A Pathway to the 4D Quantum Hall Effect (arXiv)
+
+* Score : 20291
+
+**[2603.02397v1](https://arxiv.org/abs/2603.02397)** Graphene-capped bismuthene on SiC as a platform for correlated quantum spin Hall edge states (arXiv)
+
+* Score : 18395
+
+**[2603.04023v1](https://arxiv.org/abs/2603.04023)** Probing pure spin-rotation quantum geometry in persistent spin textures via nonlinear transport (arXiv)
 
 
+* Score : 17330
+
+**[2603.05164v1](https://arxiv.org/abs/2603.05164)** Machine Learning the Strong Disorder Renormalization Group Method for Disordered Quantum Spin Chains (arXiv)
 
 
+* Score : 16030
+
+**[2603.03599v1](https://arxiv.org/abs/2603.03599)** Symmetry selection rules for the intrinsic nonlinear thermal Hall effect in altermagnets: Role of quantum metric and $C_{2}$ rotational symmetry (arXiv)
+
+
+* Score : 15936
+
+**[2602.23600v1](https://arxiv.org/abs/2602.23600)** Second-quantized approach to the study of Halperin state in fractional quantum Hall effect (arXiv)
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+---
+03/07
+
+1. **[s41467-026-70252-2](https://www.nature.com/articles/s41467-026-70252-2)** Ballistic transport in nanodevices based on single-crystalline Cu thin films (Nature Communications)
+
+1. **[s41567-026-03209-3](https://www.nature.com/articles/s41567-026-03209-3)** Kondo with a topological twist (Nature Physics)
+
+1. **[s41567-026-03185-8](https://www.nature.com/articles/s41567-026-03185-8)** High-field triplet superconductivity in a transition metal dichalcogenide superlattice (Nature Physics)
+
+1. **[s41567-026-03204-8](https://www.nature.com/articles/s41567-026-03204-8)** Cavity-enhanced spectroscopy in the deep cryogenic regime for quantum sensing and metrology (Nature Physics)
+
+1. **[s41598-026-41070-9](https://www.nature.com/articles/s41598-026-41070-9)** The effects of normal fault movement on the failure mechanism of water conveyance tunnels considering multi-field interaction (Scientific Reports)
+
+1. **[s41598-026-42752-0](https://www.nature.com/articles/s41598-026-42752-0)** High-yield induced ovulation in the adult marsupial fat-tailed dunnart (<i>Sminthopsis crassicaudata</i>) (Scientific Reports)
+
+1. **[vdgg-d128](http://link.aps.org/doi/10.1103/vdgg-d128)** Coupled dimerized alternating-bond quantum spin chains in the distorted honeycomb-lattice magnet ${\mathrm{Cu}}_{5}{\mathrm{SbO}}_{6}$ (PRR)
+
+1. **[y49y-7vhp](http://link.aps.org/doi/10.1103/y49y-7vhp)** Transfer tensor analysis of localization in the Anderson and Aubry-André-Harper models (PRR)
+
+1. **[h8l5-87zt](http://link.aps.org/doi/10.1103/h8l5-87zt)** Direct estimation of the density of states for fermionic systems (PRR)
+
+1. **[nn2w-jxpf](http://link.aps.org/doi/10.1103/nn2w-jxpf)** Robustness of near-thermal dynamics on digital quantum computers (PRR)
+
+1. **[3z2c-2kkl](http://link.aps.org/doi/10.1103/3z2c-2kkl)** Thresholded quantum sensing with a frustrated Kitaev trimer (PRRL)
 
 
 
@@ -113,7 +161,7 @@ categories: 2026mar
 
 1. **[2603.04987v1](https://arxiv.org/abs/2603.04987)** Fluctuation-induced quadrupole order in magneto-electric materials (arXiv)
 
-1. **[2603.05025v1](https://arxiv.org/abs/2603.05025)** Topological Surface Charge Detection via Active Capacitive Compensation: A Pathway to the 4D Quantum Hall Effect (arXiv)
+
 
 1. **[2603.05056v1](https://arxiv.org/abs/2603.05056)** Ab initio quasi-harmonic thermoelasticity, piezoelectricity, and thermoelectricity of polar solids at finite temperature and pressure: Application to wurtzite ZnO (arXiv)
 
@@ -137,7 +185,7 @@ categories: 2026mar
 
 1. **[2603.05161v1](https://arxiv.org/abs/2603.05161)** A Geometry-Adaptive Deep Variational Framework for Phase Discovery in the Landau-Brazovskii Model (arXiv)
 
-1. **[2603.05164v1](https://arxiv.org/abs/2603.05164)** Machine Learning the Strong Disorder Renormalization Group Method for Disordered Quantum Spin Chains (arXiv)
+
 
 1. **[2603.05170v1](https://arxiv.org/abs/2603.05170)** Waiting-time based entropy estimators in continuous space without Markovian events (arXiv)
 
@@ -270,7 +318,7 @@ categories: 2026mar
 
 1. **[2603.03554v1](https://arxiv.org/abs/2603.03554)** Graphene Zero-Bias Sub-Terahertz Turnkey Detector with Above 43 GHz Bandwidth (arXiv)
 
-1. **[2603.03599v1](https://arxiv.org/abs/2603.03599)** Symmetry selection rules for the intrinsic nonlinear thermal Hall effect in altermagnets: Role of quantum metric and $C_{2}$ rotational symmetry (arXiv)
+
 
 1. **[2603.03600v1](https://arxiv.org/abs/2603.03600)** Dynamical Superfluid and Bose-Insulator Phases in Quantized Polariton Lattices (arXiv)
 
@@ -310,7 +358,7 @@ categories: 2026mar
 
 1. **[2603.03980v1](https://arxiv.org/abs/2603.03980)** Dynamics of Charge-Density-Wave puddles in 2$H$-NbSe$_2$ (arXiv)
 
-1. **[2603.04023v1](https://arxiv.org/abs/2603.04023)** Probing pure spin-rotation quantum geometry in persistent spin textures via nonlinear transport (arXiv)
+
 
 1. **[2603.04048v1](https://arxiv.org/abs/2603.04048)** Pushing-Induced Arrest Across Lattices and Dimensions (arXiv)
 
@@ -427,7 +475,7 @@ categories: 2026mar
 
 1. **[2603.02388v1](https://arxiv.org/abs/2603.02388)** Kosterlitz-Thouless transition in uniformly confined $^4$He (arXiv)
 
-1. **[2603.02397v1](https://arxiv.org/abs/2603.02397)** Graphene-capped bismuthene on SiC as a platform for correlated quantum spin Hall edge states (arXiv)
+
 
 1. **[2603.02415v1](https://arxiv.org/abs/2603.02415)** Modulating Surface Acoustic Wave Generation through Superconductivity (arXiv)
 
@@ -589,7 +637,7 @@ categories: 2026mar
 
 1. **[2602.23570v1](https://arxiv.org/abs/2602.23570)** Hierarchical symmetry breaking in Moir\'e graphene domain-wall networks (arXiv)
 
-1. **[2602.23600v1](https://arxiv.org/abs/2602.23600)** Second-quantized approach to the study of Halperin state in fractional quantum Hall effect (arXiv)
+
 
 1. **[2602.23608v1](https://arxiv.org/abs/2602.23608)** Double-Carrier Fitting of Hall Resistance Assisted by Gate-Induced Shubnikov-de Haas Oscillations in Possible Excitonic Insulator Ta2Pd3Te5 (arXiv)
 
