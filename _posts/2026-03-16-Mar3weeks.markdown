@@ -11,11 +11,68 @@ categories: 2026mar
 ===This week's pick===
 
 
-* Score : 
+* Score : 19638
+
+
+
+**[s41467-026-70589-8](https://www.nature.com/articles/s41467-026-70589-8)** Exploring electron spin dynamics in spin chains using defects as a quantum probe (Nature Communications)
+
+* Score : 18191
+
+
+**[vtqw-7yjf](http://link.aps.org/doi/10.1103/vtqw-7yjf)** Higher-order topological parity anomaly and half-integer quantum Hall effect in high-dimensional synthetic lattices (PRR)
+
+
+* Score : 17301
+
+**[2603.13718v1](https://arxiv.org/abs/2603.13718)** Giant Full-Space Anomalous Hall Effect Induced by Non-Coplanar Spin State in Mn-Rich Mn3Sn (arXiv)
+
+
+* Score : 16980
+
+
+**[2603.16509v1](https://arxiv.org/abs/2603.16509)** Monte Carlo sampling from a projected entangled-pair state in simulations of quantum annealing in the three dimensional random Ising model (arXiv)
+
+
+* Score : 16835
+
+**[2603.18906v1](https://arxiv.org/abs/2603.18906)** Imaging short- and long-range magnetic order in a quantum anomalous Hall insulator (arXiv)
+
+* Score : 16780
+
+**[2603.15102v1](https://arxiv.org/abs/2603.15102)** Probing the Meissner effect in single crystals of Bi2Sr2Ca2Cu3O10+$\delta$ via wide-field quantum microscopy under high pressure (arXiv)
+
+* Score : 16485
+
+
+**[2603.18725v1](https://arxiv.org/abs/2603.18725)** A first-principles linear response theory for open quantum systems and its application to Orbach and direct magnetic relaxation in Ln-based coordination polymers (arXiv)
+
+* Score : 16119
+
+**[2603.12280v1](https://arxiv.org/abs/2603.12280)** Excitonic Quantum Anomalous Hall Effect in Collinear Magnets Without Spin-Orbit Coupling (arXiv)
+
+
+* Score : 15929
+
+
+**[2603.15745v1](https://arxiv.org/abs/2603.15745)** Unified gauge-theory description of quantum spin liquids on square-based frustrated lattices (arXiv)
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+---
+03/21
+
+
+1. **[s41467-026-70881-7](https://www.nature.com/articles/s41467-026-70881-7)** Macroscopic particle transport in dissipative long-range bosonic systems (Nature Communications)
+
+1. **[s41567-026-03217-3](https://www.nature.com/articles/s41567-026-03217-3)** Exceptional sensitivity near the bistable transition point of a hybrid quantum system (Nature Physics)
+
+1. **[s41563-026-02559-w](https://www.nature.com/articles/s41563-026-02559-w)** Three-dimensional photonic topological insulators go unbounded (Nature Materials)
+
 
 
 
@@ -40,6 +97,8 @@ categories: 2026mar
 1. **[hnzj-j7kt](http://link.aps.org/doi/10.1103/hnzj-j7kt)** Enhancement of quantum annealing via $n$-local catalysts (PRR)
 
 1. **[qwvv-xqfq](http://link.aps.org/doi/10.1103/qwvv-xqfq)** Quantum reservoir computing for predicting and characterizing chaotic maps (PRR)
+
+1. **[2601.09267](https://arxiv.org/abs/2601.09267)** Multiple-Q spin textures induced by spiral--staggered interference in one-dimensional itinerant magnets (arXiv)
 
 
 1. **[2603.18040v1](https://arxiv.org/abs/2603.18040)** Lightweight phase-field surrogate for modelling ductile-to-brittle transition through phenomenological elastoplastic coupling (arXiv)
@@ -110,7 +169,6 @@ categories: 2026mar
 
 1. **[2603.18722v1](https://arxiv.org/abs/2603.18722)** Reversible Steady Domain-Wall Motion Driven by a Direct Current (arXiv)
 
-1. **[2603.18725v1](https://arxiv.org/abs/2603.18725)** A first-principles linear response theory for open quantum systems and its application to Orbach and direct magnetic relaxation in Ln-based coordination polymers (arXiv)
 
 1. **[2603.18726v1](https://arxiv.org/abs/2603.18726)** Geometric blockade in a quantum dot coupled to two-dimensional and three dimensional electron gases (arXiv)
 
@@ -134,7 +192,6 @@ categories: 2026mar
 
 1. **[2603.18885v1](https://arxiv.org/abs/2603.18885)** Microscopic Origin of Temperature-Dependent Anisotropic Heat Transport in Ultrawide-Bandgap Rutile GeO2 (arXiv)
 
-1. **[2603.18906v1](https://arxiv.org/abs/2603.18906)** Imaging short- and long-range magnetic order in a quantum anomalous Hall insulator (arXiv)
 
 1. **[2603.18909v1](https://arxiv.org/abs/2603.18909)** Avalanches in the Random Organization Model with long-range interactions (arXiv)
 
@@ -391,7 +448,6 @@ categories: 2026mar
 
 1. **[c3r6-v2lk](http://link.aps.org/doi/10.1103/c3r6-v2lk)** Broadening of scrape-off layer width by turbulence spreading in the heavy hydrogen isotope plasmas (PRR)
 
-1. **[vtqw-7yjf](http://link.aps.org/doi/10.1103/vtqw-7yjf)** Higher-order topological parity anomaly and half-integer quantum Hall effect in high-dimensional synthetic lattices (PRR)
 
 1. **[5mpf-rfj5](http://link.aps.org/doi/10.1103/5mpf-rfj5)** Chiral exceptional bound states in the continuum: A higher-order singularity for on-chip control of quantum emission (PRRL)
 
@@ -407,7 +463,6 @@ categories: 2026mar
 
 1. **[2603.15741v1](https://arxiv.org/abs/2603.15741)** Neural-Network Quantum Embedding Solvers for Correlated Materials (arXiv)
 
-1. **[2603.15745v1](https://arxiv.org/abs/2603.15745)** Unified gauge-theory description of quantum spin liquids on square-based frustrated lattices (arXiv)
 
 1. **[2603.15747v1](https://arxiv.org/abs/2603.15747)** Ising criticality can drive vortex deconfinement in a spin-orbit coupled Bose gas (arXiv)
 
@@ -535,7 +590,6 @@ categories: 2026mar
 
 1. **[2603.16456v1](https://arxiv.org/abs/2603.16456)** Uncertainty Relation for Entropy and Temperature of Gibbs States (arXiv)
 
-1. **[2603.16509v1](https://arxiv.org/abs/2603.16509)** Monte Carlo sampling from a projected entangled-pair state in simulations of quantum annealing in the three dimensional random Ising model (arXiv)
 
 1. **[2603.16512v1](https://arxiv.org/abs/2603.16512)** Dark state role in time-reversal symmetry breaking (arXiv)
 
@@ -564,8 +618,6 @@ categories: 2026mar
 
 
 
-
-1. **[s41467-026-70589-8](https://www.nature.com/articles/s41467-026-70589-8)** Exploring electron spin dynamics in spin chains using defects as a quantum probe (Nature Communications)
 
 1. **[s41598-026-43649-8](https://www.nature.com/articles/s41598-026-43649-8)** Quantum-enhanced privacy aggregation for healthcare monitoring in wireless body area networks (Scientific Reports)
 
@@ -611,7 +663,7 @@ categories: 2026mar
 
 1. **[2603.13714v1](https://arxiv.org/abs/2603.13714)** First-principles modeling of electrostatics and transport in 2D topological transistors (arXiv)
 
-1. **[2603.13718v1](https://arxiv.org/abs/2603.13718)** Giant Full-Space Anomalous Hall Effect Induced by Non-Coplanar Spin State in Mn-Rich Mn3Sn (arXiv)
+
 
 1. **[2603.13758v1](https://arxiv.org/abs/2603.13758)** Tunable Cooperative Motion, Rigidity, and Glassy Dynamics in Knotted Ring Polymer Melts (arXiv)
 
@@ -739,7 +791,6 @@ categories: 2026mar
 
 1. **[2603.15041v1](https://arxiv.org/abs/2603.15041)** Domain Walls Stabilized by Intrinsic Phonon Modes and Engineered Defects Enable Robust Ferroelectricity in HfO2 (arXiv)
 
-1. **[2603.15102v1](https://arxiv.org/abs/2603.15102)** Probing the Meissner effect in single crystals of $\mathbf{Bi_2Sr_2Ca_2Cu_3O_{10+\delta}}$ via wide-field quantum microscopy under high pressure (arXiv)
 
 1. **[2603.15123v1](https://arxiv.org/abs/2603.15123)** Probing a two-dimensional soft ferromagnet Cr$_2$Ge$_2$Te$_6$ by a tuning fork resonator (arXiv)
 
@@ -886,7 +937,6 @@ categories: 2026mar
 
 1. **[s41598-026-43306-0](https://www.nature.com/articles/s41598-026-43306-0)** Error minimized LO modeling of electric vehicle integrated off-grid microgrids using Taylor-Laurent series expansion and BBO based optimization under stability and steady state constraints (Scientific Reports)
 
-1. **[2603.12280v1](https://arxiv.org/abs/2603.12280)** Excitonic Quantum Anomalous Hall Effect in Collinear Magnets Without Spin-Orbit Coupling (arXiv)
 
 1. **[2603.12309v1](https://arxiv.org/abs/2603.12309)** Interaction-Driven Ferrimagnetic Stripes in the Extended Hubbard Model (arXiv)
 
