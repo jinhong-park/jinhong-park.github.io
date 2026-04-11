@@ -32,7 +32,7 @@
 		/* 공통 컨테이너 스타일 */
 		        #calendar-container, #todo-container, #journal-container {
 		            width: 90%;
-		            max-width: 400px;
+		            max-width: 710px;
 		            margin-bottom: 1px; 
 		            padding: 15px;
 		            border: 1px solid #ddd;
@@ -84,7 +84,8 @@
 				
 /* 입력 폼 공통 스타일 */
         #todo-input, #journal-input {
-            width: 95%;
+            width: 70ch; 
+	/*		width: 95%; */
             padding: 15px;
             margin-bottom: 3px;
             border: 1px solid #ccc;
@@ -92,6 +93,8 @@
             resize: vertical;
             font-size: 1em;
         }
+		
+		
         button {
             padding: 10px 20px;
             background-color: #2ecc71; 
@@ -110,7 +113,8 @@
 
         /* 출력 영역 공통 스타일 */
         #markdown-output, #journal-markdown-output {
-            text-align: left;
+            width: 85ch; 
+			text-align: left;
             white-space: pre-wrap; 
             background-color: #f8f8f8;
             border: 1px solid #eee;
@@ -397,51 +401,106 @@
 		
 		
 		// === 4. 일기 Markdown 변환 함수 (Hard Wrap 적용 버전) ===
-		function generateJournalMarkdown() {
-		    const inputElement = document.getElementById('journal-input');
-		    const journalText = inputElement.value.trim();
+//		function generateJournalMarkdown() {
+//		    const inputElement = document.getElementById('journal-input');
+//		    const journalText = inputElement.value.trim();
 
-		    if (!journalText) {
-		        document.getElementById('journal-markdown-output').textContent = "입력된 일기 내용이 없습니다.";
-		        return;
-		    }
+//		    if (!journalText) {
+//		        document.getElementById('journal-markdown-output').textContent = "입력된 일기 내용이 없습니다.";
+//		        return;
+//		    }
 
 		    // --- [추가] 80자 Hard Wrap 로직 ---
-		    function hardWrapText(text, limit = 80) {
+//		    function hardWrapText(text, limit = 80) {
 		        // 기존의 줄바꿈을 유지하면서 각 줄을 검사
-		        return text.split('\n').map(line => {
-		            if (line.length <= limit) return line;
+//		        return text.split('\n').map(line => {
+//		            if (line.length <= limit) return line;
 
 		            // 정규표현식을 사용하여 limit 자 수 근처에서 공백을 찾아 줄바꿈
 		            // (영문은 단어 단위, 한글은 글자 단위로 자연스럽게 끊기 위해 처리)
+//		            const pattern = new RegExp(`.{1,${limit}}(\\s|$)|.{1,${limit}}`, 'g');
+//		            return line.match(pattern).map(part => part.trimEnd()).join('\n');
+//		        }).join('\n');
+//		    }
+
+		    // 본문에 Hard Wrap 적용
+//		    const wrappedJournalText = hardWrapText(journalText, 80);
+
+		    // 날짜 및 제목 생성 로직
+//		    const now = new Date();
+//		    const dateTitle = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+    
+		    // ISO 8601 형식의 날짜 (로컬 시간 고려 필요 시 조정 가능)
+//		    const fullDate = now.toISOString().replace('T', ' ').substring(0, 19); 
+
+		    // 1. YAML Front Matter 블록 구성
+//		    const frontMatter = `---
+//		layout: post
+//		title: ${dateTitle} Journal
+//		date: ${fullDate}
+//		categories:
+//		excerpt: ---`;
+
+		    // 2. 최종 Markdown 텍스트 생성 (줄바꿈된 본문 사용)
+//		    const finalMarkdown = `${frontMatter}\n\n## ${dateTitle} Journal\n\n${wrappedJournalText}`;
+
+//		    document.getElementById('journal-markdown-output').textContent = finalMarkdown;
+//		}
+		
+		
+		
+		
+		// === 4. 일기 Markdown 변환 함수 (본문만 Hard Wrap 적용) ===
+		function generateJournalMarkdown() {
+		    const inputElement = document.getElementById('journal-input');
+		    const outputElement = document.getElementById('journal-markdown-output');
+		    const journalText = inputElement.value.trim();
+
+		    if (!journalText) {
+		        outputElement.textContent = "입력된 일기 내용이 없습니다.";
+		        return;
+		    }
+
+		    /**
+		     * Hard Wrap 로직: 본문에만 적용될 함수
+		     */
+		    function hardWrapText(text, limit = 80) {
+		        return text.split('\n').map(line => {
+		            if (line.length <= limit) return line;
 		            const pattern = new RegExp(`.{1,${limit}}(\\s|$)|.{1,${limit}}`, 'g');
-		            return line.match(pattern).map(part => part.trimEnd()).join('\n');
+		            const matches = line.match(pattern);
+		            return matches ? matches.map(part => part.trimEnd()).join('\n') : line;
 		        }).join('\n');
 		    }
 
-		    // 본문에 Hard Wrap 적용
-		    const wrappedJournalText = hardWrapText(journalText, 80);
+		    // 1. 본문에만 Hard Wrap 적용
+		    const wrappedBodyText = hardWrapText(journalText, 80);
 
-		    // 날짜 및 제목 생성 로직
+		    // 2. 날짜 생성 로직
 		    const now = new Date();
-		    const dateTitle = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
-    
-		    // ISO 8601 형식의 날짜 (로컬 시간 고려 필요 시 조정 가능)
-		    const fullDate = now.toISOString().replace('T', ' ').substring(0, 19); 
+		    const offset = now.getTimezoneOffset() * 60000;
+		    const localDate = new Date(now.getTime() - offset);
+		    const dateTitle = localDate.toISOString().split('T')[0];
+		    const fullDate = localDate.toISOString().replace('T', ' ').substring(0, 19);
 
-		    // 1. YAML Front Matter 블록 구성
-		    const frontMatter = `---
-		layout: post
-		title: ${dateTitle} Journal
-		date: ${fullDate}
-		categories:
-		excerpt: ---`;
+		    // 3. YAML Front Matter 블록 (Hard Wrap 적용 안 함)
+		    // 이 부분은 변수들이 길어져도 한 줄로 유지됩니다.
+		    const frontMatter = [
+		        '---',
+		        'layout: post',
+		        `title: ${dateTitle} Journal`,
+		        `date: ${fullDate}`,
+		        'categories: journal',
+		        'excerpt: ---'
+		    ].join('\n');
 
-		    // 2. 최종 Markdown 텍스트 생성 (줄바꿈된 본문 사용)
-		    const finalMarkdown = `${frontMatter}\n\n## ${dateTitle} Journal\n\n${wrappedJournalText}`;
+		    // 4. 최종 결합: 원본 Front Matter + 줄바꿈된 본문
+		    const finalMarkdown = `${frontMatter}\n\n## ${dateTitle} Journal\n\n${wrappedBodyText}`;
 
-		    document.getElementById('journal-markdown-output').textContent = finalMarkdown;
+		    outputElement.textContent = finalMarkdown;
 		}
+		
+		
 		
 		
         // === 3. 초기 실행 및 반복 설정 ===
