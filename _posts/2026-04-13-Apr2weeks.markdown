@@ -1,0 +1,245 @@
+---
+layout: post
+title:  "weekly picks (Apr 2 week 2026)"
+date:   2026-04-13 00:16:27
+categories: 2026apr
+---
+
+{% include image.html url="/images/2026apr2weeks.png" caption="A WordCloud of 2026 Apr 2nd week collection" width=300 align="center" %}
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+1. **[s41467-026-71743-y](https://www.nature.com/articles/s41467-026-71743-y)** Spin-polarized light-emitting diodes based on CrI₃ operating without external spin injection (Nature Communications)
+
+1. **[s41467-026-71772-7](https://www.nature.com/articles/s41467-026-71772-7)** Multidimensional control of surface acoustic wave generation via programmable interdigital transducer arrays (Nature Communications)
+
+1. **[s41598-026-44277-y](https://www.nature.com/articles/s41598-026-44277-y)** Fe-W co-doped V<sub>2</sub>O<sub>5</sub> nanostructures with enhanced oxygen vacancy generation for photocatalytic dye degradation (Scientific Reports)
+
+1. **[s41598-026-48797-5](https://www.nature.com/articles/s41598-026-48797-5)** rbpCNN: a biophysics-informed deep learning model for predicting piRNA and mRNA interactions (Scientific Reports)
+
+
+1. **[2604.08635v1](https://arxiv.org/abs/2604.08635)** Floquet Engineering of a Quasiequilibrium Superradiant Phase Transition in Landau Polaritons (arXiv)
+
+1. **[2604.08650v1](https://arxiv.org/abs/2604.08650)** Decoding coherent errors in toric codes on honeycomb and square lattices: duality to Majorana monitored dynamics and symmetry classes (arXiv)
+
+1. **[2604.08654v1](https://arxiv.org/abs/2604.08654)** Mesoscopic transport in a Chern mosaic (arXiv)
+
+1. **[2604.08662v1](https://arxiv.org/abs/2604.08662)** Nucleation of Sachdev-Ye-Kitaev Clusters in One Spatial Dimension (arXiv)
+
+1. **[2604.08666v1](https://arxiv.org/abs/2604.08666)** Fluctuation engineering in cavity quantum materials (arXiv)
+
+1. **[2604.08675v1](https://arxiv.org/abs/2604.08675)** Bulk-dissociated topological bands without spin-orbit coupling in hetero-dimensional superconducting metamaterials (arXiv)
+
+1. **[2604.08695v1](https://arxiv.org/abs/2604.08695)** A metallic CrS$_2$ phase bridging the gap between two- and three-dimensional dichalcogenides (arXiv)
+
+1. **[2604.08702v1](https://arxiv.org/abs/2604.08702)** Topological invariant of periodic many body wavefunction from charge pumping simulation (arXiv)
+
+1. **[2604.08714v1](https://arxiv.org/abs/2604.08714)** Immiscible to miscible quenching instabilities in two-dimensional binary Bose-Einstein condensates (arXiv)
+
+1. **[2604.08735v1](https://arxiv.org/abs/2604.08735)** Annealing-induced grain coarsening and voltage kinks in superconducting NbRe films (arXiv)
+
+1. **[2604.08737v1](https://arxiv.org/abs/2604.08737)** Optical spin defect pairs in cubic boron nitride (arXiv)
+
+1. **[2604.08770v1](https://arxiv.org/abs/2604.08770)** Pressure-stabilized dual-BCC polymorphism in a rhenium-based high-entropy alloy (arXiv)
+
+1. **[2604.08845v1](https://arxiv.org/abs/2604.08845)** Antitopological magnetic textures in an antiferromagnetically coupled bilayer with frustration (arXiv)
+
+1. **[2604.08875v1](https://arxiv.org/abs/2604.08875)** A transferable framework for structure-energy mapping of nanovoid-solute complexes: Tungsten alloys as a model system (arXiv)
+
+1. **[2604.08901v1](https://arxiv.org/abs/2604.08901)** Activation of Inner-Shell 4p-Orbital Electrons of Rubidium Driven by Asymmetric Coordination at High Pressure (arXiv)
+
+1. **[2604.08907v1](https://arxiv.org/abs/2604.08907)** Higher-order topological insulators in two-dimensional antiferromagnetic and altermagnetic chromium-based group-IV chalcogenides (arXiv)
+
+1. **[2604.08934v1](https://arxiv.org/abs/2604.08934)** Evolution of crystal field and intraionic interactions in the ilmenite $A$IrO$_3$ ($A$ = Mg, Zn, Cd) and hyperhoneycomb $\beta$-ZnIrO$_3$ (arXiv)
+
+1. **[2604.08937v1](https://arxiv.org/abs/2604.08937)** Superconductivity and competing orders in honeycomb $t$-$J$ model: interplay of lattice geometry and next-nearest-neighbor hopping (arXiv)
+
+1. **[2604.08961v1](https://arxiv.org/abs/2604.08961)** Grain Growth Kinetics in (Cr,Mo,Ta,V,W)C1-{\delta} High-Entropy Carbide Ceramics (arXiv)
+
+1. **[2604.08972v1](https://arxiv.org/abs/2604.08972)** Selective Random Structure Search (SRSS): Unbiased Exploration of Polymorphs in Crystals (arXiv)
+
+1. **[2604.08989v1](https://arxiv.org/abs/2604.08989)** Reciprocity of Charge-Orbital-Spin Transport in Normal-Metal/Ferromagnet Heterostructures (arXiv)
+
+1. **[2604.08994v1](https://arxiv.org/abs/2604.08994)** Giant resonant nonlinear THz valley Hall effect in 2D Dirac semiconductors (arXiv)
+
+1. **[2604.09005v1](https://arxiv.org/abs/2604.09005)** Textiles: from twisted yarn to topology and mechanics (arXiv)
+
+1. **[2604.09007v1](https://arxiv.org/abs/2604.09007)** Metadynamics for Vacancy Dynamics in Crystals (arXiv)
+
+1. **[2604.09084v1](https://arxiv.org/abs/2604.09084)** Force Field-Agnostic Phase Classification of Zeolitic Imidazolate Framework Polymorphs (arXiv)
+
+1. **[2604.09097v1](https://arxiv.org/abs/2604.09097)** Ultrafast All-Optical Switching via a Supersolid Phase Transition of Light (arXiv)
+
+1. **[2604.09172v1](https://arxiv.org/abs/2604.09172)** Nonmonotonic Evolution of the Superconducting Transition Temperature and Robust Multigap Extended s-wave + s-wave Pairing in Zn-Substituted FeSe Single Crystals (arXiv)
+
+1. **[2604.09178v1](https://arxiv.org/abs/2604.09178)** Topology-constrained spin-wave modes of asymmetric antibimerons and their clusters (arXiv)
+
+1. **[2604.09180v1](https://arxiv.org/abs/2604.09180)** Eigenstate entanglement entropy in Bose-Hubbard models (arXiv)
+
+1. **[2604.09190v1](https://arxiv.org/abs/2604.09190)** The effect of pressure in the crystal and magnetic structure of FeWO4 (arXiv)
+
+1. **[2604.09193v1](https://arxiv.org/abs/2604.09193)** The hidden ferroelectric chiral ground state of silver niobate (arXiv)
+
+1. **[2604.09204v1](https://arxiv.org/abs/2604.09204)** Phase Equilibria of the Al-Ti-Nb-Zr-Ta System (arXiv)
+
+1. **[2604.09217v1](https://arxiv.org/abs/2604.09217)** Linking Calendar and Cycle Ageing in Lithium-Ion Batteries through Consistent Parameterisation of an Electrochemical-Thermal-Degradation Model (arXiv)
+
+1. **[2604.09223v1](https://arxiv.org/abs/2604.09223)** Favorable half-Heusler structure of synthesized TiCoSb alloy: a theoretical and experimental study (arXiv)
+
+1. **[2604.09224v1](https://arxiv.org/abs/2604.09224)** Many-body dynamical localization in Fock space (arXiv)
+
+1. **[2604.09226v1](https://arxiv.org/abs/2604.09226)** Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material (arXiv)
+
+1. **[2604.09242v1](https://arxiv.org/abs/2604.09242)** Nonlinear electron-phonon coupling drives light-induced symmetry switching in charge-density waves (arXiv)
+
+1. **[2604.09291v1](https://arxiv.org/abs/2604.09291)** Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO$_2$(110) (arXiv)
+
+1. **[2604.09329v1](https://arxiv.org/abs/2604.09329)** On the origin of superlattice stacking faults nucleation via climb of Frank partial in CoNi-based superalloys (arXiv)
+
+1. **[2604.09373v1](https://arxiv.org/abs/2604.09373)** Physical Properties of Dextran Solutions as Model Crowding Media (arXiv)
+
+1. **[2604.09390v1](https://arxiv.org/abs/2604.09390)** Steady-state phonon heat currents and differential thermal conductance across a junction of two harmonic phonon reservoirs (arXiv)
+
+1. **[2604.09401v1](https://arxiv.org/abs/2604.09401)** Oxygen-Mediated Phase Evolution in Sputtered Cu-W-O: Insights into Surface Chemistry Variability (arXiv)
+
+1. **[2604.09440v1](https://arxiv.org/abs/2604.09440)** Realistic Pearl vortices in thin film superconductors (arXiv)
+
+1. **[2604.09447v1](https://arxiv.org/abs/2604.09447)** Unifying hydrodynamic theory for motility-regulated active matter: from single particles to interacting polymers (arXiv)
+
+1. **[2604.09457v1](https://arxiv.org/abs/2604.09457)** Pressure-Induced Superconducting-like Transition in the $\it d$-wave Altermagnet Candidate CsV$_2$Se$_2$O (arXiv)
+
+1. **[2604.09463v1](https://arxiv.org/abs/2604.09463)** Detecting crossed Andreev reflection in a quantum Hall interferometer with a superconducting beam splitter (arXiv)
+
+1. **[2604.09475v1](https://arxiv.org/abs/2604.09475)** Probing Electrostatic Disorder via g-Tensor Geometry (arXiv)
+
+1. **[2604.09486v1](https://arxiv.org/abs/2604.09486)** A three-dimensional morphoelastic model for self-oscillations in polyelectrolyte hydrogel filaments (arXiv)
+
+1. **[2604.09504v1](https://arxiv.org/abs/2604.09504)** Superconducting orbital diode effect in SN bilayers (arXiv)
+
+1. **[2604.09506v1](https://arxiv.org/abs/2604.09506)** Field-mediated active dynamical bonds (arXiv)
+
+1. **[2604.09525v1](https://arxiv.org/abs/2604.09525)** High-temperature superconductivity in Nd$_{0.85}$Sr$_{0.15}$NiO$_2$ membranes under pressure (arXiv)
+
+1. **[2604.09528v1](https://arxiv.org/abs/2604.09528)** Machine Learning Phase Field Reconstruction in a Bose-Einstein Condensate (arXiv)
+
+1. **[2604.09542v1](https://arxiv.org/abs/2604.09542)** $\mathrm{U}(2)$ Chern-Simons-Ginzburg-Landau Theory of Fractional Quantum Hall Hierarchies (arXiv)
+
+1. **[2512.24287v3](https://arxiv.org/abs/2512.24287)** Geometry induced net spin polarization of $d$-wave altermagnets (arXiv)
+
+1. **[2604.08661v1](https://arxiv.org/abs/2604.08661)** Geometry-Induced Long-Range Correlations in Recurrent Neural Network Quantum States (arXiv)
+
+1. **[2604.08736v1](https://arxiv.org/abs/2604.08736)** Exact SL(2,Z)-Structure of Lattice Maxwell Theory with $\theta$-term in Modified Villain Formulation (arXiv)
+
+1. **[2604.08957v1](https://arxiv.org/abs/2604.08957)** A scalable platform for nanometer-scale quantum confinement (arXiv)
+
+1. **[2604.08996v1](https://arxiv.org/abs/2604.08996)** Local control and lateral nanofocusing of hyperbolic phonon polaritons (arXiv)
+
+1. **[2604.09050v1](https://arxiv.org/abs/2604.09050)** Tantalum-Encapsulated Niobium Superconducting Resonators: High Internal Quality Factor and Improved Temporal Stability via Surface Passivation (arXiv)
+
+1. **[2604.09126v1](https://arxiv.org/abs/2604.09126)** Lattice Realizations of Flat Gauging and T-duality Defects at Any Radius (arXiv)
+
+1. **[2604.09310v1](https://arxiv.org/abs/2604.09310)** Coherent Control of Nanoscale Nuclear Spin Ensembles in the Spin Noise Regime (arXiv)
+
+1. **[2604.09412v1](https://arxiv.org/abs/2604.09412)** Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks (arXiv)
+
+1. **[2604.09483v1](https://arxiv.org/abs/2604.09483)** Quantum Randomized Subspace Iteration (arXiv)
+
+1. **[2604.09503v1](https://arxiv.org/abs/2604.09503)** Classification of 2D Fermionic Systems with a $\mathbb Z_2$ Flavor Symmetry (arXiv)
+
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
