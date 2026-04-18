@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Apr 2026 13:29:59 +0900</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 13:29:59 +0900</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 16:07:48 +0900</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 16:07:48 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -22,13 +22,69 @@
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 22971&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.13960&quot;&gt;2604.13960v1&lt;/a&gt;&lt;/strong&gt; Twist-engineering of a robust Quantum Spin Hall phase in $\beta$-/flat bismuthene bilayer from first principles (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16376&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14286&quot;&gt;2604.14286v1&lt;/a&gt;&lt;/strong&gt; Divergent spin conductivity on the verge of ferromagnetic quantum criticality (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 16174&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14521&quot;&gt;2604.14521v1&lt;/a&gt;&lt;/strong&gt; Josephson phase shift and diode effect due to the inverse spin Hall effect (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 15995&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.15036&quot;&gt;2604.15036v1&lt;/a&gt;&lt;/strong&gt; Poor man’s Majorana bound states in quantum dot based Kitaev chain coupled to a photonic cavity (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 15028&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14952&quot;&gt;2604.14952v1&lt;/a&gt;&lt;/strong&gt; Fermi-liquid versus non-Fermi-liquid/’strange-metal’ fits to the electrical resistivity in the quantum critical magnetic regime of an unconventional superconductor (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 14725&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.11323&quot;&gt;2604.11323v1&lt;/a&gt;&lt;/strong&gt; Enhancement of topological magnon-driven spin currents through local edge strain in CrI$_3$ nanoribbons (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 6553&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02612-9&quot;&gt;s42005-026-02612-9&lt;/a&gt;&lt;/strong&gt; Orbital Hall effect in spin-3/2 hole-doped semiconductors and its implications for orbitronics (Communications Physics)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;04/18&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-71986-9&quot;&gt;s41467-026-71986-9&lt;/a&gt;&lt;/strong&gt; Challenges and prospects of 2D electronics for future monolithic complementary field-effect transistors (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-72236-8&quot;&gt;s41467-026-72236-8&lt;/a&gt;&lt;/strong&gt; Author Correction: Understanding alkali metal promotion in hydrogenation catalysis through Strong Metal–Base Interaction (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-026-03260-0&quot;&gt;s41567-026-03260-0&lt;/a&gt;&lt;/strong&gt; Symmetry-guided catalogue of chiral phonon materials (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-026-47674-5&quot;&gt;s41598-026-47674-5&lt;/a&gt;&lt;/strong&gt; Scalable multi-objective genetic algorithm for quantum circuit optimization (Scientific Reports)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;04/17&lt;/p&gt;
 
@@ -71,9 +127,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14278&quot;&gt;2604.14278v1&lt;/a&gt;&lt;/strong&gt; Controlled Loop Expansion for the Topological Heavy Fermion Model (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14286&quot;&gt;2604.14286v1&lt;/a&gt;&lt;/strong&gt; Divergent spin conductivity on the verge of ferromagnetic quantum criticality (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14289&quot;&gt;2604.14289v1&lt;/a&gt;&lt;/strong&gt; Quantum Charge-4e Superconductivity and Deconfined Pseudocriticality in the Attractive SU(4) Hubbard Model (arXiv)&lt;/p&gt;
@@ -125,9 +178,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14509&quot;&gt;2604.14509v1&lt;/a&gt;&lt;/strong&gt; An Investigation in the Kinetic Persistence of TiO$_2$ Polymorphs using Machine Learning Driven Pathfinding in Crystal Configuration Space (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14521&quot;&gt;2604.14521v1&lt;/a&gt;&lt;/strong&gt; Josephson phase shift and diode effect due to the inverse spin Hall effect (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14529&quot;&gt;2604.14529v1&lt;/a&gt;&lt;/strong&gt; Solitonic Solutions of the One-Dimensional Harmonically Trapped Repulsive Bose-Einstein Condensate via Neural Network Quantum States (arXiv)&lt;/p&gt;
@@ -214,16 +264,10 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14936&quot;&gt;2604.14936v1&lt;/a&gt;&lt;/strong&gt; Effect of sub-critical fluid shear flow on granular bed strength (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14952&quot;&gt;2604.14952v1&lt;/a&gt;&lt;/strong&gt; Fermi-liquid versus non-Fermi-liquid/’strange-metal’ fits to the electrical resistivity in the quantum critical magnetic regime of an unconventional superconductor (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14976&quot;&gt;2604.14976v1&lt;/a&gt;&lt;/strong&gt; Towards Non-van der Waals 2D Topological Insulators (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.15019&quot;&gt;2604.15019v1&lt;/a&gt;&lt;/strong&gt; Controllable highly oriented skyrmion track array in Fe3GaTe2 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.15036&quot;&gt;2604.15036v1&lt;/a&gt;&lt;/strong&gt; Poor man’s Majorana bound states in quantum dot based Kitaev chain coupled to a photonic cavity (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.15054&quot;&gt;2604.15054v1&lt;/a&gt;&lt;/strong&gt; Type II Lifshitz invariant and optically active Higgs mode in time-reversal symmetry broken superconductors (arXiv)&lt;/p&gt;
@@ -470,9 +514,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.13958&quot;&gt;2604.13958v1&lt;/a&gt;&lt;/strong&gt; Continuous correlated states and dual-flatness in a moir&apos;e heterostructure (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.13960&quot;&gt;2604.13960v1&lt;/a&gt;&lt;/strong&gt; Twist-engineering of a robust Quantum Spin Hall phase in $\beta$-/flat bismuthene bilayer from first principles (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.14002&quot;&gt;2604.14002v1&lt;/a&gt;&lt;/strong&gt; Spin-mediated hysteretic switching of unidirectional charge density waves by rotating magnetic fields (arXiv)&lt;/p&gt;
@@ -1112,9 +1153,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.11316&quot;&gt;2604.11316v1&lt;/a&gt;&lt;/strong&gt; A new helical InSeI polymorph: crystal structure and polarized Raman spectroscopy study (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.11323&quot;&gt;2604.11323v1&lt;/a&gt;&lt;/strong&gt; Enhancement of topological magnon-driven spin currents through local edge strain in CrI$_3$ nanoribbons (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2604.11361&quot;&gt;2604.11361v1&lt;/a&gt;&lt;/strong&gt; Ultrafast ghost Hall states in a 2d altermagnet (arXiv)&lt;/p&gt;
