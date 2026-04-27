@@ -1,0 +1,199 @@
+---
+layout: post
+title:  "weekly picks (Apr 4 week 2026)"
+date:   2026-04-27 00:16:27
+categories: 2026apr
+---
+
+{% include image.html url="/images/2026apr4weeks.png" caption="A WordCloud of 2026 Apr 4th week collection" width=300 align="center" %}
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+---
+04/27
+
+1. **[2604.21973v1](https://arxiv.org/abs/2604.21973)** Field-driven phases in a three-dimensional twisted Kitaev model for CoNb$_2$O$_6$: Interplay of frustration and spin-orbit coupling (arXiv)
+
+1. **[2604.21978v1](https://arxiv.org/abs/2604.21978)** Beyond Variational Bias: Resolving Intertwined Orders in the Hubbard Model (arXiv)
+
+1. **[2604.21985v1](https://arxiv.org/abs/2604.21985)** Anisotropy of spin waves in the field-polarized phase of Fe-doped MnSi (arXiv)
+
+1. **[2604.21992v1](https://arxiv.org/abs/2604.21992)** Floquet mobility edges and transport in a periodically driven generalized Aubry-Andr\'e model (arXiv)
+
+1. **[2604.22044v1](https://arxiv.org/abs/2604.22044)** Spin-polarized Energy Density Method from Spin-Density Functional Theory (arXiv)
+
+1. **[2604.22112v1](https://arxiv.org/abs/2604.22112)** Enhanced Tantalum Superconducting Resonator Performance via All-Surface Organic Monolayer Passivation (arXiv)
+
+1. **[2604.22131v1](https://arxiv.org/abs/2604.22131)** Extended Haldane Model in The Dice Lattice: Multiple Flat-Band-Induced topological Transitions Revealed (arXiv)
+
+1. **[2604.22151v1](https://arxiv.org/abs/2604.22151)** Long-Range Order in Coupled $D$-dimensional Kuramoto Oscillators (arXiv)
+
+1. **[2604.22155v1](https://arxiv.org/abs/2604.22155)** Microscopic Modeling of Surface Roughness Scattering in Inversion Layers of MOSFETs Based on Ando's Linear Model (arXiv)
+
+1. **[2604.22214v1](https://arxiv.org/abs/2604.22214)** Non-volatile superconducting tunnelling magnetoresistance memory enabled by exchange-field gap engineering (arXiv)
+
+1. **[2604.22218v1](https://arxiv.org/abs/2604.22218)** Uncovering long-lived relaxation channel and exciton-phonon coupling in \textrm{Ta\textsubscript{2}NiSe\textsubscript{5}} via non-degenerate pump-probe spectroscopy (arXiv)
+
+1. **[2604.22223v1](https://arxiv.org/abs/2604.22223)** QAssemble: A Pure Python Package for Quantum Many-Body Theory (arXiv)
+
+1. **[2604.22300v1](https://arxiv.org/abs/2604.22300)** Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure (arXiv)
+
+1. **[2604.22329v1](https://arxiv.org/abs/2604.22329)** The antiferromagnetic Chern insulator phase in the Kane-Mele-Hubbard model (arXiv)
+
+1. **[2604.22342v1](https://arxiv.org/abs/2604.22342)** The quantum harmonic oscillator in a dissipative bath of anyon pairs (arXiv)
+
+1. **[2604.22343v1](https://arxiv.org/abs/2604.22343)** Dynamic Moir\'e Potentials and Robust Wigner Crystallization in Large-Scale Twisted Transition Metal Dichalcogenides (arXiv)
+
+1. **[2604.22346v1](https://arxiv.org/abs/2604.22346)** Electric-Field Control of Quantum Tunneling Regimes in Focused He-Ion-Beam-Irradiated Oxide Interfaces (arXiv)
+
+1. **[2604.22353v1](https://arxiv.org/abs/2604.22353)** Spiral, target, stripe, and disordered waves in active six-state Potts models (arXiv)
+
+1. **[2604.22393v1](https://arxiv.org/abs/2604.22393)** Nature of point defects in bulk hexagonal diamond (arXiv)
+
+1. **[2604.22396v1](https://arxiv.org/abs/2604.22396)** Surface coating induced lubrication in flowing granular materials (arXiv)
+
+1. **[2604.22398v1](https://arxiv.org/abs/2604.22398)** Accurate Nanoscale Mapping of Electric Fields across Random Grain Boundaries in Polycrystalline Oxides Using Precession-Assisted 4D-STEM (arXiv)
+
+1. **[2604.22434v1](https://arxiv.org/abs/2604.22434)** The influence of implantation conditions on dopant activation in Al-implanted 4H-SiC: A MD study applying an Al potential fitted to DFT barriers (arXiv)
+
+1. **[2604.22444v1](https://arxiv.org/abs/2604.22444)** Comparative Silane Surface Functionalization Strategies for Enhanced Bloch Surface Wave Biosensing of Anti-SARS-CoV-2 Antibodies (arXiv)
+
+1. **[2604.22448v1](https://arxiv.org/abs/2604.22448)** Electrostatic-Elastic Softening and Ultraviolet Instability Driven by Non-DLVO Interactions in Charged Colloidal Crystals (arXiv)
+
+1. **[2604.22484v1](https://arxiv.org/abs/2604.22484)** Classifying magnons in itinerant ferromagnets from linear response TDDFT: Fe, Ni and Co revisited (arXiv)
+
+1. **[2604.22523v1](https://arxiv.org/abs/2604.22523)** Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions (arXiv)
+
+1. **[2604.22536v1](https://arxiv.org/abs/2604.22536)** Mean-Field Theory for the Three-State Active Lattice Gas Model (arXiv)
+
+1. **[2604.22544v1](https://arxiv.org/abs/2604.22544)** Micromorphic effects in an octet truss lattice (arXiv)
+
+1. **[2604.22547v1](https://arxiv.org/abs/2604.22547)** Valley enhanced Rabi frequency in n-type planar Silicon-MOS quantum dot (arXiv)
+
+1. **[2604.22553v1](https://arxiv.org/abs/2604.22553)** Corner Majorana states in semi-Dirac (arXiv)
+
+1. **[2604.22561v1](https://arxiv.org/abs/2604.22561)** Influence of Ni Doping on the Structural, Morphological, Optical, and Electrical Properties of Nanocrystalline Cd1-xMnxS Thin Films (arXiv)
+
+1. **[2604.22574v1](https://arxiv.org/abs/2604.22574)** Pulse Shaping to Mitigate the Impact of Device Imperfections in Field-Free Switching Using Combined Spin-Orbit and Spin-Transfer Torques (arXiv)
+
+1. **[2604.22600v1](https://arxiv.org/abs/2604.22600)** Anomalous Mean-Squared Displacement in Quantum Active Matter from a Wigner Phase-Space Framework (arXiv)
+
+1. **[2604.22614v1](https://arxiv.org/abs/2604.22614)** Accurate calculation of Wannier centers, position matrix, and composite operators using translationally equivariant and higher-order finite differences (arXiv)
+
+1. **[2604.22628v1](https://arxiv.org/abs/2604.22628)** Exact relations between the density-density correlators of states in a spin multiplet (arXiv)
+
+1. **[2604.22650v1](https://arxiv.org/abs/2604.22650)** Strain engineering of Andreev spin qubits in Germanium (arXiv)
+
+1. **[2604.22687v1](https://arxiv.org/abs/2604.22687)** Alterations in Conformations of Poly(3-hexylthiophene) on Au(111) Induced by Annealing (arXiv)
+
+1. **[2604.22743v1](https://arxiv.org/abs/2604.22743)** Thermometry for a Kagome Lattice Dipolar Rydberg Simulator (arXiv)
+
+1. **[2604.22376v1](https://arxiv.org/abs/2604.22376)** No-Go Theorem for Quantum Heat Engines Powered Purely by Quantum Measurements in the Steady Regime (arXiv)
+
+1. **[2604.22500v1](https://arxiv.org/abs/2604.22500)** Quantum limits on squeezing (arXiv)
+
+1. **[2604.22521v1](https://arxiv.org/abs/2604.22521)** Decohered color code and emerging mixed toric code by anyon proliferation: Topological entanglement negativity perspective (arXiv)
+
+1. **[2604.22593v1](https://arxiv.org/abs/2604.22593)** Stability Thresholds for Gravitationally Induced Entanglement in Shielded Setups (arXiv)
+
+1. **[2604.22696v1](https://arxiv.org/abs/2604.22696)** Pressure-Temperature Phase Diagram and $\lambda$-Transition in Liquid Sulfur (arXiv)
+
+1. **[2604.22704v1](https://arxiv.org/abs/2604.22704)** Approaching the Limit of Quantum Clock Precision (arXiv)
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
