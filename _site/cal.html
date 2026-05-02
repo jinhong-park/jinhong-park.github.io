@@ -234,6 +234,7 @@
 
 <div id="journal-container">
     <h3>✍️ Journal</h3>
+	<h4 id="week"></h4>
     <textarea id="journal-input" rows="5" placeholder="Write down today"></textarea>
     <button onclick="generateJournalMarkdown()">Journal Markdown click</button>
 
@@ -627,7 +628,23 @@ window.addEventListener('touchmove', (e) => {
 }, { passive: false });
 
 
+// ------     올해의 Week 계산           ----//
+function getISOWeekNumber(date) {
+  const tempDate = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const dayNum = tempDate.getUTCDay() || 7;
+  tempDate.setUTCDate(tempDate.getUTCDate() + 4 - dayNum);
+  const yearStart = new Date(Date.UTC(tempDate.getUTCFullYear(), 0, 1));
+  const weekNo = Math.ceil((((tempDate - yearStart) / 86400000) + 1) / 7);
+  return weekNo;
+}
 
+const today = new Date();
+const weekNumber = getISOWeekNumber(today);
+
+document.getElementById("week").innerText =
+  `오늘은 ${today.getFullYear()}년 ${weekNumber}주차입니다.`;
+
+//---------------------------------------//
 
     </script>
 </body>
