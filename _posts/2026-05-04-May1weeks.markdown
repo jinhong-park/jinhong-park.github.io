@@ -1,0 +1,207 @@
+---
+layout: post
+title:  "weekly picks (Apr 4 week 2026)"
+date:   2026-04-27 00:16:27
+categories: 2026apr
+---
+
+{% include image.html url="/images/2026apr4weeks.png" caption="A WordCloud of 2026 Apr 4th week collection" width=300 align="center" %}
+
+
+===This week's pick===
+
+
+* Score : 
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+---
+05/04
+
+
+1. **[s41467-026-72807-9](https://www.nature.com/articles/s41467-026-72807-9)** Hydrogen site-dependent physical properties of hydrous magnesium silicates in the mantle transition zone (Nature Communications)
+
+1. **[2605.00091v1](https://arxiv.org/abs/2605.00091)** Locality versus Fock-space structure in East-type models (arXiv)
+
+1. **[2605.00104v1](https://arxiv.org/abs/2605.00104)** Criticality on R\'enyi defects at (2+1)$d$ O(3) quantum critical points (arXiv)
+
+1. **[2605.00137v1](https://arxiv.org/abs/2605.00137)** Demonstration of a fermion Quadrupling Condensate via Quantum Monte Carlo Simulation (arXiv)
+
+1. **[2605.00202v1](https://arxiv.org/abs/2605.00202)** Observation of single antiferromagnetic magnon modes in the tunnelling transistors of spin-1/2 Kitaev system a-RuCl3 (arXiv)
+
+1. **[2605.00211v1](https://arxiv.org/abs/2605.00211)** Quantized Collective Fluctuations in Correlated Fermion Systems (arXiv)
+
+1. **[2605.00274v1](https://arxiv.org/abs/2605.00274)** Low-temperature Depletion of Superfluid Density in the Absence of Galilean Symmetry (arXiv)
+
+1. **[2605.00304v1](https://arxiv.org/abs/2605.00304)** Tailoring Mechanical Properties of Germanium Anodes via Metal Incorporation for Improved Cycle Stability (arXiv)
+
+1. **[2605.00313v1](https://arxiv.org/abs/2605.00313)** Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships (arXiv)
+
+1. **[2605.00325v1](https://arxiv.org/abs/2605.00325)** Polarization-controlled effective Rabi dynamics in driven Graphene: A Floquet-Magnus approach (arXiv)
+
+1. **[2605.00359v1](https://arxiv.org/abs/2605.00359)** Investigation of nonlocal transport associated with the orbital Hall effect in Ti (arXiv)
+
+1. **[2605.00427v1](https://arxiv.org/abs/2605.00427)** Kinetically Arrested Twin-Domain State in Formamidinium Lead Iodide (arXiv)
+
+1. **[2605.00441v1](https://arxiv.org/abs/2605.00441)** Thermodynamic Charge Partition in Accumulation-Layer Heterostructures (arXiv)
+
+1. **[2605.00477v1](https://arxiv.org/abs/2605.00477)** Signatures of time-reversal-symmetry breaking in multiband 2H-TaS2 revealed by zero-field Josephson nonreciprocity (arXiv)
+
+1. **[2605.00491v1](https://arxiv.org/abs/2605.00491)** Electrical detection of spin-flip transition in metal/Na5Co15.5Te6O36 heterostructure (arXiv)
+
+1. **[2605.00521v1](https://arxiv.org/abs/2605.00521)** Induced discommensurations in the lock-in transition of charge-density waves (arXiv)
+
+1. **[2605.00537v1](https://arxiv.org/abs/2605.00537)** Magnetic Behavior of Ferro-, Antiferro-, and Ferrimagnetic Systems in the Griffiths Phase: A Theoretical Study (arXiv)
+
+1. **[2605.00540v1](https://arxiv.org/abs/2605.00540)** Incommensurate Magnetic Ordered Phase with Enhanced Low-Temperature Magnetic Specific Heat in SmAu$_3$Al$_7$ (arXiv)
+
+1. **[2605.00543v1](https://arxiv.org/abs/2605.00543)** Parity-dependent reentrant topology in a Su--Schrieffer--Heeger chain with power-law quasiperiodic modulation (arXiv)
+
+1. **[2605.00544v1](https://arxiv.org/abs/2605.00544)** An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Performance Prediction of Ferroelectric Hf0.5Zr0.5O2 Thin Film Capacitors (arXiv)
+
+1. **[2605.00546v1](https://arxiv.org/abs/2605.00546)** Exact Analytical Vortex Solution for a Two-Dimensional Quantum Gas with LHY Correction (arXiv)
+
+1. **[2605.00567v1](https://arxiv.org/abs/2605.00567)** Fixed points and crossovers for the hysteresis scaling of dynamic mean-field models (arXiv)
+
+1. **[2605.00568v1](https://arxiv.org/abs/2605.00568)** Dynamical magnetotropic susceptibility as a new probe of Kitaev materials and beyond (arXiv)
+
+1. **[2605.00571v1](https://arxiv.org/abs/2605.00571)** Quantum corrections to the Josephson dynamics: a population-imbalance approach (arXiv)
+
+1. **[2605.00577v1](https://arxiv.org/abs/2605.00577)** Long range proximity effects in planar structures involving the halfmetal ferromagnet La0.7Sr0.3MnO3 and Pt interlayers (arXiv)
+
+1. **[2605.00596v1](https://arxiv.org/abs/2605.00596)** Atomic Interferometry with Spin-Orbit-Coupled Spin-1 Condensates (arXiv)
+
+1. **[2605.00599v1](https://arxiv.org/abs/2605.00599)** Coordination-Induced Tuning of Ligand-Centered Red Emission in a cis-[Cd(Tz)2(py)2] Complex for Light-Emitting Diodes (arXiv)
+
+1. **[2605.00601v1](https://arxiv.org/abs/2605.00601)** Superconducting diode effect in correlated electron systems by nonreciprocal magnetism (arXiv)
+
+1. **[2605.00609v1](https://arxiv.org/abs/2605.00609)** Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning (arXiv)
+
+1. **[2605.00611v1](https://arxiv.org/abs/2605.00611)** Suppressing spin qubit decoherence during shuttling via confinement modulation (arXiv)
+
+1. **[2605.00629v1](https://arxiv.org/abs/2605.00629)** Monte Carlo study of the superfluid phase of $^4$He (arXiv)
+
+1. **[2605.00639v1](https://arxiv.org/abs/2605.00639)** Born-Qualified: An Autonomous Framework for Deploying Advanced Energy and Electronic Materials (arXiv)
+
+1. **[2605.00656v1](https://arxiv.org/abs/2605.00656)** Renormalized entropy production for optimal transport in jump processes: Make conservative forces optimal again (arXiv)
+
+1. **[2605.00669v1](https://arxiv.org/abs/2605.00669)** Experimental Evidence of Fractional Entropy in Critical Kondo Systems (arXiv)
+
+1. **[2605.00679v1](https://arxiv.org/abs/2605.00679)** Entropy transport through a superfluid quantum point contact: A Keldysh field-theory approach (arXiv)
+
+1. **[2605.00732v1](https://arxiv.org/abs/2605.00732)** Reconstruction of spin structures from topological charge distributions via generative neural network systems (arXiv)
+
+1. **[2605.00802v1](https://arxiv.org/abs/2605.00802)** Determination of Density Functional Tight Binding Models for Cerium Allotropes (arXiv)
+
+1. **[2605.00815v1](https://arxiv.org/abs/2605.00815)** Revealing the origin of XMCD in an altermagnet via three-dimensional control of spins (arXiv)
+
+1. **[2511.00124v1](https://arxiv.org/abs/2511.00124)** Cross-fluctuation phase transitions reveal sampling dynamics in diffusion models (arXiv)
+
+1. **[2605.00017v1](https://arxiv.org/abs/2605.00017)** Understanding Energy Flow and Inefficiency of a Thermomagnetic Generator by Transient Multi-Physics Modelling (arXiv)
+
+1. **[2605.00094v1](https://arxiv.org/abs/2605.00094)** Graph-theory measures capture weak ergodicity breaking on large quantum systems (arXiv)
+
+1. **[2605.00096v1](https://arxiv.org/abs/2605.00096)** Scalable spin-nematic squeezing in multi-level dipole-interacting Rydberg atom arrays (arXiv)
+
+1. **[2605.00101v1](https://arxiv.org/abs/2605.00101)** Nonreciprocity-enriched steady phases in open quantum systems (arXiv)
+
+1. **[2605.00152v1](https://arxiv.org/abs/2605.00152)** Optically detected nuclear magnetic resonance of carbon-13 in bulk diamond (arXiv)
+
+1. **[2605.00435v1](https://arxiv.org/abs/2605.00435)** Escaping Mode Collapse in LLM Generation via Geometric Regulation (arXiv)
+
+1. **[2605.00575v1](https://arxiv.org/abs/2605.00575)** Plasmon Induced Delocalized Second-Harmonic Generation Towards Buried-Interface Spectroscopy (arXiv)
+
+1. **[2605.00576v1](https://arxiv.org/abs/2605.00576)** High-pressure magnetic transition in iron observed via diamond quantum sensing (arXiv)
+
+1. **[2605.00770v1](https://arxiv.org/abs/2605.00770)** Topological protection of local quantum Fisher information (arXiv)
+
+1. **[2605.00772v1](https://arxiv.org/abs/2605.00772)** Entanglement capacity of complex networks from quantum walks (arXiv)
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
