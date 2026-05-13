@@ -465,7 +465,7 @@
 		    /**
 		     * Hard Wrap 로직: 본문에만 적용될 함수
 		     */
-		    function hardWrapText(text, limit = 80) {
+		    function hardWrapText(text, limit = 60) {
 		        return text.split('\n').map(line => {
 		            if (line.length <= limit) return line;
 		            const pattern = new RegExp(`.{1,${limit}}(\\s|$)|.{1,${limit}}`, 'g');
@@ -475,7 +475,7 @@
 		    }
 
 		    // 1. 본문에만 Hard Wrap 적용
-		    const wrappedBodyText = hardWrapText(journalText, 80);
+		    const wrappedBodyText = hardWrapText(journalText, 60);
 
 		    // 2. 날짜 생성 로직
 		    const now = new Date();
