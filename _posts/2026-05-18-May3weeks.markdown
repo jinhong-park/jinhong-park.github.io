@@ -11,11 +11,96 @@ categories: 2026may
 ===This week's pick===
 
 
-* Score : 
+* Score : 25472
+
+**[2605.19817v1](https://arxiv.org/abs/2605.19817)** Spin Hall effect and Berry curvature of gravitons from quantum field theory (arXiv)
+
+
+* Score : 24419
+
+**[2605.18411v1](https://arxiv.org/abs/2605.18411)** Spin and orbital mixing of edge states in a quantum Hall system proximitized by a superconductor (arXiv)
+
+* Score : 21810
+
+
+**[2605.17335v1](https://arxiv.org/abs/2605.17335)** Observation of a Mott quantum spin Hall insulator in twisted WSe2 (arXiv)
+
+
+* Score : 21281
+
+
+**[2605.21287v1](https://arxiv.org/abs/2605.21287)** Designer Quantum States in Magnetic Topological Insulator Multilayers (arXiv)
+
+* Score : 19943
+
+**[2605.21989v1](https://arxiv.org/abs/2605.21989)** Direct observation of the transverse near field of an edge excitation and associated slow secondary dynamics in a fractional quantum Hall state (arXiv)
+
+
+* Score : 19220
+
+**[2605.16830v1](https://arxiv.org/abs/2605.16830)** Relativistic theory for coupled orbital and spin angular momentum dynamics in magnetic systems (arXiv)
+
+
+* Score : 18663
+
+
+**[2605.15899v1](https://arxiv.org/abs/2605.15899)** Solving Classical and Quantum Spin Glasses with Deep Boltzmann Quantum States (arXiv)
+
+
+* Score : 18171
+
+**[2605.18277v1](https://arxiv.org/abs/2605.18277)** Quantum geometry induced anomalous chiral transport and hidden symmetry breaking in centrosymmetric 2M-WS2 (arXiv)
+
+
+* Score : 17781
+
+**[2605.19011v1](https://arxiv.org/abs/2605.19011)** Deconfined Boundary Phase Transition of a Quantum Critical Heisenberg Model (arXiv)
+
+
+* Score : 17314
+
+**[2605.15541v1](https://arxiv.org/abs/2605.15541)** Quantum Geometry-Driven Nonlinear Spin Currents in Floquet Non-Hermitian Altermagnets (arXiv)
+
+
+* Score : 17307
+
+
+**[s42005-026-02693-6](https://www.nature.com/articles/s42005-026-02693-6)** Quantum anomalous Hall states enriched by asynchronous mass inversion in multilayer graphene (Communications Physics)
+
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+
+---
+05/23
+
+1. **[s41467-026-73446-w](https://www.nature.com/articles/s41467-026-73446-w)** Realization of a chiral photonic-crystal cavity with broken time-reversal symmetry (Nature Communications)
+
+1. **[s42005-026-02695-4](https://www.nature.com/articles/s42005-026-02695-4)** Floquet engineering in hybrid magnetic quantum systems (Communications Physics)
+
+1. **[s42005-026-02672-x](https://www.nature.com/articles/s42005-026-02672-x)** Graph theory-based automated quantum algorithm for efficient querying of acyclic and multiloop causal configurations (Communications Physics)
+
+1. **[s42005-026-02684-7](https://www.nature.com/articles/s42005-026-02684-7)** Unlocking multidimensional integration with quantum adaptive importance sampling (Communications Physics)
+
+1. **[s41563-026-02617-3](https://www.nature.com/articles/s41563-026-02617-3)** Probing the quantum metric of 3D topological insulators (Nature Materials)
+
+1. **[s41598-026-53373-y](https://www.nature.com/articles/s41598-026-53373-y)** <i>EcoImpact</i>: energy conservation using data-driven model predictive control and interpretable machine learning in the buildings sector (Scientific Reports)
+
+1. **[s41598-026-49332-2](https://www.nature.com/articles/s41598-026-49332-2)** The moderating effect of child abuse on the association between domestic violence and suicidal ideation/self-harm among Lebanese women (Scientific Reports)
+
+
+1. **[bp89-s2v1](http://link.aps.org/doi/10.1103/bp89-s2v1)** Observation of narrow-band $γ$ radiation from a boron-doped diamond superlattice with an 855 MeV electron beam (PRR)
+
+1. **[32v3-tgfd](http://link.aps.org/doi/10.1103/32v3-tgfd)** Coherent vibrational dynamics in molecular bond breaking: Methyl radical umbrella mode probed by femtosecond x-ray spectroscopy (PRRL)
+
+
+
+
 
 
 ---
@@ -92,7 +177,7 @@ categories: 2026may
 
 1. **[2605.21983v1](https://arxiv.org/abs/2605.21983)** Nonlinear Photonic Tripartite Phase (arXiv)
 
-1. **[2605.21989v1](https://arxiv.org/abs/2605.21989)** Direct observation of the transverse near field of an edge excitation and associated slow secondary dynamics in a fractional quantum Hall state (arXiv)
+
 
 1. **[2605.22032v1](https://arxiv.org/abs/2605.22032)** High-field Magnetotransport Studies of Surface Conducting Diamonds (arXiv)
 
@@ -327,7 +412,6 @@ categories: 2026may
 
 1. **[2605.21285v1](https://arxiv.org/abs/2605.21285)** Role of Bi3+ ion substitution on the piezocatalytic degradation performance of lead-free BaTi0.89Sn0.11O3 at low vibrational energy (arXiv)
 
-1. **[2605.21287v1](https://arxiv.org/abs/2605.21287)** Designer Quantum States in Magnetic Topological Insulator Multilayers (arXiv)
 
 1. **[2605.21297v1](https://arxiv.org/abs/2605.21297)** Designing Magnetic Topological Insulator Trilayers for Highly-Efficient Spin-Orbit Torque Switching (arXiv)
 
@@ -408,7 +492,6 @@ categories: 2026may
 ---
 05/20
 
-1. **[s42005-026-02693-6](https://www.nature.com/articles/s42005-026-02693-6)** Quantum anomalous Hall states enriched by asynchronous mass inversion in multilayer graphene (Communications Physics)
 
 1. **[s41598-026-51938-5](https://www.nature.com/articles/s41598-026-51938-5)** GNN enhanced reinforcement learning for robot navigation in complex topological networks (Scientific Reports)
 
@@ -432,7 +515,7 @@ categories: 2026may
 
 1. **[2605.19001v1](https://arxiv.org/abs/2605.19001)** Collective charge measurement in quantum dot chains: controlling barrier occupation and tunneling current (arXiv)
 
-1. **[2605.19011v1](https://arxiv.org/abs/2605.19011)** Deconfined Boundary Phase Transition of a Quantum Critical Heisenberg Model (arXiv)
+
 
 1. **[2605.19023v1](https://arxiv.org/abs/2605.19023)** First-passage processes in a deterministic one-dimensional cellular automaton model of traffic flow (arXiv)
 
@@ -594,7 +677,7 @@ categories: 2026may
 
 1. **[2605.19664v1](https://arxiv.org/abs/2605.19664)** Engineering Tunable Synthetic Su-Schrieffer-Heeger Chains in Liquid Crystal Microcavities (arXiv)
 
-1. **[2605.19817v1](https://arxiv.org/abs/2605.19817)** Spin Hall effect and Berry curvature of gravitons from quantum field theory (arXiv)
+
 
 1. **[2605.19858v1](https://arxiv.org/abs/2605.19858)** Accelerated "on-the-fly" coupled-cluster path-integral molecular dynamics: Impact of nuclear quantum effects on an asymmetric proton (arXiv)
 
@@ -664,7 +747,7 @@ categories: 2026may
 
 1. **[2605.16778v1](https://arxiv.org/abs/2605.16778)** Emergent impedance due to antiferromagnetic domain wall dynamics (arXiv)
 
-1. **[2605.16830v1](https://arxiv.org/abs/2605.16830)** Relativistic theory for coupled orbital and spin angular momentum dynamics in magnetic systems (arXiv)
+
 
 1. **[2605.16837v1](https://arxiv.org/abs/2605.16837)** Learning inelastic constitutive models from stress-strain data under hard thermodynamic constraints (arXiv)
 
@@ -702,7 +785,6 @@ categories: 2026may
 
 1. **[2605.17241v1](https://arxiv.org/abs/2605.17241)** Frequency renormalization and its effects in nonlinear phononics with $Q_RQ_{IR}^{2}$-type coupling (arXiv)
 
-1. **[2605.17335v1](https://arxiv.org/abs/2605.17335)** Observation of a Mott quantum spin Hall insulator in twisted WSe2 (arXiv)
 
 1. **[2605.17338v1](https://arxiv.org/abs/2605.17338)** At Most Two Infinite Blue Clusters in the CMR Representation of the Edwards-Anderson Spin Glass (arXiv)
 
@@ -804,7 +886,7 @@ categories: 2026may
 
 1. **[2605.18258v1](https://arxiv.org/abs/2605.18258)** Why hole polaron formation on oxygen is limiting the Fermi level in Fe acceptor doped BaTiO$_{3}$ under oxidizing conditions (arXiv)
 
-1. **[2605.18277v1](https://arxiv.org/abs/2605.18277)** Quantum geometry induced anomalous chiral transport and hidden symmetry breaking in centrosymmetric 2M-WS2 (arXiv)
+
 
 1. **[2605.18289v1](https://arxiv.org/abs/2605.18289)** Strong nanomechanical Duffing nonlinearity and interactions induced through cavity optomechanics (arXiv)
 
@@ -824,7 +906,6 @@ categories: 2026may
 
 1. **[2605.18407v1](https://arxiv.org/abs/2605.18407)** Qumus: Realization of An Embodied AI Quantum Material Experimentalist (arXiv)
 
-1. **[2605.18411v1](https://arxiv.org/abs/2605.18411)** Spin and orbital mixing of edge states in a quantum Hall system proximitized by a superconductor (arXiv)
 
 1. **[2605.18418v1](https://arxiv.org/abs/2605.18418)** Epitaxial growth and magnetic phase transitions in non-centrosymmetric EuPdSi$_3$ thin films (arXiv)
 
@@ -943,7 +1024,7 @@ categories: 2026may
 
 1. **[2605.15521v1](https://arxiv.org/abs/2605.15521)** Entropy Production from Spin--Vibrational Coupling in Endohedral-Fullerene Qubits Encapsulated in Suspended Carbon Nanotubes (arXiv)
 
-1. **[2605.15541v1](https://arxiv.org/abs/2605.15541)** Quantum Geometry-Driven Nonlinear Spin Currents in Floquet Non-Hermitian Altermagnets (arXiv)
+
 
 1. **[2605.15544v1](https://arxiv.org/abs/2605.15544)** p-Wave Orbital Angular Momentum Texture in a Chiral Crystal (arXiv)
 
@@ -971,7 +1052,6 @@ categories: 2026may
 
 1. **[2605.15883v1](https://arxiv.org/abs/2605.15883)** Stable magnetic nanodomains engineered via Ga+-ion irradiation for deterministic sequential switching (arXiv)
 
-1. **[2605.15899v1](https://arxiv.org/abs/2605.15899)** Solving Classical and Quantum Spin Glasses with Deep Boltzmann Quantum States (arXiv)
 
 1. **[2605.15903v1](https://arxiv.org/abs/2605.15903)** Active Model B$^-$ from Mass-Conserving Reaction-Diffusion Systems (arXiv)
 
