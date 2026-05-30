@@ -11,11 +11,87 @@ categories: 2026may
 ===This week's pick===
 
 
-* Score : 
+* Score : 22823 
+
+**[2605.26245v1](https://arxiv.org/abs/2605.26245)** Preparing thermal states of frustrated quantum spin systems using 139 qubits (arXiv)
+
+* Score : 21245
+
+**[2605.25611v1](https://arxiv.org/abs/2605.25611)** On the Relation Between String Order Parameters, Entanglement, and Dynamical Quantum Phase Transitions in Topological Dynamics (arXiv)
+
+
+
+* Score : 20123
+
+**[2605.24720v1](https://arxiv.org/abs/2605.24720)** Quantum Printing: Laguerre-Gaussian Beam Induced Topological Magnetic Textures (arXiv)
+
+
+* Score : 19836
+
+**[2605.30206v1](https://arxiv.org/abs/2605.30206)** Induced nonlinear phase shift of forward volume spin waves in magnetic films and one-dimensional magnonic crystals (arXiv)
+
+
+* Score : 19620
+
+**[2605.28118v1](https://arxiv.org/abs/2605.28118)** Cascade of magnetic-field-induced quantum spin states in a spin-1 honeycomb magnet (arXiv)
+
+
+* Score : 19038
+
+**[2605.29595v1](https://arxiv.org/abs/2605.29595)** Revealing quantum metric multipoles in magnetic topological insulator MnBi2Te4 (arXiv)
+
+* Score : 18815
+
+**[2605.30173v1](https://arxiv.org/abs/2605.30173)** Coherent and Dissipative Spin Torques in Quantum Dots: A Unified Framework for Quantum Spin Dynamics (arXiv)
+
+
+* Score : 18299
+
+**[2605.23600v1](https://arxiv.org/abs/2605.23600)** Entanglement entropy across the dynamical phase transition in the quantum $\mathcal{O}(N)$ model (arXiv)
+
+* Score : 17295
+
+
+
+**[2605.27199v1](https://arxiv.org/abs/2605.27199)** Quantum fluctuations and chaos in fully connected spin models (arXiv)
+
+* Score : 17075
+
+
+**[2605.27166v1](https://arxiv.org/abs/2605.27166)** Quantum criticality and factorization in a constrained Rydberg spin chain (arXiv)
+
+
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+---
+05/30
+
+
+1. **[s42005-026-02698-1](https://www.nature.com/articles/s42005-026-02698-1)** Cyclic order superpositions enable quantum information transmission through completely depolarizing channels (Communications Physics)
+
+1. **[s42005-026-02701-9](https://www.nature.com/articles/s42005-026-02701-9)** Exploring the potential of molecular nanomagnets as quantum sensors of radiation (Communications Physics)
+
+1. **[s41586-026-10717-y](https://www.nature.com/articles/s41586-026-10717-y)** Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers (Nature)
+
+1. **[x4z2-f4gg](http://link.aps.org/doi/10.1103/x4z2-f4gg)** Layer Codes as Partially Self-Correcting Quantum Memories (PRL)
+
+1. **[9gnh-89jd](http://link.aps.org/doi/10.1103/9gnh-89jd)** Herglotz Lagrangian neural networks: Learning dissipative dynamics via contact variational principles (PRR)
+
+1. **[r8sv-6xmp](http://link.aps.org/doi/10.1103/r8sv-6xmp)** Straintronics and twistronics in bilayer graphene (PRR)
+
+1. **[wbvr-9z8t](http://link.aps.org/doi/10.1103/wbvr-9z8t)** Controlled buildup of half-quantized thermal conductance in an engineered chiral spin liquid platform (PRR)
+
+1. **[ytsp-xk3x](http://link.aps.org/doi/10.1103/ytsp-xk3x)** Spinor pairing order enforced by Berry phase (PRRL)
+
+
+
+
+
 
 ---
 05/29
@@ -91,7 +167,6 @@ categories: 2026may
 
 1. **[2605.29552v1](https://arxiv.org/abs/2605.29552)** Emergence of Dynamical Anisotropy induced by Demixing in a Binary System with Differential Diffusivity under an External Potential (arXiv)
 
-1. **[2605.29595v1](https://arxiv.org/abs/2605.29595)** Revealing quantum metric multipoles in magnetic topological insulator MnBi2Te4 (arXiv)
 
 1. **[2605.29597v1](https://arxiv.org/abs/2605.29597)** Disentangling Spin Pumping and Two-Magnon Scattering Contributions to Gilbert Damping in YIG/V Bilayers (arXiv)
 
@@ -159,7 +234,6 @@ categories: 2026may
 
 1. **[2605.30137v1](https://arxiv.org/abs/2605.30137)** Composition-dependent Thin-film Synthesis of Layered Ternary Iron Nitrides FeMN2 (M = W, Mo) (arXiv)
 
-1. **[2605.30173v1](https://arxiv.org/abs/2605.30173)** Coherent and Dissipative Spin Torques in Quantum Dots: A Unified Framework for Quantum Spin Dynamics (arXiv)
 
 1. **[2605.30185v1](https://arxiv.org/abs/2605.30185)** Theory of distribution skewness effect on polydisperse random close packing (arXiv)
 
@@ -167,7 +241,6 @@ categories: 2026may
 
 1. **[2605.30204v1](https://arxiv.org/abs/2605.30204)** Electron momentum densities from QSGW and $G^0W^0$: Revealing the role of many-body effects within the reduced density matrix (arXiv)
 
-1. **[2605.30206v1](https://arxiv.org/abs/2605.30206)** Induced nonlinear phase shift of forward volume spin waves in magnetic films and one-dimensional magnonic crystals (arXiv)
 
 1. **[2605.30240v1](https://arxiv.org/abs/2605.30240)** Electronic correlations driving Chirality-Induced Spin Selectivity (arXiv)
 
@@ -277,7 +350,6 @@ categories: 2026may
 
 1. **[2605.28117v1](https://arxiv.org/abs/2605.28117)** Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates (arXiv)
 
-1. **[2605.28118v1](https://arxiv.org/abs/2605.28118)** Cascade of magnetic-field-induced quantum spin states in a spin-1 honeycomb magnet (arXiv)
 
 1. **[2605.28171v1](https://arxiv.org/abs/2605.28171)** Search for high-pressure phases of yttrium via a data assimilation approach (arXiv)
 
@@ -522,7 +594,6 @@ categories: 2026may
 
 1. **[2605.27162v1](https://arxiv.org/abs/2605.27162)** Rapid estimation of synthesizability windows of inorganic materials from first principles (arXiv)
 
-1. **[2605.27166v1](https://arxiv.org/abs/2605.27166)** Quantum criticality and factorization in a constrained Rydberg spin chain (arXiv)
 
 1. **[2605.27179v1](https://arxiv.org/abs/2605.27179)** Impact of Stoichiometry of MoSi Thin Films for Enhanced Sensitivity of Superconducting Nanowire Single-Photon Detectors (arXiv)
 
@@ -532,7 +603,6 @@ categories: 2026may
 
 1. **[2605.27193v1](https://arxiv.org/abs/2605.27193)** Algebras of order parameters in one-dimensional spin systems (arXiv)
 
-1. **[2605.27199v1](https://arxiv.org/abs/2605.27199)** Quantum fluctuations and chaos in fully connected spin models (arXiv)
 
 1. **[2605.27201v1](https://arxiv.org/abs/2605.27201)** Electride States and Superconductivity in Dense Potassium Carbides (arXiv)
 
@@ -570,7 +640,6 @@ categories: 2026may
 
 1. **[2605.26224v1](https://arxiv.org/abs/2605.26224)** $S$-duality, boundary states, and higher-form symmetries on ALE spaces (arXiv)
 
-1. **[2605.26245v1](https://arxiv.org/abs/2605.26245)** Preparing thermal states of frustrated quantum spin systems using 139 qubits (arXiv)
 
 1. **[2605.26250v1](https://arxiv.org/abs/2605.26250)** Krylov Complexity in Periodically Driven CFTs and Critical Fermions (arXiv)
 
@@ -680,7 +749,6 @@ categories: 2026may
 
 1. **[2605.24594v1](https://arxiv.org/abs/2605.24594)** Ab-initio Crystal Structure Determination from Powder X-Ray Diffraction (arXiv)
 
-1. **[2605.24720v1](https://arxiv.org/abs/2605.24720)** Quantum Printing: Laguerre-Gaussian Beam Induced Topological Magnetic Textures (arXiv)
 
 1. **[2605.24747v1](https://arxiv.org/abs/2605.24747)** Redox behaviour of Fe impurities in BaTiO$_3$ based on many-body calculations (arXiv)
 
@@ -766,7 +834,7 @@ categories: 2026may
 
 1. **[2605.25606v1](https://arxiv.org/abs/2605.25606)** A sweeping twist defect as a topological flagellum that drives colloid motion (arXiv)
 
-1. **[2605.25611v1](https://arxiv.org/abs/2605.25611)** On the Relation Between String Order Parameters, Entanglement, and Dynamical Quantum Phase Transitions in Topological Dynamics (arXiv)
+
 
 1. **[2605.25654v1](https://arxiv.org/abs/2605.25654)** The evolution of pairing correlation with $3d_{z^{2}}$ electron filling in a bilayer two-orbital model for La$_3$Ni$_2$O$_7$ (arXiv)
 
@@ -993,7 +1061,6 @@ categories: 2026may
 
 1. **[2605.23476v1](https://arxiv.org/abs/2605.23476)** Non-normal spectral signatures of instability in neural network training dynamics (arXiv)
 
-1. **[2605.23600v1](https://arxiv.org/abs/2605.23600)** Entanglement entropy across the dynamical phase transition in the quantum $\mathcal{O}(N)$ model (arXiv)
 
 1. **[2605.23603v1](https://arxiv.org/abs/2605.23603)** Preisach Attention: A Hysteretic Model of Sequential Memory (arXiv)
 
