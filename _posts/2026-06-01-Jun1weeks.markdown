@@ -1,0 +1,224 @@
+---
+layout: post
+title:  "weekly picks (Jun 1 week 2026)"
+date:   2026-06-01 00:16:27
+categories: 2026jun
+---
+
+{% include image.html url="/images/2026jun1weeks.png" caption="A WordCloud of 2026 June 1st week collection" width=300 align="center" %}
+
+
+===This week's pick===
+
+
+* Score : 
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+
+---
+06/01
+
+
+
+1. **[2605.30421v1](https://arxiv.org/abs/2605.30421)** Topological Phenomena Protected by Diabolical Textures (arXiv)
+
+1. **[2605.30495v1](https://arxiv.org/abs/2605.30495)** Kinetic phase transition modeling for metals (arXiv)
+
+1. **[2605.30575v1](https://arxiv.org/abs/2605.30575)** Observation and Control of the Magnetic Photogalvanic Effect from Strongly Bound Excitons (arXiv)
+
+1. **[2605.30584v1](https://arxiv.org/abs/2605.30584)** Symmetry-Resolved Second Harmonic Generation in Quantum and Functional Materials (arXiv)
+
+1. **[2605.30627v1](https://arxiv.org/abs/2605.30627)** Deterministic fabrication of large-area, high-crystallinity oxide moire superlattices (arXiv)
+
+1. **[2605.30682v1](https://arxiv.org/abs/2605.30682)** Simulations of dislocation dynamics on an atomic lattice: the effect of collision rules (arXiv)
+
+1. **[2605.30735v1](https://arxiv.org/abs/2605.30735)** Tensor gradient flow for rod-like liquid crystals from molecular model with closure approximation by quasi-entropy (arXiv)
+
+1. **[2605.30746v1](https://arxiv.org/abs/2605.30746)** Superconductor-"Metal" Transition of One-dimensional Interacting Bosons with Ohmic Quantum Dissipation (arXiv)
+
+1. **[2605.30752v1](https://arxiv.org/abs/2605.30752)** Ni-O hybridization-driven electronic reconstruction across the superconducting dome in an infinite-layer nickelate (arXiv)
+
+1. **[2605.30760v1](https://arxiv.org/abs/2605.30760)** Bending-like stress induced by solder joint under uniaxial tensile testing in 2G-HTS tapes: Impact and optimization approach (arXiv)
+
+1. **[2605.30822v1](https://arxiv.org/abs/2605.30822)** Using graph neural networks to predict many-body interactions in amorphous materials (arXiv)
+
+1. **[2605.30847v1](https://arxiv.org/abs/2605.30847)** Terahertz Electrodynamics and Kinetic Inductance of Disordered Titanium-Vanadium Alloy Thin Films (arXiv)
+
+1. **[2605.30868v1](https://arxiv.org/abs/2605.30868)** Living Helices in Fluctuating Polymer Chains: Cooperative Nucleation, Dynamics, and Lifetime (arXiv)
+
+1. **[2605.30881v1](https://arxiv.org/abs/2605.30881)** Spin Hall effect in two-dimensional materials with inverted bands and Mexican-hat dispersion (arXiv)
+
+1. **[2605.30887v1](https://arxiv.org/abs/2605.30887)** Activity-Enhanced Ordering in Fluctuation-Induced First-Order Transitions (arXiv)
+
+1. **[2605.30909v1](https://arxiv.org/abs/2605.30909)** Pure Spin Photocurrent in Altermagnetic Photovoltaic Battery (arXiv)
+
+1. **[2605.30948v1](https://arxiv.org/abs/2605.30948)** Competing heterogeneities shape ordering via higher-order interactions (arXiv)
+
+1. **[2605.30978v1](https://arxiv.org/abs/2605.30978)** Parity-induced generalized Brillouin zone without non-Hermitian skin effect (arXiv)
+
+1. **[2605.30986v1](https://arxiv.org/abs/2605.30986)** Dimensionality of a strongly interacting 2D-3D Fermi-Fermi mixture from the perspective of superfluid instability and excitation properties (arXiv)
+
+1. **[2605.31037v1](https://arxiv.org/abs/2605.31037)** Spin-Spiral Enhancement of Ultrafast Light-Polarization-Robust Magnetization (arXiv)
+
+1. **[2605.31078v1](https://arxiv.org/abs/2605.31078)** Finite-inertia effects in Langevin dynamics of a lopsided elastic dumbbell using exponential-time differencing schemes (arXiv)
+
+1. **[2605.31107v1](https://arxiv.org/abs/2605.31107)** Clustering in atom probe tomography data: coordination number metric, percolation-based parameter scaling, and size effects (arXiv)
+
+1. **[2605.31112v1](https://arxiv.org/abs/2605.31112)** Functional methods for quantum thermodynamics (arXiv)
+
+1. **[2605.31118v1](https://arxiv.org/abs/2605.31118)** Complex Magnetic Behavior of the Ce sawtooth chains in CeRhSn$_2$ (arXiv)
+
+1. **[2605.31144v1](https://arxiv.org/abs/2605.31144)** A Self-Evolving Machine-Learning-Based Kinetic Monte Carlo Method for Modelling Thin-Film Growth (arXiv)
+
+1. **[2605.31166v1](https://arxiv.org/abs/2605.31166)** The geometry of the CISS effect (arXiv)
+
+1. **[2605.31185v1](https://arxiv.org/abs/2605.31185)** A charge qubit on solid neon in a spin-qubit compatible circuit QED platform (arXiv)
+
+1. **[2605.31195v1](https://arxiv.org/abs/2605.31195)** Topological Interstitial-Electron Conductor (arXiv)
+
+1. **[2605.31197v1](https://arxiv.org/abs/2605.31197)** Surface lone-pair polarization probed by quantum-geometric transport in tellurium (arXiv)
+
+1. **[2605.31207v1](https://arxiv.org/abs/2605.31207)** Cover time statistics of one-dimensional Brownian motion under stochastic resetting (arXiv)
+
+1. **[2605.31240v1](https://arxiv.org/abs/2605.31240)** Emergence of spin entanglement with the pseudogap onset in the Fermi-Hubbard model (arXiv)
+
+1. **[2605.31252v1](https://arxiv.org/abs/2605.31252)** Magnetic domains reconfiguration on the Fe3O4(110) surface across the Verwey transition by Spin-Polarized Low-Energy Electron Microscopy (arXiv)
+
+1. **[2605.31258v1](https://arxiv.org/abs/2605.31258)** Droplets sitting on thin elastic sheets: A study with the boundary element method (arXiv)
+
+1. **[2605.31263v1](https://arxiv.org/abs/2605.31263)** Valley-polarized Orbital and Spin Magnetism Induced by Femtosecond Optical Pulses in Two-Dimensional Semiconductors (arXiv)
+
+1. **[2605.31303v1](https://arxiv.org/abs/2605.31303)** A Practical Guide for Diagnosing Imaginary Phonon Modes in Metal--Organic Frameworks: The Case of MOF-5 (arXiv)
+
+1. **[2605.31307v1](https://arxiv.org/abs/2605.31307)** Feasibility study of continuous electronic Pomeranchuk cooling with a flavor-degenerate Wigner crystal (arXiv)
+
+1. **[2605.31342v1](https://arxiv.org/abs/2605.31342)** Co-optimization of spin coherence and valley splitting in Si/SiGe heterostructures (arXiv)
+
+1. **[2605.31395v1](https://arxiv.org/abs/2605.31395)** Direct Observation of Chemical Short-Range Order in CoCrNi Alloy Using Neutron Diffraction (arXiv)
+
+1. **[2605.31447v1](https://arxiv.org/abs/2605.31447)** Strain-Engineered s-C$_3$N$_6$ Monolayer for Efficient Water Splitting: A first-principles study (arXiv)
+
+1. **[2605.31459v1](https://arxiv.org/abs/2605.31459)** What controls the superconducting dome of electron-doped FeSe? (arXiv)
+
+1. **[2605.31462v1](https://arxiv.org/abs/2605.31462)** Cooperative Conformational Transitions in Macromolecules under Mechanical Stretching. An Exactly Solved Model for Single Molecule Experiments (arXiv)
+
+1. **[2605.31467v1](https://arxiv.org/abs/2605.31467)** Ab Initio Spinor Kadanoff-Baym Approach to Nonequilibrium Electron, Phonon and Magnon Dynamics in Itinerant Ferromagnets (arXiv)
+
+1. **[2605.31501v1](https://arxiv.org/abs/2605.31501)** Kohn-Luttinger Superconductivity of Weyl Fermi Arcs in PtBi$_2$ (arXiv)
+
+1. **[2605.31532v1](https://arxiv.org/abs/2605.31532)** Discovering Thermodynamically Admissible Dissipation Potentials via Grammar-Based Symbolic Regression (arXiv)
+
+1. **[2605.31537v1](https://arxiv.org/abs/2605.31537)** Nonperturbative renormalization of Haldane pseudopotentials from the exact two-electron spectrum (arXiv)
+
+1. **[2605.31592v1](https://arxiv.org/abs/2605.31592)** Floquet Engineering of Quantum Transport through two Driven Impurities (arXiv)
+
+1. **[2605.31601v1](https://arxiv.org/abs/2605.31601)** Twin Phases: Phase Transitions Without Hidden Symmetry Breaking (arXiv)
+
+1. **[2605.30425v1](https://arxiv.org/abs/2605.30425)** Dually tunable YBCO coplanar waveguide resonators based on helium-ion-generated Josephson inductances (arXiv)
+
+1. **[2605.30768v1](https://arxiv.org/abs/2605.30768)** Geometric dependence of critical-current variation in Al/AlO${\rm _x}$/Al Josephson junctions: a model-based analysis (arXiv)
+
+1. **[2605.31009v1](https://arxiv.org/abs/2605.31009)** Explicit Turn Resolution with Anisotropic Homogenisation for Efficient 3D Magneto-Thermal Finite-Element Simulation of Large-Scale No-Insulation HTS Magnets (arXiv)
+
+1. **[2605.31350v1](https://arxiv.org/abs/2605.31350)** Optimisation and Precision Tuning of Localised Surface Plasmon Resonance in AuFON Systems (arXiv)
+
+1. **[2605.31374v1](https://arxiv.org/abs/2605.31374)** Multi-point functions of a full-plane two-state fuzzy $4$-Potts model (arXiv)
+
+1. **[2605.31472v1](https://arxiv.org/abs/2605.31472)** (Non-)Traversable Quantum Phase Transitions (arXiv)
+
+1. **[2605.31582v1](https://arxiv.org/abs/2605.31582)** Richardson-Gaudin states of non-zero seniority III: The Perfect-Pairing limit (arXiv)
+
+
+
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
