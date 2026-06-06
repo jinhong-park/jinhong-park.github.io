@@ -11,12 +11,74 @@ categories: 2026jun
 ===This week's pick===
 
 
-* Score : 
+* Score : 22854
+
+
+**[2606.03897v1](https://arxiv.org/abs/2606.03897)** Parametrically induced strong coupling between a superconducting quantum circuit and a solid-state spin ensemble (arXiv)
+
+* Score : 20549
+
+
+**[2606.01716v1](https://arxiv.org/abs/2606.01716)** Doping- and temperature-dependent electronic structure and spin dynamics in the Hubbard model on a square lattice within cluster perturbation theory (arXiv)
+
+
+* Score : 18984
+
+**[2606.02501v1](https://arxiv.org/abs/2606.02501)** Electrical observation via spin Seebeck effect of fractionalized excitations in a magnetic insulator (arXiv)
+
+
+
+* Score : 18629
+
+**[2606.03082v1](https://arxiv.org/abs/2606.03082)** Magnetic Symmetries and the Structure of Correlation Functions in Quantum Field Theory (arXiv)
+
+
+* Score : 17708
+
+**[2606.00824v1](https://arxiv.org/abs/2606.00824)** Quantum control of spin qubits using SOT-driven nanomagnets (arXiv)
+
+
+* Score : 16135
+
+**[2606.01938v1](https://arxiv.org/abs/2606.01938)** Magnetic control of electron scattering in silicene quantum dots (arXiv)
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+---
+06/06
+
+
+1. **[s41467-026-74177-8](https://www.nature.com/articles/s41467-026-74177-8)** Grain boundary engineered aluminum current collector for energy-dense initially anode-free sodium metal batteries (Nature Communications)
+
+1. **[s41567-026-03290-8](https://www.nature.com/articles/s41567-026-03290-8)** Superconductivity on two surfaces (Nature Physics)
+
+1. **[s41567-026-03277-5](https://www.nature.com/articles/s41567-026-03277-5)** Superconductivity from dual-surface carriers in rhombohedral graphene (Nature Physics)
+
+1. **[s41563-026-02626-2](https://www.nature.com/articles/s41563-026-02626-2)** High impact resistance in a high-entropy alloy with thermally stable hierachical heterostructures (Nature Materials)
+
+1. **[mwxx-ln9v](http://link.aps.org/doi/10.1103/mwxx-ln9v)** Testing Genuine Multipartite Nonlocality via an Inflated Network with Multicopy Entangled States (PRL)
+
+1. **[hspm-dwkn](http://link.aps.org/doi/10.1103/hspm-dwkn)** Ultracold Neutron Energy Spectrum and Storage Properties from Magnetically Induced Spin Depolarization (PRL)
+
+1. **[fsmh-dz71](http://link.aps.org/doi/10.1103/fsmh-dz71)** Programmable Assembly of Ground State Fermionic Tweezer Arrays (PRL)
+
+1. **[dbs8-g68w](http://link.aps.org/doi/10.1103/dbs8-g68w)** Acoustic Analogy of Quantum Baldin Sum Rule for Optimal Causal Scattering (PRL)
+
+1. **[9y2v-ybdb](http://link.aps.org/doi/10.1103/9y2v-ybdb)** Persistence of the Berezinskii-Kosterlitz-Thouless Transition with Long-Range Couplings (PRL)
+
+1. **[nphy-ybx6](http://link.aps.org/doi/10.1103/nphy-ybx6)** Optimal work control for an activity-driven odd tracer in a viscoelastic bath (PRR)
+
+1. **[1mc9-k683](http://link.aps.org/doi/10.1103/1mc9-k683)** Loop-gap resonators achieving strong magnon-photon coupling in magnetic insulator thin films (PRR)
+
+1. **[wy1x-3px8](http://link.aps.org/doi/10.1103/wy1x-3px8)** Reducibility of higher-order to pairwise interactions: Social impact models on hypergraphs (PRR)
+
+1. **[qvg7-mr18](http://link.aps.org/doi/10.1103/qvg7-mr18)** Reproducible nucleation and control of stable quantum vortex rings in Bose-Einstein condensates (PRRL)
+
 
 
 
@@ -375,7 +437,7 @@ categories: 2026jun
 
 1. **[2606.02954v1](https://arxiv.org/abs/2606.02954)** AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.8 GW/cm2 (arXiv)
 
-1. **[2606.03082v1](https://arxiv.org/abs/2606.03082)** Magnetic Symmetries and the Structure of Correlation Functions in Quantum Field Theory (arXiv)
+
 
 1. **[2606.03217v1](https://arxiv.org/abs/2606.03217)** An Asymptotic Theory of Chain-of-Thought in In-Context Learning (arXiv)
 
@@ -389,7 +451,6 @@ categories: 2026jun
 
 1. **[2606.03859v1](https://arxiv.org/abs/2606.03859)** Subspace-selective unitary manipulation based on the Hilbert-space symmetric structures in the multiple-quantum operator algebra spaces in the quantum-computing speedup theory (arXiv)
 
-1. **[2606.03897v1](https://arxiv.org/abs/2606.03897)** Parametrically induced strong coupling between a superconducting quantum circuit and a solid-state spin ensemble (arXiv)
 
 1. **[2606.03916v1](https://arxiv.org/abs/2606.03916)** Practical gates by Majorana fermion motion (arXiv)
 
@@ -505,7 +566,7 @@ categories: 2026jun
 
 1. **[2606.00785v1](https://arxiv.org/abs/2606.00785)** Compressibility and High-Pressure Structure of CaMg$_2$Bi$_2$ and YbMg$_2$Bi$_2$ (arXiv)
 
-1. **[2606.00824v1](https://arxiv.org/abs/2606.00824)** Quantum control of spin qubits using SOT-driven nanomagnets (arXiv)
+
 
 1. **[2606.00849v1](https://arxiv.org/abs/2606.00849)** Ultrafast formation of a large dynamic magnetic soliton (arXiv)
 
@@ -553,7 +614,6 @@ categories: 2026jun
 
 1. **[2606.01712v1](https://arxiv.org/abs/2606.01712)** Negative Interaction Quench Dynamics of Density-Ordered Dipolar Bosons in a One-Dimensional Optical Lattice (arXiv)
 
-1. **[2606.01716v1](https://arxiv.org/abs/2606.01716)** Doping- and temperature-dependent electronic structure and spin dynamics in the Hubbard model on a square lattice within cluster perturbation theory (arXiv)
 
 1. **[2606.01728v1](https://arxiv.org/abs/2606.01728)** Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems (arXiv)
 
@@ -579,7 +639,6 @@ categories: 2026jun
 
 1. **[2606.01880v1](https://arxiv.org/abs/2606.01880)** Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics (arXiv)
 
-1. **[2606.01938v1](https://arxiv.org/abs/2606.01938)** Magnetic control of electron scattering in silicene quantum dots (arXiv)
 
 1. **[2606.01978v1](https://arxiv.org/abs/2606.01978)** Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport (arXiv)
 
@@ -645,7 +704,6 @@ categories: 2026jun
 
 1. **[2606.02489v1](https://arxiv.org/abs/2606.02489)** Thouless Pumping of Large Chern Numbers in Optical Floquet Quasicrystals (arXiv)
 
-1. **[2606.02501v1](https://arxiv.org/abs/2606.02501)** Electrical observation via spin Seebeck effect of fractionalized excitations in a magnetic insulator (arXiv)
 
 1. **[2606.02507v1](https://arxiv.org/abs/2606.02507)** Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design (arXiv)
 
