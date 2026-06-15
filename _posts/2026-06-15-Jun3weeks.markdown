@@ -1,0 +1,225 @@
+---
+layout: post
+title:  "weekly picks (Jun 3 week 2026)"
+date:   2026-06-15 00:16:27
+categories: 2026jun
+---
+
+{% include image.html url="/images/2026jun3weeks.png" caption="A WordCloud of 2026 June 3rd week collection" width=300 align="center" %}
+
+
+===This week's pick===
+
+
+* Score : 
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+---
+06/15
+
+
+
+1. **[2606.13721v1](https://arxiv.org/abs/2606.13721)** Controlling Defects and Probing Dynamics in Active Nematics with Deep Reinforcement Learning (arXiv)
+
+1. **[2606.13765v1](https://arxiv.org/abs/2606.13765)** Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors (arXiv)
+
+1. **[2606.13772v1](https://arxiv.org/abs/2606.13772)** Digital programming of spin correlations in a fermionic lattice quantum simulator (arXiv)
+
+1. **[2606.13805v1](https://arxiv.org/abs/2606.13805)** Enhancement of spin current in Fe$_{85}$Co$_{15}$/Ni$_{80}$Fe$_{20}$ bilayers via interlayer ferromagnetic coupling (arXiv)
+
+1. **[2606.13828v1](https://arxiv.org/abs/2606.13828)** Observation of intertwined charge density wave order and superconductivity in Janus monolayer (arXiv)
+
+1. **[2606.13830v1](https://arxiv.org/abs/2606.13830)** A Collective-Spin Derivation of the Uniform Magnon Hamiltonian in Cavity Magnonics (arXiv)
+
+1. **[2606.13831v1](https://arxiv.org/abs/2606.13831)** Combining Frozen Trajectory Excitation and TACAW for in silico Time-Resolved Vibrational Electron Energy Loss/Gain Spectroscopy (arXiv)
+
+1. **[2606.13833v1](https://arxiv.org/abs/2606.13833)** Machine-learned dynamics of surface polarons at reduced oxide surfaces (arXiv)
+
+1. **[2606.13869v1](https://arxiv.org/abs/2606.13869)** DFTB coupled with NEGF study of the structural, electronic and transport properties of goldene 2D material (arXiv)
+
+1. **[2606.13912v1](https://arxiv.org/abs/2606.13912)** Direct/adaptive-mixture phase-gradient learning for neural-network quantum states with complex phase structure (arXiv)
+
+1. **[2606.13972v1](https://arxiv.org/abs/2606.13972)** Mean-field theory of myopic self-avoiding fractional Brownian motion (arXiv)
+
+1. **[2606.14003v1](https://arxiv.org/abs/2606.14003)** XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models (arXiv)
+
+1. **[2606.14051v1](https://arxiv.org/abs/2606.14051)** Symmetry of the critical current function in superconducting nanodevices (arXiv)
+
+1. **[2606.14055v1](https://arxiv.org/abs/2606.14055)** General Theory for Ferroelectric Control of Spin Splitting in Collinear Antiferromagnets (arXiv)
+
+1. **[2606.14075v1](https://arxiv.org/abs/2606.14075)** Field-selective criticality in 2D melting revealed by multi-field Lee-Yang zeros (arXiv)
+
+1. **[2606.14101v1](https://arxiv.org/abs/2606.14101)** Altermagnetism and bond-nematicity in the spin-$1/2$ square lattice $J_1-J_2-\delta$ model (arXiv)
+
+1. **[2606.14103v1](https://arxiv.org/abs/2606.14103)** Interface-engineered oxidation-resistant wafer-level Tantalum-Tantalum thermocompression bonding for 3D integration of superconducting interconnects (arXiv)
+
+1. **[2606.14118v1](https://arxiv.org/abs/2606.14118)** Probing Structure and Ionic Transport in Molten Lithium Carbonate (arXiv)
+
+1. **[2606.14133v1](https://arxiv.org/abs/2606.14133)** Diffusion-driven autocatalytic dynamics on a sphere (arXiv)
+
+1. **[2606.14183v1](https://arxiv.org/abs/2606.14183)** The Structure-tuning Magnetism in the Co(NbxTa1-x)2O6 Series (arXiv)
+
+1. **[2606.14196v1](https://arxiv.org/abs/2606.14196)** Ferromagnetic Order of Reduced Magnetic Moments in a Frustrated Sawtooth Chain of the Magnetic Semiconductor ZnYb$_2$S$_4$ (arXiv)
+
+1. **[2606.14231v1](https://arxiv.org/abs/2606.14231)** Spin mixing induced dynamics of spinor solitons in $F=1$ Bose Einstein condensates (arXiv)
+
+1. **[2606.14246v1](https://arxiv.org/abs/2606.14246)** $p$-wave magnet and hedgehog-type Berry curvature in helimagnetic MnAu$_2$ (arXiv)
+
+1. **[2606.14272v1](https://arxiv.org/abs/2606.14272)** Pronounced in-plane anomalous Hall effect with vanishing out-of-plane response in Cr1.2Te2 (arXiv)
+
+1. **[2606.14338v1](https://arxiv.org/abs/2606.14338)** Mass-imbalanced two-dimensional Bose-Fermi mixtures with boson-fermion pairing (arXiv)
+
+1. **[2606.14352v1](https://arxiv.org/abs/2606.14352)** Modeling light-matter coupled systems with neural quantum states (arXiv)
+
+1. **[2606.14374v1](https://arxiv.org/abs/2606.14374)** Bond-operator analytical approach for the $t$-$J$ model (arXiv)
+
+1. **[2606.14378v1](https://arxiv.org/abs/2606.14378)** Multistate Manipulation of Charge-Spin Conversion in Two-Dimensional Ferroelectric Bilayers (arXiv)
+
+1. **[2606.14424v1](https://arxiv.org/abs/2606.14424)** Strain- and doping-tunable optical resonance in Kekul\'e-Y graphene (arXiv)
+
+1. **[2606.14425v1](https://arxiv.org/abs/2606.14425)** SmoQyElPhQMC.jl: An open-source Julia package for efficient and scalable quantum Monte Carlo simulations of electron-phonon coupled models (arXiv)
+
+1. **[2606.14431v1](https://arxiv.org/abs/2606.14431)** On-chip superconducting GHz RF reflectometry of the capacitance response in bilayer graphene (arXiv)
+
+1. **[2606.14483v1](https://arxiv.org/abs/2606.14483)** Generic nonlocal statistics of the stationary measure in conserved active systems (arXiv)
+
+1. **[2606.14487v1](https://arxiv.org/abs/2606.14487)** Spin-orbit coupling by design in quantum state engineering of atomically defined quantum dots (arXiv)
+
+1. **[2606.14519v1](https://arxiv.org/abs/2606.14519)** Extending Covariant Fluctuation Theorems into Quantum Regime through Quasiprobability Approach (arXiv)
+
+1. **[2606.14542v1](https://arxiv.org/abs/2606.14542)** Boltzmann-Like Occupation of Nonequilibrium Steady States on Dense Networks (arXiv)
+
+1. **[2606.14545v1](https://arxiv.org/abs/2606.14545)** First-principles calculations of internal conversion processes in spin defects (arXiv)
+
+1. **[2606.14588v1](https://arxiv.org/abs/2606.14588)** Tailoring the properties of YBa$_{2}$Cu$_{3}$O$_{7-\delta}$ thin films by 30 keV He$^+$ irradiation: An enabling route to superconducting device nanopatterning (arXiv)
+
+1. **[2606.14590v1](https://arxiv.org/abs/2606.14590)** Lattice dynamics and the spectroscopic signatures of H-bond disorder in $\delta$-AlOOH (arXiv)
+
+1. **[2606.14635v1](https://arxiv.org/abs/2606.14635)** Open Wilson chain numerical renormalization group approach to steady-state non-equilibrium quantum transport (arXiv)
+
+1. **[2606.14683v1](https://arxiv.org/abs/2606.14683)** Quantum geometrical description of hole spin qubits far away from the $\Gamma$-point (arXiv)
+
+1. **[2606.14685v1](https://arxiv.org/abs/2606.14685)** Monolithic hybrid quantum dot devices in superconducting twisted bilayer graphene (arXiv)
+
+1. **[2606.13750v1](https://arxiv.org/abs/2606.13750)** Tantalum as a base material for superconducting integrated circuits (arXiv)
+
+1. **[2606.13778v1](https://arxiv.org/abs/2606.13778)** Resurgence of the Thermal Transition between Bounce and Sphaleron (arXiv)
+
+1. **[2606.13792v1](https://arxiv.org/abs/2606.13792)** RG Dynamics of Irrelevant Fermion Operators and the Drag Coupling Mechanism (arXiv)
+
+1. **[2606.13857v1](https://arxiv.org/abs/2606.13857)** Local correlations in long-range dual-unitary kicked Hamiltonian chains (arXiv)
+
+1. **[2606.13890v1](https://arxiv.org/abs/2606.13890)** Mean First Passage Time for Persistent Random Walks in Annular Search Domains (arXiv)
+
+1. **[2606.13961v1](https://arxiv.org/abs/2606.13961)** An integrated ultrahigh vacuum cluster tool for diamond surface science and single nitrogen-vacancy center measurements (arXiv)
+
+1. **[2606.14034v1](https://arxiv.org/abs/2606.14034)** All about quantum error correction: distillation, mitigation, self-correction and beyond (arXiv)
+
+1. **[2606.14073v1](https://arxiv.org/abs/2606.14073)** Extreme-Scale Atomistic Simulation of Real-Temperature Magnetic Skyrmion Dynamics by Coupled Spin-Lattice Modeling (arXiv)
+
+1. **[2606.14140v1](https://arxiv.org/abs/2606.14140)** Quantum Entanglement of Bethe States (arXiv)
+
+1. **[2606.14174v1](https://arxiv.org/abs/2606.14174)** Universal Construction of Generalized Lyapunov Functions for Nonlinear Dynamical Systems Using Physics-Informed Neural Networks (arXiv)
+
+1. **[2606.14177v1](https://arxiv.org/abs/2606.14177)** Dynamically frozen long-distance entanglement via non-Hermitian PT-symmetric systems (arXiv)
+
+1. **[2606.14331v1](https://arxiv.org/abs/2606.14331)** Wealth Inequality and Planetary Boundaries in a Stylized Agent-Based Model (arXiv)
+
+1. **[2606.14348v1](https://arxiv.org/abs/2606.14348)** Detecting Historical Turning Points in Italian Media: A Complex Systems Approach to a Diachronic News Corpus (arXiv)
+
+1. **[2606.14526v1](https://arxiv.org/abs/2606.14526)** Dissipation-induced superradiance in matter coupled to a self-interacting cavity (arXiv)
+
+1. **[2606.14577v1](https://arxiv.org/abs/2606.14577)** Trap-Quenched Matter-Wave Optics for Dual Species Lensing (arXiv)
+
+1. **[2606.14583v1](https://arxiv.org/abs/2606.14583)** Wave turbulence theory of odd fluids and solids: kinetic equations and solutions (arXiv)
+
+1. **[2606.14624v1](https://arxiv.org/abs/2606.14624)** Spin disorder competing with positional symmetry breaking governs the metal-insulator behavior in oxide paramagnets (arXiv)
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
