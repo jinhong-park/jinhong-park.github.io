@@ -11,13 +11,81 @@ categories: 2026jun
 ===This week's pick===
 
 
-* Score : 
+* Score : 18742
+
+
+**[2607.00630v1](https://arxiv.org/abs/2607.00630)** Quench of chiral superconductivity by quantum phase fluctuations in twisted cuprate bilayers (arXiv)
+
+* Score : 17800
+
+**[2606.28219v1](https://arxiv.org/abs/2606.28219)** Higher dimensional quantum Hall effect and the analog of $W_\infty$-algebra (arXiv)
+
+* Score : 17750
+
+**[s41563-026-02649-9](https://www.nature.com/articles/s41563-026-02649-9)** Fractional quantum anomalous Hall effect in moiré fractional Chern insulators (Nature Materials)
+
+
+* Score : 17651
+
+**[2606.28846v1](https://arxiv.org/abs/2606.28846)** Interplay of Electrode Coupling Engineering, Quasiperiodicity, and Magnetic Flux in Quantum Transport through a Su-Schrieffer-Heeger Ring (arXiv)
+
+
+
+* Score : 17607
+
+**[2606.31663v1](https://arxiv.org/abs/2606.31663)** Activated dynamics in the quantum random field Ising model (arXiv)
+
+* Score : 17318
+
+
+**[2607.01994v1](https://arxiv.org/abs/2607.01994)** False vacuum decay in a two-dimensional quantum spin system (arXiv)
+
+* Score : 17160
+
+
+**[2607.01947v1](https://arxiv.org/abs/2607.01947)** Fermiology and spin polarization of topological surface states in PtBi$_2$ (arXiv)
+
+* Score : 16216
+
+**[2606.29266v1](https://arxiv.org/abs/2606.29266)** Time-local nonequilibrium Green's function method for real-time dynamics in quantum systems coupled to superconducting leads (arXiv)
+
+
+* Score : 16070
+
+
+**[2607.00271v1](https://arxiv.org/abs/2607.00271)** Valley-dependent electron optics using quantum dots in bilayer graphene (arXiv)
+
+
+* Score : 15983
+
+**[s41563-026-02647-x](https://www.nature.com/articles/s41563-026-02647-x)** Electron–phonon coupling and symmetry breaking in superconducting oxide interfaces near ferroelectric quantum criticality (Nature Materials)
+
+* Score : 15328
+
+**[2606.30245v1](https://arxiv.org/abs/2606.30245)** Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation (arXiv)
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
 
 
+
+
+
+
+---
+07/04
+
+1. **[s42005-026-02734-0](https://www.nature.com/articles/s42005-026-02734-0)** Multi-qubit entanglement and quantum processing within ququart (Communications Physics)
+
+1. **[s42005-026-02737-x](https://www.nature.com/articles/s42005-026-02737-x)** Reversible macroscopic polarization in self-intercalated metals via spin-mediated magneto-electro-elastic coupling (Communications Physics)
+
+1. **[s41563-026-02636-0](https://www.nature.com/articles/s41563-026-02636-0)** Excitons in van der Waals magnetic materials (Nature Materials)
+
+
+1. **[s41563-026-02670-y](https://www.nature.com/articles/s41563-026-02670-y)** Single-crystal-like polymer semiconductors via self-templated gradient assembly for ultrahigh charge carrier mobility (Nature Materials)
+
+1. **[s41563-026-02659-7](https://www.nature.com/articles/s41563-026-02659-7)** High-Chern-number orbital magnetism in twisted rhombohedral graphene (Nature Materials)
 
 
 
@@ -65,8 +133,6 @@ categories: 2026jun
 1. **[2607.01863v1](https://arxiv.org/abs/2607.01863)** Elastic Modulus in One-Dimensional Quantum Droplets (arXiv)
 
 1. **[2607.01888v1](https://arxiv.org/abs/2607.01888)** Interaction-rotation driven localization-delocalization of eigenstate in Fock space: An exact diagonalization study on trapped Bose gas (arXiv)
-
-1. **[2607.01947v1](https://arxiv.org/abs/2607.01947)** Fermiology and spin polarization of topological surface states in PtBi$_2$ (arXiv)
 
 1. **[2607.01948v1](https://arxiv.org/abs/2607.01948)** Curvature-driven wall accumulation in chiral active particles (arXiv)
 
@@ -156,8 +222,6 @@ categories: 2026jun
 
 1. **[2607.01620v1](https://arxiv.org/abs/2607.01620)** Identical-Particle Symmetry-Enabled Complete Coherent Control of Ultracold Atomic and Molecular Collisions (arXiv)
 
-1. **[2607.01994v1](https://arxiv.org/abs/2607.01994)** False vacuum decay in a two-dimensional quantum spin system (arXiv)
-
 1. **[2607.02054v1](https://arxiv.org/abs/2607.02054)** Undamped Modes in an N-Qubit Heisenberg Chain with Collective Dissipation (arXiv)
 
 1. **[2607.02093v1](https://arxiv.org/abs/2607.02093)** Open-boundary integrable quantum circuits with different geometries (arXiv)
@@ -227,7 +291,6 @@ categories: 2026jun
 
 1. **[2607.00203v1](https://arxiv.org/abs/2607.00203)** Dominant-pair free energies predict phase selection in high-entropy alloys (arXiv)
 
-1. **[2607.00271v1](https://arxiv.org/abs/2607.00271)** Valley-dependent electron optics using quantum dots in bilayer graphene (arXiv)
 
 1. **[2607.00343v1](https://arxiv.org/abs/2607.00343)** Universal Scaling of the Spin Hall Effect (arXiv)
 
@@ -253,7 +316,6 @@ categories: 2026jun
 
 1. **[2607.00614v1](https://arxiv.org/abs/2607.00614)** In vacuo synthesis of single-layer Ni3(HITP)2 on HOPG surface using metallo-organic precursor (arXiv)
 
-1. **[2607.00630v1](https://arxiv.org/abs/2607.00630)** Quench of chiral superconductivity by quantum phase fluctuations in twisted cuprate bilayers (arXiv)
 
 1. **[2607.00648v1](https://arxiv.org/abs/2607.00648)** Double-pulse control of all optical magnetization reversal in Tb/Co multilayers (arXiv)
 
@@ -384,7 +446,6 @@ categories: 2026jun
 
 1. **[s41563-026-02594-7](https://www.nature.com/articles/s41563-026-02594-7)** Boundary geometry controls a topological defect transition that determines lumen nucleation in embryonic development (Nature Materials)
 
-1. **[s41563-026-02647-x](https://www.nature.com/articles/s41563-026-02647-x)** Electron–phonon coupling and symmetry breaking in superconducting oxide interfaces near ferroelectric quantum criticality (Nature Materials)
 
 1. **[crcq-spv4](http://link.aps.org/doi/10.1103/crcq-spv4)** First Galaxy Ultraviolet Luminosity Function Limits on Dark Matter–Proton Scattering (PRL)
 
@@ -514,7 +575,6 @@ categories: 2026jun
 
 1. **[2606.31659v1](https://arxiv.org/abs/2606.31659)** Universal scaling of many-body effects in quantum tunneling (arXiv)
 
-1. **[2606.31663v1](https://arxiv.org/abs/2606.31663)** Activated dynamics in the quantum random field Ising model (arXiv)
 
 1. **[2606.31667v1](https://arxiv.org/abs/2606.31667)** Suppressing Parametric Instabilities in Driven Bosonic Lattices through Multi-tone Control (arXiv)
 
@@ -678,7 +738,6 @@ categories: 2026jun
 
 1. **[2606.28836v1](https://arxiv.org/abs/2606.28836)** Survival of the metallic state in a single-hole multiband $p$-orbital molecular system (arXiv)
 
-1. **[2606.28846v1](https://arxiv.org/abs/2606.28846)** Interplay of Electrode Coupling Engineering, Quasiperiodicity, and Magnetic Flux in Quantum Transport through a Su-Schrieffer-Heeger Ring (arXiv)
 
 1. **[2606.28855v1](https://arxiv.org/abs/2606.28855)** Nonequilibrium electron-phonon dynamics with high momentum resolution: Thermalization bottlenecks and the effects of phonon dispersion (arXiv)
 
@@ -722,7 +781,6 @@ categories: 2026jun
 
 1. **[2606.29262v1](https://arxiv.org/abs/2606.29262)** Electron Delocalization versus Emission Coherence of Quantum Dot Superlattices (arXiv)
 
-1. **[2606.29266v1](https://arxiv.org/abs/2606.29266)** Time-local nonequilibrium Green's function method for real-time dynamics in quantum systems coupled to superconducting leads (arXiv)
 
 1. **[2606.29281v1](https://arxiv.org/abs/2606.29281)** Learning Inhomogeneous Heisenberg Hamiltonians in Nanographene Spin Chains (arXiv)
 
@@ -796,7 +854,6 @@ categories: 2026jun
 
 1. **[2606.30234v1](https://arxiv.org/abs/2606.30234)** Boron-assisted stabilization of low-resistivity mixed-valence Cu-O thin films prepared by reactive magnetron sputtering (arXiv)
 
-1. **[2606.30245v1](https://arxiv.org/abs/2606.30245)** Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation (arXiv)
 
 1. **[2606.30334v1](https://arxiv.org/abs/2606.30334)** Bayesian model comparison of type-I and type-II ultrafast demagnetization dynamics (arXiv)
 
@@ -1012,7 +1069,6 @@ categories: 2026jun
 
 1. **[2606.28199v1](https://arxiv.org/abs/2606.28199)** Hybrid quantum-classical neural network for sample-efficient recognition of topological phases (arXiv)
 
-1. **[2606.28219v1](https://arxiv.org/abs/2606.28219)** Higher dimensional quantum Hall effect and the analog of $W_\infty$-algebra (arXiv)
 
 1. **[2606.28260v1](https://arxiv.org/abs/2606.28260)** The Allee Effect in Compressible Flows (arXiv)
 
