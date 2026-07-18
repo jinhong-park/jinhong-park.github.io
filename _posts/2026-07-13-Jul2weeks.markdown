@@ -8,16 +8,102 @@ categories: 2026jul
 {% include image.html url="/images/2026jul2weeks.png" caption="A WordCloud of 2026 July 1st week collection" width=300 align="center" %}
 
 
+===Qwen & Hermes's pick===
+
+
+**[2607.12258v1](https://arxiv.org/abs/2607.12258)** Emergent interweaved CDW unoccupied states in hole-doping LaTe2 with element substitution (arXiv)
+
+
+**[2607.09465v1](https://arxiv.org/abs/2607.09465)** Strongly correlated quantum matter: t--J model, real-space pairing, spin-dependent masses, and atomicity in chemical bond and nanosystems (arXiv)
+
+
 ===This week's pick===
 
+* Score : 26883
 
-* Score : 
+
+**[2607.12274v1](https://arxiv.org/abs/2607.12274)** Zero-Field Long Range Order at $T \sim 40$ mK in the Proximate Quantum Spin Ice Ce$_2$Sn$_2$O$_7$ and Phase Diagram for Magnetic Fields Along [1,1,0] (arXiv)
+
+* Score : 20341
+
+
+**[2607.14031v1](https://arxiv.org/abs/2607.14031)** Electric field controlled spin transport in a topological insulator interfaced with a ferroelectric antiferromagnet (arXiv)
+
+* Score : 19917
+
+
+**[2607.12320v1](https://arxiv.org/abs/2607.12320)** Quantum anomalous Hall effect with tunable Chern numbers induced by d-wave sublattice-staggered altermagnetism (arXiv)
+
+
+* Score : 19845
+
+**[2607.14829v1](https://arxiv.org/abs/2607.14829)** Monopole Spin Density Wave States in Magnetic Weyl Semimetals (arXiv)
+
+
+* Score : 18489
+
+
+**[2607.14875v1](https://arxiv.org/abs/2607.14875)** Optimization dynamics of Transformer backflow neural quantum states for the two-dimensional Hubbard model (arXiv)
+
+
+* Score : 18352
+
+**[tsnc-4jjl](http://link.aps.org/doi/10.1103/tsnc-4jjl)** Even Denominator Fractional Quantum Hall States in the Zeroth Landau Level of ABA Trilayer Graphene (PRL)
+
+* Score : 17890
+
+
+**[2607.12323v1](https://arxiv.org/abs/2607.12323)** Second-order topological insulator induced by compensated altermagnetism without bulk spin splitting (arXiv)
+
+* Score : 17293
+
+**[2607.09182v1](https://arxiv.org/abs/2607.09182)** Topological phase transition driven by Hatsugai-Kohmoto interaction on the Kagome lattice (arXiv)
+
+* Score : 17214
+
+**[s42005-026-02754-w](https://www.nature.com/articles/s42005-026-02754-w)** Magnetic spin and orbital Hall effects in centrosymmetric ferromagnets (Communications Physics)
 
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+---
+07/18
+
+
+1. **[science.adx3027](https://www.science.org/doi/10.1126/science.adx3027)** Surface-dominant transport in Weyl semimetal NbAs nanowires for next-generation interconnects (Science)
+
+1. **[xxxk-y6yp](http://link.aps.org/doi/10.1103/xxxk-y6yp)** Timescale for Macroscopic Equilibration in Isolated Quantum Systems: A Rigorous Derivation for Free Fermions (PRL)
+
+1. **[hjpy-sx8w](http://link.aps.org/doi/10.1103/hjpy-sx8w)** Interference and Short-Range Correlation in Fermionic Hubbard Gases (PRL)
+
+1. **[kbfj-btly](http://link.aps.org/doi/10.1103/kbfj-btly)** Hidden Chiral Ferroelectricity in ${\mathrm{AgNbO}}_{3}$ Perovskite (PRL)
+
+1. **[ktz2-7yd5](http://link.aps.org/doi/10.1103/ktz2-7yd5)** Chirality Cannot Be Ferroic in Phase Transitions Leading to Enantiomorphic Space-Group Pairs (PRL)
+
+1. **[n715-5r2y](http://link.aps.org/doi/10.1103/n715-5r2y)** Antiferromagnetism and Stripe Channel Order in the $\mathrm{SU}(N)$-Symmetric Two-Channel Kondo Lattice Model (PRL)
+
+1. **[ksxq-1l4q](http://link.aps.org/doi/10.1103/ksxq-1l4q)** Spin-Triplet Paired Wigner Crystal Stabilized by Quantum Geometry (PRL)
+
+1. **[vf43-sxwq](http://link.aps.org/doi/10.1103/vf43-sxwq)** Harnessing Spin-Texture Dynamics for Low-Noise, High-Sensitivity Magnetic Sensors (PRL)
+
+1. **[yvhp-1sm6](http://link.aps.org/doi/10.1103/yvhp-1sm6)** Emergent Trion Resonance Driven by Lattice Reconstruction in a Moiré Superlattice (PRL)
+
+1. **[245v-mgsb](http://link.aps.org/doi/10.1103/245v-mgsb)** Probing Dielectric Screening in van der Waals Heterostructures via Pressure-Tuned Exciton Rydberg Series (PRL)
+
+1. **[jkn8-h939](http://link.aps.org/doi/10.1103/jkn8-h939)** Experimental Evidence for Strong Emergent Correlations between Particles in a Switching Trap (PRL)
+
+1. **[q2sy-sw7h](http://link.aps.org/doi/10.1103/q2sy-sw7h)** General model and modulation strategies for Sagnac-based encoders (PRR)
+
+1. **[kk5d-tb9b](http://link.aps.org/doi/10.1103/kk5d-tb9b)** Quantum combinatorial reasoning for large language models (PRR)
+
+1. **[mqz1-99xc](http://link.aps.org/doi/10.1103/mqz1-99xc)** Enhanced tripartite interaction in a magnon-Andreev-superconducting qubit hybrid system: Collapse-revival phenomena and entanglement redistribution (PRR)
+
 
 
 
@@ -29,7 +115,6 @@ categories: 2026jul
 
 1. **[s41467-026-75267-3](https://www.nature.com/articles/s41467-026-75267-3)** Two distinct Okazaki fragment failure modes dominate mutagenesis in the absence of flap endonuclease 1 (Nature Communications)
 
-1. **[s42005-026-02754-w](https://www.nature.com/articles/s42005-026-02754-w)** Magnetic spin and orbital Hall effects in centrosymmetric ferromagnets (Communications Physics)
 
 1. **[s42005-026-02761-x](https://www.nature.com/articles/s42005-026-02761-x)** The role of proximity induced magnetization in interlayer coupling in ferromagnetic/heavy metal/ferromagnetic multilayers (Communications Physics)
 
@@ -102,13 +187,11 @@ categories: 2026jul
 
 1. **[2607.14803v1](https://arxiv.org/abs/2607.14803)** $c$-axis strain tuning of superconductivity and symmetric elastoresistivity in CsV$_3$Sb$_5$ (arXiv)
 
-1. **[2607.14829v1](https://arxiv.org/abs/2607.14829)** Monopole Spin Density Wave States in Magnetic Weyl Semimetals (arXiv)
 
 1. **[2607.14838v1](https://arxiv.org/abs/2607.14838)** Density-driven reentrant polymer transitions via saturable bridging crowders (arXiv)
 
 1. **[2607.14868v1](https://arxiv.org/abs/2607.14868)** Curvature Converts Phonon Hall Viscosity into Phonon Angular Momentum (arXiv)
 
-1. **[2607.14875v1](https://arxiv.org/abs/2607.14875)** Optimization dynamics of Transformer backflow neural quantum states for the two-dimensional Hubbard model (arXiv)
 
 1. **[2607.14893v1](https://arxiv.org/abs/2607.14893)** Sizable Ligand-Mediated Bond-Dependent Interactions in a Spin-1 Triangular Antiferromagnet NiI$_2$ (arXiv)
 
@@ -242,7 +325,6 @@ categories: 2026jul
 
 1. **[jg6l-gzfr](http://link.aps.org/doi/10.1103/jg6l-gzfr)** Nonlinear Odd Viscoelastic Effect (PRL)
 
-1. **[tsnc-4jjl](http://link.aps.org/doi/10.1103/tsnc-4jjl)** Even Denominator Fractional Quantum Hall States in the Zeroth Landau Level of ABA Trilayer Graphene (PRL)
 
 
 1. **[2607.13086v1](https://arxiv.org/abs/2607.13086)** Cooper pairing with the onsite exchange interaction: A possible mechanism of high-temperature superconductivity (arXiv)
@@ -452,7 +534,6 @@ categories: 2026jul
 
 1. **[2607.12322v1](https://arxiv.org/abs/2607.12322)** Emergent toroidal induction in a polar Weyl ferromagnet (arXiv)
 
-1. **[2607.12323v1](https://arxiv.org/abs/2607.12323)** Second-order topological insulator induced by compensated altermagnetism without bulk spin splitting (arXiv)
 
 1. **[2607.12347v1](https://arxiv.org/abs/2607.12347)** Domain wall motion in ferromagnetic nanowires driven by a localized Gaussian thermal gradient (arXiv)
 
@@ -645,7 +726,6 @@ categories: 2026jul
 
 1. **[2607.09178v1](https://arxiv.org/abs/2607.09178)** Tunable responsivity and bandwidth in microwave kinetic inductance detectors via readout current nonlinearity (arXiv)
 
-1. **[2607.09182v1](https://arxiv.org/abs/2607.09182)** Topological phase transition driven by Hatsugai-Kohmoto interaction on the Kagome lattice (arXiv)
 
 1. **[2607.09244v1](https://arxiv.org/abs/2607.09244)** Screening-controlled dynamical criticality in the quantum Hall regime (arXiv)
 
