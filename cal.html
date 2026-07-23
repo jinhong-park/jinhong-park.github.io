@@ -203,7 +203,13 @@
     <div id="time"></div>
     <div id="calendar-container"></div>
 
-
+	
+    <div style="margin: 10px 0; text-align: center;">
+        <a href="https://www.overleaf.com" target="_blank" rel="noopener noreferrer"
+           style="display:inline-block;padding:6px 18px;font-size:0.95em;color:#fff;background:#e07b39;border-radius:20px;text-decoration:none;">
+            📄 Overleaf 열기
+        </a>
+    </div>
  
 <!--
     <div id="todo-container">
@@ -231,7 +237,14 @@
 
   
 	
-
+    
+    <div style="margin-top:5px;text-align:center;">
+        <input id="vol" type="range" min="0" max="1" step="0.05" value="0.8"
+               oninput="bgMusic.volume=this.value">
+    </div>
+    
+	
+	
 <div id="journal-container">
     <h3>✍️ Journal</h3>
 	<h4 id="week"></h4>
@@ -645,6 +658,29 @@ document.getElementById("week").innerText =
   `오늘은 ${today.getFullYear()}년 ${weekNumber}주차입니다.`;
 
 //---------------------------------------//
+
+  (function(){
+      var audio = document.createElement('audio');
+      audio.src = './fall.m4a';
+      audio.loop = true;
+      audio.volume = 0.8;
+      audio.preload = 'auto';
+      window.bgMusic = audio;
+  
+      // 첫 클릭/터치 시 재생 시작
+      function autoPlay(){
+          audio.play();
+          document.removeEventListener('click', autoPlay);
+          document.removeEventListener('touchstart', autoPlay);
+      }
+      document.addEventListener('click', autoPlay);
+      document.addEventListener('touchstart', autoPlay);
+  
+      slider = document.getElementById('vol');
+      if(slider) {
+          slider.addEventListener('input', function(){ audio.volume = this.value; });
+      }
+  })();
 
     </script>
 </body>
