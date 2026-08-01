@@ -10,17 +10,104 @@ categories: 2026jul
 
 ===Qwen & Hermes' pick===
 
+# Pick: Field-Selected Topological Buffering in a Disordered Skyrmion Crystal
+
+**Source:** arXiv 2607.28458v1 (07/31)  
+[https://arxiv.org/abs/2607.28458](https://arxiv.org/abs/2607.28458)
+
+**score:** **skyrmion, topology, and disorder**.
+
+---
+
+## Why This One?
+
+This paper sits exactly at the intersection of my three core interests: 
+
+### 1. Skyrmion + Topology Experimentally Observed
+Skyrmions are topologically protected nanomagnetic textures that have been proposed as information carriers for next-generation spintronic devices. This work experimentally demonstrates how an external magnetic field selectively triggers "topological buffering" in a disordered skyrmion crystal — i.e., how disorder and competing length scales coexist to stabilize a metastable skyrmion phase near the topological phase boundary. The interplay between discrete impurity landscapes and continuous skyrmion topology is rarely captured experimentally.
+
+### 2. Disorder + Topology Physics Beyond Clean Limits
+The question of whether bulk topological invariants survive strong disorder remains one of the central open problems in condensed matter physics (Anderson localization vs. topological Anderson insulator, mobility gaps, etc.). This study probes that frontier directly: the skyrmion crystal is a real material with quenched disorder, and the authors track how its Chern number, domain wall density, and nucleation barrier evolve as the applied field sweeps across the buffering regime. The experimental protocol maps onto theoretical models of topological phase transitions in disordered systems, making it a rare bridge between ab initio skyrmion physics and topological band theory with randomness.
+
+### 3. Pathway Toward Altermagnet / Antiferromagnet Skyrmions
+The skyrmion field is rapidly expanding from ferromagnetic hosts (MnSi, Cu₂OSeO₃) toward antiferromagnetic and altermagnetic materials (MnTe, Fe₀.₁₄Co₀.₈₆Sb, etc.). The concept of topological buffering — where disorder *stabilizes*, rather than destroys, a skyrmion texture — could generalize to non-collinear spin textures in altermagnets, whose compensated order parameters and momentum-dependent spin splitting suggest novel pinning landscapes not available in conventional ferromagnets. This paper's methodology (field-tuned topological classification + real-space imaging) provides a template for future work on altermagnetic skyrmions.
+
+---
+
+## Other Notable Picks from This File (Same Date, Worth Reading Too)
+
+| Date | Title | Keywords |
+|------|-------|----------|
+| 07/31 | [A Universal Crystal-Field Design Principle for Orbital-Order-Driven Altermagnetism](https://arxiv.org/abs/2607.27693) | altermagnet, theory |
+| 07/31 | [Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr₂S₂O](https://arxiv.org/abs/2607.28329) | altermagnet, experiment |
+| 07/31 | [Drumhead Surface States of Rhombohedral Graphite with Near Ideal Quantum Geometry Condition](https://arxiv.org/abs/2607.28491) | topology, flat band |
+| 07/31 | [Exactly Solvable Topological Phase Transition in a Quantum Dimer Model](http://link.aps.org/doi/10.1103/gdd1-mxy3) (PRL) | topology, theory |
+
+
 
 
 ===This week's pick===
 
+* Score : 26096
 
+
+**[2607.21705v1](https://arxiv.org/abs/2607.21705)** Counting Edge Modes with the Higher Berry Curvature: A Bulk Topological Order Parameter for Quantum Spin Chains (arXiv)
+
+
+* Score : 23108
+
+**[gdd1-mxy3](http://link.aps.org/doi/10.1103/gdd1-mxy3)** Exactly Solvable Topological Phase Transition in a Quantum Dimer Model (PRL)
+
+* Score : 19121
+
+**[2607.27016v1](https://arxiv.org/abs/2607.27016)** Anisotropic Spin Polarization and magnetic spin hall effect in Ferromagnets (arXiv)
+
+* Score : 18395
+
+
+**[2607.28085v1](https://arxiv.org/abs/2607.28085)** Thermal spin transport in easy-planar $d$-wave altermagnets controlled by magnetic field (arXiv)
+
+* Score : 18368
+
+**[2607.23956v1](https://arxiv.org/abs/2607.23956)** Dynamical Quantum Phase Transitions in a Pseudo-Hermitian Hamiltonian: The Imbalanced-Pairing Kitaev Model (arXiv)
+
+* Score : 17752
+
+
+**[2607.27207v1](https://arxiv.org/abs/2607.27207)** Magnetic Breakdown and Anomalous Quantum Oscillation in Rhombohedral Tetralayer Graphene (arXiv)
+
+* Score : 17737
+
+**[2607.25434v1](https://arxiv.org/abs/2607.25434)** Don't truncate, decompose: mean-field dynamics of long-range quantum systems from strongly correlated states (arXiv)
 
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
 
+
+
+---
+08/01
+
+1. **[s41467-026-75765-4](https://www.nature.com/articles/s41467-026-75765-4)** Direct observation of braiding of Majorana-like zero modes in real space (Nature Communications)
+
+1. **[s41467-026-75961-2](https://www.nature.com/articles/s41467-026-75961-2)** The role of the 2’-OH group in phase separation and percolation transitions of RNA (Nature Communications)
+
+1. **[s42005-026-02783-5](https://www.nature.com/articles/s42005-026-02783-5)** Quantized Frequency-locking and Extreme Transitions in a Ring of Phase Oscillators with Three-Body Interactions (Communications Physics)
+
+1. **[s42005-026-02774-6](https://www.nature.com/articles/s42005-026-02774-6)** Coherent control of thermal transport with pillar-based phononic crystals (Communications Physics)
+
+1. **[s42005-026-02720-6](https://www.nature.com/articles/s42005-026-02720-6)** Observation of the influence of anomalous tunneling on collective excitations via a cloud experiment platform for Bose-Einstein condensates (Communications Physics)
+
+1. **[s41563-026-02678-4](https://www.nature.com/articles/s41563-026-02678-4)** Fermiology-driven goniopolar transverse thermoelectricity in kagome metals (Nature Materials)
+
+
+1. **[tz6r-9wj4](http://link.aps.org/doi/10.1103/tz6r-9wj4)** Sub-Hertz Optical Transitions in Excited ${\mathrm{Yb}}^{+}$ (PRL)
+
+1. **[m6r6-vpdg](http://link.aps.org/doi/10.1103/m6r6-vpdg)** Fermi-Surface-Sheet Dependent Electron-Phonon Coupling in a Borocarbide Superconductor ${\text{YNi}}_{2}{\mathrm{B}}_{2}\mathrm{C}$ (PRL)
+
+1. **[9xcz-nlqk](http://link.aps.org/doi/10.1103/9xcz-nlqk)** Quantum Kinetic Uncertainty Relations in Mesoscopic Conductors at Strong Coupling (PRL)
 
 
 
@@ -39,8 +126,6 @@ categories: 2026jul
 1. **[5184-prnd](http://link.aps.org/doi/10.1103/5184-prnd)** Thermal Switching of Electron Transfer at a ${\mathrm{VO}}_{2}$ Heterointerface for Accelerated Oxygen Evolution (PRL)
 
 1. **[83vn-7zyw](http://link.aps.org/doi/10.1103/83vn-7zyw)** First-Principles Predictions of Carrier Mobility with Record Accuracy Using GW Perturbation Theory (PRL)
-
-1. **[gdd1-mxy3](http://link.aps.org/doi/10.1103/gdd1-mxy3)** Exactly Solvable Topological Phase Transition in a Quantum Dimer Model (PRL)
 
 1. **[z3ty-255t](http://link.aps.org/doi/10.1103/z3ty-255t)** Kardar-Parisi-Zhang Physics in Optically Confined Continuous Polariton Condensates (PRL)
 
@@ -148,7 +233,6 @@ categories: 2026jul
 
 1. **[2607.28029v1](https://arxiv.org/abs/2607.28029)** Orbital-Selective Mott Transition and Correlation-Amplified Charge Ordering in the Altermagnet CsCr$_2$S$_2$O (arXiv)
 
-1. **[2607.28085v1](https://arxiv.org/abs/2607.28085)** Thermal spin transport in easy-planar $d$-wave altermagnets controlled by magnetic field (arXiv)
 
 1. **[2607.28106v1](https://arxiv.org/abs/2607.28106)** Three-Dimensional Kardar--Parisi--Zhang Scaling in Polariton Condensates (arXiv)
 
@@ -376,7 +460,6 @@ categories: 2026jul
 
 1. **[2607.26990v1](https://arxiv.org/abs/2607.26990)** Density-wave phases, anisotropic transport, and Planckian dissipation in single crystals of the superconductor La3Ni2O7 (arXiv)
 
-1. **[2607.27016v1](https://arxiv.org/abs/2607.27016)** Anisotropic Spin Polarization and magnetic spin hall effect in Ferromagnets (arXiv)
 
 1. **[2607.27020v1](https://arxiv.org/abs/2607.27020)** Interactions between structural and magnetic domains through the Verwey transition in stoichiometric and doped magnetite (arXiv)
 
@@ -406,7 +489,6 @@ categories: 2026jul
 
 1. **[2607.27200v1](https://arxiv.org/abs/2607.27200)** Quantum-Geometric Raman Response in Multiorbital Flat-Band Systems (arXiv)
 
-1. **[2607.27207v1](https://arxiv.org/abs/2607.27207)** Magnetic Breakdown and Anomalous Quantum Oscillation in Rhombohedral Tetralayer Graphene (arXiv)
 
 1. **[2510.23162v3](https://arxiv.org/abs/2510.23162)** Measurement-only circuit of perturbed toric code on triangular lattice: Topological entanglement, 1-form symmetry and logical qubits (arXiv)
 
@@ -579,7 +661,6 @@ categories: 2026jul
 
 1. **[2607.25424v1](https://arxiv.org/abs/2607.25424)** Nonlocal Majorana polarization in non-Hermitian topological superconductors (arXiv)
 
-1. **[2607.25434v1](https://arxiv.org/abs/2607.25434)** Don't truncate, decompose: mean-field dynamics of long-range quantum systems from strongly correlated states (arXiv)
 
 1. **[2607.25462v1](https://arxiv.org/abs/2607.25462)** Covariance Geometry of Basis-Resolved Low-Energy Wavefunctions in the Spin-$1/2$ Kitaev--Heisenberg Model (arXiv)
 
@@ -884,7 +965,6 @@ categories: 2026jul
 
 1. **[2607.23950v1](https://arxiv.org/abs/2607.23950)** Quantitative infrared nanoscopy: Probe-cavity eigenmodes and nano-gap polaritons for strongly coupled nanoscale optics (arXiv)
 
-1. **[2607.23956v1](https://arxiv.org/abs/2607.23956)** Dynamical Quantum Phase Transitions in a Pseudo-Hermitian Hamiltonian: The Imbalanced-Pairing Kitaev Model (arXiv)
 
 1. **[2607.24067v1](https://arxiv.org/abs/2607.24067)** Non-classical photon statistics in frequency-modulated double quantum dot cavity systems (arXiv)
 
@@ -913,7 +993,6 @@ categories: 2026jul
 
 1. **[2607.21699v1](https://arxiv.org/abs/2607.21699)** Real-Space Imaging of Band Topology via Wavefunction Zeros (arXiv)
 
-1. **[2607.21705v1](https://arxiv.org/abs/2607.21705)** Counting Edge Modes with the Higher Berry Curvature: A Bulk Topological Order Parameter for Quantum Spin Chains (arXiv)
 
 1. **[2607.21708v1](https://arxiv.org/abs/2607.21708)** Thermal avalanches in a quasiperiodic XXZ model (arXiv)
 
