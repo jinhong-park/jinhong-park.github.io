@@ -677,25 +677,49 @@ document.getElementById("week").innerText =
 //---------------------------------------//
 
   (function(){
-      var audio = document.createElement('audio');
-      audio.src = './fall.m4a';
-      audio.loop = true;
+      // 재생할 음악 파일 목록 (순서대로 재생됨)
+      const playlist = [
+          './01-01.mp3',
+          './01-02.mp3',
+          './01-03.mp3',
+          './fall.m4a'
+          // 원하는 만큼 추가
+      ];
+
+      let currentIndex = 0;
+      const audio = document.createElement('audio');
       audio.volume = 0.8;
       audio.preload = 'auto';
       window.bgMusic = audio;
-  
+
+      // 다음 곡 재생 함수
+      function playNext() {
+          if (currentIndex >= playlist.length) {
+              currentIndex = 0; // 마지막 곡 끝나면 처음으로
+          }
+          audio.src = playlist[currentIndex];
+          audio.play().catch(e => console.log('재생 실패:', e));
+          currentIndex++;
+      }
+
+      // 곡이 끝났을 때 다음 곡 재생
+      audio.addEventListener('ended', playNext);
+
       // 첫 클릭/터치 시 재생 시작
       function autoPlay(){
-          audio.play();
+          playNext(); // 첫 번째 곡부터 시작
           document.removeEventListener('click', autoPlay);
           document.removeEventListener('touchstart', autoPlay);
       }
       document.addEventListener('click', autoPlay);
       document.addEventListener('touchstart', autoPlay);
-  
-      slider = document.getElementById('vol');
+
+      // 볼륨 슬라이더
+      const slider = document.getElementById('vol');
       if(slider) {
-          slider.addEventListener('input', function(){ audio.volume = this.value; });
+          slider.addEventListener('input', function(){ 
+              audio.volume = this.value; 
+          });
       }
   })();
 
