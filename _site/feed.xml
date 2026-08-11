@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2026 21:26:42 +0900</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2026 21:26:42 +0900</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 23:06:11 +0900</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:06:11 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -35,6 +35,9 @@
 &lt;p&gt;08/11&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.02552&quot;&gt;2608.02552&lt;/a&gt;&lt;/strong&gt; Magnetic Skyrmion Interacting with Optical Skyrmion (arXiv)&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-76466-8&quot;&gt;s41467-026-76466-8&lt;/a&gt;&lt;/strong&gt; Moiré-induced modulation of out-of-plane elasticity in twisted hBN (Nature Communications)&lt;/p&gt;
   &lt;/li&gt;
