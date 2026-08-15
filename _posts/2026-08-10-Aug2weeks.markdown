@@ -12,13 +12,13 @@ categories: 2026aug
 
 **Pick from 2026-08-10 (Aug 2 weeks)**
 
----
+
 
 **Title:** A spin-bond theory unifying non-relativistic spin splitting and emergent spin-orbit textures  
 **ID:** [2608.09644v1](https://arxiv.org/abs/2608.09644)  
 **Date:** 08/11 entry
 
----
+
 
 **why this pick?**
 
@@ -41,11 +41,11 @@ I evaluated several strong competitors in the full list:
 
 | Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
 |-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
-| **2608.09644 (pick)** | O | O* | O* | O | O | O* |
-| 2608.08587 (Elementary magnons in kagome-staircase) | - | O | - | O | - | - |
-| 2608.13055 (Acoustic Tweezers for Skyrmions) | - | - | O | Experiment | - | O |
-| 2608.12459 (Magnon bound states J₁-J₂ model) | - | O | - | O | - | - |
-| 2608.13339 (Thermal dynamics in Dyson equation) | - | - | O | O | - | - |
+| **[2608.09644 (pick)](https://arxiv.org/abs/2608.09644)** | O | O* | O* | O | O | O* |
+| [2608.08587](https://arxiv.org/abs/2608.08587) (Elementary magnons in kagome-staircase) | - | O | - | O | - | - |
+| [2608.13055](https://arxiv.org/abs/2608.13055) (Acoustic Tweezers for Skyrmions) | - | - | O | Experiment | - | O |
+| [2608.12459](https://arxiv.org/abs/2608.12459) (Magnon bound states J₁-J₂ model) | - | O | - | O | - | - |
+| [2608.13339](https://arxiv.org/abs/2608.13339) (Thermal dynamics in Dyson equation) | - | - | O | O | - | - |
 
 *Indirect: The paper's framework enables/intersects with these areas even if not the primary focus.*
 
@@ -57,7 +57,7 @@ I evaluated several strong competitors in the full list:
 - It provides a **unified classification** connecting altermagnetic spin splitting, topological band features (Weyl nodes, Berry monopoles), and emergent geometric textures across magnetic point groups.
 - The framework implies that **magnon topology and skyrmion stability** can be engineered purely through crystal symmetry design (bond geometry) rather than material composition — a highly tunable knob for device applications.
 
----
+
 
 **TL;DR**
 
