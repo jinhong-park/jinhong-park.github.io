@@ -10,11 +10,93 @@ categories: 2026aug
 
 ===Qwen & Hermes' pick===
 
+**Pick from 2026-08-10 (Aug 2 weeks)**
 
+---
+
+**Title:** A spin-bond theory unifying non-relativistic spin splitting and emergent spin-orbit textures  
+**ID:** [2608.09644v1](https://arxiv.org/abs/2608.09644)  
+**Date:** 08/11 entry
+
+---
+
+**why this pick?**
+
+This paper strikes at the heart of all six of your core interests simultaneously — topological, magnon, phonon, theoretical, altermagnet, skyrmion — not by covering every keyword literally, but by constructing a foundational theoretical framework that unifies emergent spin-orbit textures with the non-relativistic spin splitting mechanism central to altermagnetism. It is the most ambitious and conceptually broad paper in this week's list for your research program.
+
+**1. Keyword matching across all six interests**
+
+| Interest | How this paper connects |
+|----------|----------------------|
+| **Altermagnet** | Directly addresses non-relativistic spin splitting — the defining property of altermagnets — and proposes a unified "spin-bond" theory that explains it without relativistic effects. |
+| **Topological** | Emergent spin-orbit textures are inherently topological objects; the paper links Berry curvature, Weyl nodes, spin-momentum locking, and magnetic monopole charges to bond-directional physics. |
+| **Theoretical** | Builds a general spin-bond Hamiltonian framework using Wannier theory, crystal orbital phase, and symmetry analysis — pure first-principles theoretical construction. |
+| **Magnon** | The emergent textures provide a mechanism for spin-orbit-driven magnetic anisotropy and non-collinear spin textures, directly impacting magnon band topology and chiral magnon excitations in altermagnets and skyrmion hosts. |
+| **Skyrmion** | Skyrmion formation requires DMI-like interactions; the spin-bond theory generates emergent DMI from bond-directional physics alone, offering a new route to skyrmion stabilization beyond heavy-metal interfaces. |
+| **Phonon** | The framework connects lattice symmetry breaking (which governs phonon selection rules) to spin-split band structure — establishing a bridge between structural degrees of freedom and magnetic topology that is relevant for phonon-mediated spin control. |
+
+**2. Why this over other candidates?**
+
+I evaluated several strong competitors in the full list:
+
+| Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
+|-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
+| **2608.09644 (pick)** | O | O* | O* | O | O | O* |
+| 2608.08587 (Elementary magnons in kagome-staircase) | - | O | - | O | - | - |
+| 2608.13055 (Acoustic Tweezers for Skyrmions) | - | - | O | Experiment | - | O |
+| 2608.12459 (Magnon bound states J₁-J₂ model) | - | O | - | O | - | - |
+| 2608.13339 (Thermal dynamics in Dyson equation) | - | - | O | O | - | - |
+
+*Indirect: The paper's framework enables/intersects with these areas even if not the primary focus.*
+
+**Only this paper connects all six interests at a theoretical/unifying level.** No other paper even covers three keywords literally. Papers like 2608.08587 (magnons) or 2608.13055 (skyrmion + phonon) are more literal but narrow in scope — they address one or two interests without providing the broader theoretical infrastructure.
+
+**3. Physical insights from this paper**
+
+- The "spin-bond" theory shows that **emergent spin-orbit coupling** arises naturally from bond-directional quantum interference in non-relativistic crystals — challenging the conventional requirement of heavy elements for strong SOC effects.
+- It provides a **unified classification** connecting altermagnetic spin splitting, topological band features (Weyl nodes, Berry monopoles), and emergent geometric textures across magnetic point groups.
+- The framework implies that **magnon topology and skyrmion stability** can be engineered purely through crystal symmetry design (bond geometry) rather than material composition — a highly tunable knob for device applications.
+
+---
+
+**TL;DR**
+
+> This paper proposes a "spin-bond theory" that unifies non-relativistic spin splitting with emergent spin-orbit textures, providing a foundational framework applicable to **all six of your core interests**: altermagnetism (origin of spin splitting), topology (Berry curvature/Weyl physics), theoretical methods (ab initio Wannier + symmetry analysis), magnons (spin-orbit anisotropy), skyrmions (emergent DMI without heavy metals), and phonons (lattice symmetry coupling). It is the most conceptually expansive paper in this week's list and offers a unifying lens for your research program.
 
 ===This week's pick===
 
-* Score : 
+* Score : 27923
+
+
+**[2608.13238v1](https://arxiv.org/abs/2608.13238)** Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems (arXiv)
+
+* Score : 25668
+
+
+**[2608.11776v1](https://arxiv.org/abs/2608.11776)** Spin nematic liquid crystal and scalar spin chirality in tetragonal lattice YbMnBi$_2$ (arXiv)
+
+
+* Score : 20455
+
+**[wycz-5hvd](http://link.aps.org/doi/10.1103/wycz-5hvd)** Topological Surface Charge Detection via Active Capacitive Compensation: A Pathway to the 4D Quantum Hall Effect (PRL)
+
+* Score : 19643
+
+**[s41563-026-02711-6](https://www.nature.com/articles/s41563-026-02711-6)** Layer-engineered quantum anomalous Hall effect in twisted rhombohedral graphene (Nature Materials)
+
+* Score : 19267
+
+**[2608.12124v1](https://arxiv.org/abs/2608.12124)** Two routes to quantum anomalous Hall states in altermagnets (arXiv)
+
+* Score : 18985
+
+
+**[2608.03894v1](https://arxiv.org/abs/2608.03894)** Accelerated quantum Monte Carlo simulations of the attractive Hubbard model on the kagome lattice (arXiv)
+
+* Score : 18024
+
+**[2608.08120v1](https://arxiv.org/abs/2608.08120)** Quantum Metric Induced Critical Current Anomaly in Flat Band Josephson Junctions (arXiv)
+
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
@@ -36,7 +118,6 @@ categories: 2026aug
 
 1. **[s42005-026-02810-5](https://www.nature.com/articles/s42005-026-02810-5)** Asymmetric edge supercurrents in topological PdTe<sub>2</sub> Josephson junctions (Communications Physics)
 
-1. **[s41563-026-02711-6](https://www.nature.com/articles/s41563-026-02711-6)** Layer-engineered quantum anomalous Hall effect in twisted rhombohedral graphene (Nature Materials)
 
 1. **[87mq-t3yf](http://link.aps.org/doi/10.1103/87mq-t3yf)** Ultrafast dynamics in $1\mathrm{T}\text{−}{\mathrm{TiS}}_{2}$ single crystals: From quasi-flat-band-mediated carrier recombination to thermally triggered coherent acoustic phonons (PRR)
 
@@ -162,7 +243,6 @@ categories: 2026aug
 
 1. **[2608.13146v1](https://arxiv.org/abs/2608.13146)** Accelerating a Strong-Coupling Non-Equilibrium Steady-State Impurity Solver using (Quantics) Tensor Trains (arXiv)
 
-1. **[2608.13238v1](https://arxiv.org/abs/2608.13238)** Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems (arXiv)
 
 1. **[2608.13265v1](https://arxiv.org/abs/2608.13265)** Topological Superconductors in Doubly-Coupled Nanowires with Altermagnetism (arXiv)
 
@@ -239,7 +319,6 @@ categories: 2026aug
 
 1. **[h9t8-7mtc](http://link.aps.org/doi/10.1103/h9t8-7mtc)** Observation of Flatband Skin Effect in a Mechanical Lattice (PRL)
 
-1. **[wycz-5hvd](http://link.aps.org/doi/10.1103/wycz-5hvd)** Topological Surface Charge Detection via Active Capacitive Compensation: A Pathway to the 4D Quantum Hall Effect (PRL)
 
 1. **[5ftk-7qyg](http://link.aps.org/doi/10.1103/5ftk-7qyg)** Dipolar-Driven Mean-Field Criticality in the Ferrimagnet ${\mathrm{Eu}}_{2}{\mathrm{MnSi}}_{2}{\mathrm{O}}_{7}$ (PRL)
 
@@ -323,8 +402,6 @@ categories: 2026aug
 
 1. **[2608.11751v1](https://arxiv.org/abs/2608.11751)** Light-induced effective magnetic fields in Landau quantized graphene (arXiv)
 
-1. **[2608.11776v1](https://arxiv.org/abs/2608.11776)** Spin nematic liquid crystal and scalar spin chirality in tetragonal lattice YbMnBi$_2$ (arXiv)
-
 1. **[2608.11809v1](https://arxiv.org/abs/2608.11809)** Lithography-free patterning of SrTiO$_3$-based two-dimensional electron gases using direct atomic layer processing (arXiv)
 
 1. **[2608.11812v1](https://arxiv.org/abs/2608.11812)** Data-Efficient Adaptation of DPA-4 Force Fields to DFT+U Energetics: A Case Study in NiO (arXiv)
@@ -359,7 +436,6 @@ categories: 2026aug
 
 1. **[2608.12119v1](https://arxiv.org/abs/2608.12119)** Macroscopic fluctuation theory for the multi-time statistics of current in non-stationary diffusive systems (arXiv)
 
-1. **[2608.12124v1](https://arxiv.org/abs/2608.12124)** Two routes to quantum anomalous Hall states in altermagnets (arXiv)
 
 1. **[2608.12152v1](https://arxiv.org/abs/2608.12152)** The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2 (arXiv)
 
@@ -509,7 +585,6 @@ categories: 2026aug
 
 1. **[2608.08105v1](https://arxiv.org/abs/2608.08105)** Composite-State Localization Beyond the External Landscape in Non-Hermitian Quasicrystals (arXiv)
 
-1. **[2608.08120v1](https://arxiv.org/abs/2608.08120)** Quantum Metric Induced Critical Current Anomaly in Flat Band Josephson Junctions (arXiv)
 
 1. **[2608.08121v1](https://arxiv.org/abs/2608.08121)** Bose-Einstein condensates with Raman-induced spin-orbit coupling : An overview (arXiv)
 
@@ -675,7 +750,6 @@ categories: 2026aug
 
 1. **[2605.12043v2](https://arxiv.org/abs/2605.12043)** Attractive statistical forces and Pauli crystal formation in trapped Fermi gases (arXiv)
 
-1. **[2608.03894v1](https://arxiv.org/abs/2608.03894)** Accelerated quantum Monte Carlo simulations of the attractive Hubbard model on the kagome lattice (arXiv)
 
 1. **[2608.07647v1](https://arxiv.org/abs/2608.07647)** Fluid-Structure Interaction and Underwater Hydrostatic Implosion of Thin-Walled Metallic Cylinders in Semi-Confined Conditions (arXiv)
 
