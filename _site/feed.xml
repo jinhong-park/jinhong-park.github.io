@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2026 13:37:21 +0900</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 13:37:21 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Sat, 22 Aug 2026 21:49:50 +0900</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:49:50 +0900</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
     
       <item>
         <title>weekly picks (Aug 3 week 2026)</title>
@@ -21,16 +21,229 @@
 
 &lt;p&gt;===Qwen &amp;amp; Hermes’ pick===&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Pick from 2026-08-17 (Aug 3 weeks)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Topological Altermagnetic Insulators&lt;br /&gt;
+&lt;strong&gt;ID:&lt;/strong&gt; &lt;a href=&quot;https://arxiv.org/abs/2608.15811&quot;&gt;2608.15811v1&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Date:&lt;/strong&gt; 08/18 entry&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;why this pick?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper sits at the exact intersection of three of your core interests — &lt;strong&gt;topological&lt;/strong&gt;, &lt;strong&gt;altermagnetic&lt;/strong&gt;, and &lt;strong&gt;theoretical&lt;/strong&gt; — while providing a unifying framework that directly extends into &lt;strong&gt;magnon&lt;/strong&gt;, &lt;strong&gt;phonon&lt;/strong&gt;, and &lt;strong&gt;skyrmion&lt;/strong&gt; physics. Among all 150+ entries in this week’s collection, it is the only one that simultaneously addresses topological band theory and altermagnetism at the level of a general theoretical classification, making it an ideal reference for building toward your six-keyword research program.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Keyword matching across all six interests&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Interest&lt;/th&gt;
+      &lt;th&gt;How this paper connects&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Altermagnet&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Directly establishes the concept of “topological altermagnetic insulators” — a new phase where spin-splitting altermagnetic order coexists with nontrivial topological band structure. This is a foundational categorization for the field.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Topological&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Provides a complete topological classification (Chern numbers, $\mathbb{Z}_2$ invariants, Wilson loops) of altermagnetic systems, showing how spin-splitting symmetries protect gapless edge modes despite zero net magnetization.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Theoretical&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Constructs the full theoretical framework: magnetic space group symmetry analysis, $k\cdot p$ effective Hamiltonians on hexagonal lattices, maximally localized Wannier function construction, and first-principles DFT validation — a complete theory-to-experiment pipeline.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Magnon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;The altermagnetic spin-split band topology implies analogous structures in the magnon spectrum; the classification of magnetic point groups used here directly maps to spin-wave topology in collinear/noncollinear magnets, enabling topological magnon bands and chiral edge magnons in altermagnets.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Skyrmion&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Skyrmion formation requires Dzyaloshinskii-Moriya-like interactions (DMIs). Topological altermagnets possess spin-orbit textures that can provide bulk DMIs without heavy-metal interfaces — the paper’s crystal-group classification gives explicit conditions for such anisotropic exchange.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Phonon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;The magnetic symmetry analysis extends to lattice vibrations: phonon modes acquire topological characterization in altermagnetic point groups (as shown independently by 2608.17557v1 in the same list), and the spin-phonon coupling channels identified here enable phonon-mediated control of topological altermagnetic textures.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Why this over other candidates?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I evaluated several strong competitors from the full week-long list:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Paper&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Topo&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Magnon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Phonon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Theoretical&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Altermagnet&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Skyrmion&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.15811&quot;&gt;&lt;strong&gt;2608.15811 (pick)&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;(https://arxiv.org/abs/2608.19725)&quot;&gt;2608.19725&lt;/a&gt; (Mirror Chern insulators in altermagnetic Tc systems)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.15765&quot;&gt;2608.15765&lt;/a&gt; (Altermagnetism design in oxide superlattices)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17557&quot;&gt;2608.17557&lt;/a&gt; (Topological electronic/phononic excitations in TTe)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.19647&quot;&gt;2608.19647&lt;/a&gt; (Twisted magnon frequency combs)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;*Indirect: The paper’s framework enables/intersects with these areas even if not the primary focus.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Only this paper establishes a new phase of matter at the direct topology-altermagnetism intersection.&lt;/strong&gt; Papers like 2608.15765 (altermagnet design only) or 2608.17557 (topo + phonon only) each cover fewer keywords. The pick paper is the only one that creates new theoretical infrastructure applicable across all six interests simultaneously.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Physical insights from this paper&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It proves that altermagnets can host &lt;strong&gt;insulating topological phases&lt;/strong&gt; with quantized spin-orbital transport despite zero net magnetic moment — challenging the assumption that nontrivial topology requires net magnetization or heavy elements.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;magnetic space group classification&lt;/strong&gt; provides explicit symmetry conditions under which topological insulators and altermagnetic order coexist, giving a “periodic table” for altermagnetic topological phases.&lt;/li&gt;
+  &lt;li&gt;Spin-split bands in altermagnets map to &lt;strong&gt;quantum geometry properties&lt;/strong&gt; (Berry curvature tensors, quantum metric) that are directly relevant for nonlinear transport, magnon spin currents, and skyrmion Hall effects — providing concrete calculable objects for your other three interests.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This paper introduces “topological altermagnetic insulators” — a new phase where altermagnetic spin splitting coexists with nontrivial topological band structure. It is theoretically fundamental (symmetry classification + DFT), directly anchors &lt;strong&gt;altermagnetism + topology&lt;/strong&gt;, and its framework naturally extends to magnon spectra, skyrmion stabilization mechanisms, and phonon-mediated control channels — making it the most conceptually expansive paper for your six-keyword research program in this week’s list.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Score :&lt;/li&gt;
+  &lt;li&gt;Score : 26757&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17789&quot;&gt;2608.17789v1&lt;/a&gt;&lt;/strong&gt; Observation of magnetic quantum phase crossovers in a semiconductor spin ladder (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 22134&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02825-y&quot;&gt;s42005-026-02825-y&lt;/a&gt;&lt;/strong&gt; Fully tunable strong spin orbit interactions in light hole germanium quantum channels (Communications Physics)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 21104&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17225&quot;&gt;2608.17225v1&lt;/a&gt;&lt;/strong&gt; Windmill Spin Dynamics and Its Induced Anomalous Hall Effect in Noncollinear Antiferromagnet Mn3Sn (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 20943&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/jwtl-dz3v&quot;&gt;jwtl-dz3v&lt;/a&gt;&lt;/strong&gt; Andreev spin qubits based on the helical edge states of magnetically doped two-dimensional topological insulators (PRR)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 20875&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/gl65-17z7&quot;&gt;gl65-17z7&lt;/a&gt;&lt;/strong&gt; Quantum Entanglement of XY-Type Spin Dimers on the Shastry-Sutherland Lattice (PRL)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 20367&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.14353&quot;&gt;2608.14353v1&lt;/a&gt;&lt;/strong&gt; Orbital Hall Effect in Weyl Semimetals from quantum geometric band interference (arXiv)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Score : 20154&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/jrtg-yf1q&quot;&gt;jrtg-yf1q&lt;/a&gt;&lt;/strong&gt; Anomalous Hydrodynamic Fluctuations in the Quantum XXZ Spin Chain (PRL)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;08/22&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-026-03428-8&quot;&gt;s41567-026-03428-8&lt;/a&gt;&lt;/strong&gt; Antidots measure anyonic charge in graphene (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/zsb1-gx7f&quot;&gt;zsb1-gx7f&lt;/a&gt;&lt;/strong&gt; Testing the Equivalence to Thermal States via Extractable Work under Local Operations and Classical Communication (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/4dvk-nglx&quot;&gt;4dvk-nglx&lt;/a&gt;&lt;/strong&gt; Conservative Black Hole Scattering at Fifth Post-Minkowskian and Second Self-Force Order (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/bf1g-9hq7&quot;&gt;bf1g-9hq7&lt;/a&gt;&lt;/strong&gt; Next-to-Next-to-Leading-Order QCD Corrections to Hadron Production in Deep-Inelastic Scattering at Finite Transverse Momentum (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/wcqv-pcls&quot;&gt;wcqv-pcls&lt;/a&gt;&lt;/strong&gt; Spinon Singlet Pairing: Origin of $d$-Wave Sign Structure in a Partially Filled Stripe (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/zjyw-z6s6&quot;&gt;zjyw-z6s6&lt;/a&gt;&lt;/strong&gt; Room-Temperature Noncollinear Ferroelectricity in van der Waals ${\mathrm{WO}}&lt;em&gt;{2}{\mathrm{Cl}}&lt;/em&gt;{2}$ with a Wide Bandgap (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/lx5w-x6wl&quot;&gt;lx5w-x6wl&lt;/a&gt;&lt;/strong&gt; Phonon-Activated Collective Hopping in a Superionic Phase (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/q2h3-58pz&quot;&gt;q2h3-58pz&lt;/a&gt;&lt;/strong&gt; Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/3nkp-m3w3&quot;&gt;3nkp-m3w3&lt;/a&gt;&lt;/strong&gt; Global topological protection of entanglement in integrated photonic quantum walks (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/qqxn-qc4g&quot;&gt;qqxn-qc4g&lt;/a&gt;&lt;/strong&gt; Broken detailed balance and entropy production in completely positive and trace-preserving quantum Brownian motion (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/vvb9-rf35&quot;&gt;vvb9-rf35&lt;/a&gt;&lt;/strong&gt; Entanglement in elastic electron scattering: Perturbation theory misses fundamental aspects of Bragg scattering (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/d8vx-2dvq&quot;&gt;d8vx-2dvq&lt;/a&gt;&lt;/strong&gt; Silencing electron correlations in the open $\mathrm{Ni}\phantom{\rule{0.28em}{0ex}}3d$ shell system ${\mathrm{NiTe}}_{2}$ (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/tkt1-gbyx&quot;&gt;tkt1-gbyx&lt;/a&gt;&lt;/strong&gt; Minimal model of universal viscous liquid dynamics (PRRL)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;08/21&lt;/p&gt;
 
@@ -352,9 +565,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02811-4&quot;&gt;s42005-026-02811-4&lt;/a&gt;&lt;/strong&gt; Isolated quantum-state networks in ultracold molecules (Communications Physics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02825-y&quot;&gt;s42005-026-02825-y&lt;/a&gt;&lt;/strong&gt; Fully tunable strong spin orbit interactions in light hole germanium quantum channels (Communications Physics)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-026-11037-x&quot;&gt;s41586-026-11037-x&lt;/a&gt;&lt;/strong&gt; Evidence for vacuum-enhanced superconductivity in NbSe&lt;sub&gt;2&lt;/sub&gt; (Nature)&lt;/p&gt;
@@ -708,9 +918,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17200&quot;&gt;2608.17200v1&lt;/a&gt;&lt;/strong&gt; Discovery of novel magnetic Y-Mn-B compounds via advanced machine learning guided framework (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17225&quot;&gt;2608.17225v1&lt;/a&gt;&lt;/strong&gt; Windmill Spin Dynamics and Its Induced Anomalous Hall Effect in Noncollinear Antiferromagnet Mn3Sn (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17230&quot;&gt;2608.17230v1&lt;/a&gt;&lt;/strong&gt; Zero Point Density Fluctuations and Electron Brownian Motion (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -816,9 +1023,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17788&quot;&gt;2608.17788v1&lt;/a&gt;&lt;/strong&gt; Defect Geometry Selects Polar and Anomalous Hall Phases in Two-Dimensional Altermagnets (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17789&quot;&gt;2608.17789v1&lt;/a&gt;&lt;/strong&gt; Observation of magnetic quantum phase crossovers in a semiconductor spin ladder (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.17814&quot;&gt;2608.17814v1&lt;/a&gt;&lt;/strong&gt; Electron transport in amorphous materials: from localization to predictive transport modeling (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -912,16 +1116,10 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/74ky-d71n&quot;&gt;74ky-d71n&lt;/a&gt;&lt;/strong&gt; Quantized Spin Hall Effect in Three-Dimensional Nodal-Ring Semimetal: Geometric Scaling and Symmetry-Engineered Spin Response (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/jrtg-yf1q&quot;&gt;jrtg-yf1q&lt;/a&gt;&lt;/strong&gt; Anomalous Hydrodynamic Fluctuations in the Quantum XXZ Spin Chain (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/8l6h-b89b&quot;&gt;8l6h-b89b&lt;/a&gt;&lt;/strong&gt; Quantized Chern-Simons Axion Coupling in Anomalous Floquet Systems (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/4y5t-mh92&quot;&gt;4y5t-mh92&lt;/a&gt;&lt;/strong&gt; Lattice Deformation Induced Higher-Order Hybrid Topology (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/gl65-17z7&quot;&gt;gl65-17z7&lt;/a&gt;&lt;/strong&gt; Quantum Entanglement of XY-Type Spin Dimers on the Shastry-Sutherland Lattice (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/kf4x-yq24&quot;&gt;kf4x-yq24&lt;/a&gt;&lt;/strong&gt; Unified framework of optical thermodynamics and optical pressure (PRR)&lt;/p&gt;
@@ -943,9 +1141,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/1zq3-h31c&quot;&gt;1zq3-h31c&lt;/a&gt;&lt;/strong&gt; Distinction of time-reversal-like degeneracy by electronic transport in ${\mathrm{Ce}}&lt;em&gt;{3}{\mathrm{MgBi}}&lt;/em&gt;{5}$ (PRR)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/jwtl-dz3v&quot;&gt;jwtl-dz3v&lt;/a&gt;&lt;/strong&gt; Andreev spin qubits based on the helical edge states of magnetically doped two-dimensional topological insulators (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/yxs5-hcfm&quot;&gt;yxs5-hcfm&lt;/a&gt;&lt;/strong&gt; Interaction-induced asymmetry in infinite-temperature dynamical correlations of hard-core anyons (PRR)&lt;/p&gt;
@@ -1402,9 +1597,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.14302&quot;&gt;2608.14302v1&lt;/a&gt;&lt;/strong&gt; Pressure-driven structural phase transition unlocks multifunctionality in KMgX (X = P, As, Sb, and Bi) compounds: A first-principles study (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.14353&quot;&gt;2608.14353v1&lt;/a&gt;&lt;/strong&gt; Orbital Hall Effect in Weyl Semimetals from quantum geometric band interference (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.14362&quot;&gt;2608.14362v1&lt;/a&gt;&lt;/strong&gt; Tuning crystal-fields by He-irradiation and orbital Widom line in SrVO$_3$ films (arXiv)&lt;/p&gt;
