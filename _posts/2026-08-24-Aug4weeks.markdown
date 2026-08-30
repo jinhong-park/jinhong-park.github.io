@@ -11,9 +11,85 @@ categories: 2026aug
 ===Qwen & Hermes' pick===
 
 
+**Weekly Pick (Aug 4 week 2026)**
+
+**Score : topological + magnon double-hit (quantum geometry / Berry), theoretical**
+
+**Paper**
+
+**2608.23683 -- Raman Circular Dichroism Reveals Higher-Order Quantum Geometry of Magnons (arXiv)**
+https://arxiv.org/abs/2608.23683
+
+**Why this paper was picked**
+
+This is the paper that most directly touches two of my core interests at once: **magnon** and **topological** (Berry / quantum geometry), and it does so as a **theoretical** construction rather than a keyword overlay. A few specific reasons:
+
+1. **Dual-topic intersection.** The paper builds a gauge-invariant theory of higher-order magnon quantum geometry and shows that two-magnon Raman circular dichroism (RCD) is a spectroscopic probe of that geometry. The Raman operator is decomposed into Berry connections, covariant derivatives, and products of Berry connections, which generate quantum geometric tensors beyond the usual quantum metric and Berry curvature. That is the exact intersection of magnons and topology: not a topological insulator that happens to be magnetic, and not a magnon paper that mentions Berry curvature in passing, but a theory whose observable is the geometric tensor of the magnon bands.
+
+2. **Theoretical, and at the level of Berry calculus.** Among this week's candidates, this is the one whose technical core is the same language as Berry-curvature identities: gauge invariance of geometric tensors, covariant derivatives of the Berry connection, and the hierarchy of quantum-geometric objects that sit above the Berry curvature. Applying the framework to a field-polarized Kitaev magnet then shows that the dichroic response is controlled by those higher-order tensors rather than by the Berry curvature alone.
+
+3. **Circular dichroism as a Berry probe, not a polarization asymmetry.** Last week's collection had a circular-phonon-dichroism paper in d-wave altermagnets that I ranked as a runner-up because the "topological" content was weaker -- the dichroism there was a phonon-polarization asymmetry, not Berry-curvature topology. This week's RCD paper is the version I actually want: the circular contrast is derived from the magnon Berry connection and its higher covariant derivatives, so the optical observable is a direct readout of band geometry.
+
+4. **Broader relevance to my interests.** The underlying mechanisms involve: (a) magnon-band Berry connections and quantum geometry -- directly tied to my interest in topological band structures, (b) a Kitaev magnet as the working platform, which sits next to skyrmion and chiral-texture physics through frustrated/bond-directional exchange, and (c) a spectroscopic protocol (RCD) that could in principle be ported to other bosonic collectives (phonons, hybrid magnon-phonon modes) and to altermagnetic magnon bands. This connects naturally to other papers in this collection on topological magnonics (2608.22783 -- Zak-phase transition in a magnonic black-white hole crystal), real-space topological textures (2608.24116 -- hopfions from emergent monopoles), and altermagnet-topology coexistence (2608.23442, hz7z-m9tn).
+
+**Papers I considered but did not pick**
+
+| Paper | Why not #1 |
+|---|---|
+| [2608.24116](https://arxiv.org/abs/2608.24116) - Weaving Hopfions from Emergent Monopoles in a Chiral Magnet | Strongest skyrmion-family paper this week (3D hopfions, Hopf invariant, explicit link to skyrmion dynamics), but hopfions are adjacent to skyrmions rather than a dual keyword hit, and there is no magnon / phonon / altermagnet content |
+| [2608.22783](https://arxiv.org/abs/2608.22783) - A Topological Magnonic Black-White Hole Crystal | Hits topological + magnon, but the topology is an analogue-horizon Zak-phase transition of a magnonic crystal, not Berry-curvature quantum geometry of the magnon bands |
+| [2608.23442](https://arxiv.org/abs/2608.23442) - Interaction-mediated Co-existence of Altermagnetism and Topology | Hits altermagnet + topology cleanly (QSH and second-order corner modes on the Lieb lattice), but magnon / phonon / skyrmion are not part of the problem |
+| [2608.20792](https://arxiv.org/abs/2608.20792) - Phase control of magnon-phonon coupling via magnetic field | Hits magnon + phonon, but altermagnet / topological / skyrmion none are core topics |
+| [hz7z-m9tn](http://link.aps.org/doi/10.1103/hz7z-m9tn) - Altermagnetism-Induced Bogoliubov Fermi Surfaces Form Topological Superconductivity (PRL) | Hits altermagnet + topology in a published PRL, but the focus is topological superconductivity and Majorana modes rather than magnetic-band topology or magnons |
+
+
+
+
+
 ===This week's pick===
 
+Score : 24835
 
+
+**[2608.24059v1](https://arxiv.org/abs/2608.24059)** Composite fermions in the $\nu=3$ fractional quantum spin Hall effect (arXiv)
+
+
+Score : 24605
+
+**[2608.25076v1](https://arxiv.org/abs/2608.25076)** High-pressure phase transitions in the quantum spin liquid candidate Na2Co2TeO6 probed by Raman spectroscopy (arXiv)
+
+Score : 23681
+
+**[2608.23856v1](https://arxiv.org/abs/2608.23856)** Quantum encoding of structured light into in-plane topological spin textures (arXiv)
+
+
+Score : 22636
+
+**[2608.24989v1](https://arxiv.org/abs/2608.24989)** Quantum spin Hall crystals at fractional filling of twisted MoTe$_2$ (arXiv)
+
+Score : 21227
+
+
+**[2608.24694v1](https://arxiv.org/abs/2608.24694)** Hierarchical Quantum Transport from Coupled Topological Domain-Wall States in SSH Chains (arXiv)
+
+
+Score : 21172
+
+**[2608.21333v1](https://arxiv.org/abs/2608.21333)** Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs (arXiv)
+
+Score : 21007
+
+**[7dnl-6kg2](http://link.aps.org/doi/10.1103/7dnl-6kg2)** Optimizing the Dynamical Preparation of Quantum Spin Lakes on the Ruby Lattice (PRL)
+
+Score : 20461
+
+**[2608.25656v1](https://arxiv.org/abs/2608.25656)** Phase calibration of quantum oscillations in the magnetostrictive coefficient using the topological antiferromagnet YbMnBi$_2$ (arXiv)
+
+
+
+Score : 19488
+
+**[69mf-6r8f](http://link.aps.org/doi/10.1103/69mf-6r8f)** Magnetic Quantum Criticality inside the Superconducting State Revealed by Penetration Depth Scaling with Local ${T}_{\mathrm{c}}$ (PRL)
 
 
 
@@ -24,7 +100,7 @@ categories: 2026aug
 
 
 
-
+1. **[science.adx6059](https://www.science.org/doi/10.1126/science.adx6059)** Tunnel field-effect transistors exhibiting performance beyond the Boltzmann thermionic limit (Science)
 
 
 ---
@@ -40,7 +116,6 @@ categories: 2026aug
 
 1. **[smgh-m2yq](http://link.aps.org/doi/10.1103/smgh-m2yq)** Creation of Ultracold Heteronuclear $p$-Wave Feshbach Molecules (PRL)
 
-1. **[69mf-6r8f](http://link.aps.org/doi/10.1103/69mf-6r8f)** Magnetic Quantum Criticality inside the Superconducting State Revealed by Penetration Depth Scaling with Local ${T}_{\mathrm{c}}$ (PRL)
 
 1. **[2h9x-8tjk](http://link.aps.org/doi/10.1103/2h9x-8tjk)** Collective Magnetic Excitations in a Photoexcited Electron-Doped Cuprate Superconductor (PRL)
 
@@ -74,7 +149,6 @@ categories: 2026aug
 
 1. **[2608.24984v1](https://arxiv.org/abs/2608.24984)** High-harmonic fingerprints of sharp spin twists in a chiral soliton lattice (arXiv)
 
-1. **[2608.24989v1](https://arxiv.org/abs/2608.24989)** Quantum spin Hall crystals at fractional filling of twisted MoTe$_2$ (arXiv)
 
 1. **[2608.24995v1](https://arxiv.org/abs/2608.24995)** Microscopic Modeling of the Charge-Density-Waves in the Rare-Earth Tritellurides (arXiv)
 
@@ -86,7 +160,7 @@ categories: 2026aug
 
 1. **[2608.25070v1](https://arxiv.org/abs/2608.25070)** Delta-Function Kicks are Optimal for Rapidly Driven Inertial Stochastic Systems (arXiv)
 
-1. **[2608.25076v1](https://arxiv.org/abs/2608.25076)** High-pressure phase transitions in the quantum spin liquid candidate Na2Co2TeO6 probed by Raman spectroscopy (arXiv)
+
 
 1. **[2608.25090v1](https://arxiv.org/abs/2608.25090)** Intercalation of Alkali Metal into WTe2, the Crystal Structure of A0.5WTe2 and Observation of a Metal-to-Semiconductor Transition (arXiv)
 
@@ -150,7 +224,6 @@ categories: 2026aug
 
 1. **[2608.25638v1](https://arxiv.org/abs/2608.25638)** Exact chemo--thermal Metropolis Brownian engine: chemical leverage, temperature-neutral stall, power optimization, and multicyclic dissipation (arXiv)
 
-1. **[2608.25656v1](https://arxiv.org/abs/2608.25656)** Phase calibration of quantum oscillations in the magnetostrictive coefficient using the topological antiferromagnet YbMnBi$_2$ (arXiv)
 
 1. **[2608.25684v1](https://arxiv.org/abs/2608.25684)** Chirality-Selective Phonon Pumping by Ferroelectric Dynamics (arXiv)
 
@@ -300,7 +373,6 @@ categories: 2026aug
 
 1. **[2608.23832v1](https://arxiv.org/abs/2608.23832)** Spectrally Programmable Spin-Polarized Photocurrents in WSe$_2$-NiPS$_3$ Magnetic van der Waals Heterostructures (arXiv)
 
-1. **[2608.23856v1](https://arxiv.org/abs/2608.23856)** Quantum encoding of structured light into in-plane topological spin textures (arXiv)
 
 1. **[2608.23902v1](https://arxiv.org/abs/2608.23902)** Nonequilibrium pulse dynamics and metastable latching in nonlinear kinetic inductance detectors (arXiv)
 
@@ -322,7 +394,6 @@ categories: 2026aug
 
 1. **[2608.24023v1](https://arxiv.org/abs/2608.24023)** Scattering-Induced Magnon Layer-Hall Transport beyond Band Geometry (arXiv)
 
-1. **[2608.24059v1](https://arxiv.org/abs/2608.24059)** Composite fermions in the $\nu=3$ fractional quantum spin Hall effect (arXiv)
 
 1. **[2608.24116v1](https://arxiv.org/abs/2608.24116)** Weaving Hopfions from Emergent Monopoles in a Chiral Magnet (arXiv)
 
@@ -394,7 +465,6 @@ categories: 2026aug
 
 1. **[2608.24684v1](https://arxiv.org/abs/2608.24684)** Visualizing flat-band spatial renormalization in rhombohedral graphene superlattices (arXiv)
 
-1. **[2608.24694v1](https://arxiv.org/abs/2608.24694)** Hierarchical Quantum Transport from Coupled Topological Domain-Wall States in SSH Chains (arXiv)
 
 1. **[2608.24710v1](https://arxiv.org/abs/2608.24710)** Enhanced Superconductivity in Multilayer FeSe Films by Simplified Molecular Beam Epitaxy (arXiv)
 
@@ -457,7 +527,6 @@ categories: 2026aug
 
 1. **[llw4-tbnt](http://link.aps.org/doi/10.1103/llw4-tbnt)** First-Order Phase Transition in Atom-Molecule Quantum Degenerate Mixtures with Coherent Three-Body Recombination (PRL)
 
-1. **[7dnl-6kg2](http://link.aps.org/doi/10.1103/7dnl-6kg2)** Optimizing the Dynamical Preparation of Quantum Spin Lakes on the Ruby Lattice (PRL)
 
 
 
@@ -848,7 +917,6 @@ categories: 2026aug
 
 1. **[2608.21316v1](https://arxiv.org/abs/2608.21316)** Ultralow-Field Triplon Condensation in a Spin-Ladder Magnet (arXiv)
 
-1. **[2608.21333v1](https://arxiv.org/abs/2608.21333)** Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs (arXiv)
 
 1. **[2608.20502v1](https://arxiv.org/abs/2608.20502)** Real-time ESR tracking for sub-micron 3D magnetic mapping with VB- quantum sensors in hexagonal boron nitride (arXiv)
 
