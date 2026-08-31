@@ -1,0 +1,251 @@
+---
+layout: post
+title:  "weekly picks (Aug 5 week 2026)"
+date:   2026-08-31 00:16:27
+categories: 2026aug
+---
+
+{% include image.html url="/images/2026aug5weeks.png" caption="A WordCloud of 2026 August 5th week collection" width=300 align="center" %}
+
+
+===Qwen & Hermes' pick===
+
+
+
+
+
+===This week's pick===
+
+Score : 
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+---
+08/31
+
+
+1. **[2608.27533v1](https://arxiv.org/abs/2608.27533)** Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures (arXiv)
+
+1. **[2608.27552v1](https://arxiv.org/abs/2608.27552)** Collinear altermagnetism for 3D chiral higher-order topological insulators (arXiv)
+
+1. **[2608.27588v1](https://arxiv.org/abs/2608.27588)** Topological signatures in the quench dynamics of periodically driven quantum systems (arXiv)
+
+1. **[2608.27589v1](https://arxiv.org/abs/2608.27589)** Atomistic Indicators of the Ductile-to-Brittle Transition in Polycrystalline Tungsten: Temperature and Rhenium Effects on Crack-Tip Plasticity (arXiv)
+
+1. **[2608.27590v1](https://arxiv.org/abs/2608.27590)** Physics-informed learning for the inverse problem in resonant ultrasound spectroscopy (arXiv)
+
+1. **[2608.27625v1](https://arxiv.org/abs/2608.27625)** Turning Zeeman splitting into switchable charge polarization in a double quantum dot (arXiv)
+
+1. **[2608.27643v1](https://arxiv.org/abs/2608.27643)** LDA-1/2 for Molecular Systems: A Real-Space Finite-Element Benchmark on the GW100 Set (arXiv)
+
+1. **[2608.27645v1](https://arxiv.org/abs/2608.27645)** First-Principles DFT Study of Ferroelectric-to-Antiferroelectric Phase Transitions in LiTaO$_3$ under Electric Boundary Conditions (arXiv)
+
+1. **[2608.27664v1](https://arxiv.org/abs/2608.27664)** Bound state of a He-3 atom at free He-4 surfaces (arXiv)
+
+1. **[2608.27747v1](https://arxiv.org/abs/2608.27747)** Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials (arXiv)
+
+1. **[2608.27890v1](https://arxiv.org/abs/2608.27890)** Ionization Energies, Electron Affinities, Bandgaps, Exciton Binding Energies, and Polarization Energies of Orientation-Controlled Picene, [6]-Phenacene, and [7]-Phenacene Thin Films (arXiv)
+
+1. **[2608.27898v1](https://arxiv.org/abs/2608.27898)** Microscopic Theory of Drag in a Bose Condensate Interacting with a Moving Reservoir (arXiv)
+
+1. **[2608.27917v1](https://arxiv.org/abs/2608.27917)** Orbital-Selective Coexistence of Interlayer Spin-Singlet Formation and SDW Order with Anomalous Spin Reconfiguration in Bilayer Nickelate La$_{3}$Ni$_{2}$O$_{7}$ Revealed by $^{17}$O-NMR (arXiv)
+
+1. **[2608.27944v1](https://arxiv.org/abs/2608.27944)** Quantum geometric bounds at finite temperature for one-dimensional chiral systems (arXiv)
+
+1. **[2608.27947v1](https://arxiv.org/abs/2608.27947)** Coherence Resonance Phenomena in an Atom-Dimer Two Mode BECs (arXiv)
+
+1. **[2608.27951v1](https://arxiv.org/abs/2608.27951)** Multi-dimensional spectroscopy of mobile excitons in two-dimensional semiconductors (arXiv)
+
+1. **[2608.27959v1](https://arxiv.org/abs/2608.27959)** Significant modulation of acoustoelectric current associated with charge density wave transitions (arXiv)
+
+1. **[2608.28012v1](https://arxiv.org/abs/2608.28012)** Correlated disorder versus correlated noise: Ordering in active systems (arXiv)
+
+1. **[2608.28028v1](https://arxiv.org/abs/2608.28028)** Sound propagation in one-dimensional quantum droplets (arXiv)
+
+1. **[2608.28041v1](https://arxiv.org/abs/2608.28041)** Mechanics and statistics of a solvable model of an autophoretic colloidal chain (arXiv)
+
+1. **[2608.28054v1](https://arxiv.org/abs/2608.28054)** Spin-Selective Spectral Flattening and Wave-Packet Dynamics in a Flux-Engineered Lieb Lattice (arXiv)
+
+1. **[2608.28055v1](https://arxiv.org/abs/2608.28055)** Weakly non-linear creep of amorphous polymers near their glass transition, comparisons between models and experiment (arXiv)
+
+1. **[2608.28059v1](https://arxiv.org/abs/2608.28059)** Landau theory of quenched criticality in linear in-context learning (arXiv)
+
+1. **[2608.28100v1](https://arxiv.org/abs/2608.28100)** uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks (arXiv)
+
+1. **[2608.28104v1](https://arxiv.org/abs/2608.28104)** Band-like Carriers in a Soft, Anharmonic Lattice: Lead-Halide Perovskites (arXiv)
+
+1. **[2608.28107v1](https://arxiv.org/abs/2608.28107)** Charge transfer and competing symmetry breaking drive orbital reconstruction and emergent ferromagnetism in insulating oxide superlattices (arXiv)
+
+1. **[2608.28119v1](https://arxiv.org/abs/2608.28119)** Field-tuned quasiparticles and electronic structure in heavy-fermion YbNi4P2 (arXiv)
+
+1. **[2608.28143v1](https://arxiv.org/abs/2608.28143)** Light-induced atomic motion in ionic crystals (arXiv)
+
+1. **[2608.28146v1](https://arxiv.org/abs/2608.28146)** Topological signatures in the curvature-induced energy response (arXiv)
+
+1. **[2608.28164v1](https://arxiv.org/abs/2608.28164)** Quantum thermodynamics near the border of a one-dimensional Bose gas (arXiv)
+
+1. **[2608.28166v1](https://arxiv.org/abs/2608.28166)** Two-dimensional quantum Griffith singularity in three-dimensional ZrN$_x$ superconducting films (arXiv)
+
+1. **[2608.28231v1](https://arxiv.org/abs/2608.28231)** Quantum Geometric Origin of Nonlinear Current Induced Orbital Magnetization (arXiv)
+
+1. **[2608.28238v1](https://arxiv.org/abs/2608.28238)** Interplay between crystal structure and magnetism in CeCrB$_4$ (arXiv)
+
+1. **[2608.28239v1](https://arxiv.org/abs/2608.28239)** QUBO-Compatible Active Learning for Inverse Design of High-Entropy Alloys (arXiv)
+
+1. **[2608.28263v1](https://arxiv.org/abs/2608.28263)** Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum Dots (arXiv)
+
+1. **[2608.28268v1](https://arxiv.org/abs/2608.28268)** Nanolamellar Hybrid High-Entropy Alloys with Superior Micromechanical Properties (arXiv)
+
+1. **[2608.28269v1](https://arxiv.org/abs/2608.28269)** Phenomenological Growth Regimes in Liquid-Precursor CVD of MoS$_2$ on Functional Substrates (arXiv)
+
+1. **[2608.28289v1](https://arxiv.org/abs/2608.28289)** A Generalized Model for Disordered Random Sequential Adsorption with Charge-Dependent Deposition (arXiv)
+
+1. **[2608.28338v1](https://arxiv.org/abs/2608.28338)** Evidence for Three-component Interlayer Coherent Exciton Condensation (arXiv)
+
+1. **[2608.28347v1](https://arxiv.org/abs/2608.28347)** Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys (arXiv)
+
+1. **[2608.28353v1](https://arxiv.org/abs/2608.28353)** Crystal-phase quantum dots in AlGaAs nanowires (arXiv)
+
+1. **[2608.28365v1](https://arxiv.org/abs/2608.28365)** Topological Signatures of Hardness and Structural Order in Network-Forming Materials (arXiv)
+
+1. **[2608.28381v1](https://arxiv.org/abs/2608.28381)** Electrically Tunable Two-Component Exciton Condensate in a Coulomb-Coupled Graphene Trilayer (arXiv)
+
+1. **[2608.28398v1](https://arxiv.org/abs/2608.28398)** Quantum transport and unified scaling law in graphene with polyadic Cantor electrostatic barriers (arXiv)
+
+1. **[2608.28457v1](https://arxiv.org/abs/2608.28457)** Magnonic Combinatorial Memory based on a network of coupled active ring circuits (arXiv)
+
+1. **[2608.28485v1](https://arxiv.org/abs/2608.28485)** Gauge invariance, collective modes, and the justification of normal-state subtraction in Dirac superconductors (arXiv)
+
+1. **[2608.28492v1](https://arxiv.org/abs/2608.28492)** Wyckoff-Resolved Oxidation-State Atlas and Anion-Conditioned Priors for Materials Discovery (arXiv)
+
+1. **[2608.28495v1](https://arxiv.org/abs/2608.28495)** Automated Dislocation Detection in Electron Channelling Contrast Imaging: A Comparative Study of Rule-Based, Neural Network, and Deep Learning Approaches (arXiv)
+
+1. **[2608.28521v1](https://arxiv.org/abs/2608.28521)** Modifying van der Waals Materials via Cavity Vacuum Fluctuations (arXiv)
+
+1. **[2608.28546v1](https://arxiv.org/abs/2608.28546)** Switchable chiral antiferromagnetism through nonlinear magnetic susceptibility (arXiv)
+
+1. **[2608.28565v1](https://arxiv.org/abs/2608.28565)** A Three-Fluid Model of Dissipation at Surfaces in Superconducting Radiofrequency Cavities (arXiv)
+
+1. **[2608.28574v1](https://arxiv.org/abs/2608.28574)** Super-resolution Control of Two-dimensional Quantum Emitters (arXiv)
+
+1. **[2608.28575v1](https://arxiv.org/abs/2608.28575)** Solvable relaxation in discrete unitary systems: Ruelle-Pollicott resonances and CMV matrices (arXiv)
+
+1. **[2608.28583v1](https://arxiv.org/abs/2608.28583)** Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films (arXiv)
+
+1. **[2608.28588v1](https://arxiv.org/abs/2608.28588)** Interaction corrections to topological density three-point functions in two-dimensional Fermi liquids: a coadjoint orbit perspective (arXiv)
+
+1. **[2608.27554v1](https://arxiv.org/abs/2608.27554)** Euler Topological Metals in 1D (arXiv)
+
+1. **[2608.27561v1](https://arxiv.org/abs/2608.27561)** Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories (arXiv)
+
+1. **[2608.27733v1](https://arxiv.org/abs/2608.27733)** Deterministic control over launching efficiency of higher-order hyperbolic phonon polaritons (arXiv)
+
+1. **[2608.27767v1](https://arxiv.org/abs/2608.27767)** Fractional Hall Conductance of Laughlin States from a Topological Index (arXiv)
+
+1. **[2608.27850v1](https://arxiv.org/abs/2608.27850)** Mode-Specific Dynamics of CO2 Hydrogenation on Copper: The Hidden Role of Molecular Rotation (arXiv)
+
+1. **[2608.27976v1](https://arxiv.org/abs/2608.27976)** A different kind of continuum limit for the three-dimensional U(1) gauge theory (arXiv)
+
+1. **[2608.27977v1](https://arxiv.org/abs/2608.27977)** Compact Variational Neural Networks for Spectral Inference from a Single Nonlinear 2D Perovskite Photodetector (arXiv)
+
+1. **[2608.28141v1](https://arxiv.org/abs/2608.28141)** Lattice Green's function of the hyperkagome lattice: modular uniformization at level 30 from an orthogonal differential Galois group (arXiv)
+
+1. **[2608.28167v1](https://arxiv.org/abs/2608.28167)** Three-dimensional optical vortices in nonlinear Bessel waveguides (arXiv)
+
+1. **[2608.28203v1](https://arxiv.org/abs/2608.28203)** Inclination-Induced Crossover in the Velocity Scaling of Lubrication-Mediated Droplet Motion (arXiv)
+
+1. **[2608.28275v1](https://arxiv.org/abs/2608.28275)** Full-field fluorescence computed tomography (F3CT) using a calibrated virtual cone-beam pinhole geometry (arXiv)
+
+1. **[2608.28463v1](https://arxiv.org/abs/2608.28463)** Fabrication-free assessment of microwave losses in germanium-based dielectrics and superconductors (arXiv)
+
+
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
