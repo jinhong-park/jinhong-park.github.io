@@ -10,17 +10,148 @@ categories: 2026aug
 
 ===Qwen & Hermes' pick===
 
+**Pick from 2026-08-31 (Aug 5 week 2026, entries 08/31–09/05)**
+
+**Score:** 9/10 — core hits on **Topological + Altermagnet + Theoretical**, indirect **Magnon**; phonon/skyrmion absent (those are covered by the runners-up below).
+
+---
+
+**Title:** Collinear altermagnetism for 3D chiral higher-order topological insulators
+**ID:** [2608.27552v1](https://arxiv.org/abs/2608.27552)
+**Authors:** Andreas Hadjipaschalis, Jennifer Cano
+**Date:** 08/31 entry (arXiv 27 Aug 2026)
+
+---
+
+**why this pick?**
+
+Third consecutive week at the **altermagnetism × topology** intersection — and this one completes a clean progression. The 08/17 pick (2608.15811) showed single-particle-engineered altermagnetic topological insulators; the 08/24 pick (2608.23442) showed electron interactions driving altermagnetic × quantum spin Hall co-existence on the Lieb lattice. This paper — again a **d-wave altermagnet on a Lieb lattice** — escalates the recipe from a 2D QSH analogue to a **3D chiral C₄T-protected higher-order topological insulator**, the phase the abstract itself calls "elusive in electronic materials." The reason it is elusive is that C₄T (fourfold rotation × time reversal) is hard to satisfy with conventional spin–orbit engineering plus magnetism — and **collinear altermagnetism supplies exactly the missing ingredient**: it shifts and gaps the surface Dirac cones into intrinsic chiral hinge channels. Analytical plus numerical, with promising material classes identified. In this week's ~500-entry collection it is the **only entry combining genuine band topology and altermagnetism in a fully theoretical treatment**.
+
+**1. Keyword matching across the six interests** (every line checked against the verified abstract)
+
+| Interest | How this paper connects |
+|----------|----------------------|
+| **Topological** | Core: constructs the elusive C₄T-protected chiral HOTI; altermagnetic order shifts and gaps the surface Dirac cones, producing **chiral hinge channels**. |
+| **Altermagnet** | Core: a collinear d-wave altermagnet (Lieb lattice) is the mechanism itself, not a spectator background. |
+| **Theoretical** | Core: microscopic model + analytical and numerical calculations; no experimental input assumed; candidate material classes identified at the end. |
+| **Magnon** | Indirect: the paper is electronic, but it is precisely the d-wave altermagnetic phase whose magnon signatures your other two hits this week probe (2609.02008 magnon thermal Hall in KV₂Se₂O / MnF₂; 12cl-b9jj magnon quantum geometry) — read together they form one package. |
+| **Phonon** | Not addressed: no ionic degrees of freedom. |
+| **Skyrmion** | Not addressed. The week's only explicit skyrmion entry (2608.29724) is a synthetic-AFM transport study, see table below. |
+
+**2. Why this over other candidates?** (abstracts verified)
+
+| Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
+|-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
+| **[2608.27552 (pick)](https://arxiv.org/abs/2608.27552)** | O | O* | - | O | O | - |
+| [2609.02008](https://arxiv.org/abs/2609.02008) (Symmetry-enforced 3rd-order nonlinear thermal Hall in altermagnets; Berry-curvature THE from electrons **and** magnons; KV₂Se₂O, MnF₂) | O* | O | - | O | O | - |
+| [12cl-b9jj](http://link.aps.org/doi/10.1103/12cl-b9jj), PRL 137, 106901 (Quantum geometry of altermagnetic magnons probed by light; d-wave altermagnet, bicircular Raman protocol) | O* | O | - | O | O | - |
+| [2608.29724](https://arxiv.org/abs/2608.29724) (Skyrmion Hall effect for low-power transport in a tubular synthetic antiferromagnet; optimal current protocols) | - | - | - | O* | - | O |
+
+\*Indirect: the paper's framework intersects the area even if it is not the primary focus.
+
+The runner-up 2609.02008 is the best **altermagnet × magnon** entry of the week and is the pick *if magnon takes priority this week* — it also has a published PRL companion (10.1103/5bns-qkgl) and gives a concrete, symmetry-guaranteed diagnostic (π-periodic third-order thermal Hall, out-of-plane vs in-plane Néel order). 12cl-b9jj is a strong PRL companion (a universal optical protocol to distinguish altermagnets from antiferromagnets via magnon chirality) and should be read together with 2609.02008. I rank 27552 above both because it is the only candidate carrying **genuine band topology (higher-order, 3D) + altermagnetism** — your first two interests in the same paper — and it completes the two-week lineage with a new dimensionality rather than another 2D transport signature.
+
+**3. Physical insights from this paper**
+
+- **Magnetism can *be* the C₄T ingredient**: the chiral C₄T-protected HOTI is elusive in electronic materials because conventional SOC + magnetism construction fails to protect it — collinear altermagnetic order supplies exactly the symmetry-breaking pattern that opens the hinge channels. Topology sourced by altermagnetism itself, not by SOC alone.
+- **The hinge is the observable**: the mechanism is transparent (altermagnetism shifts and *gaps* the surface Dirac cones rather than destroying them), so the chiral hinge channel is a sharp, falsifiable experimental target — and the abstract promises candidate material classes, making this more than a toy-model result.
+- **A three-paper arc**: 08/17 (single-particle construction) → 08/24 (interaction-driven co-existence + corner modes, ED-verified) → this week (3D chiral HOTI). The Lieb lattice + d-wave altermagnet recipe recurs in all three; reading them together gives a coherent roadmap toward intrinsic chiral higher-order topology in real materials.
+
+---
+
+**TL;DR**
+
+> A d-wave altermagnet on a Lieb lattice, combined with a 3D topological insulator, provides the symmetry ingredient for the long-elusive **C₄T-protected chiral higher-order topological insulator**: the altermagnetic order shifts and gaps the surface Dirac cones into intrinsic chiral hinge channels. Analytical + numerical treatment with candidate material classes — the week's only entry combining genuine band topology and altermagnetism, and the 3D sequel to last two weeks' picks.
 
 
 
 
 ===This week's pick===
 
-Score : 
+Score : 24354
+
+**[2608.29015v1](https://arxiv.org/abs/2608.29015)** Probing spin order via magnon transmission across quantum Hall ferromagnet heterojunctions (arXiv)
+
+
+Score : 21662
+
+
+**[2608.27588v1](https://arxiv.org/abs/2608.27588)** Topological signatures in the quench dynamics of periodically driven quantum systems (arXiv)
+
+
+Score : 20107
+
+**[2608.31093v1](https://arxiv.org/abs/2608.31093)** Device characterization of Si$/$SiGe double quantum dots using exchange oscillations in Earth's magnetic field (arXiv)
+
+Score : 19889
+
+
+**[7njs-vyl9](http://link.aps.org/doi/10.1103/7njs-vyl9)** Spin inertia as a source of topological magnons: Chiral edge states from coupled precession and nutation (PRRL)
+
+
+
+Score : 19538
+
+**[p694-46xh](http://link.aps.org/doi/10.1103/p694-46xh)** Quantum dynamics of few-photon pulsed waveguide QED with a single artificial atom: Frequency-dependent scattering theory and time-dependent matrix product states (PRR)
+
+
+Score : 18805
+
+**[2608.29915v1](https://arxiv.org/abs/2608.29915)** Symmetry-Enforced Topological Structures in Quantum Phase Diagrams (arXiv)
+
+Score : 17776
+
+**[2609.01243v1](https://arxiv.org/abs/2609.01243)** Multiple chiral Majorana states in proximitized magnetic topological insulator heterostructures (arXiv)
+
+
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+
+
+
+---
+09/05
+
+
+1. **[s41467-026-77568-z](https://www.nature.com/articles/s41467-026-77568-z)** All-electrical magnetisation switching via tilting spin propagation and polarization in MnTe spin source (Nature Communications)
+
+1. **[s42005-026-02845-8](https://www.nature.com/articles/s42005-026-02845-8)** Kinetic obstruction to pairing in the doped Kitaev-Heisenberg two-leg ladder (Communications Physics)
+
+1. **[s41598-026-70229-7](https://www.nature.com/articles/s41598-026-70229-7)** An intelligent model for surface and subsurface water simulation considering the effect of pipeline siltation (Scientific Reports)
+
+1. **[s41598-026-68463-0](https://www.nature.com/articles/s41598-026-68463-0)** Effect of geometry, wettability, and Janus amphiphilicity on the interfacial attachment strength of peanut-shaped solid particles in Pickering emulsions (Scientific Reports)
+
+1. **[zywf-twfv](http://link.aps.org/doi/10.1103/zywf-twfv)** Spectator Leakage Suppression via Invariant Subspace Engineering for <span class="sc">cz</span> Gates in Superconducting Quantum Circuits (PRL)
+
+1. **[454t-n78h](http://link.aps.org/doi/10.1103/454t-n78h)** Room-Temperature Storage of Entanglement in a Silicon Carbide Quantum Node (PRL)
+
+1. **[zprj-xzrj](http://link.aps.org/doi/10.1103/zprj-xzrj)** Distinguishing the Nature of Dark Matter by Mapping Cosmic Filaments from Lyman-Alpha Emission (PRL)
+
+1. **[9x1t-b84m](http://link.aps.org/doi/10.1103/9x1t-b84m)** Emergence of Thermal Recoil Jets in High-Energy Heavy-Ion Collisions (PRL)
+
+1. **[m2md-rxkv](http://link.aps.org/doi/10.1103/m2md-rxkv)** Passive Quantum State Transfer in a Dispersion-Engineered Waveguide (PRL)
+
+1. **[2dkn-db5z](http://link.aps.org/doi/10.1103/2dkn-db5z)** Resonant Excitation of Surface Plasmon for Wakefield Acceleration by Beating GW Lasers on Smooth Cylindrical Surface (PRL)
+
+1. **[hm32-h8q3](http://link.aps.org/doi/10.1103/hm32-h8q3)** Experimental Evidence for Coronal Mass Ejection Suppression in Strong Stellar Magnetic Fields (PRL)
+
+1. **[g1rn-czgb](http://link.aps.org/doi/10.1103/g1rn-czgb)** Competition between Geometrical Frustration and the Kondo Effect in CePdAl Revealed by High-Resolution Magnetization (PRL)
+
+1. **[lwpl-brrr](http://link.aps.org/doi/10.1103/lwpl-brrr)** Dynamical Breaking of Inversion Symmetry, Strong Second Harmonic Generation, and Nonequilibrium Ferroelectricity with Nonlinear Phonons (PRL)
+
+1. **[5v2c-55m1](http://link.aps.org/doi/10.1103/5v2c-55m1)** Production and Decay Dynamics of the Charmed Baryon ${\mathrm{Λ}}_{c}^{+}$ in ${e}^{+}{e}^{−}$ Annihilations near Threshold (PRX)
+
+1. **[93r1-vqk2](http://link.aps.org/doi/10.1103/93r1-vqk2)** Dynamic interaction between chiral currents and surface waves in topological superfluid (PRR)
+
+1. **[xzdr-sh34](http://link.aps.org/doi/10.1103/xzdr-sh34)** Unraveling network dynamics via Riemannian filtering of network interactions (PRR)
+
+1. **[zm5l-1q4w](http://link.aps.org/doi/10.1103/zm5l-1q4w)** Stable three-dimensional solitons in spin-orbit-coupled atomic-molecular condensates (PRR)
+
+1. **[tpxk-cltw](http://link.aps.org/doi/10.1103/tpxk-cltw)** Disordered yet directed: The emergence of polar flocks with disordered interactions (PRR)
 
 
 
@@ -71,7 +202,6 @@ Score :
 
 1. **[jx5w-35z9](http://link.aps.org/doi/10.1103/jx5w-35z9)** Topological order without band topology in moiré graphene (PRRL)
 
-1. **[7njs-vyl9](http://link.aps.org/doi/10.1103/7njs-vyl9)** Spin inertia as a source of topological magnons: Chiral edge states from coupled precession and nutation (PRRL)
 
 1. **[2406.06669v1](https://arxiv.org/abs/2406.06669)** Composite helical edges from Abelian fractional topological insulators (arXiv)
 
@@ -387,7 +517,7 @@ Score :
 
 1. **[x7gn-pqzb](http://link.aps.org/doi/10.1103/x7gn-pqzb)** Quantum sensing in the vicinity of dissipative phase transition (PRR)
 
-1. **[p694-46xh](http://link.aps.org/doi/10.1103/p694-46xh)** Quantum dynamics of few-photon pulsed waveguide QED with a single artificial atom: Frequency-dependent scattering theory and time-dependent matrix product states (PRR)
+
 
 1. **[c1y9-q1wd](http://link.aps.org/doi/10.1103/c1y9-q1wd)** Quantum geometric tensor for the group SU(1,1) (PRRL)
 
@@ -517,7 +647,6 @@ Score :
 
 1. **[2609.01233v1](https://arxiv.org/abs/2609.01233)** Interferometry reveals spin-singlet fractional quantum Hall edges in graphene (arXiv)
 
-1. **[2609.01243v1](https://arxiv.org/abs/2609.01243)** Multiple chiral Majorana states in proximitized magnetic topological insulator heterostructures (arXiv)
 
 1. **[2609.01258v1](https://arxiv.org/abs/2609.01258)** Tunneling characteristics of twisted double bilayer graphene heterostructures (arXiv)
 
@@ -660,7 +789,6 @@ Score :
 
 1. **[2608.29007v1](https://arxiv.org/abs/2608.29007)** Fractional Impurity Entropy from Potential Scattering in a Free Electron Gas (arXiv)
 
-1. **[2608.29015v1](https://arxiv.org/abs/2608.29015)** Probing spin order via magnon transmission across quantum Hall ferromagnet heterojunctions (arXiv)
 
 1. **[2608.29064v1](https://arxiv.org/abs/2608.29064)** Duality Between Twist-Angle Disorder and Non-Hermitian Disorder (arXiv)
 
@@ -750,7 +878,6 @@ Score :
 
 1. **[2608.29898v1](https://arxiv.org/abs/2608.29898)** Cesium Clustering and Fluoroberyllate Network Disruption in FLiBe: A Total Scattering and Molecular Dynamics Study (arXiv)
 
-1. **[2608.29915v1](https://arxiv.org/abs/2608.29915)** Symmetry-Enforced Topological Structures in Quantum Phase Diagrams (arXiv)
 
 1. **[2608.29991v1](https://arxiv.org/abs/2608.29991)** Asymmetry-controlled resonant transport in a Brownian flashing ratchet (arXiv)
 
@@ -858,7 +985,6 @@ Score :
 
 1. **[2608.31051v1](https://arxiv.org/abs/2608.31051)** Orbital and Spin Edelstein Effects in KTaO$_3$(110) Two-Dimensional Electron Gases (arXiv)
 
-1. **[2608.31093v1](https://arxiv.org/abs/2608.31093)** Device characterization of Si$/$SiGe double quantum dots using exchange oscillations in Earth's magnetic field (arXiv)
 
 1. **[2608.31114v1](https://arxiv.org/abs/2608.31114)** Overcoming critical slowing down in frustrated spin systems by learned multiscale sampling (arXiv)
 
@@ -934,7 +1060,6 @@ Score :
 
 1. **[2608.27552v1](https://arxiv.org/abs/2608.27552)** Collinear altermagnetism for 3D chiral higher-order topological insulators (arXiv)
 
-1. **[2608.27588v1](https://arxiv.org/abs/2608.27588)** Topological signatures in the quench dynamics of periodically driven quantum systems (arXiv)
 
 1. **[2608.27589v1](https://arxiv.org/abs/2608.27589)** Atomistic Indicators of the Ductile-to-Brittle Transition in Polycrystalline Tungsten: Temperature and Rhenium Effects on Crack-Tip Plasticity (arXiv)
 
