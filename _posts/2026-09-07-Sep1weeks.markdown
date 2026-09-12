@@ -43,7 +43,7 @@ This week's collection (~250 entries) has **no altermagnetism × band-topology e
 | Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
 |-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
 | **2609.09287 (pick)** | - | O | - | O | O | - |
-| 2609.04883 (Spin-point-group multipole classification, 32 + 122 collinear groups; explicitly identifies d-/g-/ i-wave altermagnet order parameters, 200 pp.) | - | - | - | O* | O | - |
+| [2609.04883](https://arxiv.org/abs/2609.04883) (Spin-point-group multipole classification, 32 + 122 collinear groups; explicitly identifies d-/g-/ i-wave altermagnet order parameters, 200 pp.) | - | - | - | O* | O | - |
 | [2609.04798](https://arxiv.org/abs/2609.04798) (Coupled magnon–phonon–electron relaxation in magnetite, SEAQT quantum thermodynamics) | - | O | O | O | - | - |
 | [2609.09505](https://arxiv.org/abs/2609.09505) (Intrinsic/valley thermal Hall of phonons in graphene in integer QH phases, single author) | O | - | O | O | - | - |
 | [2609.10081](https://arxiv.org/abs/2609.10081) (Magnetic-anisotropy crossover + high-T skyrmions in Dirac magnet Fe₃Ge) | O* | - | - | - | - | O |
@@ -52,10 +52,10 @@ This week's collection (~250 entries) has **no altermagnetism × band-topology e
 
 *O = core; O* = indirect/secondary.*
 
-- **2609.04883** is the week's other altermagnet-strong paper and a genuinely valuable symmetry database (it names d-/g-/i-wave altermagnetism order parameters for all collinear spin point groups) — but it is a classification *catalog* (200 pages, 173 tables), not a result with a sharp physical prediction; it pairs naturally as the symmetry-side companion of this pick.
-- **2609.04798** wins the magnon+phonon cell but in a ferrimagnet (no altermagnetism), and its contribution is a thermodynamic formalism for magnetite rather than new altermagnetic physics.
-- **2609.09505** is the week's only *topology + phonon* pair (QHE graphene, phonon valley Hall viscosity) — the pick *if* topology takes priority this week — but touches neither altermagnetism nor magnons, and its single-author 9-page scope is narrower.
-- **2609.10081** is the skyrmion + Dirac-topology experimental entry — the pick *if* skyrmion takes priority — but is a materials observation, off the theoretical axis.
+- **[2609.04883](https://arxiv.org/abs/2609.04883)** is the week's other altermagnet-strong paper and a genuinely valuable symmetry database (it names d-/g-/i-wave altermagnetism order parameters for all collinear spin point groups) — but it is a classification *catalog* (200 pages, 173 tables), not a result with a sharp physical prediction; it pairs naturally as the symmetry-side companion of this pick.
+- **[2609.04798](https://arxiv.org/abs/2609.04798)** wins the magnon+phonon cell but in a ferrimagnet (no altermagnetism), and its contribution is a thermodynamic formalism for magnetite rather than new altermagnetic physics.
+- **[2609.09505](https://arxiv.org/abs/2609.09505)** is the week's only *topology + phonon* pair (QHE graphene, phonon valley Hall viscosity) — the pick *if* topology takes priority this week — but touches neither altermagnetism nor magnons, and its single-author 9-page scope is narrower.
+- **[2609.10081](https://arxiv.org/abs/2609.10081)** is the skyrmion + Dirac-topology experimental entry — the pick *if* skyrmion takes priority — but is a materials observation, off the theoretical axis.
 - I rank 2609.09287 above all because it is the **only entry with three of your six keywords core at once**, and it sits inside the exact model family (d-wave altermagnet) the 08/17–08/31 arc has been building in — converting the altermagnetism × magnon pair into a *measurable spectroscopic protocol*, which is what the electronic-bulk picks of the last three weeks lacked.
 
 **3. Physical insights from this paper**
