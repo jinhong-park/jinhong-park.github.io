@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Sep 2026 13:31:22 +0900</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 13:31:22 +0900</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 13:35:08 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:35:08 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -36,15 +36,7 @@
 
 &lt;p&gt;&lt;strong&gt;why this pick?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;This week’s collection (~250 entries) has &lt;strong&gt;no altermagnetism × band-topology entry at all&lt;/strong&gt; — the three-week Lieb-lattice arc (08/17 → 08/24 → 08/31) has no sequel this week — so the pick shifts to the second axis of your research program: &lt;strong&gt;the magnetic excitation sector of altermagnets&lt;/strong&gt;. 2609.09287 is the only entry that makes &lt;strong&gt;altermagnetism, magnons, and theory all core&lt;/strong&gt;: it takes the canonical &lt;strong&gt;2D d-wave altermagnet&lt;/strong&gt; (same model family as the 08/24 pick 2608.23442 and the 12cl-b9jj magnon-geometry paper) and computes &lt;strong&gt;finite-momentum two-magnon light-scattering intensities&lt;/strong&gt; with linear spin-wave theory plus leading &lt;strong&gt;1/S quantum corrections&lt;/strong&gt;. The headline result is a concrete, momentum-selective altermagnetic fingerprint: the characteristic magnon splitting of d-wave altermagnets shifts the &lt;strong&gt;upper edge of the two-magnon continuum&lt;/strong&gt; and the K-point degenerate two-magnon resonance to higher energy by an amount **linear in the exchange anisotropy&lt;/td&gt;
-      &lt;td&gt;δJ₂&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;*, while the zone-center response is unchanged — and interactions add a low-energy two-peak structure with no linear-spin-wave counterpart. It directly answers an open problem stated in the abstract — *identifying the spectroscopic fingerprints of altermagnetism&lt;/em&gt; — and motivates momentum-resolved RESX as the experiment.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;This week’s collection (~250 entries) has &lt;strong&gt;no altermagnetism × band-topology entry at all&lt;/strong&gt; — the three-week Lieb-lattice arc (08/17 → 08/24 → 08/31) has no sequel this week — so the pick shifts to the second axis of your research program: &lt;strong&gt;the magnetic excitation sector of altermagnets&lt;/strong&gt;. 2609.09287 is the only entry that makes &lt;strong&gt;altermagnetism, magnons, and theory all core&lt;/strong&gt;: it takes the canonical &lt;strong&gt;2D d-wave altermagnet&lt;/strong&gt; (same model family as the 08/24 pick 2608.23442 and the 12cl-b9jj magnon-geometry paper) and computes &lt;strong&gt;finite-momentum two-magnon light-scattering intensities&lt;/strong&gt; with linear spin-wave theory plus leading &lt;strong&gt;1/S quantum corrections&lt;/strong&gt;. The headline result is a concrete, momentum-selective altermagnetic fingerprint: the characteristic magnon splitting of d-wave altermagnets shifts the &lt;strong&gt;upper edge of the two-magnon continuum&lt;/strong&gt; and the K-point degenerate two-magnon resonance to higher energy by an amount &lt;strong&gt;linear in the exchange anisotropy δJ₂&lt;/strong&gt;, while the zone-center response is unchanged — and interactions add a low-energy two-peak structure with no linear-spin-wave counterpart. It directly answers an open problem stated in the abstract — &lt;em&gt;identifying the spectroscopic fingerprints of altermagnetism&lt;/em&gt; — and motivates momentum-resolved RESX as the experiment.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;1. Keyword matching across the six interests&lt;/strong&gt; (every line checked against the verified abstract)&lt;/p&gt;
 
