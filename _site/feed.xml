@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2026 13:35:53 +0900</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 13:35:53 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Sat, 12 Sep 2026 13:24:57 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:24:57 +0900</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
     
       <item>
         <title>weekly picks (Sep 1 week 2026)</title>
@@ -21,14 +21,293 @@
 
 &lt;p&gt;===Qwen &amp;amp; Hermes’ pick===&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Pick from 2026-09-07 (Sep 1 week 2026, entries 09/07–09/11)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Score:&lt;/strong&gt; 8.5/10 — core hits on &lt;strong&gt;Altermagnet + Magnon + Theoretical&lt;/strong&gt;, weak &lt;strong&gt;Topological&lt;/strong&gt;, phonon/skyrmion carried by runners-up.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Two-magnon response from light scattering in altermagnets
+&lt;strong&gt;ID:&lt;/strong&gt; &lt;a href=&quot;https://arxiv.org/abs/2609.09287&quot;&gt;2609.09287v1&lt;/a&gt;
+&lt;strong&gt;Authors:&lt;/strong&gt; Shuyi Li, Lexu Zhao, Chun-Jing Jia
+&lt;strong&gt;Date:&lt;/strong&gt; 09/10 entry (arXiv 8 Sep 2026)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;why this pick?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This week’s collection (~250 entries) has &lt;strong&gt;no altermagnetism × band-topology entry at all&lt;/strong&gt; — the three-week Lieb-lattice arc (08/17 → 08/24 → 08/31) has no sequel this week — so the pick shifts to the second axis of your research program: &lt;strong&gt;the magnetic excitation sector of altermagnets&lt;/strong&gt;. 2609.09287 is the only entry that makes &lt;strong&gt;altermagnetism, magnons, and theory all core&lt;/strong&gt;: it takes the canonical &lt;strong&gt;2D d-wave altermagnet&lt;/strong&gt; (same model family as the 08/24 pick 2608.23442 and the 12cl-b9jj magnon-geometry paper) and computes &lt;strong&gt;finite-momentum two-magnon light-scattering intensities&lt;/strong&gt; with linear spin-wave theory plus leading &lt;strong&gt;1/S quantum corrections&lt;/strong&gt;. The headline result is a concrete, momentum-selective altermagnetic fingerprint: the characteristic magnon splitting of d-wave altermagnets shifts the &lt;strong&gt;upper edge of the two-magnon continuum&lt;/strong&gt; and the K-point degenerate two-magnon resonance to higher energy by an amount **linear in the exchange anisotropy&lt;/td&gt;
+      &lt;td&gt;δJ₂&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;*, while the zone-center response is unchanged — and interactions add a low-energy two-peak structure with no linear-spin-wave counterpart. It directly answers an open problem stated in the abstract — *identifying the spectroscopic fingerprints of altermagnetism&lt;/em&gt; — and motivates momentum-resolved RESX as the experiment.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Keyword matching across the six interests&lt;/strong&gt; (every line checked against the verified abstract)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Interest&lt;/th&gt;
+      &lt;th&gt;How this paper connects&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Altermagnet&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Core: a two-dimensional d-wave altermagnet is the whole setting; the altermagnetic exchange anisotropy |δJ₂| is the single control parameter of every predicted spectral shift.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Magnon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Core: finite-momentum two-magnon excitations and the magnon splitting of altermagnets are the objects studied; magnon–magnon interactions are treated via 1/S quantum corrections.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Theoretical&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Core: full spin-wave-theory calculation (LSWT + 1/S corrections), polarization-channel-resolved scattering intensities; the paper closes with an experimental protocol (momentum-resolved RESX), i.e. theory-first.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Topological&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Weak: no band topology or topological invariant; the altermagnetic splitting of the magnon continuum is a &lt;em&gt;spectrum-reconstruction&lt;/em&gt; effect, adjacent to but not a topological phase.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Phonon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Not addressed: phonons are only present as the optical scattering process, not as a studied degree of freedom.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Skyrmion&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Not addressed: no noncollinear spin textures.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Why this over other candidates?&lt;/strong&gt; (abstracts verified)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Paper&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Topo&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Magnon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Phonon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Theoretical&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Altermagnet&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Skyrmion&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;2609.09287 (pick)&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.04883 (Spin-point-group multipole classification, 32 + 122 collinear groups; explicitly identifies d-/g-/ i-wave altermagnet order parameters, 200 pp.)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04798&quot;&gt;2609.04798&lt;/a&gt; (Coupled magnon–phonon–electron relaxation in magnetite, SEAQT quantum thermodynamics)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09505&quot;&gt;2609.09505&lt;/a&gt; (Intrinsic/valley thermal Hall of phonons in graphene in integer QH phases, single author)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.10081&quot;&gt;2609.10081&lt;/a&gt; (Magnetic-anisotropy crossover + high-T skyrmions in Dirac magnet Fe₃Ge)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09674&quot;&gt;2609.09674&lt;/a&gt; (Thermal-magnon transport in low-damping ferrimagnetic LAFO/Pt, BLS + micromagnetics)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.05085&quot;&gt;2609.05085&lt;/a&gt; (Néel-rotated cross-layer AHE in vdW altermagnet V₂Te₂O, first-principles)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;O = core; O&lt;/em&gt; = indirect/secondary.*&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;2609.04883&lt;/strong&gt; is the week’s other altermagnet-strong paper and a genuinely valuable symmetry database (it names d-/g-/i-wave altermagnetism order parameters for all collinear spin point groups) — but it is a classification &lt;em&gt;catalog&lt;/em&gt; (200 pages, 173 tables), not a result with a sharp physical prediction; it pairs naturally as the symmetry-side companion of this pick.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2609.04798&lt;/strong&gt; wins the magnon+phonon cell but in a ferrimagnet (no altermagnetism), and its contribution is a thermodynamic formalism for magnetite rather than new altermagnetic physics.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2609.09505&lt;/strong&gt; is the week’s only &lt;em&gt;topology + phonon&lt;/em&gt; pair (QHE graphene, phonon valley Hall viscosity) — the pick &lt;em&gt;if&lt;/em&gt; topology takes priority this week — but touches neither altermagnetism nor magnons, and its single-author 9-page scope is narrower.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2609.10081&lt;/strong&gt; is the skyrmion + Dirac-topology experimental entry — the pick &lt;em&gt;if&lt;/em&gt; skyrmion takes priority — but is a materials observation, off the theoretical axis.&lt;/li&gt;
+  &lt;li&gt;I rank 2609.09287 above all because it is the &lt;strong&gt;only entry with three of your six keywords core at once&lt;/strong&gt;, and it sits inside the exact model family (d-wave altermagnet) the 08/17–08/31 arc has been building in — converting the altermagnetism × magnon pair into a &lt;em&gt;measurable spectroscopic protocol&lt;/em&gt;, which is what the electronic-bulk picks of the last three weeks lacked.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Physical insights from this paper&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;The altermagnetic fingerprint is momentum-selective&lt;/strong&gt;: the zone center (Γ) shows &lt;em&gt;no&lt;/em&gt; altermagnetic signature in the two-magnon scattering intensity, so conventional zone-center Raman cannot distinguish d-wave altermagnets from ordinary AFMs — the signature lives at &lt;strong&gt;X = (π, 0)&lt;/strong&gt; (continuum-edge shift linear in&lt;/td&gt;
+          &lt;td&gt;δJ₂&lt;/td&gt;
+          &lt;td&gt;) and &lt;strong&gt;K = (π/2, π/2)&lt;/strong&gt; (degeneracy splitting of the two-magnon resonance). This is a sharp, falsifiable diagnostic that complements last week’s companion 12cl-b9jj (optical protocol via magnon chirality) and 2609.02008 (π-periodic third-order thermal Hall).&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interactions are not a correction — they create structure&lt;/strong&gt;: beyond LSWT, magnon–magnon interactions both protect the high-energy reconstruction (it survives weight redistribution) and generate a low-energy double-peak that &lt;em&gt;does not exist&lt;/em&gt; in the linear theory — the same “interactions add physics” theme as the 08/24 pick (2608.23442, ED-verified co-existence phase).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reading together = one package&lt;/strong&gt;: 08/24 pick (interaction-driven altermagnet × QSH co-existence on the Lieb lattice) → 12cl-b9jj (magnon quantum geometry of d-wave altermagnets) → &lt;strong&gt;this&lt;/strong&gt; (two-magnon spectroscopy + 1/S corrections) → 2609.04883 (which point groups can be d-/g-/i-wave and why). That is the week’s most coherent thread across your altermagnet + magnon + theoretical interests.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;In a 2D d-wave altermagnet, finite-momentum two-magnon light scattering carries a fingerprint of altermagnetic order that is invisible at the zone center: the altermagnetic exchange anisotropy&lt;/td&gt;
+        &lt;td&gt;δJ₂&lt;/td&gt;
+        &lt;td&gt;shifts the two-magnon continuum edge at X and splits the degenerate K-point two-magnon resonance linearly, with interactions adding a robust double-peak structure. Linear spin-wave + 1/S quantum corrections, abstract-checked, motivated for momentum-resolved RESX — the week’s only entry with altermagnet, magnon, and theoretical all core, and the spectroscopic capstone on the d-wave altermagnet model family the past three weeks’ picks have been developing.&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
-&lt;p&gt;Score :&lt;/p&gt;
+&lt;p&gt;Score : 28179&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04359&quot;&gt;2609.04359v1&lt;/a&gt;&lt;/strong&gt; Quantum oscillations of helical edge states of periodically deformed 2D topological insulator in magnetic field (arXiv)&lt;/p&gt;
+
+&lt;p&gt;Score :  25099&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/xf8k-4r35&quot;&gt;xf8k-4r35&lt;/a&gt;&lt;/strong&gt; Controllable Quantum Phase Transitions and Frustrated Spin Responses in Multiferroic FeS Nanotubes (PRL)&lt;/p&gt;
+
+&lt;p&gt;Score : 22849&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09422&quot;&gt;2609.09422v1&lt;/a&gt;&lt;/strong&gt; Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene (arXiv)&lt;/p&gt;
+
+&lt;p&gt;Score : 20194&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04717&quot;&gt;2609.04717v1&lt;/a&gt;&lt;/strong&gt; Mean-field theory for quantum spin chains (arXiv)&lt;/p&gt;
+
+&lt;p&gt;Score : 18422&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09505&quot;&gt;2609.09505v1&lt;/a&gt;&lt;/strong&gt; Intrinsic (valley) thermal Hall conductivity of phonons in graphene for integer quantum Hall phases (arXiv)&lt;/p&gt;
+
+&lt;p&gt;Score : 18416&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04330&quot;&gt;2609.04330v1&lt;/a&gt;&lt;/strong&gt; The influence of quantum geometry on the phase boundary and collective excitations of electron liquids and crystals (arXiv)&lt;/p&gt;
+
+&lt;p&gt;Score : 17621&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09679&quot;&gt;2609.09679v1&lt;/a&gt;&lt;/strong&gt; Automated Generation of Commensurate Magnetic Structures based on Spin Space Groups and Graph Theory (arXiv)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;09/11&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-77786-5&quot;&gt;s41467-026-77786-5&lt;/a&gt;&lt;/strong&gt; Disentangling the effect of space and electric field on photoelectrochemical water splitting (Nature Communications)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41567-026-03436-8&quot;&gt;s41567-026-03436-8&lt;/a&gt;&lt;/strong&gt; Digital quantum simulations of scattering in quantum field theories using W states (Nature Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02828-9&quot;&gt;s42005-026-02828-9&lt;/a&gt;&lt;/strong&gt; Deciphering Majorana zero modes in topological superconductor FeTe&lt;sub&gt;0.55&lt;/sub&gt;Se&lt;sub&gt;0.45&lt;/sub&gt; with machine-learning-assisted spectral deconvolution (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/gg3l-cghb&quot;&gt;gg3l-cghb&lt;/a&gt;&lt;/strong&gt; All Steerable Quantum Correlations Can Provide Thermodynamic Advantages in Cooling (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/9xmv-s7wp&quot;&gt;9xmv-s7wp&lt;/a&gt;&lt;/strong&gt; Noise-Symmetry Optimization of Quantum Error-Corrected Metrology (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/nqmq-8zsl&quot;&gt;nqmq-8zsl&lt;/a&gt;&lt;/strong&gt; Experimental Observation of Dynamical Phase Transitions in a Dephased Photonic Quantum Walk (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/yfjc-r69d&quot;&gt;yfjc-r69d&lt;/a&gt;&lt;/strong&gt; Generalized Hydrodynamics of Bloch Oscillations in the Absence of a Lattice (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/dv32-v967&quot;&gt;dv32-v967&lt;/a&gt;&lt;/strong&gt; Subangstrom Free-Electron Laser Operation with Undulator Deflection Parameter Reaching the Subunity Regime (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/g98c-463s&quot;&gt;g98c-463s&lt;/a&gt;&lt;/strong&gt; Charge-$2e$ Superconductivity from a Disordered Pair Density Wave (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/tsw6-sdhk&quot;&gt;tsw6-sdhk&lt;/a&gt;&lt;/strong&gt; Phonons Reflect Dynamic Spin-State Order in ${\mathrm{LaCoO}}_{3}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/2q9c-45cg&quot;&gt;2q9c-45cg&lt;/a&gt;&lt;/strong&gt; Slip-Driven $B1−B2$ Phase Transition in Shock-Compressed KCl (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/mwl6-8nzl&quot;&gt;mwl6-8nzl&lt;/a&gt;&lt;/strong&gt; Coexisting Spin, Vibrational, and Orbital Excitations in Conductance Spectra (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/161m-526h&quot;&gt;161m-526h&lt;/a&gt;&lt;/strong&gt; Mechanical Sensing of Metamagnetic Tricriticality in Two-Dimensional ${\text{CrI}}_{3}$ (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/xskm-5w1g&quot;&gt;xskm-5w1g&lt;/a&gt;&lt;/strong&gt; Spin-to-Charge Conversion Driven by Inverse Chiral-Induced Spin Selectivity (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/f93h-rlzy&quot;&gt;f93h-rlzy&lt;/a&gt;&lt;/strong&gt; Scalable quantum algorithm for meson scattering in a lattice gauge theory (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/md4x-9k3g&quot;&gt;md4x-9k3g&lt;/a&gt;&lt;/strong&gt; Isomorphic property of sheared three-dimensional Yukawa liquidlike fluids (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/5s6w-2dt5&quot;&gt;5s6w-2dt5&lt;/a&gt;&lt;/strong&gt; Ponderomotive achromat for electron optics: Radially polarized annular focusing and a round-lens corrector regime (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/sxcl-yqs7&quot;&gt;sxcl-yqs7&lt;/a&gt;&lt;/strong&gt; Semiconductor Wannier equations: A real-time, real-space approach to the nonlinear optical response in crystals (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/l939-jglf&quot;&gt;l939-jglf&lt;/a&gt;&lt;/strong&gt; Near-bandgap harmonic generation in solids from multiple scattering revealed by complex quantum trajectories (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/p759-6v4q&quot;&gt;p759-6v4q&lt;/a&gt;&lt;/strong&gt; Hong-Ou-Mandel two-photon x-ray states (PRRL)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;09/10&lt;/p&gt;
 
@@ -109,9 +388,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09398&quot;&gt;2609.09398v1&lt;/a&gt;&lt;/strong&gt; A force model for dense granular flows and particle segregation (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09422&quot;&gt;2609.09422v1&lt;/a&gt;&lt;/strong&gt; Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09446&quot;&gt;2609.09446v1&lt;/a&gt;&lt;/strong&gt; Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -128,9 +404,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09500&quot;&gt;2609.09500v1&lt;/a&gt;&lt;/strong&gt; Topological instability and reentrant crystallization in active solids (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09505&quot;&gt;2609.09505v1&lt;/a&gt;&lt;/strong&gt; Intrinsic (valley) thermal Hall conductivity of phonons in graphene for integer quantum Hall phases (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09532&quot;&gt;2609.09532v1&lt;/a&gt;&lt;/strong&gt; Comprehensive molecular dynamics study of the dynamical properties of a dense binary hard-sphere mixture (arXiv)&lt;/p&gt;
@@ -158,9 +431,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09674&quot;&gt;2609.09674v1&lt;/a&gt;&lt;/strong&gt; Microscopic Understanding of Thermal-magnon Transport in a Low-damping Ferrimagnetic Thin Films (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09679&quot;&gt;2609.09679v1&lt;/a&gt;&lt;/strong&gt; Automated Generation of Commensurate Magnetic Structures based on Spin Space Groups and Graph Theory (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.09699&quot;&gt;2609.09699v1&lt;/a&gt;&lt;/strong&gt; Anomalous Hall Response Induced by Correlated Disorder in the Breathing Kagome Lattice Mn$_{3}$Sn (arXiv)&lt;/p&gt;
@@ -454,12 +724,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04319&quot;&gt;2609.04319v1&lt;/a&gt;&lt;/strong&gt; Exact quantum spin liquids with topological order on maple-leaf and trellis lattices (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04330&quot;&gt;2609.04330v1&lt;/a&gt;&lt;/strong&gt; The influence of quantum geometry on the phase boundary and collective excitations of electron liquids and crystals (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04359&quot;&gt;2609.04359v1&lt;/a&gt;&lt;/strong&gt; Quantum oscillations of helical edge states of periodically deformed 2D topological insulator in magnetic field (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04370&quot;&gt;2609.04370v1&lt;/a&gt;&lt;/strong&gt; Dual Charge-Density-Waves in Two-dimensional DyTe3 and Their Distinct Impacts on Magneto-Transport Properties (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -513,9 +777,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04642&quot;&gt;2609.04642v1&lt;/a&gt;&lt;/strong&gt; Evidence of Crystal-Field-Mediated Anisotropic Orbital Rashba Effect in Epitaxial Ru/FM Heterostructure (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04717&quot;&gt;2609.04717v1&lt;/a&gt;&lt;/strong&gt; Mean-field theory for quantum spin chains (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.04719&quot;&gt;2609.04719v1&lt;/a&gt;&lt;/strong&gt; Scaling laws and energy dissipation in the dynamics of SLE curve as a 1D turbulence model (arXiv)&lt;/p&gt;

@@ -10,12 +10,105 @@ categories: 2026sep
 
 ===Qwen & Hermes' pick===
 
+**Pick from 2026-09-07 (Sep 1 week 2026, entries 09/07–09/11)**
+
+**Score:** 8.5/10 — core hits on **Altermagnet + Magnon + Theoretical**, weak **Topological**, phonon/skyrmion carried by runners-up.
+
+---
+
+**Title:** Two-magnon response from light scattering in altermagnets
+**ID:** [2609.09287v1](https://arxiv.org/abs/2609.09287)
+**Authors:** Shuyi Li, Lexu Zhao, Chun-Jing Jia
+**Date:** 09/10 entry (arXiv 8 Sep 2026)
+
+---
+
+**why this pick?**
+
+This week's collection (~250 entries) has **no altermagnetism × band-topology entry at all** — the three-week Lieb-lattice arc (08/17 → 08/24 → 08/31) has no sequel this week — so the pick shifts to the second axis of your research program: **the magnetic excitation sector of altermagnets**. 2609.09287 is the only entry that makes **altermagnetism, magnons, and theory all core**: it takes the canonical **2D d-wave altermagnet** (same model family as the 08/24 pick 2608.23442 and the 12cl-b9jj magnon-geometry paper) and computes **finite-momentum two-magnon light-scattering intensities** with linear spin-wave theory plus leading **1/S quantum corrections**. The headline result is a concrete, momentum-selective altermagnetic fingerprint: the characteristic magnon splitting of d-wave altermagnets shifts the **upper edge of the two-magnon continuum** and the K-point degenerate two-magnon resonance to higher energy by an amount **linear in the exchange anisotropy |δJ₂|**, while the zone-center response is unchanged — and interactions add a low-energy two-peak structure with no linear-spin-wave counterpart. It directly answers an open problem stated in the abstract — *identifying the spectroscopic fingerprints of altermagnetism* — and motivates momentum-resolved RESX as the experiment.
+
+**1. Keyword matching across the six interests** (every line checked against the verified abstract)
+
+| Interest | How this paper connects |
+|----------|----------------------|
+| **Altermagnet** | Core: a two-dimensional d-wave altermagnet is the whole setting; the altermagnetic exchange anisotropy \|δJ₂\| is the single control parameter of every predicted spectral shift. |
+| **Magnon** | Core: finite-momentum two-magnon excitations and the magnon splitting of altermagnets are the objects studied; magnon–magnon interactions are treated via 1/S quantum corrections. |
+| **Theoretical** | Core: full spin-wave-theory calculation (LSWT + 1/S corrections), polarization-channel-resolved scattering intensities; the paper closes with an experimental protocol (momentum-resolved RESX), i.e. theory-first. |
+| **Topological** | Weak: no band topology or topological invariant; the altermagnetic splitting of the magnon continuum is a *spectrum-reconstruction* effect, adjacent to but not a topological phase. |
+| **Phonon** | Not addressed: phonons are only present as the optical scattering process, not as a studied degree of freedom. |
+| **Skyrmion** | Not addressed: no noncollinear spin textures. |
+
+**2. Why this over other candidates?** (abstracts verified)
+
+| Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
+|-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
+| **2609.09287 (pick)** | - | O | - | O | O | - |
+| 2609.04883 (Spin-point-group multipole classification, 32 + 122 collinear groups; explicitly identifies d-/g-/ i-wave altermagnet order parameters, 200 pp.) | - | - | - | O* | O | - |
+| [2609.04798](https://arxiv.org/abs/2609.04798) (Coupled magnon–phonon–electron relaxation in magnetite, SEAQT quantum thermodynamics) | - | O | O | O | - | - |
+| [2609.09505](https://arxiv.org/abs/2609.09505) (Intrinsic/valley thermal Hall of phonons in graphene in integer QH phases, single author) | O | - | O | O | - | - |
+| [2609.10081](https://arxiv.org/abs/2609.10081) (Magnetic-anisotropy crossover + high-T skyrmions in Dirac magnet Fe₃Ge) | O* | - | - | - | - | O |
+| [2609.09674](https://arxiv.org/abs/2609.09674) (Thermal-magnon transport in low-damping ferrimagnetic LAFO/Pt, BLS + micromagnetics) | - | O | - | O* | - | - |
+| [2609.05085](https://arxiv.org/abs/2609.05085) (Néel-rotated cross-layer AHE in vdW altermagnet V₂Te₂O, first-principles) | - | - | - | O* | O | - |
+
+*O = core; O* = indirect/secondary.*
+
+- **2609.04883** is the week's other altermagnet-strong paper and a genuinely valuable symmetry database (it names d-/g-/i-wave altermagnetism order parameters for all collinear spin point groups) — but it is a classification *catalog* (200 pages, 173 tables), not a result with a sharp physical prediction; it pairs naturally as the symmetry-side companion of this pick.
+- **2609.04798** wins the magnon+phonon cell but in a ferrimagnet (no altermagnetism), and its contribution is a thermodynamic formalism for magnetite rather than new altermagnetic physics.
+- **2609.09505** is the week's only *topology + phonon* pair (QHE graphene, phonon valley Hall viscosity) — the pick *if* topology takes priority this week — but touches neither altermagnetism nor magnons, and its single-author 9-page scope is narrower.
+- **2609.10081** is the skyrmion + Dirac-topology experimental entry — the pick *if* skyrmion takes priority — but is a materials observation, off the theoretical axis.
+- I rank 2609.09287 above all because it is the **only entry with three of your six keywords core at once**, and it sits inside the exact model family (d-wave altermagnet) the 08/17–08/31 arc has been building in — converting the altermagnetism × magnon pair into a *measurable spectroscopic protocol*, which is what the electronic-bulk picks of the last three weeks lacked.
+
+**3. Physical insights from this paper**
+
+- **The altermagnetic fingerprint is momentum-selective**: the zone center (Γ) shows *no* altermagnetic signature in the two-magnon scattering intensity, so conventional zone-center Raman cannot distinguish d-wave altermagnets from ordinary AFMs — the signature lives at **X = (π, 0)** (continuum-edge shift linear in |δJ₂|) and **K = (π/2, π/2)** (degeneracy splitting of the two-magnon resonance). This is a sharp, falsifiable diagnostic that complements last week's companion 12cl-b9jj (optical protocol via magnon chirality) and 2609.02008 (π-periodic third-order thermal Hall).
+- **Interactions are not a correction — they create structure**: beyond LSWT, magnon–magnon interactions both protect the high-energy reconstruction (it survives weight redistribution) and generate a low-energy double-peak that *does not exist* in the linear theory — the same "interactions add physics" theme as the 08/24 pick (2608.23442, ED-verified co-existence phase).
+- **Reading together = one package**: 08/24 pick (interaction-driven altermagnet × QSH co-existence on the Lieb lattice) → 12cl-b9jj (magnon quantum geometry of d-wave altermagnets) → **this** (two-magnon spectroscopy + 1/S corrections) → 2609.04883 (which point groups can be d-/g-/i-wave and why). That is the week's most coherent thread across your altermagnet + magnon + theoretical interests.
+
+---
+
+**TL;DR**
+
+> In a 2D d-wave altermagnet, finite-momentum two-magnon light scattering carries a fingerprint of altermagnetic order that is invisible at the zone center: the altermagnetic exchange anisotropy |δJ₂| shifts the two-magnon continuum edge at X and splits the degenerate K-point two-magnon resonance linearly, with interactions adding a robust double-peak structure. Linear spin-wave + 1/S quantum corrections, abstract-checked, motivated for momentum-resolved RESX — the week's only entry with altermagnet, magnon, and theoretical all core, and the spectroscopic capstone on the d-wave altermagnet model family the past three weeks' picks have been developing.
 
 
 
 ===This week's pick===
 
-Score : 
+Score : 28179
+
+
+**[2609.04359v1](https://arxiv.org/abs/2609.04359)** Quantum oscillations of helical edge states of periodically deformed 2D topological insulator in magnetic field (arXiv)
+
+Score :  25099
+
+**[xf8k-4r35](http://link.aps.org/doi/10.1103/xf8k-4r35)** Controllable Quantum Phase Transitions and Frustrated Spin Responses in Multiferroic FeS Nanotubes (PRL)
+
+
+Score : 22849
+
+**[2609.09422v1](https://arxiv.org/abs/2609.09422)** Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene (arXiv)
+
+
+Score : 20194
+
+**[2609.04717v1](https://arxiv.org/abs/2609.04717)** Mean-field theory for quantum spin chains (arXiv)
+
+
+Score : 18422
+
+**[2609.09505v1](https://arxiv.org/abs/2609.09505)** Intrinsic (valley) thermal Hall conductivity of phonons in graphene for integer quantum Hall phases (arXiv)
+
+
+Score : 18416
+
+**[2609.04330v1](https://arxiv.org/abs/2609.04330)** The influence of quantum geometry on the phase boundary and collective excitations of electron liquids and crystals (arXiv)
+
+
+Score : 17621
+
+**[2609.09679v1](https://arxiv.org/abs/2609.09679)** Automated Generation of Commensurate Magnetic Structures based on Spin Space Groups and Graph Theory (arXiv)
+
+
 
 
 <details id="myDetails">
@@ -23,6 +116,56 @@ Score :
   {% capture markdowncontent %}
 
 
+
+
+
+---
+09/11
+
+
+1. **[s41467-026-77786-5](https://www.nature.com/articles/s41467-026-77786-5)** Disentangling the effect of space and electric field on photoelectrochemical water splitting (Nature Communications)
+
+1. **[s41567-026-03436-8](https://www.nature.com/articles/s41567-026-03436-8)** Digital quantum simulations of scattering in quantum field theories using W states (Nature Physics)
+
+1. **[s42005-026-02828-9](https://www.nature.com/articles/s42005-026-02828-9)** Deciphering Majorana zero modes in topological superconductor FeTe<sub>0.55</sub>Se<sub>0.45</sub> with machine-learning-assisted spectral deconvolution (Communications Physics)
+
+
+
+
+1. **[gg3l-cghb](http://link.aps.org/doi/10.1103/gg3l-cghb)** All Steerable Quantum Correlations Can Provide Thermodynamic Advantages in Cooling (PRL)
+
+1. **[9xmv-s7wp](http://link.aps.org/doi/10.1103/9xmv-s7wp)** Noise-Symmetry Optimization of Quantum Error-Corrected Metrology (PRL)
+
+1. **[nqmq-8zsl](http://link.aps.org/doi/10.1103/nqmq-8zsl)** Experimental Observation of Dynamical Phase Transitions in a Dephased Photonic Quantum Walk (PRL)
+
+1. **[yfjc-r69d](http://link.aps.org/doi/10.1103/yfjc-r69d)** Generalized Hydrodynamics of Bloch Oscillations in the Absence of a Lattice (PRL)
+
+1. **[dv32-v967](http://link.aps.org/doi/10.1103/dv32-v967)** Subangstrom Free-Electron Laser Operation with Undulator Deflection Parameter Reaching the Subunity Regime (PRL)
+
+1. **[g98c-463s](http://link.aps.org/doi/10.1103/g98c-463s)** Charge-$2e$ Superconductivity from a Disordered Pair Density Wave (PRL)
+
+1. **[tsw6-sdhk](http://link.aps.org/doi/10.1103/tsw6-sdhk)** Phonons Reflect Dynamic Spin-State Order in ${\mathrm{LaCoO}}_{3}$ (PRL)
+
+1. **[2q9c-45cg](http://link.aps.org/doi/10.1103/2q9c-45cg)** Slip-Driven $B1−B2$ Phase Transition in Shock-Compressed KCl (PRL)
+
+
+1. **[mwl6-8nzl](http://link.aps.org/doi/10.1103/mwl6-8nzl)** Coexisting Spin, Vibrational, and Orbital Excitations in Conductance Spectra (PRL)
+
+1. **[161m-526h](http://link.aps.org/doi/10.1103/161m-526h)** Mechanical Sensing of Metamagnetic Tricriticality in Two-Dimensional ${\text{CrI}}_{3}$ (PRL)
+
+1. **[xskm-5w1g](http://link.aps.org/doi/10.1103/xskm-5w1g)** Spin-to-Charge Conversion Driven by Inverse Chiral-Induced Spin Selectivity (PRL)
+
+1. **[f93h-rlzy](http://link.aps.org/doi/10.1103/f93h-rlzy)** Scalable quantum algorithm for meson scattering in a lattice gauge theory (PRR)
+
+1. **[md4x-9k3g](http://link.aps.org/doi/10.1103/md4x-9k3g)** Isomorphic property of sheared three-dimensional Yukawa liquidlike fluids (PRR)
+
+1. **[5s6w-2dt5](http://link.aps.org/doi/10.1103/5s6w-2dt5)** Ponderomotive achromat for electron optics: Radially polarized annular focusing and a round-lens corrector regime (PRR)
+
+1. **[sxcl-yqs7](http://link.aps.org/doi/10.1103/sxcl-yqs7)** Semiconductor Wannier equations: A real-time, real-space approach to the nonlinear optical response in crystals (PRR)
+
+1. **[l939-jglf](http://link.aps.org/doi/10.1103/l939-jglf)** Near-bandgap harmonic generation in solids from multiple scattering revealed by complex quantum trajectories (PRR)
+
+1. **[p759-6v4q](http://link.aps.org/doi/10.1103/p759-6v4q)** Hong-Ou-Mandel two-photon x-ray states (PRRL)
 
 
 
@@ -82,7 +225,6 @@ Score :
 
 1. **[2609.09398v1](https://arxiv.org/abs/2609.09398)** A force model for dense granular flows and particle segregation (arXiv)
 
-1. **[2609.09422v1](https://arxiv.org/abs/2609.09422)** Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene (arXiv)
 
 1. **[2609.09446v1](https://arxiv.org/abs/2609.09446)** Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides (arXiv)
 
@@ -96,7 +238,6 @@ Score :
 
 1. **[2609.09500v1](https://arxiv.org/abs/2609.09500)** Topological instability and reentrant crystallization in active solids (arXiv)
 
-1. **[2609.09505v1](https://arxiv.org/abs/2609.09505)** Intrinsic (valley) thermal Hall conductivity of phonons in graphene for integer quantum Hall phases (arXiv)
 
 1. **[2609.09532v1](https://arxiv.org/abs/2609.09532)** Comprehensive molecular dynamics study of the dynamical properties of a dense binary hard-sphere mixture (arXiv)
 
@@ -116,7 +257,6 @@ Score :
 
 1. **[2609.09674v1](https://arxiv.org/abs/2609.09674)** Microscopic Understanding of Thermal-magnon Transport in a Low-damping Ferrimagnetic Thin Films (arXiv)
 
-1. **[2609.09679v1](https://arxiv.org/abs/2609.09679)** Automated Generation of Commensurate Magnetic Structures based on Spin Space Groups and Graph Theory (arXiv)
 
 1. **[2609.09699v1](https://arxiv.org/abs/2609.09699)** Anomalous Hall Response Induced by Correlated Disorder in the Breathing Kagome Lattice Mn$_{3}$Sn (arXiv)
 
@@ -322,9 +462,7 @@ Score :
 
 1. **[2609.04319v1](https://arxiv.org/abs/2609.04319)** Exact quantum spin liquids with topological order on maple-leaf and trellis lattices (arXiv)
 
-1. **[2609.04330v1](https://arxiv.org/abs/2609.04330)** The influence of quantum geometry on the phase boundary and collective excitations of electron liquids and crystals (arXiv)
 
-1. **[2609.04359v1](https://arxiv.org/abs/2609.04359)** Quantum oscillations of helical edge states of periodically deformed 2D topological insulator in magnetic field (arXiv)
 
 1. **[2609.04370v1](https://arxiv.org/abs/2609.04370)** Dual Charge-Density-Waves in Two-dimensional DyTe3 and Their Distinct Impacts on Magneto-Transport Properties (arXiv)
 
@@ -358,7 +496,7 @@ Score :
 
 1. **[2609.04642v1](https://arxiv.org/abs/2609.04642)** Evidence of Crystal-Field-Mediated Anisotropic Orbital Rashba Effect in Epitaxial Ru/FM Heterostructure (arXiv)
 
-1. **[2609.04717v1](https://arxiv.org/abs/2609.04717)** Mean-field theory for quantum spin chains (arXiv)
+
 
 1. **[2609.04719v1](https://arxiv.org/abs/2609.04719)** Scaling laws and energy dissipation in the dynamics of SLE curve as a 1D turbulence model (arXiv)
 
