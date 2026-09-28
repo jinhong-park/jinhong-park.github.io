@@ -6,8 +6,8 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Sep 2026 15:58:17 +0900</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 15:58:17 +0900</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 11:17:59 +0900</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:17:59 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -21,7 +21,184 @@
 
 &lt;p&gt;===Qwen &amp;amp; Hermes’ pick===&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Pick from 2026-09-21 (Sep 3 week 2026, entries 09/21–09/23)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Score:&lt;/strong&gt; 8/10 — core hits on &lt;strong&gt;Altermagnet + Theoretical&lt;/strong&gt;, with &lt;strong&gt;Topological + Skyrmion&lt;/strong&gt; core-adjacent (texture gauge fields), &lt;strong&gt;Magnon&lt;/strong&gt; indirect, &lt;strong&gt;Phonon&lt;/strong&gt; absent.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Emergent Gauge Fields and Linear Dichroism in Spin-Textured Altermagnets
+&lt;strong&gt;ID:&lt;/strong&gt; &lt;a href=&quot;http://link.aps.org/doi/10.1103/phr7-1zy5&quot;&gt;phr7-1zy5&lt;/a&gt;
+&lt;strong&gt;Authors:&lt;/strong&gt; Andrea Maiani (Nordita, KTH / Stockholm University)
+&lt;strong&gt;Date:&lt;/strong&gt; 09/23 entry — PRL &lt;strong&gt;137&lt;/strong&gt;, 136703, published 22 Sep 2026 (open access)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;why this pick?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This week’s collection (~180 entries) is heavily weighted toward quantum information, active matter, and device noise; the condensed-matter core scatters across topological superconductors, FQH, Weyl semimetals, and materials screening. Against that backdrop, the Maiani PRL is the &lt;strong&gt;only entry that puts altermagnetism together with a topological spin texture at the center of a peer-reviewed theory result&lt;/strong&gt; — it is the “probing and steering textures in altermagnets” axis of your program (topology × altermagnetism × skyrmion) after 08/17 picked the &lt;em&gt;insulator&lt;/em&gt; classification (2608.15811), 09/07 picked the &lt;em&gt;spectroscopy&lt;/em&gt; (2609.09287), and 09/14 picked the &lt;em&gt;stabilization&lt;/em&gt; of skyrmions in 2D altermagnets (2609.16780). Using the &lt;strong&gt;SU(2) gauge formalism&lt;/strong&gt; on an effective low-energy theory, it shows that smooth spatial variations of the Néel order act on itinerant electrons as &lt;strong&gt;emergent gauge fields that couple selectively to the altermagnetic sublattice-odd channel&lt;/strong&gt; — three generic consequences (texture-induced pseudospin-orbit coupling, emergent electromagnetic coupling at texture singularities, texture-controlled pseudospin splitting). For a coplanar spin helix, the helix wave vector controls both the magnitude and the principal axes of the absorption, with two distinct regimes (crystal-locked at low frequency → helix-tracking at high frequency), and the signatures are &lt;strong&gt;isolated from uniform-crystal responses&lt;/strong&gt; (vanish when the sublattice-odd channel is removed) and &lt;strong&gt;robust to intrinsic SOC&lt;/strong&gt;. That “texture chirality is optically readable via a sublattice-odd dichroism” is the sharpest new experimental handle of the week — exactly the missing &lt;em&gt;detection/control&lt;/em&gt; piece once an altermagnet is identified (08/17), characterized (09/07), and has its skyrmions stabilized (09/14).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Keyword matching across the six interests&lt;/strong&gt; (abstract + article text verified)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Interest&lt;/th&gt;
+      &lt;th&gt;How this paper connects&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Altermagnet&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Core: the whole result is about the altermagnetic sublattice-odd channel in a spin-textured altermagnet; d-wave and g-wave altermagnets are the explicit models.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Theoretical&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Core: effective low-energy theory from an SU(2) gauge formalism, continuum parametrization, Green’s-function response functions — a complete first-principles-to-phenomenology derivation, published in PRL.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Topological&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Core-adjacent: texture singularities generate emergent electromagnetic coupling (Skyrmion-charge-type topological charge in the texture), texture-induced pseudospin-orbit coupling, and a two-regime crossover in the optical response.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Skyrmion&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Core-adjacent: the object is a &lt;em&gt;spatial texture&lt;/em&gt; of the Néel order (a spin helix is computed explicitly); the gauge-field machinery is exactly what skyrmion/antiskyrmion responses are built from, and the formalism maps one-to-one onto a localized texture with non-zero topological charge.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Magnon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Indirect: the texture is treated as a prescribed static background; the magnon (spin-wave) spectrum and dynamics that would &lt;em&gt;create&lt;/em&gt; or &lt;em&gt;stabilize&lt;/em&gt; the texture is natural next work but is not the degree of freedom studied.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Phonon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Absent: no phonon or lattice-vibration content in this paper.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Why this over other candidates?&lt;/strong&gt; (titles/abstracts checked)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Paper&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Topo&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Magnon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Phonon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Theoretical&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Altermagnet&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Skyrmion&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;phr7-1zy5 (pick)&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.24182 (Ferroelectric switching of odd-parity magnon spin splitting, BiFeO₃)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.23129 (Magnetic quadrupole lens and antiskyrmion dynamics)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.21746 (Exciton-phonon / exciton-magnon transport in CrSBr)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.23647 (Square-lattice skyrmion crystals, uniform FM competition)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.26709 (Néel order switching in centrosymmetric altermagnets)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;O = core; O&lt;/em&gt; = indirect/secondary; - = absent.*&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;2609.24182&lt;/strong&gt; (BiFeO₃ odd-parity magnon splitting) is the strongest &lt;em&gt;magnon&lt;/em&gt; paper of the week and sits in the same parity-split spin-texture family, but BiFeO₃ is a multiferroic cycloidal magnet, not an altermagnet in the d-/g-wave sense, and the texture is a helix without the subtlety of altermagnetic sublattice-odd channels.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2609.23129&lt;/strong&gt; (antiskyrmion quadrupole lens) nails the skyrmion axis with a genuinely new mechanism (magnetic quadrupole lensing of current), but has no altermagnetism, no topology of the band structure, and no magnons — it is a spintronics devices paper in the skyrmion family, not a topological one.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2609.21746&lt;/strong&gt; (CrSBr exciton-phonon / exciton-magnon) is the only &lt;em&gt;phonon&lt;/em&gt; core paper of the three, but CrSBr is a ferromagnet, so both altermagnet and skyrmion are absent.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2609.23647&lt;/strong&gt; (square-lattice skyrmion crystals) has skyrmion + magnon core and is a theoretical work, but no altermagnetism and no topological character beyond the texture charge itself.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2609.26709&lt;/strong&gt; (altermagnet Néel switching) is altermagnetism-only core, no texture, no topology, no skyrmion.&lt;/li&gt;
+  &lt;li&gt;I rank the Maiani PRL above all because it is the &lt;strong&gt;only entry that simultaneously has altermagnetism and a topological spin texture as the central objects in a peer-reviewed theory paper&lt;/strong&gt;, and — crucially — it delivers a &lt;em&gt;probe&lt;/em&gt; (polarization-resolved dichroism + sublattice-odd spectroscopy) that the 09/14 skyrmion-stabilization result and the 08/17 insulator classification deliberately left open: &lt;em&gt;how do I optically read a textured altermagnetic state without destroying its signature?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Physical insights from this paper&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;The altermagnetic sublattice-odd channel is a texture-selective probe&lt;/strong&gt;: in a collinear antiferromagnet the electronic Hamiltonian is invariant under Néel reversal ℓ → −ℓ, so all texture-induced responses are &lt;em&gt;even&lt;/em&gt; in ℓ. In an altermagnet the electronic structure can distinguish the sign of ℓ, making textural responses &lt;em&gt;odd&lt;/em&gt; — so any observable that vanishes in a homogeneous altermagnet is a pure texture signature. This is the cleanest separation between “altermagnet in a texture” vs “altermagnet in a uniform phase” available to date.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Helix wave vector is an optical steering knob&lt;/strong&gt;: the dichroism principal axes are not fixed by the crystal lattice — they are set by the helix orientation. At low frequencies the axis is locked to the crystal (the lattice dominates the dipole selection); at high frequencies it tracks the helix (the texture dominates the optical response). That is a two-regime crossover that gives an in-situ measure of the texture’s coherence length and wave vector from purely optical data.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reading the multi-week arc as one program&lt;/strong&gt;: 2608.15811 (which &lt;em&gt;symmetries&lt;/em&gt; give a topological altermagnet) → 2609.09287 (what &lt;em&gt;spectroscopy&lt;/em&gt; identifies a d-wave altermagnet) → 2609.16780 (how to &lt;em&gt;stabilize a skyrmion-class texture&lt;/em&gt; inside a 2D altermagnet) → &lt;strong&gt;phr7-1zy5&lt;/strong&gt; (how to &lt;em&gt;optically read and steer a spin texture&lt;/em&gt; in an altermagnet, with the helix as the explicit test case). This pick closes the “detection and control” loop that the first three left open, and the SU(2) gauge machinery it uses is already the standard language for the emergent-gauge-field literature (Schrade &amp;amp; Scheurer, arXiv:2602.20236), so it is the natural reference to build any texture-based control scheme on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In a spin-textured collinear altermagnet, gradients of the Néel order act on itinerant electrons as emergent SU(2) gauge fields that couple selectively to the sublattice-odd channel — generating pseudospin-orbit coupling, emergent electromagnetic coupling at texture singularities, and texture-controlled pseudospin splitting. For a coplanar spin helix, the helix wave vector controls the magnitude and principal axes of the interband linear dichroism, with a crystal-locked to helix-tracking crossover; the dichroism vanishes when the altermagnetic channel is removed. A clean optical route to reading — and steering — textured altermagnetic states without needing heavy elements or intrinsic SOC. The “detection and control” leg of the altermagnet arc this year’s picks have been building.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
+
+&lt;p&gt;score : 4159&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25732&quot;&gt;2609.25732v1&lt;/a&gt;&lt;/strong&gt; Realization of quantum spin Hall insulator superlattice with emergent multigap-like helical edge states (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 3746&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25406&quot;&gt;2609.25406v1&lt;/a&gt;&lt;/strong&gt; Observation of the magnetic spin Hall effect in a ferromagnet (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 3409&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.24854&quot;&gt;2609.24854v1&lt;/a&gt;&lt;/strong&gt; Anisotropic Surface State Band Splitting and Low Energy Flat Bands in 3d Correlated Topological Kondo Insulator Candidate FeSb$_2$ (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 3096&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.23618&quot;&gt;2609.23618v1&lt;/a&gt;&lt;/strong&gt; Interplay of spin-orbit coupling and magnetic chirality: Multidirectional spin polarization in a helical antiferromagnet (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 2906&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.21825&quot;&gt;2609.21825v1&lt;/a&gt;&lt;/strong&gt; Topological properties and gap structure of the paired state in twisted TMD bilayers within a two-band effective model (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 2765&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.19.s121&quot;&gt;Physics.19.s121&lt;/a&gt;&lt;/strong&gt; Realizing a Spin Chain (Physics)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
@@ -95,9 +272,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/34df-l36k&quot;&gt;34df-l36k&lt;/a&gt;&lt;/strong&gt; Erratum: Quantum Advantage in Storage and Retrieval of Isometry Channels [Phys. Rev. Lett. &lt;b&gt;136&lt;/b&gt;, 190601 (2026)] (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/Physics.19.s121&quot;&gt;Physics.19.s121&lt;/a&gt;&lt;/strong&gt; Realizing a Spin Chain (P)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/njcx-z6np&quot;&gt;njcx-z6np&lt;/a&gt;&lt;/strong&gt; Core-hole excitation dynamics of one-dimensional ultracold trapped fermions (PRR)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -167,9 +341,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25384&quot;&gt;2609.25384v1&lt;/a&gt;&lt;/strong&gt; Lattice in Line: Optimized DMRG ordering for complex lattice geometries (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25406&quot;&gt;2609.25406v1&lt;/a&gt;&lt;/strong&gt; Observation of the magnetic spin Hall effect in a ferromagnet (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25418&quot;&gt;2609.25418v1&lt;/a&gt;&lt;/strong&gt; Coherent lattice dynamics distinguish Holstein and Su-Schrieffer-Heeger electron-phonon coupling (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -186,9 +357,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25585&quot;&gt;2609.25585v1&lt;/a&gt;&lt;/strong&gt; Model Fractional Quantum Hall States on Lattices: Exact Parent Hamiltonians and Routes to Realization (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25732&quot;&gt;2609.25732v1&lt;/a&gt;&lt;/strong&gt; Realization of quantum spin Hall insulator superlattice with emergent multigap-like helical edge states (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.25751&quot;&gt;2609.25751v1&lt;/a&gt;&lt;/strong&gt; Analysis of Josephson junctions switching time distributions for the detection of single microwave photons (arXiv)&lt;/p&gt;
@@ -584,9 +752,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.23575&quot;&gt;2609.23575v1&lt;/a&gt;&lt;/strong&gt; Multiscale Modeling of Ion Transport in Nanopores: Fitting Implicit-Water Radial Diffusion Profiles to Explicit-Water Molecular Dynamics (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.23618&quot;&gt;2609.23618v1&lt;/a&gt;&lt;/strong&gt; Interplay of spin-orbit coupling and magnetic chirality: Multidirectional spin polarization in a helical antiferromagnet (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.23620&quot;&gt;2609.23620v1&lt;/a&gt;&lt;/strong&gt; Molecular dynamics simulations of DMSO-MeOH liquid mixtures. Effects of force fields on mixing properties (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -756,9 +921,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.24844&quot;&gt;2609.24844v1&lt;/a&gt;&lt;/strong&gt; Navier-Stokes hydrodynamics near the critical point with out-of-equilibrium modes (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.24854&quot;&gt;2609.24854v1&lt;/a&gt;&lt;/strong&gt; Anisotropic Surface State Band Splitting and Low Energy Flat Bands in 3d Correlated Topological Kondo Insulator Candidate FeSb$_2$ (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.24856&quot;&gt;2609.24856v1&lt;/a&gt;&lt;/strong&gt; Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN power electronics (arXiv)&lt;/p&gt;
@@ -996,9 +1158,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.21824&quot;&gt;2609.21824v1&lt;/a&gt;&lt;/strong&gt; Multivalley 3D Electronic Structure of PbSe from Soft-X-Ray ARPES and First-Principles Calculations (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.21825&quot;&gt;2609.21825v1&lt;/a&gt;&lt;/strong&gt; Topological properties and gap structure of the paired state in twisted TMD bilayers within a two-band effective model (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.21833&quot;&gt;2609.21833v1&lt;/a&gt;&lt;/strong&gt; Non-negative differential mobility of one-dimensional underdamped Langevin dynamics: Proof via mapping to a marginally stable oscillator (arXiv)&lt;/p&gt;
