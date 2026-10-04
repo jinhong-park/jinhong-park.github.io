@@ -41,12 +41,12 @@ All strong competitors are read from their actual abstracts.
 
 | Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
 |-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
-| **2609.40002 (pick)** | − | O | O\* | O | O | − |
-| 2609.30791 (Topological SC in a strained altermagnet-superconductor) | O | − | − | O | O | − |
-| 2609.39817 (Phonon-mediated closing of topological Floquet gaps in graphene) | O | O\* | O | O | − | − |
-| 2609.36027 (Phonon-coupled integer/fractional Chern insulators) | O | O\* | O | O | − | − |
-| 2609.36128 (Altermagnetism: pair emission from dark excitons & magnons, La₂O₃Mn₂Se₂) | − | O | − | − | O | − |
-| 2609.33130 (Symmetry-guided design of altermagnetic perovskites) | O\* | − | − | O | O | − |
+| **[2609.40002](https://arxiv.org/abs/2609.40002) (pick)** | − | O | O\* | O | O | − |
+| [2609.30791](https://arxiv.org/abs/2609.30791) (Topological SC in a strained altermagnet-superconductor) | O | − | − | O | O | − |
+| [2609.39817](https://arxiv.org/abs/2609.39817) (Phonon-mediated closing of topological Floquet gaps in graphene) | O | O\* | O | O | − | − |
+| [2609.36027](https://arxiv.org/abs/2609.36027) (Phonon-coupled integer/fractional Chern insulators) | O | O\* | O | O | − | − |
+| [2609.36128](https://arxiv.org/abs/2609.36128) (Altermagnetism: pair emission from dark excitons & magnons, La₂O₃Mn₂Se₂) | − | O | − | − | O | − |
+| [2609.33130](https://arxiv.org/abs/2609.33130) (Symmetry-guided design of altermagnetic perovskites) | O\* | − | − | O | O | − |
 
 \*Indirect: the paper's framework enables/intersects with this area even if not its primary focus.
 
