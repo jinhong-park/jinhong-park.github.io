@@ -6,9 +6,9 @@
 </description>
     <link>http://jinhong-park.github.io/</link>
     <atom:link href="http://jinhong-park.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Oct 2026 16:03:53 +0900</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 16:03:53 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Sun, 04 Oct 2026 15:42:42 +0900</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:42:42 +0900</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
     
       <item>
         <title>weekly picks (Sep 3 week 2026)</title>
@@ -21,14 +21,230 @@
 
 &lt;p&gt;===Qwen &amp;amp; Hermes’ pick===&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Pick from 2026-09-28 (Sep 4 weeks)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Entropy-Driven Altermagnetism from Thermal Magnons
+&lt;strong&gt;ID:&lt;/strong&gt; &lt;a href=&quot;https://arxiv.org/abs/2609.40002&quot;&gt;2609.40002v1&lt;/a&gt;
+&lt;strong&gt;Date:&lt;/strong&gt; 10/01 entry&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;why this pick?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper sits at the direct intersection of three of your core interests — &lt;strong&gt;altermagnetic&lt;/strong&gt;, &lt;strong&gt;magnon&lt;/strong&gt;, and &lt;strong&gt;theoretical&lt;/strong&gt; — and extends naturally into &lt;strong&gt;phonon&lt;/strong&gt; physics. It does something none of the others in this week’s list do: it makes &lt;strong&gt;magnons the driving force of altermagnetism itself&lt;/strong&gt;, showing that heating can &lt;em&gt;entropically&lt;/em&gt; select an exchange-modulated, altermagnetically split state in a minimal square-lattice antiferromagnet. Among the 200+ entries, it is the only one that simultaneously establishes a finite-temperature altermagnetic phase, a magnon-entropy mechanism, and a full computational-theory pipeline — the most conceptually expansive paper for your six-keyword program this week.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Keyword matching across all six interests&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Interest&lt;/th&gt;
+      &lt;th&gt;How this paper connects&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Altermagnet&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Core.&lt;/strong&gt; Proposes a &lt;em&gt;route&lt;/em&gt; to altermagnetism: an exchange-modulated state that opens momentum-dependent antiferromagnetic spin splitting. Its finite-temperature overlap with Néel order is explicitly defined as an &lt;strong&gt;altermagnetic phase&lt;/strong&gt; — not a low-T, SOC-by-accidity state, but a thermally selected one.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Magnon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Core (the driver).&lt;/strong&gt; The mechanism is magnon-entropic: the exchange modulation is entropically favored because the resulting &lt;strong&gt;momentum-dependent magnon splitting increases the magnon entropy&lt;/strong&gt;, lowering free energy. Thermal magnons are the physical origin of the altermagnetic order, and the state carries a &lt;strong&gt;transverse spin (magnon) conductivity&lt;/strong&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Theoretical&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Core.&lt;/strong&gt; Derives a quantitative &lt;strong&gt;instability criterion&lt;/strong&gt; for the exchange-modulated state, predicts &lt;strong&gt;temperature-driven reentrant&lt;/strong&gt; behavior, and cross-checks with three independent methods — variational spin-wave theory, spin–lattice Monte Carlo, and cluster diagonalization. A complete theory-only result.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Phonon&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Indirect.&lt;/strong&gt; The instability requires a &lt;strong&gt;spin–lattice&lt;/strong&gt; channel and survives only for &lt;strong&gt;“compensated magnets coupled to sufficiently soft physical modes”&lt;/strong&gt; — i.e., magnetism selected by lattice/phonon softness, with the spin–lattice Monte Carlo as a direct phonon-coupling ingredient.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Skyrmion&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Not addressed in this work.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Topological&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Not a topological-band treatment here; the momentum-space &lt;strong&gt;magnon splitting&lt;/strong&gt; that underpins the altermagnetic phase is structurally the same spin-splitting object whose topology is the subject of your other interests, so it serves as a starting point rather than a topological result.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Why this over other candidates?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All strong competitors are read from their actual abstracts.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Paper&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Topo&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Magnon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Phonon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Theoretical&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Altermagnet&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Skyrmion&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;2609.40002 (pick)&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.30791 (Topological SC in a strained altermagnet-superconductor)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.39817 (Phonon-mediated closing of topological Floquet gaps in graphene)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.36027 (Phonon-coupled integer/fractional Chern insulators)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.36128 (Altermagnetism: pair emission from dark excitons &amp;amp; magnons, La₂O₃Mn₂Se₂)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2609.33130 (Symmetry-guided design of altermagnetic perovskites)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;O&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;−&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;*Indirect: the paper’s framework enables/intersects with this area even if not its primary focus.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Only the pick couples altermagnet and magnon at the core with a first-principles theory.&lt;/strong&gt; Papers like 2609.39817 / 2609.36027 (topology + phonon), 2609.30791 (topology + altermagnet), and 2609.33130 (altermagnet design) each cover three interests, but none treats magnons as the &lt;em&gt;mechanism&lt;/em&gt; of altermagnetism. 2609.36128 shares the altermagnet + magnon pair but is an experimental, single-material measurement rather than a general theory. The pick is the only entry that fuses &lt;strong&gt;altermagnet × magnon × theory&lt;/strong&gt; and adds a phonon-coupling route — the broadest coverage of the six, including the rare one where two of your keywords (altermagnet, magnon) are the &lt;em&gt;subject&lt;/em&gt; together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Physical insights from this paper&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It establishes a &lt;strong&gt;new, thermally driven route to altermagnetism&lt;/strong&gt;: rather than needing special crystal symmetry + SOC, altermagnetic spin splitting can be &lt;em&gt;entropically selected upon heating&lt;/em&gt; by magnon entropy gain — flipping the usual “order disappears at high T” expectation on its head.&lt;/li&gt;
+  &lt;li&gt;It gives a &lt;strong&gt;quantitative instability criterion&lt;/strong&gt; and predicts &lt;strong&gt;temperature-driven reentrant&lt;/strong&gt; behavior, and shows the exchange-modulated order &lt;strong&gt;coexists with Néel order&lt;/strong&gt;, so it is a genuine finite-temperature altermagnetic phase, not a phase-displaced one.&lt;/li&gt;
+  &lt;li&gt;It identifies &lt;strong&gt;transverse spin conductivity&lt;/strong&gt; as the natural transport fingerprint — a concrete, measurable signature to look for.&lt;/li&gt;
+  &lt;li&gt;It turns a materials-design question into a &lt;strong&gt;selection rule&lt;/strong&gt;: the mechanism works in &lt;em&gt;compensated&lt;/em&gt; magnets that couple to &lt;strong&gt;sufficiently soft physical (lattice) modes&lt;/strong&gt;, directly connecting to phonon engineering.&lt;/li&gt;
+  &lt;li&gt;The result is &lt;strong&gt;method-cross-validated&lt;/strong&gt; with variational spin-wave theory, spin–lattice Monte Carlo, and cluster diagonalization — robust across single-particle, many-body, and strong-coupling treatments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This paper shows that &lt;strong&gt;thermal magnons can drive altermagnetism&lt;/strong&gt;: in a minimal square-lattice antiferromagnet, heating selects an exchange-modulated order whose momentum-dependent magnon splitting raises magnon entropy and lowers free energy, producing a finite-temperature altermagnetic phase. It is theoretically complete (instability criterion + reentrant prediction + three-method cross-check), anchors &lt;strong&gt;altermagnet × magnon&lt;/strong&gt; at the core, carries a &lt;strong&gt;transverse spin conductivity&lt;/strong&gt; fingerprint, and points to &lt;strong&gt;phonon / soft-mode engineering&lt;/strong&gt; as the design route — the most broadly connecting paper in this week’s list for the six-keyword research program.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;===This week’s pick===&lt;/p&gt;
 
-&lt;p&gt;score :&lt;/p&gt;
+&lt;p&gt;score : 24832&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.37406&quot;&gt;2609.37406v1&lt;/a&gt;&lt;/strong&gt; Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 24394&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/h98c-37gv&quot;&gt;h98c-37gv&lt;/a&gt;&lt;/strong&gt; $\mathrm{SU}(N)$ Quantum Spin Model with Weak and Strong First-Order Transitions from Néel to Valence-Bond Solid (PRL)&lt;/p&gt;
+
+&lt;p&gt;score : 23943&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.34119&quot;&gt;2609.34119v1&lt;/a&gt;&lt;/strong&gt; The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathbb{Z}_2$-symmetric quantum spin chains (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 23650&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.36353&quot;&gt;2609.36353v1&lt;/a&gt;&lt;/strong&gt; Quantum metric induced nonlinear transport in the hidden loop-current phase of kagome metal RbV$_3$Sb$_5$ (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 22081&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38333&quot;&gt;2609.38333v1&lt;/a&gt;&lt;/strong&gt; Collective Dynamics in Spin Chains with Constrained Dissipation: Classically Fragile but Quantum Robust (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 19591&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38848&quot;&gt;2609.38848v1&lt;/a&gt;&lt;/strong&gt; Quantum quenches of scar states in the Affleck-Kennedy-Lieb-Tasaki model via Clifford augmented tensor network simulation (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 19217&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.30381&quot;&gt;2609.30381v1&lt;/a&gt;&lt;/strong&gt; Cooper pair charge Kondo effect in a hybrid quantum dot - superconductor device (arXiv)&lt;/p&gt;
+
+&lt;p&gt;score : 18277&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/8rnn-n6tq&quot;&gt;8rnn-n6tq&lt;/a&gt;&lt;/strong&gt; Switching between Spin and Orbital Hall Currents in a Single System via Ferrovalley Order (PRL)&lt;/p&gt;
 
 &lt;details id=&quot;myDetails&quot;&gt;
   &lt;summary&gt; Unfold/Fold &lt;/summary&gt;
   
   
+&lt;hr /&gt;
+&lt;p&gt;10/03&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02887-y&quot;&gt;s42005-026-02887-y&lt;/a&gt;&lt;/strong&gt; Efficient ultrafast homodyne detection of quantum light (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02861-8&quot;&gt;s42005-026-02861-8&lt;/a&gt;&lt;/strong&gt; InAsSb surface quantum well with in situ deposited Nb as a platform for hybrid devices (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02897-w&quot;&gt;s42005-026-02897-w&lt;/a&gt;&lt;/strong&gt; Boundary-induced three-dimensional one-way bulk transport in gyromagnetic systems (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02902-2&quot;&gt;s42005-026-02902-2&lt;/a&gt;&lt;/strong&gt; Local phase reconfiguration induced by laser-driven thermal cycles in a highly-correlated manganite (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s42005-026-02905-z&quot;&gt;s42005-026-02905-z&lt;/a&gt;&lt;/strong&gt; Superpotential enhanced superconductivity and robust stiffness shaped by quantum geometry (Communications Physics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-026-02768-3&quot;&gt;s41563-026-02768-3&lt;/a&gt;&lt;/strong&gt; Single-stripe magnetic order and bilayer spin dynamics in single-crystalline La&lt;sub&gt;3&lt;/sub&gt;Ni&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nature.com/articles/s41563-026-02755-8&quot;&gt;s41563-026-02755-8&lt;/a&gt;&lt;/strong&gt; Polarization vortices in a ferromagnetic metal via twistronics (Nature Materials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/5h4n-1nzb&quot;&gt;5h4n-1nzb&lt;/a&gt;&lt;/strong&gt; Radiowave-Induced Resistance Oscillations (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/h96k-q32d&quot;&gt;h96k-q32d&lt;/a&gt;&lt;/strong&gt; Flavor-Polarized Chern Insulator in the Half-Filled Rhombohedral Graphene Moiré Superlattice (PRL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/3bpt-f9pd&quot;&gt;3bpt-f9pd&lt;/a&gt;&lt;/strong&gt; Topological Mixed States: Phases of Matter from Axiomatic Approaches (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/tb52-jxmx&quot;&gt;tb52-jxmx&lt;/a&gt;&lt;/strong&gt; Nature Is Stingy: Universality of Scrooge Ensembles in Quantum Many-Body Systems (PRX)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/zv7d-3vbv&quot;&gt;zv7d-3vbv&lt;/a&gt;&lt;/strong&gt; Efficient lattice Hamiltonian encoding for the shortest vector problem (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/5yl5-4kdk&quot;&gt;5yl5-4kdk&lt;/a&gt;&lt;/strong&gt; Finite-size clocks in quantum field theory and the twin paradox (PRR)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;10/01&lt;/p&gt;
 
@@ -89,9 +305,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38843&quot;&gt;2609.38843v1&lt;/a&gt;&lt;/strong&gt; Defect Dynamics and Isomer Quenching in $^{229}$Th:CaF$_2$ Crystals (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38848&quot;&gt;2609.38848v1&lt;/a&gt;&lt;/strong&gt; Quantum quenches of scar states in the Affleck-Kennedy-Lieb-Tasaki model via Clifford augmented tensor network simulation (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38942&quot;&gt;2609.38942v1&lt;/a&gt;&lt;/strong&gt; First-Principles Study of Two-Dimensional CeN: Interplay between Structural Stability, Electronic Structure, and Magnetism (arXiv)&lt;/p&gt;
@@ -263,9 +476,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38220&quot;&gt;2609.38220v1&lt;/a&gt;&lt;/strong&gt; Positive-temperature spin-glass order on the three-dimensional Migdal-Kadanoff lattice (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38333&quot;&gt;2609.38333v1&lt;/a&gt;&lt;/strong&gt; Collective Dynamics in Spin Chains with Constrained Dissipation: Classically Fragile but Quantum Robust (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.38352&quot;&gt;2609.38352v1&lt;/a&gt;&lt;/strong&gt; Interferometric Readout of Momentum-Space Topology in a Programmable Dissipative Photonic Circuit (arXiv)&lt;/p&gt;
@@ -442,9 +652,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.36343&quot;&gt;2609.36343v1&lt;/a&gt;&lt;/strong&gt; Directional strain control of magnetism in MnBi$_2$Se$_4$, MnSb$_2$Se$_4$, and MnSb$_2$Te$_4$ freestanding monolayers (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.36353&quot;&gt;2609.36353v1&lt;/a&gt;&lt;/strong&gt; Quantum metric induced nonlinear transport in the hidden loop-current phase of kagome metal RbV$_3$Sb$_5$ (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.36356&quot;&gt;2609.36356v1&lt;/a&gt;&lt;/strong&gt; Artificial versus Natural Atoms: The uncanny capability of the many-body Schr&quot;odinger equation to produce emergent behavior (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -578,9 +785,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.37303&quot;&gt;2609.37303v1&lt;/a&gt;&lt;/strong&gt; Vapor phase growth and characterization of van der Waals BiSbTeSe platelets on semiconducting MoS2 (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.37406&quot;&gt;2609.37406v1&lt;/a&gt;&lt;/strong&gt; Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.37418&quot;&gt;2609.37418v1&lt;/a&gt;&lt;/strong&gt; Nonlinear optical responses of semiconducting graphene nanoribbons: Strong constraint from a hidden symmetry (arXiv)&lt;/p&gt;
@@ -766,13 +970,7 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/g27z-2kd3&quot;&gt;g27z-2kd3&lt;/a&gt;&lt;/strong&gt; Complete Reflection of Nonlinear Electromagnetic Waves in Underdense Pair Plasmas Enabled by Dynamically Formed Bragg-like Structures (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/8rnn-n6tq&quot;&gt;8rnn-n6tq&lt;/a&gt;&lt;/strong&gt; Switching between Spin and Orbital Hall Currents in a Single System via Ferrovalley Order (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/rzdx-3xgj&quot;&gt;rzdx-3xgj&lt;/a&gt;&lt;/strong&gt; Quantum-Geometry-Enabled Landau-Zener Tunneling in Singular Flat Bands (PRL)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/h98c-37gv&quot;&gt;h98c-37gv&lt;/a&gt;&lt;/strong&gt; $\mathrm{SU}(N)$ Quantum Spin Model with Weak and Strong First-Order Transitions from Néel to Valence-Bond Solid (PRL)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://link.aps.org/doi/10.1103/sp3h-pkqx&quot;&gt;sp3h-pkqx&lt;/a&gt;&lt;/strong&gt; Cooperative Quantum Optical Effects of Moiré Exciton Superlattices (PRL)&lt;/p&gt;
@@ -1168,9 +1366,6 @@
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.33975&quot;&gt;2609.33975v1&lt;/a&gt;&lt;/strong&gt; Swapping Quantum Annealing Errors into a Cavity (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.34119&quot;&gt;2609.34119v1&lt;/a&gt;&lt;/strong&gt; The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathbb{Z}_2$-symmetric quantum spin chains (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.34248&quot;&gt;2609.34248v1&lt;/a&gt;&lt;/strong&gt; RG Limit Cycles in BKT Flows $\equiv$ Periodic Real-Time Dynamics in the Current-Current Perturbed $SU(2)_1$ WZW Model (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1220,9 +1415,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.30372&quot;&gt;2609.30372v1&lt;/a&gt;&lt;/strong&gt; Non-vanishing Density of States in Disordered Weyl Semimetals (arXiv)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.30381&quot;&gt;2609.30381v1&lt;/a&gt;&lt;/strong&gt; Cooper pair charge Kondo effect in a hybrid quantum dot - superconductor device (arXiv)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://arxiv.org/abs/2609.30423&quot;&gt;2609.30423v1&lt;/a&gt;&lt;/strong&gt; Current density functional theory in the age of generalized Kohn-Sham theories (arXiv)&lt;/p&gt;

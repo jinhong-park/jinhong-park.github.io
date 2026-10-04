@@ -10,16 +10,140 @@ categories: 2026sep
 
 ===Qwen & Hermes' pick===
 
+**Pick from 2026-09-28 (Sep 4 weeks)**
+
+
+
+**Title:** Entropy-Driven Altermagnetism from Thermal Magnons
+**ID:** [2609.40002v1](https://arxiv.org/abs/2609.40002)
+**Date:** 10/01 entry
+
+
+
+**why this pick?**
+
+This paper sits at the direct intersection of three of your core interests — **altermagnetic**, **magnon**, and **theoretical** — and extends naturally into **phonon** physics. It does something none of the others in this week's list do: it makes **magnons the driving force of altermagnetism itself**, showing that heating can *entropically* select an exchange-modulated, altermagnetically split state in a minimal square-lattice antiferromagnet. Among the 200+ entries, it is the only one that simultaneously establishes a finite-temperature altermagnetic phase, a magnon-entropy mechanism, and a full computational-theory pipeline — the most conceptually expansive paper for your six-keyword program this week.
+
+**1. Keyword matching across all six interests**
+
+| Interest | How this paper connects |
+|----------|----------------------|
+| **Altermagnet** | **Core.** Proposes a *route* to altermagnetism: an exchange-modulated state that opens momentum-dependent antiferromagnetic spin splitting. Its finite-temperature overlap with Néel order is explicitly defined as an **altermagnetic phase** — not a low-T, SOC-by-accidity state, but a thermally selected one. |
+| **Magnon** | **Core (the driver).** The mechanism is magnon-entropic: the exchange modulation is entropically favored because the resulting **momentum-dependent magnon splitting increases the magnon entropy**, lowering free energy. Thermal magnons are the physical origin of the altermagnetic order, and the state carries a **transverse spin (magnon) conductivity**. |
+| **Theoretical** | **Core.** Derives a quantitative **instability criterion** for the exchange-modulated state, predicts **temperature-driven reentrant** behavior, and cross-checks with three independent methods — variational spin-wave theory, spin–lattice Monte Carlo, and cluster diagonalization. A complete theory-only result. |
+| **Phonon** | **Indirect.** The instability requires a **spin–lattice** channel and survives only for **"compensated magnets coupled to sufficiently soft physical modes"** — i.e., magnetism selected by lattice/phonon softness, with the spin–lattice Monte Carlo as a direct phonon-coupling ingredient. |
+| **Skyrmion** | Not addressed in this work. |
+| **Topological** | Not a topological-band treatment here; the momentum-space **magnon splitting** that underpins the altermagnetic phase is structurally the same spin-splitting object whose topology is the subject of your other interests, so it serves as a starting point rather than a topological result. |
+
+**2. Why this over other candidates?**
+
+All strong competitors are read from their actual abstracts.
+
+| Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
+|-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
+| **2609.40002 (pick)** | − | O | O\* | O | O | − |
+| 2609.30791 (Topological SC in a strained altermagnet-superconductor) | O | − | − | O | O | − |
+| 2609.39817 (Phonon-mediated closing of topological Floquet gaps in graphene) | O | O\* | O | O | − | − |
+| 2609.36027 (Phonon-coupled integer/fractional Chern insulators) | O | O\* | O | O | − | − |
+| 2609.36128 (Altermagnetism: pair emission from dark excitons & magnons, La₂O₃Mn₂Se₂) | − | O | − | − | O | − |
+| 2609.33130 (Symmetry-guided design of altermagnetic perovskites) | O\* | − | − | O | O | − |
+
+\*Indirect: the paper's framework enables/intersects with this area even if not its primary focus.
+
+**Only the pick couples altermagnet and magnon at the core with a first-principles theory.** Papers like 2609.39817 / 2609.36027 (topology + phonon), 2609.30791 (topology + altermagnet), and 2609.33130 (altermagnet design) each cover three interests, but none treats magnons as the *mechanism* of altermagnetism. 2609.36128 shares the altermagnet + magnon pair but is an experimental, single-material measurement rather than a general theory. The pick is the only entry that fuses **altermagnet × magnon × theory** and adds a phonon-coupling route — the broadest coverage of the six, including the rare one where two of your keywords (altermagnet, magnon) are the *subject* together.
+
+**3. Physical insights from this paper**
+
+- It establishes a **new, thermally driven route to altermagnetism**: rather than needing special crystal symmetry + SOC, altermagnetic spin splitting can be *entropically selected upon heating* by magnon entropy gain — flipping the usual "order disappears at high T" expectation on its head.
+- It gives a **quantitative instability criterion** and predicts **temperature-driven reentrant** behavior, and shows the exchange-modulated order **coexists with Néel order**, so it is a genuine finite-temperature altermagnetic phase, not a phase-displaced one.
+- It identifies **transverse spin conductivity** as the natural transport fingerprint — a concrete, measurable signature to look for.
+- It turns a materials-design question into a **selection rule**: the mechanism works in *compensated* magnets that couple to **sufficiently soft physical (lattice) modes**, directly connecting to phonon engineering.
+- The result is **method-cross-validated** with variational spin-wave theory, spin–lattice Monte Carlo, and cluster diagonalization — robust across single-particle, many-body, and strong-coupling treatments.
+
+
+
+**TL;DR**
+
+> This paper shows that **thermal magnons can drive altermagnetism**: in a minimal square-lattice antiferromagnet, heating selects an exchange-modulated order whose momentum-dependent magnon splitting raises magnon entropy and lowers free energy, producing a finite-temperature altermagnetic phase. It is theoretically complete (instability criterion + reentrant prediction + three-method cross-check), anchors **altermagnet × magnon** at the core, carries a **transverse spin conductivity** fingerprint, and points to **phonon / soft-mode engineering** as the design route — the most broadly connecting paper in this week's list for the six-keyword research program.
+
+
 
 ===This week's pick===
 
-score : 
+score : 24832
+
+**[2609.37406v1](https://arxiv.org/abs/2609.37406)** Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface (arXiv)
+
+score : 24394
+
+**[h98c-37gv](http://link.aps.org/doi/10.1103/h98c-37gv)** $\mathrm{SU}(N)$ Quantum Spin Model with Weak and Strong First-Order Transitions from Néel to Valence-Bond Solid (PRL)
+
+
+score : 23943
+
+**[2609.34119v1](https://arxiv.org/abs/2609.34119)** The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathbb{Z}_2$-symmetric quantum spin chains (arXiv)
+
+score : 23650
+
+**[2609.36353v1](https://arxiv.org/abs/2609.36353)** Quantum metric induced nonlinear transport in the hidden loop-current phase of kagome metal RbV$_3$Sb$_5$ (arXiv)
+
+score : 22081
+
+**[2609.38333v1](https://arxiv.org/abs/2609.38333)** Collective Dynamics in Spin Chains with Constrained Dissipation: Classically Fragile but Quantum Robust (arXiv)
+
+
+score : 19591
+
+**[2609.38848v1](https://arxiv.org/abs/2609.38848)** Quantum quenches of scar states in the Affleck-Kennedy-Lieb-Tasaki model via Clifford augmented tensor network simulation (arXiv)
+
+score : 19217
+
+**[2609.30381v1](https://arxiv.org/abs/2609.30381)** Cooper pair charge Kondo effect in a hybrid quantum dot - superconductor device (arXiv)
+
+score : 18277
+
+**[8rnn-n6tq](http://link.aps.org/doi/10.1103/8rnn-n6tq)** Switching between Spin and Orbital Hall Currents in a Single System via Ferrovalley Order (PRL)
+
 
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
 
 
+
+
+
+
+---
+10/03
+
+
+1. **[s42005-026-02887-y](https://www.nature.com/articles/s42005-026-02887-y)** Efficient ultrafast homodyne detection of quantum light (Communications Physics)
+
+1. **[s42005-026-02861-8](https://www.nature.com/articles/s42005-026-02861-8)** InAsSb surface quantum well with in situ deposited Nb as a platform for hybrid devices (Communications Physics)
+
+1. **[s42005-026-02897-w](https://www.nature.com/articles/s42005-026-02897-w)** Boundary-induced three-dimensional one-way bulk transport in gyromagnetic systems (Communications Physics)
+
+1. **[s42005-026-02902-2](https://www.nature.com/articles/s42005-026-02902-2)** Local phase reconfiguration induced by laser-driven thermal cycles in a highly-correlated manganite (Communications Physics)
+
+1. **[s42005-026-02905-z](https://www.nature.com/articles/s42005-026-02905-z)** Superpotential enhanced superconductivity and robust stiffness shaped by quantum geometry (Communications Physics)
+
+1. **[s41563-026-02768-3](https://www.nature.com/articles/s41563-026-02768-3)** Single-stripe magnetic order and bilayer spin dynamics in single-crystalline La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub> (Nature Materials)
+
+1. **[s41563-026-02755-8](https://www.nature.com/articles/s41563-026-02755-8)** Polarization vortices in a ferromagnetic metal via twistronics (Nature Materials)
+
+
+1. **[5h4n-1nzb](http://link.aps.org/doi/10.1103/5h4n-1nzb)** Radiowave-Induced Resistance Oscillations (PRL)
+
+1. **[h96k-q32d](http://link.aps.org/doi/10.1103/h96k-q32d)** Flavor-Polarized Chern Insulator in the Half-Filled Rhombohedral Graphene Moiré Superlattice (PRL)
+
+1. **[3bpt-f9pd](http://link.aps.org/doi/10.1103/3bpt-f9pd)** Topological Mixed States: Phases of Matter from Axiomatic Approaches (PRX)
+
+1. **[tb52-jxmx](http://link.aps.org/doi/10.1103/tb52-jxmx)** Nature Is Stingy: Universality of Scrooge Ensembles in Quantum Many-Body Systems (PRX)
+
+1. **[zv7d-3vbv](http://link.aps.org/doi/10.1103/zv7d-3vbv)** Efficient lattice Hamiltonian encoding for the shortest vector problem (PRR)
+
+1. **[5yl5-4kdk](http://link.aps.org/doi/10.1103/5yl5-4kdk)** Finite-size clocks in quantum field theory and the twin paradox (PRR)
 
 
 
@@ -72,7 +196,6 @@ score :
 
 1. **[2609.38843v1](https://arxiv.org/abs/2609.38843)** Defect Dynamics and Isomer Quenching in $^{229}$Th:CaF$_2$ Crystals (arXiv)
 
-1. **[2609.38848v1](https://arxiv.org/abs/2609.38848)** Quantum quenches of scar states in the Affleck-Kennedy-Lieb-Tasaki model via Clifford augmented tensor network simulation (arXiv)
 
 1. **[2609.38942v1](https://arxiv.org/abs/2609.38942)** First-Principles Study of Two-Dimensional CeN: Interplay between Structural Stability, Electronic Structure, and Magnetism (arXiv)
 
@@ -188,7 +311,6 @@ score :
 
 1. **[2609.38220v1](https://arxiv.org/abs/2609.38220)** Positive-temperature spin-glass order on the three-dimensional Migdal-Kadanoff lattice (arXiv)
 
-1. **[2609.38333v1](https://arxiv.org/abs/2609.38333)** Collective Dynamics in Spin Chains with Constrained Dissipation: Classically Fragile but Quantum Robust (arXiv)
 
 1. **[2609.38352v1](https://arxiv.org/abs/2609.38352)** Interferometric Readout of Momentum-Space Topology in a Programmable Dissipative Photonic Circuit (arXiv)
 
@@ -312,7 +434,6 @@ score :
 
 1. **[2609.36343v1](https://arxiv.org/abs/2609.36343)** Directional strain control of magnetism in MnBi$_2$Se$_4$, MnSb$_2$Se$_4$, and MnSb$_2$Te$_4$ freestanding monolayers (arXiv)
 
-1. **[2609.36353v1](https://arxiv.org/abs/2609.36353)** Quantum metric induced nonlinear transport in the hidden loop-current phase of kagome metal RbV$_3$Sb$_5$ (arXiv)
 
 1. **[2609.36356v1](https://arxiv.org/abs/2609.36356)** Artificial versus Natural Atoms: The uncanny capability of the many-body Schr\"odinger equation to produce emergent behavior (arXiv)
 
@@ -404,7 +525,6 @@ score :
 
 1. **[2609.37303v1](https://arxiv.org/abs/2609.37303)** Vapor phase growth and characterization of van der Waals BiSbTeSe platelets on semiconducting MoS2 (arXiv)
 
-1. **[2609.37406v1](https://arxiv.org/abs/2609.37406)** Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface (arXiv)
 
 1. **[2609.37418v1](https://arxiv.org/abs/2609.37418)** Nonlinear optical responses of semiconducting graphene nanoribbons: Strong constraint from a hidden symmetry (arXiv)
 
@@ -531,11 +651,9 @@ score :
 
 1. **[g27z-2kd3](http://link.aps.org/doi/10.1103/g27z-2kd3)** Complete Reflection of Nonlinear Electromagnetic Waves in Underdense Pair Plasmas Enabled by Dynamically Formed Bragg-like Structures (PRL)
 
-1. **[8rnn-n6tq](http://link.aps.org/doi/10.1103/8rnn-n6tq)** Switching between Spin and Orbital Hall Currents in a Single System via Ferrovalley Order (PRL)
 
 1. **[rzdx-3xgj](http://link.aps.org/doi/10.1103/rzdx-3xgj)** Quantum-Geometry-Enabled Landau-Zener Tunneling in Singular Flat Bands (PRL)
 
-1. **[h98c-37gv](http://link.aps.org/doi/10.1103/h98c-37gv)** $\mathrm{SU}(N)$ Quantum Spin Model with Weak and Strong First-Order Transitions from Néel to Valence-Bond Solid (PRL)
 
 1. **[sp3h-pkqx](http://link.aps.org/doi/10.1103/sp3h-pkqx)** Cooperative Quantum Optical Effects of Moiré Exciton Superlattices (PRL)
 
@@ -799,7 +917,6 @@ score :
 
 1. **[2609.33975v1](https://arxiv.org/abs/2609.33975)** Swapping Quantum Annealing Errors into a Cavity (arXiv)
 
-1. **[2609.34119v1](https://arxiv.org/abs/2609.34119)** The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathbb{Z}_2$-symmetric quantum spin chains (arXiv)
 
 1. **[2609.34248v1](https://arxiv.org/abs/2609.34248)** RG Limit Cycles in BKT Flows $\equiv$ Periodic Real-Time Dynamics in the Current-Current Perturbed $SU(2)_1$ WZW Model (arXiv)
 
@@ -838,7 +955,6 @@ score :
 
 1. **[2609.30372v1](https://arxiv.org/abs/2609.30372)** Non-vanishing Density of States in Disordered Weyl Semimetals (arXiv)
 
-1. **[2609.30381v1](https://arxiv.org/abs/2609.30381)** Cooper pair charge Kondo effect in a hybrid quantum dot - superconductor device (arXiv)
 
 1. **[2609.30423v1](https://arxiv.org/abs/2609.30423)** Current density functional theory in the age of generalized Kohn-Sham theories (arXiv)
 
