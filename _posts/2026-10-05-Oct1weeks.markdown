@@ -11,8 +11,110 @@ categories: 2026oct
 ===Qwen & Hermes' pick===
 
 
+**Pick from 2026-10-05 (Oct 1 weeks)**
+
+
+
+**Title:** Electron–phonon control of obstructed and quantum spin Hall topology in an altermagnet
+**ID:** [2610.04684v1](https://arxiv.org/abs/2610.04684)
+**Date:** 10/06 entry
+
+
+
+**why this pick?**
+
+This paper sits at the direct intersection of three of your core interests — **topological**, **phonon**, and **altermagnetic** — and is a purely **theoretical** result on top. It does something none of the others in this week's list do: it makes **phonons the control knob** of a topological phase *inside an altermagnetic host*, showing that electron–phonon coupling (EPC) can weaken an altermagnet-induced obstructed atomic insulator, restore the parent quantum spin Hall edge modes, and eventually drive the phase sequence all the way to a trivial insulator. Among the 200+ entries, it is the only one that simultaneously carries topological band physics (QSH + obstructed/HOTI), a phonon mechanism as the driver, and an altermagnet as the platform — the broadest coverage of your six-keyword program this week.
+
+**1. Keyword matching across all six interests**
+
+| Interest | How this paper connects |
+|----------|----------------------|
+| **Topological** | **Core.** The whole object is a topological phase sequence: a BHZ-type **quantum spin Hall** insulator is reconstructed by the altermagnetic order into an **obstructed atomic insulator** (HOTI) with nontrivial bulk polarization, quantized **fractional corner charges**, in-gap boundary states, and vanishing spin Chern number — then restored by EPC. |
+| **Phonon** | **Core (the driver).** The switching mechanism is **electron–phonon coupling**: polaronic dressing reorganizes the Wannier centers and the associated effective edge topology, *weakening* the altermagnet-induced OAI phase and *restoring* the helical QSH edge modes. Strong EPC then drives the system into a trivial insulator — a direct route to **phonon-tuned spintronics**. |
+| **Altermagnet** | **Core (the host).** The platform is a $d$-wave **altermagnet** hosting **nonrelativistic spin-split bands with zero net magnetization** — no heavy elements, no SOC by accident; the altermagnetic order beyond a critical strength is what reorganizes the topology in the first place. |
+| **Theoretical** | **Core.** Opens with "We theoretically demonstrate…": BHZ-type model construction, altermagnetic-order strength as a tunable parameter, Wannier-charge-center / topological-quantum-chemistry analysis, and a two-knob phase diagram (AM strength × EPC). A complete theory-only result. |
+| **Magnon** | Not directly addressed — the paper is an electronic (spin-split-band) result. But the zero-moment altermagnetic host is exactly the platform that also carries magnons, and the spin-split-band/Wannier-center framework transfers naturally to the magnon spectrum of the same AM, so it is a useful starting point rather than a magnon result. |
+| **Skyrmion** | Not addressed in this work. |
+
+**2. Why this over other candidates?**
+
+All strong competitors were read from their actual abstracts.
+
+| Paper | Topo | Magnon | Phonon | Theoretical | Altermagnet | Skyrmion |
+|-------|:----:|:------:|:------:|:-----------:|:-----------:|:--------:|
+| **2610.04684 (pick)** | O | − | O | O | O | − |
+| 2610.11244 (Topological Hall effect from skyrmion size/shape) | O* | − | − | O | − | O |
+| 2610.09035 (Magnon polarization textures in AFMs & altermagnets) | − | O | − | O | O* | − |
+| 2610.11838 (Magnon band splitting without altermagnetism in CuF₂) | − | O | − | O | O* | − |
+| 2610.06395 (The phonomagnet: phonon angular-momentum order) | − | − | O | O | − | − |
+| 2610.05090 (Nested soliton → skyrmion crystals in chiral magnets) | O* | − | − | O | − | O |
+
+\*Indirect: the paper's framework enables/intersects with this area even if it is not its primary focus (e.g., a topological-structure probe rather than band topology, or altermagnets as one studied class rather than the mechanism under test).
+
+**Only the pick fuses topology × phonon × altermagnetism with the phonon as the *mechanism*.** 2610.11244 and 2610.05090 each pair skyrmion with a topological texture (and one is clean theory), but they are texture-transport results in chiral/chiral-magnet hosts with no altermagnetic or phonon content. 2610.09035 and 2610.11838 both score magnon + altermagnet — 2610.11838 even argues that a *predicted* altermagnet (CuF₂) does **not** split its magnon bands — but neither touches band topology or phonons, and 2610.11838 is partly experimental. 2610.06395 (phonomagnet) is a striking phonon theory but has no altermagnet or topology. The pick is the sole entry that covers **four of your six keywords at once**, with two of them (topology, phonon) as the interacting subject — and it is the only one that makes phonons the *switching knob* of an altermagnetic topological phase.
+
+**3. Physical insights from this paper**
+
+- **Magnetism as a topological knob, in reverse of the usual story**: altermagnetic order beyond a critical strength does not merely coexist with the topological insulator — it *reconstructs* the parent BHZ-type QSH state into an obstructed atomic insulator (HOTI) with quantized fractional corner charges, in-gap boundary states, and vanishing spin Chern number.
+- **Phonons as the reversal mechanism**: EPC/polaron dressing reorganizes Wannier centers and the effective edge topology, so that the altermagnet-induced OAI can be *weakened* and the helical QSH edge modes *restored* — i.e., the lattice, not the magnet, can switch the topological phase back.
+- **A complete two-knob phase sequence**: QSH → (strong AM) OAI → (strong EPC) QSH restored → (even stronger EPC) trivial insulator — giving a concrete, controllable route between topologically distinct insulating phases in a zero-net-magnetization platform.
+- **Nonrelativistic spin splitting, no heavy elements**: the AM host delivers spin-split bands without SOC, so the spin-Hall / HOTI functionality and its phonon tuning exist in a conventional-magnet-type platform — a direct design route toward phonon-tuned spintronic devices.
+- **Conceptual bridge for your program**: the same Wannier-center/spin-splitting language is the natural entry point for magnon-spectrum topology and for phonon engineering in altermagnets, making this a hub paper connecting four of your six interests.
+
+
+
+**TL;DR**
+
+> This paper shows that one altermagnet can host an entire **topological phase sequence driven by phonons**: a $d$-wave altermagnet (zero net magnetization, nonrelativistic spin splitting) reconstructs a BHZ-type QSH insulator into an obstructed atomic insulator with quantized fractional corner charges, and electron–phonon coupling then reorganizes the Wannier centers to *weaken* that altermagnet-induced phase, *restore* the helical QSH edge modes, and finally drive the system trivial. It is the only entry in this week's list fusing **topological × phonon × altermagnet × theory** — with the phonon as the switching knob rather than a perturbation — and the most directly connected paper to your six-keyword research program.
+
+
+
 
 ===This week's pick===
+
+
+Score : 23717
+
+**[2610.06245v1](https://arxiv.org/abs/2610.06245)** Probing Quantum Anomalous Hall Transport Under Microwave Irradiation Using a Topological Circulator (arXiv)
+
+Score : 23015
+
+**[2610.04684v1](https://arxiv.org/abs/2610.04684)** Electron-phonon control of obstructed and quantum spin Hall topology in an altermagnet (arXiv)
+
+
+
+Score : 22680
+
+**[2610.12193v1](https://arxiv.org/abs/2610.12193)** Orbital magnetic susceptibility and de Haas-van Alphen effect of a flat band from quantum geometry (arXiv)
+
+Score : 22590
+
+
+**[2610.10694v1](https://arxiv.org/abs/2610.10694)** Competing symmetry breaking and topology in quantum spin chains (arXiv)
+
+
+Score : 22371
+
+**[2610.07794v1](https://arxiv.org/abs/2610.07794)** Spontaneous Hawking Radiation from Dynamical Black-Hole Formation in Quantum Spin Systems (arXiv)
+
+Score : 20191
+
+**[2610.11982v1](https://arxiv.org/abs/2610.11982)** Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice (arXiv)
+
+
+Score : 19344
+
+**[2610.09248v1](https://arxiv.org/abs/2610.09248)** Superconducting Diode Effect due to the Inverse Spin Hall Effect in Josephson Junctions with Extrinsic Spin-Orbit Interaction (arXiv)
+
+Score : 18412
+
+**[2610.07146v1](https://arxiv.org/abs/2610.07146)** Heavy-fermion hybridization waves from Dirac spinons near a Kondo-breakdown quantum phase transition (arXiv)
+
+Score : 18408
+
+**[2610.03145v1](https://arxiv.org/abs/2610.03145)** Correlated Metals, Metamagnetism, and Orbital Nematic Order in moir\'e Materials with Neural Quantum States (arXiv)
+
+
 
 
 <details id="myDetails">
@@ -66,8 +168,6 @@ categories: 2026oct
 1. **[2610.10679v1](https://arxiv.org/abs/2610.10679)** SC$^\sharp$: superconductivity intertwined with topological order (arXiv)
 
 1. **[2610.10682v1](https://arxiv.org/abs/2610.10682)** Spin Chain with Continuous Exponential Symmetry: Topological Phase and Beyond (arXiv)
-
-1. **[2610.10694v1](https://arxiv.org/abs/2610.10694)** Competing symmetry breaking and topology in quantum spin chains (arXiv)
 
 1. **[2610.10706v1](https://arxiv.org/abs/2610.10706)** Symmetric Mode Ansatz: Theory of Magnon Collective Modes in Chern Insulators (arXiv)
 
@@ -165,7 +265,6 @@ categories: 2026oct
 
 1. **[2610.11977v1](https://arxiv.org/abs/2610.11977)** Homogeneous Charge Relaxation in Organic Mixed Ionic-Electronic Conductors (arXiv)
 
-1. **[2610.11982v1](https://arxiv.org/abs/2610.11982)** Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice (arXiv)
 
 1. **[2610.11992v1](https://arxiv.org/abs/2610.11992)** Multifunctional synaptic learning and neuromorphic computing using crystalline TiO$_x$/NiO$_x$ heterojunction-based memory devices (arXiv)
 
@@ -187,7 +286,6 @@ categories: 2026oct
 
 1. **[2610.12151v1](https://arxiv.org/abs/2610.12151)** Specialized machine learning force fields for materials dynamics (arXiv)
 
-1. **[2610.12193v1](https://arxiv.org/abs/2610.12193)** Orbital magnetic susceptibility and de Haas-van Alphen effect of a flat band from quantum geometry (arXiv)
 
 1. **[2610.12223v1](https://arxiv.org/abs/2610.12223)** Measurement-induced enhancement of the $X$-parity lifetime in a Majorana tetron (arXiv)
 
@@ -316,7 +414,6 @@ categories: 2026oct
 
 1. **[2610.09232v1](https://arxiv.org/abs/2610.09232)** Influence of nonlocal excitonic optical response on in-plane exciton polaritons supported by monolayer transition-metal dichalcogenides (arXiv)
 
-1. **[2610.09248v1](https://arxiv.org/abs/2610.09248)** Superconducting Diode Effect due to the Inverse Spin Hall Effect in Josephson Junctions with Extrinsic Spin-Orbit Interaction (arXiv)
 
 1. **[2610.09345v1](https://arxiv.org/abs/2610.09345)** Polarized neutron diffraction with ex-situ $^3$He neutron spin filter and two-dimensional detector for noncollinear incommensurate magnetic order (arXiv)
 
@@ -492,7 +589,6 @@ categories: 2026oct
 
 1. **[2610.07013v1](https://arxiv.org/abs/2610.07013)** A numerical and efficient model for thermo-field electron emission calculations (arXiv)
 
-1. **[2610.07146v1](https://arxiv.org/abs/2610.07146)** Heavy-fermion hybridization waves from Dirac spinons near a Kondo-breakdown quantum phase transition (arXiv)
 
 1. **[2610.07156v1](https://arxiv.org/abs/2610.07156)** Chiral Parafermions in Floquet $\mathbb{Z}_N$ Topological Order (arXiv)
 
@@ -632,7 +728,6 @@ categories: 2026oct
 
 1. **[2610.07724v1](https://arxiv.org/abs/2610.07724)** Shape theorem for excited random walks on the integer lattice (arXiv)
 
-1. **[2610.07794v1](https://arxiv.org/abs/2610.07794)** Spontaneous Hawking Radiation from Dynamical Black-Hole Formation in Quantum Spin Systems (arXiv)
 
 1. **[2610.07995v1](https://arxiv.org/abs/2610.07995)** A Single Conformal Coordinate Decodes Outcome-Resolved Measurement-Induced Entanglement (arXiv)
 
@@ -757,7 +852,6 @@ categories: 2026oct
 
 1. **[2610.04654v1](https://arxiv.org/abs/2610.04654)** Determining the j-Specific Unoccupied 5f Electronic Structure in Actinides (arXiv)
 
-1. **[2610.04684v1](https://arxiv.org/abs/2610.04684)** Electron-phonon control of obstructed and quantum spin Hall topology in an altermagnet (arXiv)
 
 1. **[2610.04713v1](https://arxiv.org/abs/2610.04713)** The Hidden Cost of Two-Dimensional TEM Reconstruction of Magnetic Nanoparticle Morphology (arXiv)
 
@@ -939,7 +1033,6 @@ categories: 2026oct
 
 1. **[2610.06202v1](https://arxiv.org/abs/2610.06202)** Casimir force screening by a quantum Boltzmann plasma (arXiv)
 
-1. **[2610.06245v1](https://arxiv.org/abs/2610.06245)** Probing Quantum Anomalous Hall Transport Under Microwave Irradiation Using a Topological Circulator (arXiv)
 
 1. **[2610.06367v1](https://arxiv.org/abs/2610.06367)** Quantum Fluctuations in Bose--Einstein Condensates:Microscopic Correlations and Moment Bounds (arXiv)
 
@@ -1024,7 +1117,6 @@ categories: 2026oct
 
 1. **[2610.03118v1](https://arxiv.org/abs/2610.03118)** ParABS system induces topological modifications to spatio-temporally organize its mother and daughter chromosomes in the replicating C. crescentus cell (arXiv)
 
-1. **[2610.03145v1](https://arxiv.org/abs/2610.03145)** Correlated Metals, Metamagnetism, and Orbital Nematic Order in moir\'e Materials with Neural Quantum States (arXiv)
 
 1. **[2610.03169v1](https://arxiv.org/abs/2610.03169)** Cup and Cap Topological Neural Network (arXiv)
 
