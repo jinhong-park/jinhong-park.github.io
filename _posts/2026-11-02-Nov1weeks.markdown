@@ -1,0 +1,244 @@
+---
+layout: post
+title:  "weekly picks (Oct 4 week 2026)"
+date:   2026-10-26 00:16:27
+categories: 2026oct
+---
+
+{% include image.html url="/images/2026oct4weeks.png" caption="A WordCloud of 2026 October 4th week collection" width=300 align="center" %}
+
+
+===Qwen & Hermes' pick===
+
+
+
+===This week's pick===
+
+
+
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+---
+11/02
+
+
+1. **[s41598-026-78331-6](https://www.nature.com/articles/s41598-026-78331-6)** Structural properties and impedance spectroscopy of solid-state synthesized Sr<sub>2</sub>MnTiO<sub>6</sub> perovskite ceramics for oxide electronic applications (Scientific Reports)
+
+1. **[s41467-026-79179-0](https://www.nature.com/articles/s41467-026-79179-0)** Li<sup>+</sup>-locked domain effect for breaking the temperature stability bottleneck in thermal-detection high-entropy energy storage ceramics (Nature Communications)
+
+1. **[2610.40729v1](https://arxiv.org/abs/2610.40729)** SKFitter: Symmetry resolved Slater Koster tight-binding models from first principles for s, p, d and f electrons, spin orbit coupling and magnetism (arXiv)
+
+1. **[2610.40737v1](https://arxiv.org/abs/2610.40737)** Thermal Stability and Structural Relaxation Kinetics of Commercially Pure Titanium (arXiv)
+
+1. **[2610.40739v1](https://arxiv.org/abs/2610.40739)** Spectral properties of orthorhombic KSbOSiO$_4$ crystals: studies of infrared, visible and ultraviolet radiation absorption, Raman scattering, cathodoluminescence and photoluminescence (arXiv)
+
+1. **[2610.40761v1](https://arxiv.org/abs/2610.40761)** Moir\'e metals and continuum models beyond a single valley (arXiv)
+
+1. **[2610.40786v1](https://arxiv.org/abs/2610.40786)** Singlet-Triplet Transition of Rotating Moir\'e Atoms in a Magnetic Field (arXiv)
+
+1. **[2610.40850v1](https://arxiv.org/abs/2610.40850)** Anisotropic spin splitting in $\alpha$-MnTe epilayers on InP(111)A and Si(111) substrates (arXiv)
+
+1. **[2610.40864v1](https://arxiv.org/abs/2610.40864)** Quantum Monte-Carlo study of spin-valley ferromagnetism in rhombohedral graphene (arXiv)
+
+1. **[2610.40880v1](https://arxiv.org/abs/2610.40880)** Subsonic terahertz plasmon instability in space-time plasmonic crystals (arXiv)
+
+1. **[2610.40910v1](https://arxiv.org/abs/2610.40910)** Triplon thermal Hall response in a honeycomb-lattice $J_1$-$J_2$ Heisenberg antiferromagnet with Dzyaloshinskii--Moriya interactions (arXiv)
+
+1. **[2610.40916v1](https://arxiv.org/abs/2610.40916)** Nonlinear visco-elasto-plastic model for the stress-strain and stress-relaxation in metallic glass (arXiv)
+
+1. **[2610.40968v1](https://arxiv.org/abs/2610.40968)** Temperature Evolution of Magnon-Polarons in the van der Waals Antiferromagnet FePS$_3$ (arXiv)
+
+1. **[2610.40986v1](https://arxiv.org/abs/2610.40986)** Exact Electron Dynamics in Linear and Chiral Cavities: Complete Field versus Single-Helicity Reduction (arXiv)
+
+1. **[2610.40990v1](https://arxiv.org/abs/2610.40990)** Electron-electron interactions mediated by overdamped vibrations: Implications for chirality-induced spin selectivity (arXiv)
+
+1. **[2610.41003v1](https://arxiv.org/abs/2610.41003)** Tunable Three-Body Interactions in Microwave-Shielded Polar Molecules (arXiv)
+
+1. **[2610.41016v1](https://arxiv.org/abs/2610.41016)** Chirality inversion and odd transport in a suspension of living rotors (arXiv)
+
+1. **[2610.41061v1](https://arxiv.org/abs/2610.41061)** The spin-transfer inverse Faraday effect in Au/YIG thin film bilayers (arXiv)
+
+1. **[2610.41091v1](https://arxiv.org/abs/2610.41091)** Unifying dynamical electron-electron and electron-phonon interactions from first principles (arXiv)
+
+1. **[2610.41101v1](https://arxiv.org/abs/2610.41101)** Anisotropic Boltzmann transport in a tight-binding superlattice: Exact results for power-law energy-dependent scattering (arXiv)
+
+1. **[2610.41161v1](https://arxiv.org/abs/2610.41161)** Frustration-Induced $1/6$-Vortex-Paired Phase in a Kagome XY Model (arXiv)
+
+1. **[2610.41164v1](https://arxiv.org/abs/2610.41164)** ORCHID: Connecting Finite-Temperature Thermodynamic Evidence to Computational Materials Discovery (arXiv)
+
+1. **[2610.41167v1](https://arxiv.org/abs/2610.41167)** Quantum-Geometric Subgap Second-Harmonic Generation in PT-Symmetric Antiferromagnetic Insulators (arXiv)
+
+1. **[2610.41274v1](https://arxiv.org/abs/2610.41274)** Berry curvature quadrupole induced third-order anomalous Hall effect in altermagnetic $\mathrm{KV_2Se_2O}$ (arXiv)
+
+1. **[2610.41285v1](https://arxiv.org/abs/2610.41285)** Quantifying Blinking Suppression and Probing Its Mechanism in PPD-Treated Single Quantum Dots (arXiv)
+
+1. **[2610.41316v1](https://arxiv.org/abs/2610.41316)** Only the immortal can (almost) flock while turning: Two-dimensional chiral immortal flocks, time crystals and non-universal sub-logarithmic roughness (arXiv)
+
+1. **[2610.41409v1](https://arxiv.org/abs/2610.41409)** Multiband-Induced Complex Magnetotransport in the Kagome Metal LuNb$_6$Sn$_6$ (arXiv)
+
+1. **[2610.41414v1](https://arxiv.org/abs/2610.41414)** Spin-conserving and spin-flip magnetic scattering in the altermagnetic spin-splitter effect (arXiv)
+
+1. **[2610.41419v1](https://arxiv.org/abs/2610.41419)** Spin conservation protects the altermagnetic spin-splitter current from critical scattering (arXiv)
+
+1. **[2610.41462v1](https://arxiv.org/abs/2610.41462)** Strong-Field-Driven Non-Linear Vibronic Coupling in an Asymmetric Donor-Acceptor Oligomer (arXiv)
+
+1. **[2610.41513v1](https://arxiv.org/abs/2610.41513)** Potentials of individual atoms by convergent beam electron diffraction (arXiv)
+
+1. **[2610.41559v1](https://arxiv.org/abs/2610.41559)** Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. I. Clean surface properties (arXiv)
+
+1. **[2610.41571v1](https://arxiv.org/abs/2610.41571)** Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. II. Adsorption of nonmetal atoms (N, P, As, and Sb) on Ga-terminated surfaces (arXiv)
+
+1. **[2610.41589v1](https://arxiv.org/abs/2610.41589)** Mirror-symmetry engineering of altermagnetism based on monolayer hexagonal lattices (arXiv)
+
+1. **[2610.41599v1](https://arxiv.org/abs/2610.41599)** Underdamped Stochastic Optimal Transport with Landauer boundary conditions: machine learning and analytical solution (arXiv)
+
+1. **[2610.41610v1](https://arxiv.org/abs/2610.41610)** Hierarchy of Electromagnetic Gauge Field Quantum Geometries (arXiv)
+
+1. **[2610.41613v1](https://arxiv.org/abs/2610.41613)** Static and dynamic density correlations of interacting active Brownian particles (arXiv)
+
+1. **[2610.41619v1](https://arxiv.org/abs/2610.41619)** Counting kinks and magnons with the lattice: magnetoelastic effects in Cs$_2$CoBr$_4$ (arXiv)
+
+1. **[2610.41687v1](https://arxiv.org/abs/2610.41687)** Pair density waves via interband pairing --- a perspective from superfluid weight (arXiv)
+
+1. **[2610.41770v1](https://arxiv.org/abs/2610.41770)** Pair-Condensation Peak in Radio-Frequency Dimer-Projection Spectroscopy of a Unitary Fermi Gas (arXiv)
+
+1. **[2610.41797v1](https://arxiv.org/abs/2610.41797)** Spontaneous Circular Dichroism and Memory Effect from Surface Defects in Altermagnetic MnTe (arXiv)
+
+1. **[2610.41827v1](https://arxiv.org/abs/2610.41827)** Creating functional nanostructures for vortex manipulation in superconducting Bi$_\text{2}$Sr$_\text{2}$CaCu$_\text{2}$O$_\text{8+x}$ thin films via focused He ion beam irradiation (arXiv)
+
+1. **[2610.41851v1](https://arxiv.org/abs/2610.41851)** Magnetic control of reflectionless states and an intrinsic-mode exceptional point in a magnon-phonon coupling system (arXiv)
+
+1. **[2610.41915v1](https://arxiv.org/abs/2610.41915)** Andreev-Enhanced Conductance in a Bilayer Graphene Quantum Point Contact (arXiv)
+
+1. **[2610.42055v1](https://arxiv.org/abs/2610.42055)** Generation and spectroscopic characterization of continuous-wave 148.4-nm light in strontium tetraborate (arXiv)
+
+1. **[2610.42065v1](https://arxiv.org/abs/2610.42065)** Current-driven transient dynamics of magnetic-octupole domain walls in noncollinear antiferromagnets (arXiv)
+
+1. **[2610.42074v1](https://arxiv.org/abs/2610.42074)** Drying kinematics selects open honeycomb fold networks on solvent-extracted viscoelastic thin films and gels (arXiv)
+
+1. **[2610.42103v1](https://arxiv.org/abs/2610.42103)** Charge Pumping Leptogenesis from the Symmetric Mass Generation Phase on a Four-Leg Ladder Lattice (arXiv)
+
+1. **[2610.42108v1](https://arxiv.org/abs/2610.42108)** Quantum 3xplorer: AI-Native Engine for Next-Generation Quantum Materials Modeling (arXiv)
+
+1. **[2610.42115v1](https://arxiv.org/abs/2610.42115)** Observation of light-induced Haldane gap in graphene (arXiv)
+
+1. **[2610.37791v1](https://arxiv.org/abs/2610.37791)** Topological Quantum Error-Correcting Thresholds of a Symmetry-Enriched Toric Code (arXiv)
+
+1. **[2610.40666v1](https://arxiv.org/abs/2610.40666)** Physics-Grounded Simulation Enables Zero-Shot Molecular and Reaction Analysis in Scanning Tunneling Microscopy (arXiv)
+
+1. **[2610.40762v1](https://arxiv.org/abs/2610.40762)** Quantum manifestations of converse symmetry breaking (arXiv)
+
+1. **[2610.40779v1](https://arxiv.org/abs/2610.40779)** Monopole-Fermion Scattering from Twisted Conformal Boundary States (arXiv)
+
+1. **[2610.40810v1](https://arxiv.org/abs/2610.40810)** Beyond the Kubo formula: unification of adiabatic and isothermal response in quantum systems (arXiv)
+
+1. **[2610.41017v1](https://arxiv.org/abs/2610.41017)** Preparation of a Laughlin-like fractional Chern insulator on a superconducting quantum processor (arXiv)
+
+1. **[2610.41058v1](https://arxiv.org/abs/2610.41058)** $h/2e$ Flux Trapping without Superconductivity (arXiv)
+
+1. **[2610.41138v1](https://arxiv.org/abs/2610.41138)** Induced Lorentzian geometry from the fermionic quantum metric (arXiv)
+
+1. **[2610.41398v1](https://arxiv.org/abs/2610.41398)** Distilling Knowledge from Search: Decoder Model Factory for Quantum LDPC Codes (arXiv)
+
+1. **[2610.41404v1](https://arxiv.org/abs/2610.41404)** Helper-assisted quantum sensing with low dressed-state leakage (arXiv)
+
+1. **[2610.41517v1](https://arxiv.org/abs/2610.41517)** eCAS: An Orbital Embedding Method for Quantum Computing (arXiv)
+
+1. **[2610.41890v1](https://arxiv.org/abs/2610.41890)** Control-Noise Trade-offs in Industrially Integrated ${}^{28}\mathrm{Si}/\mathrm{SiGe}$ Spin-1/2 Qubits (arXiv)
+
+1. **[2610.41926v1](https://arxiv.org/abs/2610.41926)** Lifting the mixed to the pure: quantum phases of matter from canonical purification (arXiv)
+
+1. **[2610.42114v1](https://arxiv.org/abs/2610.42114)** Topologically Protected Edge States in a Single Flux Qubit (arXiv)
+
+1. **[2610.42134v1](https://arxiv.org/abs/2610.42134)** Baker--Akhiezer sections from Higgs bundles and Landau levels in hyperbolic band theory (arXiv)
+
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
