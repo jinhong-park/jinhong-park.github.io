@@ -22,6 +22,192 @@ categories: 2026oct
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
 
+---
+11/04
+
+
+1. **[s42005-026-02841-y](https://www.nature.com/articles/s42005-026-02841-y)** Electrical conductivity structure drives anomalous and potentially time-varying magnetic fields at Uranus and Neptune (Communications Physics)
+
+1. **[4t3l-hy7z](http://link.aps.org/doi/10.1103/4t3l-hy7z)** Witnessing Short- and Long-Range Nonstabilizerness via the Information Lattice (PRL)
+
+1. **[gwj5-2932](http://link.aps.org/doi/10.1103/gwj5-2932)** Chiral Entangled-State Generation through Dissipative Quantum Dynamics (PRL)
+
+1. **[g262-dlhf](http://link.aps.org/doi/10.1103/g262-dlhf)** From Coherent to Fermionized Microwave Photons in a Superconducting Transmission Line (PRL)
+
+1. **[lrhl-j9bt](http://link.aps.org/doi/10.1103/lrhl-j9bt)** First-Principles Calculation of Coherence Length and Penetration Depth Based on Density Functional Theory for Superconductors (PRL)
+
+1. **[k5r2-q11w](http://link.aps.org/doi/10.1103/k5r2-q11w)** Kekulé Superconductivity Induced by Quantum Geometry in Haldane Phases (PRL)
+
+1. **[42kr-81xw](http://link.aps.org/doi/10.1103/42kr-81xw)** Finite-Size Scaling Theory of Rényi Thermal Entropy for Second-Order, First-Order, and Weakly First-Order Quantum Phase Transitions (PRX)
+
+1. **[Physics.19.s138](http://link.aps.org/doi/10.1103/Physics.19.s138)** Calculating Superconductors from Scratch (P)
+
+1. **[2611.03670v1](https://arxiv.org/abs/2611.03670)** Correlated quantum criticality and topological magnetoelectric response in Bi2Se3 (arXiv)
+
+1. **[2611.03678v1](https://arxiv.org/abs/2611.03678)** When do machine-learning potentials need a configuration-dependent kernel? Learning long-range interactions with Fourier neural operators (arXiv)
+
+1. **[2611.03760v1](https://arxiv.org/abs/2611.03760)** Restricted triangular ice beyond the solvable manifolds: chiral ice and the critical region of dominant chiral vertices (arXiv)
+
+1. **[2611.03762v1](https://arxiv.org/abs/2611.03762)** Current-Confined Formation of a Buried Ge/Si Free Surface for Defect Filtering (arXiv)
+
+1. **[2611.03804v1](https://arxiv.org/abs/2611.03804)** Thermal Phase Transition of Three Dimensional Orthogonal Metals (arXiv)
+
+1. **[2611.03805v1](https://arxiv.org/abs/2611.03805)** Collective Modes of Fractional States Beyond Landau Levels (arXiv)
+
+1. **[2611.03822v1](https://arxiv.org/abs/2611.03822)** Coexisting Kondo and Weyl-like transport in kagome heavy-fermion metal, Yb$_y$Co$_3$G$e_{3-x}$Sn$_x$ (arXiv)
+
+1. **[2611.03833v1](https://arxiv.org/abs/2611.03833)** Repulsion-Driven Topological Superconductivity in Twisted MoTe$_2$ (arXiv)
+
+1. **[2611.03837v1](https://arxiv.org/abs/2611.03837)** Lattice spin systems coupled to a compact U(1) gauge field with negative gauge coupling favoring frustration (arXiv)
+
+1. **[2611.03842v1](https://arxiv.org/abs/2611.03842)** Possibility of Potts Spin-Ice in Rare Earth Twisted-Kagome Layers: an Example of DyAgGe (arXiv)
+
+1. **[2611.03978v1](https://arxiv.org/abs/2611.03978)** Constraining the Superconducting Gap of Monolayer FeSe/SrTiO$_3$ via Statistical Analysis and Tip-Height-Dependent Tunneling Spectroscopy (arXiv)
+
+1. **[2611.04015v1](https://arxiv.org/abs/2611.04015)** Interaction-driven Weyl superfluids from topologically trivial bands in an optical Raman lattice (arXiv)
+
+1. **[2611.04036v1](https://arxiv.org/abs/2611.04036)** Energy-Resolved Cross-Correlation of THz Field Emission of Electrons from a Metal Nanotip (arXiv)
+
+1. **[2611.04038v1](https://arxiv.org/abs/2611.04038)** Dynamical Phonon Anharmonicity Drives Charge-Density-Wave Softening and Electronic Quasiparticle Decoherence in Monolayer 1H-NbSe2 (arXiv)
+
+1. **[2611.04049v1](https://arxiv.org/abs/2611.04049)** Continuum Dirac Theory and Nonlinear Extensions of a Chain of Alternating non-linear springs: an SSH version of the Fermi-Pasta-Ulam-Tsingou model (arXiv)
+
+1. **[2611.04050v1](https://arxiv.org/abs/2611.04050)** Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis (arXiv)
+
+1. **[2611.04058v1](https://arxiv.org/abs/2611.04058)** Multiplicity of elastic wave propagation in random polycrystals (arXiv)
+
+1. **[2611.04060v1](https://arxiv.org/abs/2611.04060)** Condensate: an interactive simulator of two-dimensional quantum fluids (arXiv)
+
+1. **[2611.04071v1](https://arxiv.org/abs/2611.04071)** Non-equilibrium orientational dynamics of pinned topological defects in two-dimensional nematic liquid crystals (arXiv)
+
+1. **[2611.04076v1](https://arxiv.org/abs/2611.04076)** Chirality rules for optical vortices in rhombohedral graphene multilayers (arXiv)
+
+1. **[2611.04078v1](https://arxiv.org/abs/2611.04078)** Glauber dynamics of the Sherrington--Kirkpatrick spin-glass model: a dynamical cavity method (arXiv)
+
+1. **[2611.04115v1](https://arxiv.org/abs/2611.04115)** Multi-Fidelity Machine Learning for Predicting Startup Stress Growth and Strain Hardening in Wormlike Micellar Solutions (arXiv)
+
+1. **[2611.04156v1](https://arxiv.org/abs/2611.04156)** greenWTE: Frequency-domain solver for the phonon Wigner Transport Equation with arbitrary heating using Green's functions (arXiv)
+
+1. **[2611.04188v1](https://arxiv.org/abs/2611.04188)** Orbital Hall effect from the Wannier function approach (arXiv)
+
+1. **[2611.04214v1](https://arxiv.org/abs/2611.04214)** Altermagnetism-induced Fulde-Ferrell-Larkin-Ovchinnikov superfluids and momentum-selective pairing channels in optical lattices (arXiv)
+
+1. **[2611.04229v1](https://arxiv.org/abs/2611.04229)** Thermally enhanced magnon-phonon resonance in van der Waals antiferromagnet FePS3 (arXiv)
+
+1. **[2611.04312v1](https://arxiv.org/abs/2611.04312)** Anomalous Hall Response and Real-Space Current Correlations in Rhombohedral Graphene (arXiv)
+
+1. **[2611.04333v1](https://arxiv.org/abs/2611.04333)** LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models (arXiv)
+
+1. **[2611.04335v1](https://arxiv.org/abs/2611.04335)** Emergence of Berry curvature dipole and nonlinear Hall effect in a novel hexagonal borophosphene allotrope (arXiv)
+
+1. **[2611.04347v1](https://arxiv.org/abs/2611.04347)** Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems (arXiv)
+
+1. **[2611.04396v1](https://arxiv.org/abs/2611.04396)** Dissipationless valley diode effects in Kekul\'e graphene superlattices (arXiv)
+
+1. **[2611.04429v1](https://arxiv.org/abs/2611.04429)** Annealing-Induced Structural and Optical Evolution of Ion-Beam-Sputtered Ta2O5 Films for High-Power Laser Applications (arXiv)
+
+1. **[2611.04440v1](https://arxiv.org/abs/2611.04440)** Amplified transport variability in granular slope flows near the critical angle (arXiv)
+
+1. **[2611.04589v1](https://arxiv.org/abs/2611.04589)** Interfacial Hole Accumulation Enables Selective Free-Surface Formation in Ge-on-Si (arXiv)
+
+1. **[2611.04607v1](https://arxiv.org/abs/2611.04607)** Why strong spin-orbit coupling does not destabilize the Dirac spin liquid in the Yb delafossites (arXiv)
+
+1. **[2611.04608v1](https://arxiv.org/abs/2611.04608)** Spin-orbit-locked symmetry and the stability of the triangular Dirac spin liquid in the ytterbium delafossites (arXiv)
+
+1. **[2611.04617v1](https://arxiv.org/abs/2611.04617)** Spin-Density-Driven Hybrid Spin Splitting in Collinear Compensated Magnets (arXiv)
+
+1. **[2611.04649v1](https://arxiv.org/abs/2611.04649)** Hydrogen-induced modification of the local charge density in MnSb$_2$Te$_4$ (arXiv)
+
+1. **[2611.04652v1](https://arxiv.org/abs/2611.04652)** Statistically Robust Characterization of Polaron and Bipolaron Intrinsic Traps in Amorphous Silica Reveals the Role of Network Flexibility in Electron Localisation (arXiv)
+
+1. **[2611.04675v1](https://arxiv.org/abs/2611.04675)** Thermodynamic Evidence for Multiple Field-Induced Phases in an Anisotropic Kagome Antiferromagnet (arXiv)
+
+1. **[2611.04681v1](https://arxiv.org/abs/2611.04681)** Small-data physics-informed ML model for magnetic exchange based on chemical composition and structure (arXiv)
+
+1. **[2611.04719v1](https://arxiv.org/abs/2611.04719)** Bayesian optimization enhanced magnetic field gradient detection based on spin-orbit coupled Bose-Einstein condensates (arXiv)
+
+1. **[2611.04729v1](https://arxiv.org/abs/2611.04729)** Effect of compensation on magnetic ordering in (Ga,Mn)As (arXiv)
+
+1. **[2611.04745v1](https://arxiv.org/abs/2611.04745)** Controlling nitrogen incorporation in (Eu,Ba,Ca)TiO$_3$-derived perovskite-type oxynitrides through Fermi Level Engineering (arXiv)
+
+1. **[2611.04752v1](https://arxiv.org/abs/2611.04752)** Nonlinearity-Induced Suppression of Dissipation in Bath-Coupled Floquet Topological Insulators (arXiv)
+
+1. **[2611.04815v1](https://arxiv.org/abs/2611.04815)** Intra-unit-cell Josephson scanning tunneling spectroscopy of the cuprate Bi$_{1.2}$Pb$_{0.8}$Sr$_2$CaCu$_2$O$_{8+\delta}$ (arXiv)
+
+1. **[2611.04821v1](https://arxiv.org/abs/2611.04821)** Nonreciprocal charge transport in quantum materials: From superconductors to magnetic systems (arXiv)
+
+1. **[2611.04845v1](https://arxiv.org/abs/2611.04845)** Hidden Triakontadipole Order in the Triangular-Lattice Magnet CeMgAl$_{11}$O$_{19}$ (arXiv)
+
+1. **[2611.04849v1](https://arxiv.org/abs/2611.04849)** Rotating two-dimensional Bose--Einstein condensates in power-law traps: collapse, Thomas--Fermi scaling, and the inverse-square endpoint (arXiv)
+
+1. **[2611.04853v1](https://arxiv.org/abs/2611.04853)** Real-Space renormalization for the drawups and drawdowns of stochastic trajectories: universality classes for diffusion processes and random walks via the scale function (arXiv)
+
+1. **[2611.04936v1](https://arxiv.org/abs/2611.04936)** Single-anchor Delta-learning with the cluster Gutzwiller approximation: predicting phase boundaries of strongly correlated bosons in optical lattices (arXiv)
+
+1. **[2611.04937v1](https://arxiv.org/abs/2611.04937)** Field-free transverse response in altermagnet and topological insulator heterojunctions (arXiv)
+
+1. **[2611.04938v1](https://arxiv.org/abs/2611.04938)** Torsion, valley holonomy, and Berry phases of quasiparticles encircling dislocations and defect complexes in graphene (arXiv)
+
+1. **[2611.04951v1](https://arxiv.org/abs/2611.04951)** Current control of spin-wave transport in YIG via the $\small\mathbf{VO}_{\mathbf{2}}$ insulator-to-metal transition (arXiv)
+
+1. **[2611.04975v1](https://arxiv.org/abs/2611.04975)** Band structure of two-dimensional graphene and of one-dimensional nanoribbons via variational quantum algorithms: from energies to wavefunction quality (arXiv)
+
+1. **[2611.04982v1](https://arxiv.org/abs/2611.04982)** Ta-based S-I-S junctions for integrated superconducting Electronics (arXiv)
+
+1. **[2611.04984v1](https://arxiv.org/abs/2611.04984)** SrMn$_2$Ge$_2$: A metallic system with anomalous magnetotransport properties (arXiv)
+
+1. **[2611.04986v1](https://arxiv.org/abs/2611.04986)** Optical Ceiling on Polaron Mobility in Disordered Molecular Semiconductors: Lessons from Eumelanin (arXiv)
+
+1. **[2611.04996v1](https://arxiv.org/abs/2611.04996)** Symmetry-protected isolation of the quantum metric in chiral type-II semi-Dirac semimetals (arXiv)
+
+1. **[2611.05020v1](https://arxiv.org/abs/2611.05020)** ConvexAD: differentiable phase retrieval with geometric regularization for high-strain, low-signal Bragg coherent diffraction imaging (arXiv)
+
+1. **[2611.05025v1](https://arxiv.org/abs/2611.05025)** Ferron polariton Hall effect: Deflecting optically rectified polarization with magnetic fields (arXiv)
+
+1. **[2611.05028v1](https://arxiv.org/abs/2611.05028)** Observation of Scaling of Higher-Order Flow in a Unitary Fermi Gas (arXiv)
+
+1. **[2611.05122v1](https://arxiv.org/abs/2611.05122)** Twisting the pseudo-magnetic field lattice in periodically strained Graphene (arXiv)
+
+1. **[2611.05174v1](https://arxiv.org/abs/2611.05174)** Evidence for a Dirac Spin Liquid in the Kagome Heisenberg Antiferromagnet from High-Precision Neural-Network Quantum States (arXiv)
+
+1. **[2611.05194v1](https://arxiv.org/abs/2611.05194)** A Resonant-Tunneling Quantum-Dot Demultiplexer for Scalable Cryogenic Single-Electron Routing (arXiv)
+
+1. **[2611.05283v1](https://arxiv.org/abs/2611.05283)** Minimal model of a Plateau-Rayleigh instability of a solid binary alloy nanowire: impacts of surface segregation (arXiv)
+
+1. **[2611.05284v1](https://arxiv.org/abs/2611.05284)** Crossover duality for the quantum long-range Ising chain: perturbation theory around the short-range endpoint and a DMRG test (arXiv)
+
+1. **[2611.05301v1](https://arxiv.org/abs/2611.05301)** How symmetry and complexity shape three-dimensional programmable self-assembly (arXiv)
+
+1. **[2611.05336v1](https://arxiv.org/abs/2611.05336)** Higher-order interactions renormalize the thermodynamic signature of neural population codes (arXiv)
+
+1. **[2611.05375v1](https://arxiv.org/abs/2611.05375)** Quantum Error Correction in Nearly Critical Toric Codes (arXiv)
+
+1. **[2611.03680v1](https://arxiv.org/abs/2611.03680)** Many Electrons, One Determinant: Hartree--Fock Theory, Basis Sets, and Molecular Integrals (arXiv)
+
+1. **[2611.03687v1](https://arxiv.org/abs/2611.03687)** samQEq: universal charge equilibration for molecules and conductors (arXiv)
+
+1. **[2611.04121v1](https://arxiv.org/abs/2611.04121)** Bicarbonate/carbonic acid equilibria in aqueous solutions: Conformational Dynamics, Ion-Pair Speciation, and Free Energy Landscapes from Ab Initio Molecular Dynamics and Metadynamics (arXiv)
+
+1. **[2611.04238v1](https://arxiv.org/abs/2611.04238)** On the universality of entanglement entropy in quantum field theory (arXiv)
+
+1. **[2611.04290v1](https://arxiv.org/abs/2611.04290)** An example of universal braiding in Links--Gould topological quantum computation (arXiv)
+
+1. **[2611.04324v1](https://arxiv.org/abs/2611.04324)** Asymptotic electromagnetic transition conditions for thin layers: the arithmetic-mean field and susceptibility hybridization (arXiv)
+
+1. **[2611.04558v1](https://arxiv.org/abs/2611.04558)** Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes (arXiv)
+
+1. **[2611.04777v1](https://arxiv.org/abs/2611.04777)** Bulk and edge states in Fibonacci-Bose-Hubbard clusters (arXiv)
+
+1. **[2611.05040v1](https://arxiv.org/abs/2611.05040)** Ultracold polar molecules for quantum science and technology (arXiv)
+
+1. **[2611.05069v1](https://arxiv.org/abs/2611.05069)** Operational Thresholds for Long-Range Entanglement in Quantum Networks (arXiv)
+
+1. **[2611.05185v1](https://arxiv.org/abs/2611.05185)** Efficient simulations of spectra and transport for multiorbital quantum impurities (arXiv)
+
+1. **[2611.05273v1](https://arxiv.org/abs/2611.05273)** Universal dynamics of quantum phase transitions with fractional long-range interactions (arXiv)
+
+1. **[2611.05329v1](https://arxiv.org/abs/2611.05329)** An Exact QFT/Lattice Map for Fermions (arXiv)
+
 
 
 ---
