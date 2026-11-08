@@ -10,12 +10,112 @@ categories: 2026oct
 
 ===Qwen & Hermes' pick===
 
+**Pick from 2026-11-02 (Nov 1 week 2026, entries 11/02–11/07)**
+
+**Score:** 9/10 — direct matches on **Topological + Magnon + Theoretical + Skyrmion**. This is a personalized recommendation score, rather than a measure of paper quality or coverage across all six interests.
+
+**Title:** Magnon superlattices around skyrmions in frustrated magnets  
+**ID:** [DOI: 10.1103/fhbj-ykvn](https://doi.org/10.1103/fhbj-ykvn)  
+**Authors:** Adarsh Hullahalli, Christos Panagopoulos, Christina Psaroudaki  
+**Date:** 11/03 entry in the weekly collection; published on 2 November 2026  
+**Status:** Published in Physical Review Research **8, 043116 (2026)**. [Publication details](https://journals.aps.org/prresearch/abstract/10.1103/fhbj-ykvn)  
+**Preprint:** [arXiv:2601.00363v1](https://arxiv.org/abs/2601.00363v1), first submitted on 1 January 2026. Selected for its publication this week, rather than as a newly submitted preprint.
+
+**why this pick?**
+
+This paper connects **internal skyrmion dynamics and magnon interference to spatial patterns and topological bands**. It brings together the real-space topology of skyrmions and the momentum-space topology of magnon bands characterized by Chern numbers, making it a strong match for your interests. [Published abstract](https://journals.aps.org/prresearch/abstract/10.1103/fhbj-ykvn)
+
+**1. Keyword matching across the six interests**
+
+| Interest | How this paper connects |
+|:---|:---|
+| **Topological** | Direct match: skyrmion textures and magnon bands with nontrivial Chern numbers. |
+| **Magnon** | Direct match: magnon modes, interference patterns, and hybridization with skyrmion modes. |
+| **Phonon** | Not directly addressed. |
+| **Theoretical** | Direct match: spin models, linear spin-wave theory, and Landau–Lifshitz–Gilbert dynamics. |
+| **Skyrmion** | Direct match: isolated skyrmions, skyrmion lattices, and the internal helicity degree of freedom. |
+| **Altermagnet** | Not directly addressed; the frustrated magnet studied here is not identified as an altermagnet. |
+
+These distinctions follow the [published abstract](https://journals.aps.org/prresearch/abstract/10.1103/fhbj-ykvn) and the [Model and Methods in the preprint](https://arxiv.org/html/2601.00363v1).
+
+**2. Why this over other candidates?**
+
+| Paper | Directly matching interests | Assessment |
+|:---|:---|:---|
+| **Magnon superlattices around skyrmions in frustrated magnets — this week's pick** | **Topological · Magnon · Theoretical · Skyrmion** | Connects four interests within a single spin-dynamics problem. |
+| [2611.04347 — Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems](https://arxiv.org/abs/2611.04347) | Topological · Altermagnet · Theoretical | A theoretical route to higher-order electronic topology through altermagnetism. The closest alternative if altermagnetism takes priority. |
+| [2611.07807 — Nonlinear Interaction and Topological Selection Rules in two Skyrmion Merging: Emergence of Skyrmionium Textures](https://arxiv.org/abs/2611.07807) | Topological textures · Skyrmion · Theoretical | Uses analytical modeling and micromagnetic simulations to study skyrmion merging. A strong alternative for texture formation. |
+| [2611.04229 — Thermally enhanced magnon-phonon resonance in van der Waals antiferromagnet FePS3](https://arxiv.org/abs/2611.04229) | Magnon · Phonon | Uses high-field Raman spectroscopy to investigate temperature-dependent hybridization. A strong alternative for spin–lattice coupling. |
+| [2610.41851 — Magnetic control of reflectionless states and an intrinsic-mode exceptional point in a magnon-phonon coupling system](https://arxiv.org/abs/2610.41851) | Magnon · Phonon | Combines experiments and an input-output model to control reflection zeros and an exceptional point. A strong alternative for non-Hermitian wave control. |
+
+**Selection criterion:** With no explicit ranking among your six interests, I prioritize **the number of directly connected interests and the physical coherence of those connections**. This pick offers a theoretical path from magnon–skyrmion interactions to topological bands.
+
+**3. Physical insights from this paper**
+
+- **Magnon dispersion sets the pattern's length scale.** Interference between symmetry-related finite-wave-vector modes associated with a Mexican-hat dispersion produces the superlattice pattern.
+- **The skyrmion helps select and excite the pattern.** It breaks translational symmetry and hybridizes internal modes with extended magnons, enabling excitation by a uniform AC magnetic field. The published paper also reports the same pattern under a local Gaussian drive without a skyrmion, clarifying this distinction.
+- **Helicity provides an additional dynamical channel.** Breathing modes that are magnetically inactive in linear response can become weakly active through helicity dynamics.
+- **The topological bands belong to the skyrmion lattice.** The paper reports nontrivial Chern bands inside the first magnon gap. Distinguish this lattice band topology from the periodic interference pattern around an isolated skyrmion.
+
+These results are summarized in the [published abstract](https://journals.aps.org/prresearch/abstract/10.1103/fhbj-ykvn). The spin model and computational methods are described in the [preprint full text](https://arxiv.org/html/2601.00363v1).
+
+**Questions to explore while reading — my interpretation**
+
+What hybrid modes could emerge if magnetoelastic coupling to phonons were added to these finite-wave-vector magnon patterns? Could a similar texture-assisted excitation mechanism operate in an altermagnetic background, and which symmetries would it require? These are possible follow-up research questions connecting your interests, beyond the results established in the paper.
+
+**TL;DR**
+
+> This week's pick connects **Magnon × Skyrmion × Topology × Theory** within one study. [Magnon superlattices around skyrmions in frustrated magnets](https://doi.org/10.1103/fhbj-ykvn)
 
 
 ===This week's pick===
 
+score : 30630
 
 
+**[2611.06833v1](https://arxiv.org/abs/2611.06833)** Quantum Spin Wave Theory with Multi-Spin Interactions for Magnetic Materials Modeling (arXiv)
+
+score : 28613
+
+
+**[2611.05174v1](https://arxiv.org/abs/2611.05174)** Evidence for a Dirac Spin Liquid in the Kagome Heisenberg Antiferromagnet from High-Precision Neural-Network Quantum States (arXiv)
+
+
+score : 23693
+
+**[2611.04821v1](https://arxiv.org/abs/2611.04821)** Nonreciprocal charge transport in quantum materials: From superconductors to magnetic systems (arXiv)
+
+score : 19820
+
+**[2611.07844v1](https://arxiv.org/abs/2611.07844)** Half-integer quantum anomalous Hall effect in MnBi$_2$Te$_4$ via non-magnetic extension (arXiv)
+
+score : 19812
+
+**[2611.03837v1](https://arxiv.org/abs/2611.03837)** Lattice spin systems coupled to a compact U(1) gauge field with negative gauge coupling favoring frustration (arXiv)
+
+score : 19476
+
+
+**[42kr-81xw](http://link.aps.org/doi/10.1103/42kr-81xw)** Finite-Size Scaling Theory of Rényi Thermal Entropy for Second-Order, First-Order, and Weakly First-Order Quantum Phase Transitions (PRX)
+
+
+score : 19421
+
+**[2611.06865v1](https://arxiv.org/abs/2611.06865)** Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials (arXiv)
+
+
+score : 18428
+
+**[2611.04975v1](https://arxiv.org/abs/2611.04975)** Band structure of two-dimensional graphene and of one-dimensional nanoribbons via variational quantum algorithms: from energies to wavefunction quality (arXiv)
+
+score : 18264
+
+**[2611.03670v1](https://arxiv.org/abs/2611.03670)** Correlated quantum criticality and topological magnetoelectric response in Bi2Se3 (arXiv)
+
+score : 18214
+
+
+**[k5r2-q11w](http://link.aps.org/doi/10.1103/k5r2-q11w)** Kekulé Superconductivity Induced by Quantum Geometry in Haldane Phases (PRL)
 
 
 <details id="myDetails">
@@ -23,6 +123,34 @@ categories: 2026oct
   {% capture markdowncontent %}
 
 
+
+---
+11/07
+
+
+1. **[s41467-026-77617-7](https://www.nature.com/articles/s41467-026-77617-7)** Resolving phonons in superconductor Bi<sub>2</sub>Sr<sub>2</sub>CaCu<sub>2</sub>O<sub>8+δ</sub> at sub-unit-cell resolution (Nature Communications)
+
+1. **[s41567-026-03520-z](https://www.nature.com/articles/s41567-026-03520-z)** Coherence enhancement through equilibration to near-zero optical temperatures (Nature Physics)
+
+1. **[s41563-026-02800-6](https://www.nature.com/articles/s41563-026-02800-6)** Spatiotemporal intensity-cycling microscopy unveils many-body interactions and correlated transport in van der Waals semiconductors (Nature Materials)
+
+1. **[5qcc-wfv6](http://link.aps.org/doi/10.1103/5qcc-wfv6)** Symbolic Quantum-Trajectory Method for Multichannel Dicke Superradiance (PRL)
+
+1. **[25gn-bfgw](http://link.aps.org/doi/10.1103/25gn-bfgw)** Evolution of the Superfluid Density in Infinite-Layer Nickelates (PRL)
+
+1. **[bzz4-ggnm](http://link.aps.org/doi/10.1103/bzz4-ggnm)** Anomalous Diffusion and Singular Transport from Hydrodynamic Recoupling (PRL)
+
+1. **[l6sm-yzbn](http://link.aps.org/doi/10.1103/l6sm-yzbn)** Similarity of Fractional Chern Insulators to Fractional Quantum Hall States: Moiré-Enhanced Gaps and Excitation-Spectrum Correspondence (PRL)
+
+1. **[hlk5-589d](http://link.aps.org/doi/10.1103/hlk5-589d)** Ultrastrong-Coupling Signatures in Photon Statistics from Terahertz Higgs Polaritons (PRL)
+
+1. **[xyym-pjh7](http://link.aps.org/doi/10.1103/xyym-pjh7)** Order by Inertia in Spinning Active Matter: Holey Fluids and Spin-Textured Crystals (PRX)
+
+1. **[1fr3-bbxr](http://link.aps.org/doi/10.1103/1fr3-bbxr)** Explosive connectivity and mechanical rigidity in cubic lattice structures (PRR)
+
+1. **[g8cm-7ps7](http://link.aps.org/doi/10.1103/g8cm-7ps7)** Understanding temperature tuning in energy-based models (PRR)
+
+1. **[m9nn-cgww](http://link.aps.org/doi/10.1103/m9nn-cgww)** Non-Markovian delay-assisted sensing with waveguide-coupled quantum emitters (PRR)
 
 
 
@@ -143,7 +271,6 @@ categories: 2026oct
 
 1. **[2611.07841v1](https://arxiv.org/abs/2611.07841)** Signature of chiral anomaly in a graphene-based heterostructure (arXiv)
 
-1. **[2611.07844v1](https://arxiv.org/abs/2611.07844)** Half-integer quantum anomalous Hall effect in MnBi$_2$Te$_4$ via non-magnetic extension (arXiv)
 
 1. **[2611.07846v1](https://arxiv.org/abs/2611.07846)** Anisotropic g-tensor and strong spin-orbit interaction of holes in hexagonal germanium nanowires (arXiv)
 
@@ -337,9 +464,7 @@ categories: 2026oct
 
 1. **[2611.06815v1](https://arxiv.org/abs/2611.06815)** Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$_2$ Transistors (arXiv)
 
-1. **[2611.06833v1](https://arxiv.org/abs/2611.06833)** Quantum Spin Wave Theory with Multi-Spin Interactions for Magnetic Materials Modeling (arXiv)
 
-1. **[2611.06865v1](https://arxiv.org/abs/2611.06865)** Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials (arXiv)
 
 1. **[2611.06884v1](https://arxiv.org/abs/2611.06884)** Charged Three-Dimensional Solitons in a Ferroelectric Nematic Liquid Crystal (arXiv)
 
@@ -397,13 +522,10 @@ categories: 2026oct
 
 1. **[lrhl-j9bt](http://link.aps.org/doi/10.1103/lrhl-j9bt)** First-Principles Calculation of Coherence Length and Penetration Depth Based on Density Functional Theory for Superconductors (PRL)
 
-1. **[k5r2-q11w](http://link.aps.org/doi/10.1103/k5r2-q11w)** Kekulé Superconductivity Induced by Quantum Geometry in Haldane Phases (PRL)
 
-1. **[42kr-81xw](http://link.aps.org/doi/10.1103/42kr-81xw)** Finite-Size Scaling Theory of Rényi Thermal Entropy for Second-Order, First-Order, and Weakly First-Order Quantum Phase Transitions (PRX)
 
 1. **[Physics.19.s138](http://link.aps.org/doi/10.1103/Physics.19.s138)** Calculating Superconductors from Scratch (P)
 
-1. **[2611.03670v1](https://arxiv.org/abs/2611.03670)** Correlated quantum criticality and topological magnetoelectric response in Bi2Se3 (arXiv)
 
 1. **[2611.03678v1](https://arxiv.org/abs/2611.03678)** When do machine-learning potentials need a configuration-dependent kernel? Learning long-range interactions with Fourier neural operators (arXiv)
 
@@ -419,7 +541,7 @@ categories: 2026oct
 
 1. **[2611.03833v1](https://arxiv.org/abs/2611.03833)** Repulsion-Driven Topological Superconductivity in Twisted MoTe$_2$ (arXiv)
 
-1. **[2611.03837v1](https://arxiv.org/abs/2611.03837)** Lattice spin systems coupled to a compact U(1) gauge field with negative gauge coupling favoring frustration (arXiv)
+
 
 1. **[2611.03842v1](https://arxiv.org/abs/2611.03842)** Possibility of Potts Spin-Ice in Rare Earth Twisted-Kagome Layers: an Example of DyAgGe (arXiv)
 
@@ -495,7 +617,6 @@ categories: 2026oct
 
 1. **[2611.04815v1](https://arxiv.org/abs/2611.04815)** Intra-unit-cell Josephson scanning tunneling spectroscopy of the cuprate Bi$_{1.2}$Pb$_{0.8}$Sr$_2$CaCu$_2$O$_{8+\delta}$ (arXiv)
 
-1. **[2611.04821v1](https://arxiv.org/abs/2611.04821)** Nonreciprocal charge transport in quantum materials: From superconductors to magnetic systems (arXiv)
 
 1. **[2611.04845v1](https://arxiv.org/abs/2611.04845)** Hidden Triakontadipole Order in the Triangular-Lattice Magnet CeMgAl$_{11}$O$_{19}$ (arXiv)
 
@@ -511,7 +632,6 @@ categories: 2026oct
 
 1. **[2611.04951v1](https://arxiv.org/abs/2611.04951)** Current control of spin-wave transport in YIG via the $\small\mathbf{VO}_{\mathbf{2}}$ insulator-to-metal transition (arXiv)
 
-1. **[2611.04975v1](https://arxiv.org/abs/2611.04975)** Band structure of two-dimensional graphene and of one-dimensional nanoribbons via variational quantum algorithms: from energies to wavefunction quality (arXiv)
 
 1. **[2611.04982v1](https://arxiv.org/abs/2611.04982)** Ta-based S-I-S junctions for integrated superconducting Electronics (arXiv)
 
@@ -529,7 +649,6 @@ categories: 2026oct
 
 1. **[2611.05122v1](https://arxiv.org/abs/2611.05122)** Twisting the pseudo-magnetic field lattice in periodically strained Graphene (arXiv)
 
-1. **[2611.05174v1](https://arxiv.org/abs/2611.05174)** Evidence for a Dirac Spin Liquid in the Kagome Heisenberg Antiferromagnet from High-Precision Neural-Network Quantum States (arXiv)
 
 1. **[2611.05194v1](https://arxiv.org/abs/2611.05194)** A Resonant-Tunneling Quantum-Dot Demultiplexer for Scalable Cryogenic Single-Electron Routing (arXiv)
 
