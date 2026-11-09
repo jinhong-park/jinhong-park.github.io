@@ -1,0 +1,241 @@
+---
+layout: post
+title:  "weekly picks (Nov 2 week 2026)"
+date:   2026-11-09 00:16:27
+categories: 2026nov
+---
+
+{% include image.html url="/images/2026nov2weeks.png" caption="A WordCloud of 2026 November 2nd week collection" width=300 align="center" %}
+
+
+===Qwen & Hermes' pick===
+
+
+
+
+===This week's pick===
+
+
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+---
+11/09
+
+
+1. **[2611.08529v1](https://arxiv.org/abs/2611.08529)** Nonequilibrium Fluctuations and Intrinsic Stability of Nanostructured Solar Cells: Microscopic Derivation and Universal Laws (arXiv)
+
+1. **[2611.08532v1](https://arxiv.org/abs/2611.08532)** Permutation order governs basin entropy in critical one-input Boolean networks (arXiv)
+
+1. **[2611.08605v1](https://arxiv.org/abs/2611.08605)** Experimental realization of twofold topological phase transition induced by long-range hoppings in one-dimensional chains (arXiv)
+
+1. **[2611.08617v1](https://arxiv.org/abs/2611.08617)** Interacting particles crossing barriers: spatial statistics, choice of route taken and role of interactions (arXiv)
+
+1. **[2611.08663v1](https://arxiv.org/abs/2611.08663)** Disentangling Multiple Scaling Dimensions via Operator Covariance in Critical Quantum Spin Systems (arXiv)
+
+1. **[2611.08728v1](https://arxiv.org/abs/2611.08728)** Ion Redistribution and Lattice-Distortion-Modulated d-Electron Correlation in Layered Multiferroic ABP$_2$S$_6$ Probed by X-ray Photoelectron Spectroscopy (arXiv)
+
+1. **[2611.08761v1](https://arxiv.org/abs/2611.08761)** Bichromatic light-induced electronic torques on the N\'eel vector in Rashba magnetic multipoles from $p$-wave magnets to $i$-wave altermagnets (arXiv)
+
+1. **[2611.08823v1](https://arxiv.org/abs/2611.08823)** Growth and fabrication of advanced PbTe-Pb quantum devices (arXiv)
+
+1. **[2611.08871v1](https://arxiv.org/abs/2611.08871)** Magnetic-Field-Tuned Critical End Point and High-Field Phases in HoMn6Sn6 (arXiv)
+
+1. **[2611.08873v1](https://arxiv.org/abs/2611.08873)** Rotational Doppler Effect and Helimagnon Frequency Comb in Sliding Magnetic Spirals (arXiv)
+
+1. **[2611.08881v1](https://arxiv.org/abs/2611.08881)** Limits of Lorenz number estimation from the temperature-dependent Seebeck coefficient (arXiv)
+
+1. **[2611.08926v1](https://arxiv.org/abs/2611.08926)** A stochastic propagation method for large-scale phonon calculations (arXiv)
+
+1. **[2611.08951v1](https://arxiv.org/abs/2611.08951)** Mixed-dimensional topological charge compensation beyond Weyl-node pairing (arXiv)
+
+1. **[2611.08986v1](https://arxiv.org/abs/2611.08986)** Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order (arXiv)
+
+1. **[2611.09025v1](https://arxiv.org/abs/2611.09025)** Symmetry-Gated Sliding: Decoupling Interlayer Translation from Polarization Reversal in Boron Nitride Ferroelectrics (arXiv)
+
+1. **[2611.09068v1](https://arxiv.org/abs/2611.09068)** Coulomb screening of the orbital inverse Faraday effect in finite-size diffusive conductors (arXiv)
+
+1. **[2611.09083v1](https://arxiv.org/abs/2611.09083)** Strong phonon-coupled trion emission in Janus homobilayer (arXiv)
+
+1. **[2611.09097v1](https://arxiv.org/abs/2611.09097)** $\mathbb{Z}_2$ gauge and exact solution of the $\pm J$ Edwards-Anderson model in a transverse field (arXiv)
+
+1. **[2611.09098v1](https://arxiv.org/abs/2611.09098)** Disentangling Spin and Orbital Contributions in the Search for Altermagnetic Terahertz Conversion in RuO2 (arXiv)
+
+1. **[2611.09103v1](https://arxiv.org/abs/2611.09103)** Spontaneous Formation of Lateral Defect-Density Gradient in CVD-Grown MoS2 Monolayers (arXiv)
+
+1. **[2611.09149v1](https://arxiv.org/abs/2611.09149)** A Monte Carlo study of thermal conductivity in black phosphorene (arXiv)
+
+1. **[2611.09153v1](https://arxiv.org/abs/2611.09153)** From local learning to global electronic properties in large-scale systems (arXiv)
+
+1. **[2611.09202v1](https://arxiv.org/abs/2611.09202)** Pressure-induced symmetry breaking and polarity in the van der Waals magnet CrSBr (arXiv)
+
+1. **[2611.09258v1](https://arxiv.org/abs/2611.09258)** Non-trivial topological spin-polarized surface states induced nonreciprocal transport in the hourglass semimetal (arXiv)
+
+1. **[2611.09285v1](https://arxiv.org/abs/2611.09285)** Momentum-space engineering in van der Waals heterostructures (arXiv)
+
+1. **[2611.09287v1](https://arxiv.org/abs/2611.09287)** Thermalization of coarse-grained variables in the Toda lattice: a numerical study (arXiv)
+
+1. **[2611.09462v1](https://arxiv.org/abs/2611.09462)** Helical magnetism from sliding Luttinger liquids in hole-doped twisted bilayer WTe$_2$ (arXiv)
+
+1. **[2611.09469v1](https://arxiv.org/abs/2611.09469)** Coexistence of antiferromagnetism and topological $s+d+id$ superconductivity in twisted cuprate bilayers (arXiv)
+
+1. **[2611.09473v1](https://arxiv.org/abs/2611.09473)** Stacking, symmetry and exciton fine structure in boron nitride bilayers (arXiv)
+
+1. **[2611.09499v1](https://arxiv.org/abs/2611.09499)** Driving Atomic Spins through Their Substrate Electrons (arXiv)
+
+1. **[2611.09509v1](https://arxiv.org/abs/2611.09509)** High-Volume Wurtzite MnSe in MnSe/CdSe Superlattices: Structure, Magnetism and Optical Response (arXiv)
+
+1. **[2611.09510v1](https://arxiv.org/abs/2611.09510)** Superconducting Fluctuation Driven Quantum Transport in Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$ Thin Films (arXiv)
+
+1. **[2611.09547v1](https://arxiv.org/abs/2611.09547)** Josephson current along the domain walls in Weyl fully compensated ferrimagnet Ti$_2$MnAl (arXiv)
+
+1. **[2611.09572v1](https://arxiv.org/abs/2611.09572)** Inverse design of superconductors and semiconductors with differentiable foundation models (arXiv)
+
+1. **[2611.09578v1](https://arxiv.org/abs/2611.09578)** Quantum Interference Control of Coupled Atomic Spins (arXiv)
+
+1. **[2611.09581v1](https://arxiv.org/abs/2611.09581)** Scanning Probe Control, Quantum Dynamics, and Dispersive Readout of Suspended Carbon Nanotube Resonators (arXiv)
+
+1. **[2611.09618v1](https://arxiv.org/abs/2611.09618)** Quantum-walk measurements with sequential imaging of the same atomic sample (arXiv)
+
+1. **[2611.09669v1](https://arxiv.org/abs/2611.09669)** Inversion symmetry breaking by interlayer hybridization in a tetralayer van der Waals heterostructure (arXiv)
+
+1. **[2611.09704v1](https://arxiv.org/abs/2611.09704)** Theory of Optical and Magneto-Optical Properties of [111]-Oriented Site-Controlled Quantum Dots (arXiv)
+
+1. **[2611.09705v1](https://arxiv.org/abs/2611.09705)** Cavity-enhanced second harmonic generation from Rydberg excitons in Cu$_2$O (arXiv)
+
+1. **[2611.09800v1](https://arxiv.org/abs/2611.09800)** Exciton design via topological spin textures (arXiv)
+
+1. **[2611.09819v1](https://arxiv.org/abs/2611.09819)** Microscopic theory of exciton polarons in transition metal dichalcogenides (arXiv)
+
+1. **[2611.09855v1](https://arxiv.org/abs/2611.09855)** Raman anyon-Hubbard model in a 1D Bose lattice gas (arXiv)
+
+1. **[2611.09857v1](https://arxiv.org/abs/2611.09857)** Energy- and momentum-resolved Cooper-pair emission from a cuprate superconductor (arXiv)
+
+1. **[2611.09873v1](https://arxiv.org/abs/2611.09873)** Trajectory-Dependent Decoherence and Leakage During Shuttling of Multi-Spin Qubits (arXiv)
+
+1. **[2611.09881v1](https://arxiv.org/abs/2611.09881)** Unraveling square and kagome lattice frustrated magnetism by scalable tensor networks (arXiv)
+
+1. **[2610.40818v1](https://arxiv.org/abs/2610.40818)** All Symmetries and Boundaries of the Two-Dimensional Free Scalar from Continuous Flat-Gauging (arXiv)
+
+1. **[2611.07564v1](https://arxiv.org/abs/2611.07564)** Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magnetic fields (arXiv)
+
+1. **[2611.08506v1](https://arxiv.org/abs/2611.08506)** Structure is in the zoom: probing neural symmetry through dimensionality scaling (arXiv)
+
+1. **[2611.08564v1](https://arxiv.org/abs/2611.08564)** Thermodynamics of Speed and Efficiency with Quantum Feedback (arXiv)
+
+1. **[2611.08619v1](https://arxiv.org/abs/2611.08619)** Quantum-enabled measurement of gravitational forces at the milligram scale (arXiv)
+
+1. **[2611.08807v1](https://arxiv.org/abs/2611.08807)** Electrohydrodynamic interactions of two Quincke rotors: asymptotic theory and boundary element simulations (arXiv)
+
+1. **[2611.08874v1](https://arxiv.org/abs/2611.08874)** Fortuitous Cancellation of Competing Effects in the Free Energy of Water Autoionization: Long-Range Electrostatics, System Size, and Nuclear Quantum Effects (arXiv)
+
+1. **[2611.09018v1](https://arxiv.org/abs/2611.09018)** Perfect Wave Transfer in Nonconformal Tomonaga-Luttinger Liquids (arXiv)
+
+1. **[2611.09314v1](https://arxiv.org/abs/2611.09314)** A State-Variable Theory of Evolving Material Symmetry (arXiv)
+
+1. **[2611.09434v1](https://arxiv.org/abs/2611.09434)** Optimal performance of driven-dissipative many-body quantum batteries beyond complete nonreciprocity (arXiv)
+
+1. **[2611.09464v1](https://arxiv.org/abs/2611.09464)** Dynamics and pseudospectra around quantum exceptional points (arXiv)
+
+1. **[2611.09540v1](https://arxiv.org/abs/2611.09540)** Open Quantum Time Crystals without External Thermodynamic Resources: Go and No-Go Theorems (arXiv)
+
+1. **[2611.09637v1](https://arxiv.org/abs/2611.09637)** Propagating the Hierarchical Equations of Motion using the Multi-Layer Multi-Configurational Time-Dependent Hartree method (arXiv)
+
+1. **[2611.09786v1](https://arxiv.org/abs/2611.09786)** Edge dynamics of covariant higher-rank Chern-Simons theory of fractons (arXiv)
+
+1. **[2611.09814v1](https://arxiv.org/abs/2611.09814)** Arrival-time problem in the quantum information era - observation of a Zeno crossover in monitored arrival-time distributions (arXiv)
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
