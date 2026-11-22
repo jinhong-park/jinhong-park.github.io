@@ -10,11 +10,104 @@ categories: 2026nov
 
 ===Qwen & Hermes' pick===
 
+**Pick from 2026-11-16 (Nov 3 week 2026, entries 11/16–11/21)**
+
+**Score:** 9.0/10 — direct matches on **Topological + Theoretical + Skyrmion**, with a close **Magnon** connection through generalized magnetic excitations. This is a personalized recommendation score, rather than a measure of paper quality or coverage across all six interests.
+
+**Title:** Non-Abelian Hall Effects of Flavor-Waves in $\mathbb{CP}^{2}$ Skyrmions  
+**ID:** [arXiv:2611.24134](https://arxiv.org/abs/2611.24134)  
+**Authors:** Carlos Saji, Eduardo Saavedra, Alvaro S. Nunez, Roberto E. Troncoso  
+**Date:** 11/19 entry in the weekly collection; first submitted on 18 November 2026.  
+**Status:** arXiv preprint; this recommendation uses [v1](https://arxiv.org/abs/2611.24134v1).  
+**Full text:** [HTML, v1](https://arxiv.org/html/2611.24134v1)
+
+**why this pick?**
+
+This is my pick for a reading session connecting **skyrmion textures, magnetic excitations, and band topology**. For your combination of interests, I would prioritize this bridge between topics. The paper studies a spin-1 magnet where dipolar and quadrupolar fluctuations form coupled flavor waves. [Abstract](https://arxiv.org/abs/2611.24134)
+
+**1. Keyword matching across the six interests**
+
+| Interest | How this paper connects |
+|:---|:---|
+| **Topological** | Direct match: skyrmion topology and collective bands with nonzero Chern numbers. |
+| **Magnon** | Close match: dipolar and quadrupolar flavor waves extend conventional spin-wave theory. |
+| **Phonon** | Not directly addressed. |
+| **Theoretical** | Direct match: $\mathrm{SU}(3)$ coherent states, bosonic BdG theory, and numerical dynamics. |
+| **Skyrmion** | Direct match: isolated $\mathbb{CP}^{2}$ skyrmions and a skyrmion crystal. |
+| **Altermagnet** | Not directly addressed. |
+
+In the polarized reference state, the two flavors correspond to single- and double-spin-flip channels; the texture mixes their character. I therefore count **Magnon** as a close, generalized connection. [Excitation framework](https://arxiv.org/abs/2611.24134)
+
+**2. Why this over other candidates?**
+
+| Paper | Matching interests | Assessment |
+|:---|:---|:---|
+| **$\mathbb{CP}^{2}$ flavor-wave transport — this week's pick** | **Topological · Theoretical · Skyrmion; generalized Magnon connection** | My preference for studying the links among several of your interests in one framework. |
+| [q1cs-j5py — Odd-Parity Magnons in the Haldane-Hubbard Model from Topological Exciton Condensation](https://journals.aps.org/prl/abstract/10.1103/q1cs-j5py) | Topological · Magnon · Theoretical | A strong alternative for interaction-driven topology: excitons condense into a Néel state with $f$-wave magnon splitting. Its odd-parity magnetism is related to the broader spin-splitting theme, but should not automatically be counted as conventional altermagnetism. |
+| [2611.25284 — Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave](https://arxiv.org/abs/2611.25284) | Magnon · Theoretical · Altermagnet | Prefer this if altermagnetism is your priority: combines ab initio calculations with symmetry analysis of magnon frequencies and lifetimes. |
+| [2611.26589 — Magnon high-harmonic generation via phonon-mediated exciton dynamics](https://arxiv.org/abs/2611.26589) | Magnon · Phonon · Theoretical | Prefer this for coupled dynamics: derives nonlinear spin torque from bright/dark excitons and phonons in CrSBr. |
+| [2611.25015 — Umklapp-enhanced topological superconductivity mediated by magnons](https://arxiv.org/abs/2611.25015) | Topological · Magnon · Theoretical | Prefer this for pairing theory: predicts nodal superconductivity and Majorana flat bands in a $p$-wave magnet. Here the topology belongs to the superconducting state; $p$-wave magnetism is not an automatic altermagnet match. |
+
+**Selection criterion:** With no explicit ranking among your six interests, I prioritize a coherent connection across topics. The combination of skyrmions, generalized magnons, and theoretical topology makes this my closest overall match. The hematite and CrSBr papers would become stronger choices if you prioritized altermagnetism or magnon–phonon coupling, respectively.
+
+**3. Physical insights from this paper**
+
+- **A spin-1 texture supports two local excitation flavors.** Dipolar and quadrupolar fluctuations enlarge the dynamical space beyond a single conventional magnon channel. [Sections II.2–II.3](https://arxiv.org/html/2611.24134v1#S2.SS2)
+- **Propagation changes both trajectory and internal state.** A matrix-valued connection describes transverse wavepacket deflection and isospin rotation during skyrmion scattering. [Section III](https://arxiv.org/html/2611.24134v1#S3)
+- **Texture charge and band Chern numbers require separate calculations.** Real-space skyrmion topology alone does not determine the topology of each excitation band. [Section IV](https://arxiv.org/html/2611.24134v1#S4)
+- **Thermal Hall transport depends on occupation-weighted Berry curvature.** Its magnitude or sign cannot be inferred from Chern numbers alone. [Section IV.1](https://arxiv.org/html/2611.24134v1#S4.SS1)
+
+The results use a coherent-state background and harmonic flavor-wave theory. Explicit edge spectra and material-specific experimental predictions remain further work. [Discussion](https://arxiv.org/html/2611.24134v1#S5)
+
+**Questions to explore while reading — my interpretation**
+
+Which ingredients survive when the model is reduced to ordinary dipolar magnons? What scattering measurement could distinguish internal flavor rotation from transverse deflection alone? Could strain or a coherent phonon tune flavor mixing? Could a related construction work in an altermagnetic texture? These are proposed reading questions and research directions connecting your interests, beyond the results established here.
+
+**TL;DR**
+
+> My pick connects **Topology × Theory × Skyrmions**, with a strong extension toward **Magnon** physics. [Read the paper](https://arxiv.org/abs/2611.24134v1).
 
 
 
 
 ===This week's pick===
+
+score : 31213
+
+
+**[2611.26327v1](https://arxiv.org/abs/2611.26327)** Quantum Metric Control of Topological Superconductivity and Incommensurate Charge Density Wave in an Interacting Lieb-Kitaev Chain Model (arXiv)
+
+score : 26224
+
+**[2611.18342](https://arxiv.org/abs/2611.18342)** Symmetry induced spin splitting of topological surface states at equal carrier density (arXiv)
+
+score : 22817
+
+**[2611.18377](https://arxiv.org/abs/2611.18377)** Edge spin generalization for quantum Hall Laughlin droplets with elliptic shapes (arXiv)
+
+score : 20141
+
+**[2611.18521](https://arxiv.org/abs/2611.18521)** Fibonacci Non-Abelian Quantum Hall States with Pair Structure - a classification of chiral 2-cluster many-body wave-functions (arXiv)
+
+
+score : 19997
+
+**[hyrk-1ftz](http://link.aps.org/doi/10.1103/hyrk-1ftz)** Collective Many-Body Dynamics in a Solid-State Quantum Sensor Controlled through Nanoscale Magnetic Gradients (PRX)
+
+
+score : 19532
+
+**[7ncz-zr3x](http://link.aps.org/doi/10.1103/7ncz-zr3x)** Probing Fractional Quantum Hall States in Weakly Interacting Fermi Gases (PRL)
+
+
+score : 18348
+
+**[l8m8-vk2h](http://link.aps.org/doi/10.1103/l8m8-vk2h)** Topological Quantum Criticality in the Quasiperiodic Cluster Ising Chain (PRL)
+
+
+score : 17757
+
+**[2611.25522v1](https://arxiv.org/abs/2611.25522)** Momentum-space quantum Monte Carlo for twisted bilayer graphene: Interaction effects in the presence of remote bands (arXiv)
 
 
 
@@ -22,6 +115,26 @@ categories: 2026nov
 <details id="myDetails">
   <summary> Unfold/Fold </summary>
   {% capture markdowncontent %}
+
+
+---
+11/21
+
+
+
+1. **[mksg-nkwr](http://link.aps.org/doi/10.1103/mksg-nkwr)** Phase Separation by Polar Active Transport (PRL)
+
+1. **[b884-4h1s](http://link.aps.org/doi/10.1103/b884-4h1s)** Superconducting Half-Dome in Bilayer Nickelates (PRX)
+
+1. **[vcbb-k8zw](http://link.aps.org/doi/10.1103/vcbb-k8zw)** Robust high-order quantum simulation using finite-width pulses (PRR)
+
+1. **[5xjq-8mhk](http://link.aps.org/doi/10.1103/5xjq-8mhk)** Cross-scale temporal retrieval method for modulated electron beams via adaptive kernel reconstruction (PRR)
+
+1. **[6lqb-4j6k](http://link.aps.org/doi/10.1103/6lqb-4j6k)** Robust and cost-effective quantum network using Kramers-Kronig receiver (PRR)
+
+1. **[x7vj-t725](http://link.aps.org/doi/10.1103/x7vj-t725)** Vorticity induced by nonfrontal collisions of quantum droplets (PRRL)
+
+
 
 ---
 11/20
@@ -60,7 +173,6 @@ categories: 2026nov
 
 1. **[4v66-y755](http://link.aps.org/doi/10.1103/4v66-y755)** Interaction-Induced Sign Reversal of the Orbital Magnetic Susceptibility in Chern Insulators (PRL)
 
-1. **[l8m8-vk2h](http://link.aps.org/doi/10.1103/l8m8-vk2h)** Topological Quantum Criticality in the Quasiperiodic Cluster Ising Chain (PRL)
 
 1. **[gnq3-c2df](http://link.aps.org/doi/10.1103/gnq3-c2df)** Fault-Tolerant Execution of Error-Corrected Quantum Algorithms (PRX)
 
@@ -122,7 +234,6 @@ categories: 2026nov
 
 1. **[2611.25493v1](https://arxiv.org/abs/2611.25493)** Topological Bound States in the Continuum (arXiv)
 
-1. **[2611.25522v1](https://arxiv.org/abs/2611.25522)** Momentum-space quantum Monte Carlo for twisted bilayer graphene: Interaction effects in the presence of remote bands (arXiv)
 
 1. **[2611.25528v1](https://arxiv.org/abs/2611.25528)** Topological trapping of active tracers in branched ring polymer matrices (arXiv)
 
@@ -170,7 +281,6 @@ categories: 2026nov
 
 1. **[2611.26320v1](https://arxiv.org/abs/2611.26320)** Determining quantum phases of eight-fold quasicrystal optical lattices with angular structure factor (arXiv)
 
-1. **[2611.26327v1](https://arxiv.org/abs/2611.26327)** Quantum Metric Control of Topological Superconductivity and Incommensurate Charge Density Wave in an Interacting Lieb-Kitaev Chain Model (arXiv)
 
 1. **[2611.26345v1](https://arxiv.org/abs/2611.26345)** First-passage and correlated reset-count statistics under threshold and Poissonian resetting in a two-dimensional wedge geometry (arXiv)
 
@@ -604,7 +714,6 @@ categories: 2026nov
 
 1. **[v9sh-cq7r](http://link.aps.org/doi/10.1103/v9sh-cq7r)** Spin-Resolved Microscopy of $^{87}\mathrm{Sr}$ $\mathrm{SU}(N)$ Fermi-Hubbard Systems (PRX)
 
-1. **[hyrk-1ftz](http://link.aps.org/doi/10.1103/hyrk-1ftz)** Collective Many-Body Dynamics in a Solid-State Quantum Sensor Controlled through Nanoscale Magnetic Gradients (PRX)
 
 1. **[Physics.19.153](http://link.aps.org/doi/10.1103/Physics.19.153)** Winding Spins Toward Better Quantum Sensing (Physics)
 
@@ -633,7 +742,6 @@ categories: 2026nov
 
 1. **[2611.18525](https://arxiv.org/abs/2611.18525)** Pressure and Magnetic Field Control of Topology in Antiferromagnetic Bilayers (arXiv)
 
-1. **[2611.18521](https://arxiv.org/abs/2611.18521)** Fibonacci Non-Abelian Quantum Hall States with Pair Structure - a classification of chiral 2-cluster many-body wave-functions (arXiv)
 
 1. **[2611.18497](https://arxiv.org/abs/2611.18497)** Regularized Neural Quantum States for Heisenberg Magnets (arXiv)
 
@@ -653,11 +761,9 @@ categories: 2026nov
 
 1. **[2611.18400](https://arxiv.org/abs/2611.18400)** Topological Hybridization Gaps from Molecular Orbitals Coupled to Dirac Fermions (arXiv)
 
-1. **[2611.18377](https://arxiv.org/abs/2611.18377)** Edge spin generalization for quantum Hall Laughlin droplets with elliptic shapes (arXiv)
 
 1. **[2611.18347](https://arxiv.org/abs/2611.18347)** Frustrated Interlayer Coupling Creates a Higher-Order Helical Superstructure in a Twist-Bend Smectic Phase (arXiv)
 
-1. **[2611.18342](https://arxiv.org/abs/2611.18342)** Symmetry induced spin splitting of topological surface states at equal carrier density (arXiv)
 
 1. **[2611.18318](https://arxiv.org/abs/2611.18318)** Quantized resistance limitations for graphene p-n junction devices (arXiv)
 
