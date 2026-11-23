@@ -1,0 +1,253 @@
+---
+layout: post
+title:  "weekly picks (Nov 4 week 2026)"
+date:   2026-11-23 00:16:27
+categories: 2026nov
+---
+
+{% include image.html url="/images/2026nov4weeks.png" caption="A WordCloud of 2026 November 4th week collection" width=300 align="center" %}
+
+
+===Qwen & Hermes' pick===
+
+
+
+
+===This week's pick===
+
+
+
+<details id="myDetails">
+  <summary> Unfold/Fold </summary>
+  {% capture markdowncontent %}
+
+
+
+---
+11/23
+
+
+1. **[2611.26674v1](https://arxiv.org/abs/2611.26674)** A unified closed-form theory for elastic waves in polycrystals of any crystal symmetry (arXiv)
+
+1. **[2611.26690v1](https://arxiv.org/abs/2611.26690)** Off-diagonal long-range order and $p$-wave pairing in one dimension from critical density fluctuations (arXiv)
+
+1. **[2611.26693v1](https://arxiv.org/abs/2611.26693)** Topological phases protected by half-chiral symmetry (arXiv)
+
+1. **[2611.26697v1](https://arxiv.org/abs/2611.26697)** When the magnetic force theorem fails: dressed exchange in the induced-moment magnets FePt, FePd, CoPt, and CoPd (arXiv)
+
+1. **[2611.26714v1](https://arxiv.org/abs/2611.26714)** Free-Space Excitation of Frozen Waves and Topological Edge States in Graphene at a Time Interface (arXiv)
+
+1. **[2611.26725v1](https://arxiv.org/abs/2611.26725)** Impact of spin fluctuations on spectral functions and transport in a model altermagnet (arXiv)
+
+1. **[2611.26741v1](https://arxiv.org/abs/2611.26741)** Emergent Long-Range Entanglement in the XXZ Quantum Spin Chain with Competing Orders (arXiv)
+
+1. **[2611.26788v1](https://arxiv.org/abs/2611.26788)** Prediction of lattice thermal conductivity of half-Heusler compounds by machine learning and transfer-function calibration (arXiv)
+
+1. **[2611.26808v1](https://arxiv.org/abs/2611.26808)** Tuning the Dzyaloshinskii-Moriya interaction in CoFeB thin film heterostructures (arXiv)
+
+1. **[2611.26823v1](https://arxiv.org/abs/2611.26823)** Geometric Contribution to the Electron-Phonon Coupling Constant: Checkerboard and Hyper-diamond Models (arXiv)
+
+1. **[2611.26860v1](https://arxiv.org/abs/2611.26860)** Artificial Spin-Glass of Antiferromagnetic Co3O4 Nanocubes Using Spin-Polarized Oxygen (arXiv)
+
+1. **[2611.26866v1](https://arxiv.org/abs/2611.26866)** First-principles-based Prediction of Phase Fields: Part II. Solid Solution Tunability in Refractory Complex Concentrated Alloys (arXiv)
+
+1. **[2611.26872v1](https://arxiv.org/abs/2611.26872)** Majorana quasiparticles, mass hierarchies, and the phase diagram of the Gross-Neveu model in D=2+1 (arXiv)
+
+1. **[2611.26877v1](https://arxiv.org/abs/2611.26877)** Interfacial Transition Waves and Domain Wall Self-Pinning in Bi-stable Mechanical Metamaterial (arXiv)
+
+1. **[2611.26932v1](https://arxiv.org/abs/2611.26932)** Parametric excitation of nano-scale spin waves with controlled phase by an open-resonator-type transducer (arXiv)
+
+1. **[2611.27037v1](https://arxiv.org/abs/2611.27037)** Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis (arXiv)
+
+1. **[2611.27072v1](https://arxiv.org/abs/2611.27072)** Growth and anisotropic directional dependent transport properties of Altermagnetic CrSb (arXiv)
+
+1. **[2611.27076v1](https://arxiv.org/abs/2611.27076)** Quantum order by disorder among lozenge tilings: a staircase of hub-free crystals between the Lieb ferrimagnet and the antiferromagnet (arXiv)
+
+1. **[2611.27103v1](https://arxiv.org/abs/2611.27103)** Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations (arXiv)
+
+1. **[2611.27168v1](https://arxiv.org/abs/2611.27168)** Kinetic Arrest of a Disordered First-Order Phase Transition in Strained V2O3 Thin Films (arXiv)
+
+1. **[2611.27176v1](https://arxiv.org/abs/2611.27176)** Quantum effects on the Peierls stress for screw dislocations in {\alpha}-Fe (arXiv)
+
+1. **[2611.27188v1](https://arxiv.org/abs/2611.27188)** Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model (arXiv)
+
+1. **[2611.27194v1](https://arxiv.org/abs/2611.27194)** Recoverable Necking Enabled by Reverse Phase-Boundary Motion in Liquid Crystal Elastomers (arXiv)
+
+1. **[2611.27220v1](https://arxiv.org/abs/2611.27220)** Chemical Programming of Stacking Order and Superconductivity Dimensionality in NbSe2-xTex Polytypic Heterostructures (arXiv)
+
+1. **[2611.27234v1](https://arxiv.org/abs/2611.27234)** Tailoring Phonon Transport in Bi-based Quaternary Half-Heusler alloys for Thermoelectric Applications (arXiv)
+
+1. **[2611.27240v1](https://arxiv.org/abs/2611.27240)** Normal-state exponential muon-spin relaxation and its implications for time-reversal symmetry breaking in Sr$_2$RuO$_4$ (arXiv)
+
+1. **[2611.27247v1](https://arxiv.org/abs/2611.27247)** Nonmonotonic Magnetic Correlations in Decorated Lieb-Lattice Anderson Models (arXiv)
+
+1. **[2611.27256v1](https://arxiv.org/abs/2611.27256)** Quantum-Chaos-Assisted Measure Synchronization in a Double-Well Ultracold Bose Gas (arXiv)
+
+1. **[2611.27321v1](https://arxiv.org/abs/2611.27321)** Gap-label bounds and optical reconstruction of Landau-subband quantum geometry (arXiv)
+
+1. **[2611.27334v1](https://arxiv.org/abs/2611.27334)** Role of antisite disorder in dictating the Ising anisotropy and ferromagnetic ground state of NdGaSi (arXiv)
+
+1. **[2611.27364v1](https://arxiv.org/abs/2611.27364)** Optimizing MHz X-ray photon correlation spectroscopy with burst-mode free-electron laser operation (arXiv)
+
+1. **[2611.27384v1](https://arxiv.org/abs/2611.27384)** Frustration-Stabilized Hexamerons and Their Topological Magnons in Janus MXene (arXiv)
+
+1. **[2611.27386v1](https://arxiv.org/abs/2611.27386)** Pushy Random Walk on the Bethe lattice: a Galton-Watson perspective (arXiv)
+
+1. **[2611.27391v1](https://arxiv.org/abs/2611.27391)** Pure Orbitronics: Hall Responses and Torques by Orbital Exchange in Spinless Transition-Metal Dichalcogenides (arXiv)
+
+1. **[2611.27392v1](https://arxiv.org/abs/2611.27392)** Hall effect in electrolyte solutions: Self-consistent Debye-Huckel-Onsager theory (arXiv)
+
+1. **[2611.27406v1](https://arxiv.org/abs/2611.27406)** How many states does an exact relaxation model need? Sharp state complexity and geometric obstructions for reversible chains (arXiv)
+
+1. **[2611.27428v1](https://arxiv.org/abs/2611.27428)** A Negative-U Double Quantum Dot in a LaAlO3/SrTiO3 Membrane on Silicon (arXiv)
+
+1. **[2611.27538v1](https://arxiv.org/abs/2611.27538)** Rotation-induced supersolidity in a spin-imbalanced unitary Fermi gas (arXiv)
+
+1. **[2611.27555v1](https://arxiv.org/abs/2611.27555)** Minimal chiral $p$-wave superconductor (arXiv)
+
+1. **[2611.27583v1](https://arxiv.org/abs/2611.27583)** Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate (arXiv)
+
+1. **[2611.27584v1](https://arxiv.org/abs/2611.27584)** Bayesian Quantum Thermometry of Ultracold Gases with Non-Equilibrium Single-Atom Probes (arXiv)
+
+1. **[2611.27654v1](https://arxiv.org/abs/2611.27654)** Modeling the contact area and intersurface forces between Pb nanoparticles and suspended graphene (arXiv)
+
+1. **[2611.27747v1](https://arxiv.org/abs/2611.27747)** Atomistic theory of the $d$-wave phonon angular momentum splitter effect (arXiv)
+
+1. **[2611.27749v1](https://arxiv.org/abs/2611.27749)** Lattice-geometry dependence of Type-I and Type-II magnetic flux responses in strongly correlated bosons (arXiv)
+
+1. **[2611.27763v1](https://arxiv.org/abs/2611.27763)** General Transport Signatures of Odd-Parity Magnets: Charge--Spin Selection Rules and Temporal--Spectral Separation (arXiv)
+
+1. **[2611.27819v1](https://arxiv.org/abs/2611.27819)** Magnetic-Field Response of a Hyperbolic Kitaev Spin Liquid (arXiv)
+
+1. **[2611.27837v1](https://arxiv.org/abs/2611.27837)** Voltage-Controlled Dielectric Cavity Magnonics in Epitaxial Fe Films on SrTiO3 Single Crystal Substrates (arXiv)
+
+1. **[2611.27846v1](https://arxiv.org/abs/2611.27846)** Pseudo-entropy in Thouless Pumps and Majorana Topological Phases (arXiv)
+
+1. **[2611.27849v1](https://arxiv.org/abs/2611.27849)** Interaction and confinement effects for a ${}^6\mathrm{Li}_2$ condensate in a shaken lattice (arXiv)
+
+1. **[2611.27869v1](https://arxiv.org/abs/2611.27869)** Linear Response Theory of Nitrogen K-Edge X-ray Absorption of TCNQ (arXiv)
+
+1. **[2611.27884v1](https://arxiv.org/abs/2611.27884)** Thermo-electric Response Bound on Fluctuations in Coherent Transport (arXiv)
+
+1. **[2611.27976v1](https://arxiv.org/abs/2611.27976)** Observation of rotonic density enhancement at the boundary of a uniform dipolar superfluid (arXiv)
+
+1. **[2611.27980v1](https://arxiv.org/abs/2611.27980)** Structure and relaxation of long-lived odd-parity modes in two-dimensional Fermi liquids (arXiv)
+
+1. **[2611.27981v1](https://arxiv.org/abs/2611.27981)** Thermopower overshoot from collinear scattering in two-dimensional Fermi liquids (arXiv)
+
+1. **[2611.27982v1](https://arxiv.org/abs/2611.27982)** Quantum Many-Body Scars from Operator Size (arXiv)
+
+1. **[2611.22786v1](https://arxiv.org/abs/2611.22786)** Quantum-classical dynamical density functional theory for solvation dynamics (arXiv)
+
+1. **[2611.26695v1](https://arxiv.org/abs/2611.26695)** Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory (arXiv)
+
+1. **[2611.26960v1](https://arxiv.org/abs/2611.26960)** Resonance-controlled post-selected mode entanglement in one-dimensional quantum scattering (arXiv)
+
+1. **[2611.27002v1](https://arxiv.org/abs/2611.27002)** Energy and Charge Transmission at Conformal Interfaces: Relations and Bounds (arXiv)
+
+1. **[2611.27019v1](https://arxiv.org/abs/2611.27019)** Augmenting Quantum Neural Networks with Contractive Layers (arXiv)
+
+1. **[2611.27140v1](https://arxiv.org/abs/2611.27140)** Physical Learning for Autonomous Tuning of Spin Qubits in Electrostatically Defined Quantum Dots (arXiv)
+
+1. **[2611.27378v1](https://arxiv.org/abs/2611.27378)** Pairing and modular: Generalized electrons and quasiholes inside the $\boxtimes$ of topological orders (arXiv)
+
+1. **[2611.27402v1](https://arxiv.org/abs/2611.27402)** Quantum computing for gearing down complex many-fermion problems (arXiv)
+
+1. **[2611.27452v1](https://arxiv.org/abs/2611.27452)** Emergent Fourfold Symmetry in Polarization Images: Local Origin and Diffractive Breakdown (arXiv)
+
+1. **[2611.27644v1](https://arxiv.org/abs/2611.27644)** A nonlinear transient finite element analysis of coupled solvent diffusion and large deformation of magneto-elastic hydrogel balloon (arXiv)
+
+1. **[2611.27650v1](https://arxiv.org/abs/2611.27650)** Emergent Causality of Macroscopic Transport and Equilibration in Long-Range Quantum Systems (arXiv)
+
+1. **[2611.27707v1](https://arxiv.org/abs/2611.27707)** Comparing weakly interacting and free quantum dynamics locally (arXiv)
+
+1. **[2611.27815v1](https://arxiv.org/abs/2611.27815)** Autonomous quantum machine learning via Riemannian gradient-based optimization (arXiv)
+
+1. **[2611.27873v1](https://arxiv.org/abs/2611.27873)** Quantum Dobrushin comparison and locality of fermionic equilibrium states (arXiv)
+
+1. **[2611.27896v1](https://arxiv.org/abs/2611.27896)** Optimised 8th-Order Trotter-Suzuki Schemes for Quantum Simulation (arXiv)
+
+
+
+
+
+
+
+  {% endcapture %}
+  {{ markdowncontent | markdownify }}
+ </details>
+
+
+
+<style>
+  details {
+    margin: 10px 0;
+  }
+  summary {
+    cursor: pointer;
+  }
+
+
+</style>
+
+
+<script>
+    // MathJax 설정: $ 기호로도 인라인 수식 허용하게 만들기
+    window.MathJax = {
+      tex: { inlineMath: [['$','$'], ['\\(','\\)']] }
+    };
+
+    // MathJax 먼저 로드 (제일 위에!)
+    const mathjaxScript = document.createElement('script');
+    mathjaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    mathjaxScript.async = true;
+    document.head.appendChild(mathjaxScript);
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Wait for the DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    const details = document.getElementById('myDetails');
+
+    // Restore the state from localStorage
+    if (localStorage.getItem('detailsOpen') === 'true') {
+      details.setAttribute('open', '');
+    }
+    
+    // Save the state when the details element is toggled
+    details.addEventListener('toggle', () => {
+      localStorage.setItem('detailsOpen', details.open);
+    });
+  });
+</script>
+
